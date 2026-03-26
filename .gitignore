@@ -5,5 +5,8 @@ __pycache__/
 scripts/logs/
 *.pdf
 library/inbox/*.pdf
+library/inbox/archive/
+output/opinions/*
+!output/opinions/.gitkeep
 BUILD-LOG.md
 DESIGN.md
