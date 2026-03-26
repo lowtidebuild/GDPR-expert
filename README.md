@@ -506,4 +506,6 @@ Apache 2.0
 
 <div align="center">
 <sub>Built with structured data, not blind faith in embeddings.</sub>
+<br/>
+<sub>See more projects at <a href="https://lowtidebuild.github.io/github-folio/">lowtidebuild.github.io/github-folio</a></sub>
 </div>

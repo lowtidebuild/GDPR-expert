@@ -473,4 +473,6 @@ Apache 2.0
 
 <div align="center">
 <sub>임베딩에 대한 맹신이 아니라, 구조화된 데이터 위에 세워졌습니다.</sub>
+<br/>
+<sub>다른 프로젝트 보기: <a href="https://lowtidebuild.github.io/github-folio/">lowtidebuild.github.io/github-folio</a></sub>
 </div>
