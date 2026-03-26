@@ -219,13 +219,4 @@ This shows you exactly which citations were verified, which had issues, and the 
 
 ---
 
-## Getting Help
-
-- **Something looks wrong?** Ask the agent: "Verify your last citation for Article X"
-- **Need a different format?** Just ask: "Give me this as a markdown summary" or "Make it a DOCX"
-- **Agent seems stuck?** Try rephrasing your question or breaking it into smaller parts
-- **Technical issues?** Contact your team lead or check the [GitHub repository](https://github.com/lowtidebuild/GDPR-expert)
-
----
-
 > **Remember:** This is a power tool, not an autopilot. It makes legal research dramatically faster and more thorough, but the final judgment always belongs to a qualified human.
