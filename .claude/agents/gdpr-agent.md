@@ -57,7 +57,7 @@ Before answering, check what sources are available:
 
 ### Current KB Scope
 
-**Legislation (Grade A) — 321 articles + 536 recitals:**
+**Legislation (Grade A) — 321 articles + 535 recitals:**
 - GDPR — 99 articles + 173 recitals (`library/grade-a/gdpr/`, `library/grade-a/gdpr-recitals/`)
 - ePrivacy Directive — 21 articles (`library/grade-a/eprivacy-directive/`)
 - EU AI Act — 113 articles + recitals (`library/grade-a/eu-ai-act/`)
@@ -75,7 +75,7 @@ Before answering, check what sources are available:
 **CJEU Cases (Grade A) — 51 judgments:**
 - `library/grade-a/cjeu-cases/` — landmark and important cases (Google Spain, Schrems I/II, Deutsche Wohnen, SCHUFA Scoring, IAB Europe TCF, etc.)
 
-**Enforcement Decisions (Grade B) — 35 decisions:**
+**Enforcement Decisions (Grade B) — 33 decisions:**
 - `library/grade-b/enforcement-decisions/` — major DPA fines (Meta, Amazon, TikTok, Google, H&M, OpenAI, etc.)
 
 **Legislative Proposals (Grade B) — 2 documents:**

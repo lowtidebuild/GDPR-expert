@@ -8,13 +8,13 @@
 
 **5 EU laws** · **321 articles + 535 recitals** · **120 EDPB documents** · **51 CJEU cases** · **1,060+ indexed items**
 
-Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) · Powered by structured RAG
+Powered by structured RAG · Built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) & [Codex](https://openai.com/index/introducing-codex/)
 
 [![Laws](https://img.shields.io/badge/Legislation-5_EU_Laws-blue)](#-knowledge-base)
 [![Articles](https://img.shields.io/badge/Articles-321-blue)](#-knowledge-base)
 [![EDPB](https://img.shields.io/badge/EDPB_Documents-120-green)](#edpb-documents--120-grade-a-sources)
 [![CJEU](https://img.shields.io/badge/CJEU_Cases-51-purple)](#cjeu-case-law--51-grade-a-judgments)
-[![Enforcement](https://img.shields.io/badge/Enforcement-35_Decisions-red)](#enforcement-decisions--35-grade-b-sources)
+[![Enforcement](https://img.shields.io/badge/Enforcement-33_Decisions-red)](#enforcement-decisions--33-grade-b-sources)
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellow)](#license)
 
 <br/>
@@ -145,7 +145,7 @@ flowchart TD
     subgraph idx["JSON Indexes"]
         direction TB
         BUILD["<b>build-indexes.py --type all</b>"]
-        IDXOUT["article-index.json · 321 articles<br/>recital-index.json · 173 recitals<br/>edpb-document-index.json · 120 docs<br/>case-index.json · 51 cases<br/>enforcement-index.json · 35 decisions"]
+        IDXOUT["article-index.json · 321 articles<br/>recital-index.json · 173 recitals<br/>edpb-document-index.json · 120 docs<br/>case-index.json · 51 cases<br/>enforcement-index.json · 33 decisions"]
         BUILD --> IDXOUT
     end
 
@@ -220,7 +220,7 @@ In EU law, CJEU judgments are **binding interpretations** of legislation — not
 
 </details>
 
-### Enforcement Decisions — 35 Grade B Sources
+### Enforcement Decisions — 33 Grade B Sources
 
 Major DPA enforcement actions including fines against Meta, Amazon, TikTok, Google, H&M, OpenAI, and Clearview AI.
 
@@ -431,7 +431,7 @@ GDPR-expert/
 │   │   ├── edpb-reports/             #   EDPB Reports (1)
 │   │   └── cjeu-cases/              #   CJEU Judgments (51)
 │   ├── grade-b/                        # Verified secondary
-│   │   ├── enforcement-decisions/     #   DPA fines & decisions (35)
+│   │   ├── enforcement-decisions/     #   DPA fines & decisions (33)
 │   │   └── legislative-proposals/    #   Digital Omnibus Package (2)
 │   └── grade-c/                        # Academic papers
 ├── index/                              # 5 JSON indexes (1,060+ items)

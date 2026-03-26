@@ -30,7 +30,7 @@ library/
     edpb-reports/               1 report
     cjeu-cases/                51 judgments
   grade-b/                    — Verified secondary sources (37 files)
-    enforcement-decisions/     35 DPA enforcement decisions
+    enforcement-decisions/     33 DPA enforcement decisions
     legislative-proposals/      2 Digital Omnibus Package
   grade-c/                    — Academic/reference
 index/                        — JSON search indexes (7 indexes, 1,062+ items)
@@ -82,9 +82,9 @@ No authentication required.
 ## Current Status
 
 - Phase 0-5 complete, Phase 5.5 quality audit complete
-- 1,064 KB files: 1,027 Grade A + 37 Grade B
-- 5 legislation (321 articles + 535 recitals), 120 EDPB documents, 51 CJEU cases, 35 enforcement decisions, 2 Digital Omnibus proposals
-- 7 JSON indexes (1,062+ indexed items)
+- 1,060 KB files: 1,027 Grade A + 33 Grade B
+- 5 legislation (321 articles + 535 recitals), 120 EDPB documents, 51 CJEU cases, 33 enforcement decisions, 2 Digital Omnibus proposals
+- 7 JSON indexes (1,060 indexed items)
 - GDPR articles ↔ recitals bidirectional mappings (sourced from gdpr-info.eu)
 - All files have consistent YAML frontmatter schema, keywords, and source grading
 - Phase 6 pending: Agent refinement (ingest skill, legal opinion formatter)

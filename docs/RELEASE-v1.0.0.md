@@ -13,9 +13,9 @@ All legal sources are collected from **official EU APIs** (not scraped), parsed 
 | **Legislation** | 5 EU laws — 321 articles + 535 recitals |
 | **EDPB** | 120 documents (guidelines, opinions, Art. 65 binding decisions) |
 | **CJEU** | 51 landmark judgments |
-| **Enforcement** | 35 major DPA decisions |
+| **Enforcement** | 33 major DPA decisions |
 | **Digital Omnibus** | COM(2025) 836 + 837 proposals |
-| **Total indexed** | **1,062 sources** |
+| **Total indexed** | **1,060 sources** |
 
 **Laws:** GDPR · ePrivacy Directive · EU AI Act · Data Act · Data Governance Act
 
