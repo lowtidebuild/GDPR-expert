@@ -68,6 +68,14 @@ No authentication required.
 - markitdown CLI (EDPB PDF conversion)
 - Claude Code (agent execution)
 
+## Local Drafting Addendum
+
+한국어 문서·메모 작성 시 반드시 `docs/_private/local-drafting-addendum.md`를 읽고 따를 것.
+
+- 문서 구조, 헤더/정보 블록, 법령 인용 형식, 판례 인용 형식, 정의 용어 관례, 문체/어조, 확신도 표현, 번호 매김, 종결부, 타이포그래피 등 전체 규칙 포함
+- 전문 문서 작성 품질 기준
+- DOCX 생성 시 python-docx CJK 폰트 설정 규칙 포함
+
 ## Current Status
 
 - Phase 0-5 complete
