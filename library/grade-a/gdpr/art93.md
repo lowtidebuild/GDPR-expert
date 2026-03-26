@@ -1,33 +1,25 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 93
 article_sub: 0
-article_title: "Committee procedure"
-chapter: "X"
-chapter_title: "Exercise of the delegation"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_93/oj/eng"
-effective_date: "20180525"
+article_title: Committee procedure
+chapter: X
+chapter_title: Exercise of the delegation
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_93/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 5"
-  - "Art. 8"
-
-related_recitals:
-
-# === Search Metadata ===
+- Art. 5
+- Art. 8
+related_recitals: []
 keywords:
-  - "committee"
-  - "procedure"
-  - "reference"
-  - "made"
+- committee
+- procedure
+- reference
+- made
 ---
 
 ## Article 93 — Committee procedure

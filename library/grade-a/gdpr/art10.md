@@ -1,41 +1,32 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 10
 article_sub: 0
-article_title: "Processing of personal data relating to criminal convictions and offences"
-chapter: "II"
-chapter_title: "Principles relating to processing of personal data"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_10/oj/eng"
-effective_date: "20180525"
+article_title: Processing of personal data relating to criminal convictions and offences
+chapter: II
+chapter_title: Principles relating to processing of personal data
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_10/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 6(1)"
-
+- Art. 6(1)
 related_recitals:
-  - "Recital 50"
-
-# === Search Metadata ===
+- Recital 50
 keywords:
-  - "processing"
-  - "personal"
-  - "data"
-  - "relating"
-  - "criminal"
-  - "convictions"
-  - "offences"
-  - "security"
-  - "processing"
-  - "data subject"
-  - "personal data"
-  - "safeguard"
+- processing
+- personal
+- data
+- relating
+- criminal
+- convictions
+- offences
+- security
+- data subject
+- personal data
+- safeguard
 ---
 
 ## Article 10 — Processing of personal data relating to criminal convictions and offences

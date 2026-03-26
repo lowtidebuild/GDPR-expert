@@ -1,7 +1,7 @@
 {
   "type": "edpb_document_index",
   "count": 120,
-  "generated_at": "2026-03-26T04:18:11.172838+00:00",
+  "generated_at": "2026-03-26T19:22:26.730507+00:00",
   "documents": [
     {
       "id": "a-guideline-addendum-to-guidelines-1-2018",
@@ -17,6 +17,14 @@
         "Art. 43"
       ],
       "keywords": [
+        "guidance",
+        "certification",
+        "criteria",
+        "assessment",
+        "addendum",
+        "guidelines",
+        "transparency",
+        "adequacy",
         "certification",
         "criteria",
         "assessment"
@@ -25,7 +33,7 @@
       "char_count": 64502
     },
     {
-      "id": "b-endorsement-endorsement-1-2018",
+      "id": "a-endorsement-endorsement-1-2018",
       "slug": "endorsement-1-2018",
       "title": "Endorsement 1/2018 - EDPB Endorsement of WP29 documents",
       "document_number": "Endorsement 1/2018",
@@ -35,6 +43,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "endorsement",
+        "edpb",
+        "documents",
+        "transparency",
+        "adequacy",
+        "controller",
+        "data protection",
+        "profiling",
         "endorsement",
         "WP29",
         "Article 29 Working Party"
@@ -57,6 +73,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "personal",
+        "data",
+        "context",
+        "connected",
+        "vehicles",
+        "mobility",
         "connected vehicles",
         "mobility",
         "IoT",
@@ -79,6 +103,14 @@
         "Art. 34"
       ],
       "keywords": [
+        "guidelines",
+        "examples",
+        "regarding",
+        "personal",
+        "data",
+        "breach",
+        "notification",
+        "health data",
         "data breach",
         "notification",
         "examples",
@@ -100,6 +132,14 @@
         "Art. 15"
       ],
       "keywords": [
+        "guidelines",
+        "data",
+        "subject",
+        "rights",
+        "right",
+        "access",
+        "transparency",
+        "right of access",
         "right of access",
         "data subject rights",
         "copy of data"
@@ -120,6 +160,14 @@
         "LED Art. 37"
       ],
       "keywords": [
+        "guidelines",
+        "law",
+        "enforcement",
+        "transparency",
+        "data sharing",
+        "adequacy",
+        "controller",
+        "data protection",
         "law enforcement",
         "LED",
         "international transfers"
@@ -143,6 +191,14 @@
         "Art. 89"
       ],
       "keywords": [
+        "guidelines",
+        "pseudonymisation",
+        "standard contractual clauses",
+        "transparency",
+        "right of access",
+        "health data",
+        "controller",
+        "traffic data",
         "pseudonymisation",
         "data protection by design",
         "security"
@@ -166,6 +222,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "guidelines",
+        "virtual",
+        "voice",
+        "assistants",
+        "transparency",
+        "right of access",
+        "health data",
+        "electronic communications",
         "voice assistants",
         "smart devices",
         "IoT"
@@ -186,6 +250,14 @@
         "Art. 60"
       ],
       "keywords": [
+        "guidelines",
+        "application",
+        "gdpr",
+        "transparency",
+        "controller",
+        "data protection",
+        "fundamental rights",
+        "judicial remedy",
         "cooperation",
         "lead supervisory authority",
         "one-stop-shop"
@@ -206,6 +278,14 @@
         "Art. 48"
       ],
       "keywords": [
+        "guidelines",
+        "gdpr",
+        "adequacy",
+        "controller",
+        "data protection",
+        "fundamental rights",
+        "security",
+        "processor",
         "international transfers",
         "judgments",
         "third country authorities"
@@ -230,6 +310,14 @@
         "Art. 28"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "personal",
+        "data",
+        "blockchain",
+        "technologies",
+        "transparency",
+        "right of access",
         "blockchain",
         "distributed ledger",
         "right to erasure"
@@ -251,6 +339,14 @@
         "Art. 89"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "data",
+        "concerning",
+        "health",
+        "purpose",
+        "scientific",
+        "research",
         "health data",
         "scientific research",
         "COVID-19",
@@ -273,6 +369,14 @@
         "Art. 60"
       ],
       "keywords": [
+        "guidelines",
+        "application",
+        "gdpr",
+        "transparency",
+        "right of access",
+        "controller",
+        "data protection",
+        "fundamental rights",
         "dispute resolution",
         "binding decision",
         "consistency mechanism"
@@ -297,6 +401,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "guidelines",
+        "deceptive",
+        "design",
+        "patterns",
+        "social",
+        "media",
+        "platform",
+        "interfaces",
         "dark patterns",
         "deceptive design",
         "social media",
@@ -321,6 +433,14 @@
         "ePrivacy Art. 5(3)"
       ],
       "keywords": [
+        "guidelines",
+        "use",
+        "location",
+        "data",
+        "contact",
+        "tracing",
+        "tools",
+        "context",
         "location data",
         "contact tracing",
         "COVID-19",
@@ -344,6 +464,14 @@
         "Art. 46(2)(e)"
       ],
       "keywords": [
+        "guidelines",
+        "codes",
+        "conduct",
+        "tools",
+        "transfers",
+        "transparency",
+        "controller",
+        "data protection",
         "codes of conduct",
         "transfers",
         "monitoring body"
@@ -364,6 +492,14 @@
         "Art. 83"
       ],
       "keywords": [
+        "guidelines",
+        "calculation",
+        "administrative",
+        "fines",
+        "gdpr",
+        "transparency",
+        "right of access",
+        "health data",
         "fines",
         "administrative fines",
         "calculation",
@@ -389,6 +525,14 @@
         "Art. 9(2)(a)"
       ],
       "keywords": [
+        "guidelines",
+        "consent",
+        "transparency",
+        "health data",
+        "electronic communications",
+        "adequacy",
+        "controller",
+        "data protection",
         "consent",
         "valid consent",
         "freely given",
@@ -415,6 +559,14 @@
         "Art. 49"
       ],
       "keywords": [
+        "guidelines",
+        "interplay",
+        "provisions",
+        "international",
+        "transfers",
+        "standard contractual clauses",
+        "transparency",
+        "adequacy",
         "territorial scope",
         "international transfers",
         "Chapter V"
@@ -435,6 +587,14 @@
         "LED Art. 10"
       ],
       "keywords": [
+        "guidelines",
+        "use",
+        "facial",
+        "recognition",
+        "technology",
+        "area",
+        "law",
+        "enforcement",
         "facial recognition",
         "biometric data",
         "law enforcement"
@@ -458,6 +618,14 @@
         "Art. 94"
       ],
       "keywords": [
+        "guidelines",
+        "interplay",
+        "second",
+        "payment",
+        "services",
+        "gdpr",
+        "transparency",
+        "electronic communications",
         "PSD2",
         "payment services",
         "financial data",
@@ -479,6 +647,14 @@
         "Art. 65(2)"
       ],
       "keywords": [
+        "guidelines",
+        "practical",
+        "implementation",
+        "amicable",
+        "settlements",
+        "transparency",
+        "right of access",
+        "controller",
         "amicable settlement",
         "dispute resolution"
       ],
@@ -501,6 +677,14 @@
         "Art. 28"
       ],
       "keywords": [
+        "guidelines",
+        "concepts",
+        "controller",
+        "processor",
+        "gdpr",
+        "standard contractual clauses",
+        "transparency",
+        "health data",
         "controller",
         "processor",
         "joint controllers"
@@ -523,6 +707,14 @@
         "Art. 46(2)(f)"
       ],
       "keywords": [
+        "guidelines",
+        "certification",
+        "tool",
+        "transfers",
+        "transparency",
+        "controller",
+        "data protection",
+        "codes of conduct",
         "certification",
         "transfers",
         "safeguards"
@@ -545,6 +737,14 @@
         "Art. 65(1)(a)"
       ],
       "keywords": [
+        "guidelines",
+        "reasoned",
+        "objection",
+        "controller",
+        "data protection",
+        "fundamental rights",
+        "processor",
+        "safeguards",
         "relevant and reasoned objection",
         "consistency mechanism"
       ],
@@ -565,6 +765,14 @@
         "Art. 43"
       ],
       "keywords": [
+        "guidelines",
+        "certification",
+        "identifying",
+        "criteria",
+        "articles",
+        "transparency",
+        "health data",
+        "controller",
         "certification",
         "certification criteria",
         "accreditation"
@@ -586,6 +794,14 @@
         "Art. 41"
       ],
       "keywords": [
+        "guidelines",
+        "codes",
+        "conduct",
+        "monitoring",
+        "bodies",
+        "transparency",
+        "health data",
+        "controller",
         "codes of conduct",
         "monitoring bodies"
       ],
@@ -605,6 +821,14 @@
         "Art. 6(1)(f)"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "personal",
+        "data",
+        "based",
+        "gdpr",
+        "legitimate",
+        "interest",
         "legitimate interest",
         "balancing test",
         "legal basis"
@@ -625,6 +849,14 @@
         "Art. 23"
       ],
       "keywords": [
+        "guidelines",
+        "restrictions",
+        "gdpr",
+        "right of access",
+        "controller",
+        "data protection",
+        "pseudonymisation",
+        "penalties",
         "restrictions",
         "legislative measures",
         "data subject rights"
@@ -645,6 +877,14 @@
         "Art. 49"
       ],
       "keywords": [
+        "guidelines",
+        "derogations",
+        "standard contractual clauses",
+        "transparency",
+        "health data",
+        "electronic communications",
+        "adequacy",
+        "controller",
         "derogations",
         "international transfers",
         "explicit consent",
@@ -666,6 +906,14 @@
         "Art. 6(1)(b)"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "personal",
+        "data",
+        "gdpr",
+        "context",
+        "provision",
+        "online",
         "contractual necessity",
         "online services",
         "performance of contract"
@@ -687,6 +935,14 @@
         "Art. 46(3)(b)"
       ],
       "keywords": [
+        "guidelines",
+        "articles",
+        "transfers",
+        "personal",
+        "data",
+        "eea",
+        "non-eea",
+        "public",
         "international transfers",
         "public authorities",
         "administrative arrangements"
@@ -707,6 +963,14 @@
         "ePrivacy Art. 5(3)"
       ],
       "keywords": [
+        "guidelines",
+        "technical",
+        "scope",
+        "art",
+        "eprivacy",
+        "electronic communications",
+        "controller",
+        "data protection",
         "ePrivacy",
         "cookies",
         "tracking",
@@ -728,6 +992,14 @@
         "Art. 3"
       ],
       "keywords": [
+        "guidelines",
+        "territorial",
+        "scope",
+        "gdpr",
+        "transparency",
+        "controller",
+        "data protection",
+        "penalties",
         "territorial scope",
         "establishment",
         "offering goods or services",
@@ -751,6 +1023,14 @@
         "Art. 35"
       ],
       "keywords": [
+        "guidelines",
+        "processing",
+        "personal",
+        "data",
+        "video",
+        "devices",
+        "transparency",
+        "controller",
         "video surveillance",
         "CCTV",
         "biometric data"
@@ -773,6 +1053,14 @@
         "Art. 22"
       ],
       "keywords": [
+        "guidelines",
+        "interplay",
+        "dsa",
+        "gdpr",
+        "transparency",
+        "controller",
+        "data protection",
+        "genetic data",
         "DSA",
         "Digital Services Act",
         "interplay"
@@ -793,6 +1081,14 @@
         "Art. 43"
       ],
       "keywords": [
+        "guidelines",
+        "accreditation",
+        "certification",
+        "bodies",
+        "gdpr",
+        "transparency",
+        "controller",
+        "data protection",
         "accreditation",
         "certification bodies"
       ],
@@ -812,6 +1108,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "guidelines",
+        "data",
+        "protection",
+        "design",
+        "default",
+        "transparency",
+        "right of access",
+        "controller",
         "data protection by design",
         "data protection by default",
         "DPbDD"
@@ -832,6 +1136,14 @@
         "Art. 17"
       ],
       "keywords": [
+        "guidelines",
+        "criteria",
+        "right",
+        "forgotten",
+        "search",
+        "engine",
+        "cases",
+        "gdpr",
         "right to be forgotten",
         "right to erasure",
         "search engines",
@@ -856,6 +1168,14 @@
         "Art. 26"
       ],
       "keywords": [
+        "guidelines",
+        "targeting",
+        "social",
+        "media",
+        "users",
+        "transparency",
+        "right of access",
+        "controller",
         "social media",
         "targeting",
         "advertising",
@@ -877,6 +1197,14 @@
         "Art. 56"
       ],
       "keywords": [
+        "guidelines",
+        "identifying",
+        "controller",
+        "processor's",
+        "lead",
+        "supervisory",
+        "authority",
+        "data protection",
         "lead supervisory authority",
         "one-stop-shop",
         "main establishment"
@@ -898,6 +1226,14 @@
         "Art. 34"
       ],
       "keywords": [
+        "guidelines",
+        "personal",
+        "data",
+        "breach",
+        "notification",
+        "gdpr",
+        "transparency",
+        "electronic communications",
         "data breach",
         "notification",
         "communication"
@@ -919,6 +1255,14 @@
         "Art. 7"
       ],
       "keywords": [
+        "joint",
+        "guidelines",
+        "interplay",
+        "digital",
+        "markets",
+        "act",
+        "gdpr",
+        "transparency",
         "DMA",
         "Digital Markets Act",
         "gatekeepers",
@@ -940,6 +1284,14 @@
         "Art. 30(5)"
       ],
       "keywords": [
+        "position",
+        "paper",
+        "derogations",
+        "obligation",
+        "maintain",
+        "records",
+        "processing",
+        "activities",
         "records of processing",
         "ROPA",
         "SME",
@@ -961,6 +1313,14 @@
         "Art. 20"
       ],
       "keywords": [
+        "guidelines",
+        "right",
+        "data",
+        "portability",
+        "rev",
+        "endorsed",
+        "data protection",
+        "cookie",
         "data portability",
         "right to data portability",
         "interoperability"
@@ -983,6 +1343,14 @@
         "Art. 39"
       ],
       "keywords": [
+        "guidelines",
+        "data",
+        "protection",
+        "officers",
+        "rev",
+        "endorsed",
+        "data protection",
+        "cookie",
         "DPO",
         "data protection officer",
         "designation"
@@ -1003,6 +1371,14 @@
         "Art. 56"
       ],
       "keywords": [
+        "guidelines",
+        "identifying",
+        "controller",
+        "processor's",
+        "lead",
+        "supervisory",
+        "authority",
+        "rev",
         "lead supervisory authority",
         "main establishment"
       ],
@@ -1023,6 +1399,14 @@
         "Art. 36"
       ],
       "keywords": [
+        "guidelines",
+        "data",
+        "protection",
+        "impact",
+        "assessment",
+        "dpia",
+        "rev",
+        "endorsed",
         "DPIA",
         "impact assessment",
         "high risk"
@@ -1046,6 +1430,14 @@
         "Art. 15(1)(h)"
       ],
       "keywords": [
+        "guidelines",
+        "automated",
+        "individual",
+        "decision-making",
+        "profiling",
+        "rev",
+        "endorsed",
+        "data protection",
         "automated decision-making",
         "profiling",
         "AI",
@@ -1067,6 +1459,14 @@
         "Art. 83"
       ],
       "keywords": [
+        "guidelines",
+        "application",
+        "setting",
+        "administrative",
+        "fines",
+        "endorsed",
+        "data protection",
+        "cookie",
         "administrative fines",
         "sanctions",
         "enforcement"
@@ -1087,6 +1487,14 @@
         "Art. 45"
       ],
       "keywords": [
+        "adequacy",
+        "referential",
+        "rev",
+        "endorsed",
+        "data protection",
+        "cookie",
+        "privacy",
+        "https",
         "adequacy",
         "adequacy referential",
         "third country"
@@ -1110,6 +1518,14 @@
         "Art. 14"
       ],
       "keywords": [
+        "guidelines",
+        "transparency",
+        "rev",
+        "endorsed",
+        "right of access",
+        "adequacy",
+        "controller",
+        "data protection",
         "transparency",
         "privacy notice",
         "information provision"
@@ -1133,6 +1549,14 @@
         "Art. 66"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "laying",
+        "additional",
+        "procedural",
+        "rules",
+        "relating",
         "procedural rules",
         "cross-border enforcement",
         "one-stop-shop",
@@ -1158,6 +1582,14 @@
         "Art. 32"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "establishment",
+        "digital",
+        "euro",
+        "pseudonymisation",
+        "privacy",
         "digital euro",
         "CBDC",
         "central bank digital currency",
@@ -1185,6 +1617,14 @@
         "Art. 49"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "data",
+        "governance",
+        "act",
+        "public sector",
+        "personal data",
         "Data Governance Act",
         "data intermediaries",
         "data altruism",
@@ -1210,6 +1650,14 @@
         "Art. 89"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "health",
+        "data",
+        "space",
+        "health data",
+        "data subject",
         "European Health Data Space",
         "EHDS",
         "health data",
@@ -1236,6 +1684,14 @@
         "Art. 22"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "laying",
+        "rules",
+        "prevent",
+        "combat",
+        "child",
         "CSAM",
         "child sexual abuse",
         "content scanning",
@@ -1262,6 +1718,14 @@
         "Art. 28(4)"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "standard",
+        "contractual",
+        "clauses",
+        "controllers",
+        "processors",
+        "standard contractual clauses",
         "standard contractual clauses",
         "SCCs",
         "controller-processor",
@@ -1286,6 +1750,14 @@
         "Art. 9"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "regards",
+        "simplification",
+        "implementation",
+        "harmonised",
+        "rules",
         "AI Act",
         "Digital Omnibus",
         "AI simplification",
@@ -1311,6 +1783,14 @@
         "Chapter V"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "standard",
+        "contractual",
+        "clauses",
+        "transfer",
+        "personal",
+        "data",
         "standard contractual clauses",
         "SCCs",
         "international transfers",
@@ -1336,6 +1816,14 @@
         "Art. 20"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "harmonised",
+        "rules",
+        "fair",
+        "access",
+        "use",
         "Data Act",
         "data portability",
         "IoT",
@@ -1361,6 +1849,14 @@
         "Art. 12-14"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "regards",
+        "simplification",
+        "digital",
+        "legislative",
+        "framework",
         "Digital Omnibus",
         "DSA",
         "DMA",
@@ -1387,6 +1883,14 @@
         "Art. 9"
       ],
       "keywords": [
+        "joint",
+        "opinion",
+        "proposal",
+        "laying",
+        "harmonised",
+        "rules",
+        "artificial",
+        "intelligence",
         "AI Act",
         "artificial intelligence",
         "biometric identification",
@@ -1412,6 +1916,14 @@
         "Art. 64(2)"
       ],
       "keywords": [
+        "opinion",
+        "notion",
+        "main",
+        "establishment",
+        "controller",
+        "art",
+        "gdpr",
+        "decisions",
         "main establishment",
         "one-stop-shop",
         "lead supervisory authority",
@@ -1435,6 +1947,14 @@
         "Art. 70(1)(s)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "extension",
+        "implementing",
+        "decisions",
+        "gdpr",
+        "led",
+        "adequate",
         "adequacy",
         "United Kingdom",
         "extension",
@@ -1460,6 +1980,14 @@
         "Art. 7"
       ],
       "keywords": [
+        "opinion",
+        "valid",
+        "consent",
+        "context",
+        "pay",
+        "models",
+        "implemented",
+        "large",
         "consent or pay",
         "behavioural advertising",
         "large online platforms",
@@ -1482,6 +2010,14 @@
         "Art. 35"
       ],
       "keywords": [
+        "opinion",
+        "use",
+        "facial",
+        "recognition",
+        "streamline",
+        "airport",
+        "passengers'",
+        "flow",
         "facial recognition",
         "biometric data",
         "airports",
@@ -1504,6 +2040,14 @@
         "Art. 70(1)(s)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
         "adequacy",
         "United Kingdom",
         "Brexit",
@@ -1529,6 +2073,14 @@
         "Art. 70(1)(s) GDPR"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
         "adequacy",
         "United Kingdom",
         "Law Enforcement Directive",
@@ -1554,6 +2106,14 @@
         "Art. 64(1)(b)"
       ],
       "keywords": [
+        "opinion",
+        "draft",
+        "decision",
+        "belgian",
+        "supervisory",
+        "authority",
+        "regarding",
+        "cloud",
         "code of conduct",
         "cloud services",
         "SCOPE Europe",
@@ -1579,6 +2139,14 @@
         "Art. 64(1)(b)"
       ],
       "keywords": [
+        "opinion",
+        "draft",
+        "decision",
+        "french",
+        "supervisory",
+        "authority",
+        "regarding",
+        "code",
         "code of conduct",
         "CISPE",
         "cloud infrastructure",
@@ -1602,6 +2170,14 @@
         "Art. 28"
       ],
       "keywords": [
+        "opinion",
+        "certain",
+        "obligations",
+        "following",
+        "reliance",
+        "processor",
+        "sub-processor",
+        "standard contractual clauses",
         "processor",
         "sub-processor",
         "controller obligations",
@@ -1625,6 +2201,14 @@
         "Art. 64(1)(c)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "privacy",
+        "seal",
+        "europrise",
+        "certification",
+        "criteria",
+        "processing",
         "certification",
         "EuroPriSe",
         "data protection seal",
@@ -1648,6 +2232,14 @@
         "Art. 70(1)(s)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
         "adequacy",
         "United Kingdom",
         "renewal",
@@ -1672,6 +2264,14 @@
         "Art. 70(1)(s)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
         "adequacy",
         "Japan",
         "APPI",
@@ -1696,6 +2296,14 @@
         "Art. 70(1)(o)"
       ],
       "keywords": [
+        "opinion",
+        "europrivacy",
+        "criteria",
+        "certification",
+        "regarding",
+        "approval",
+        "data",
+        "protection",
         "certification",
         "Europrivacy",
         "European Data Protection Seal",
@@ -1723,6 +2331,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "opinion",
+        "certain",
+        "data",
+        "protection",
+        "aspects",
+        "related",
+        "processing",
+        "personal",
         "artificial intelligence",
         "AI models",
         "machine learning",
@@ -1744,6 +2360,14 @@
         "Art. 45"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "adequacy",
+        "decision",
+        "brazil",
+        "standard contractual clauses",
+        "transparency",
         "adequacy",
         "Brazil",
         "LGPD",
@@ -1767,6 +2391,14 @@
         "Art. 70(1)(b)"
       ],
       "keywords": [
+        "opinion",
+        "concerning",
+        "questions",
+        "answers",
+        "interplay",
+        "clinical",
+        "trials",
+        "ctr",
         "clinical trials",
         "health data",
         "scientific research",
@@ -1790,6 +2422,14 @@
         "Art. 70(1)(s)"
       ],
       "keywords": [
+        "opinion",
+        "regarding",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
         "adequacy",
         "South Korea",
         "Republic of Korea",
@@ -1815,6 +2455,14 @@
         "Art. 64(2)"
       ],
       "keywords": [
+        "opinion",
+        "gdpr",
+        "serve",
+        "legal",
+        "basis",
+        "supervisory",
+        "authority",
+        "order",
         "corrective powers",
         "erasure",
         "ex officio",
@@ -1839,6 +2487,14 @@
         "Art. 95"
       ],
       "keywords": [
+        "opinion",
+        "interplay",
+        "eprivacy",
+        "gdpr",
+        "regarding",
+        "competence",
+        "tasks",
+        "powers",
         "ePrivacy Directive",
         "cookies",
         "tracking",
@@ -1862,6 +2518,14 @@
         "Art. 45"
       ],
       "keywords": [
+        "opinion",
+        "draft",
+        "implementing",
+        "decision",
+        "adequate",
+        "protection",
+        "personal",
+        "data",
         "EU-US Data Privacy Framework",
         "adequacy",
         "Schrems II",
@@ -1884,6 +2548,14 @@
         "Art. 46"
       ],
       "keywords": [
+        "recommendations",
+        "measures",
+        "supplement",
+        "transfer",
+        "tools",
+        "compliance",
+        "level",
+        "protection",
         "supplementary measures",
         "transfers",
         "Schrems II",
@@ -1905,6 +2577,14 @@
         "LED Art. 36"
       ],
       "keywords": [
+        "recommendations",
+        "adequacy",
+        "referential",
+        "law",
+        "enforcement",
+        "transparency",
+        "right of access",
+        "controller",
         "adequacy",
         "law enforcement directive",
         "transfers"
@@ -1927,6 +2607,14 @@
         "Art. 46"
       ],
       "keywords": [
+        "recommendations",
+        "essential",
+        "guarantees",
+        "surveillance",
+        "measures",
+        "standard contractual clauses",
+        "right of access",
+        "electronic communications",
         "essential guarantees",
         "surveillance",
         "transfers",
@@ -1950,6 +2638,14 @@
         "Art. 6(1)(f)"
       ],
       "keywords": [
+        "recommendations",
+        "legal",
+        "basis",
+        "storage",
+        "credit",
+        "card",
+        "data",
+        "sole",
         "credit card",
         "storage",
         "online transactions",
@@ -1971,6 +2667,14 @@
         "Art. 47"
       ],
       "keywords": [
+        "recommendations",
+        "application",
+        "approval",
+        "elements",
+        "principles",
+        "found",
+        "controller",
+        "binding",
         "BCR",
         "binding corporate rules",
         "controller",
@@ -1994,6 +2698,14 @@
         "Art. 44"
       ],
       "keywords": [
+        "recommendations",
+        "wada",
+        "world",
+        "anti-doping",
+        "code",
+        "transparency",
+        "health data",
+        "adequacy",
         "WADA",
         "anti-doping",
         "sports",
@@ -2015,6 +2727,14 @@
         "Art. 47"
       ],
       "keywords": [
+        "recommendations",
+        "application",
+        "approval",
+        "elements",
+        "principles",
+        "found",
+        "processor",
+        "binding",
         "BCR",
         "binding corporate rules",
         "processor",
@@ -2024,7 +2744,7 @@
       "char_count": 107118
     },
     {
-      "id": "b-statement-helsinki-statement-2025",
+      "id": "a-statement-helsinki-statement-2025",
       "slug": "helsinki-statement-2025",
       "title": "The Helsinki Statement - Enhanced clarity, support and engagement",
       "document_number": "Helsinki Statement 2025",
@@ -2034,6 +2754,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "helsinki",
+        "statement",
+        "enhanced",
+        "clarity",
+        "support",
+        "engagement",
+        "data protection",
+        "fundamental rights",
         "Helsinki Statement",
         "EDPB strategy",
         "engagement"
@@ -2042,7 +2770,7 @@
       "char_count": 4300
     },
     {
-      "id": "b-statement-statement-01-2022",
+      "id": "a-statement-statement-01-2022",
       "slug": "statement-01-2022",
       "title": "Statement on the announcement of an agreement in principle on a new Trans-Atlantic Data Privacy Framework",
       "document_number": "Statement 01/2022",
@@ -2054,6 +2782,14 @@
         "Art. 45"
       ],
       "keywords": [
+        "statement",
+        "announcement",
+        "agreement",
+        "principle",
+        "new",
+        "trans-atlantic",
+        "data",
+        "privacy",
         "Trans-Atlantic",
         "Data Privacy Framework",
         "US",
@@ -2063,7 +2799,7 @@
       "char_count": 3150
     },
     {
-      "id": "b-statement-statement-02-2021",
+      "id": "a-statement-statement-02-2021",
       "slug": "statement-02-2021",
       "title": "Statement on new draft provisions of the second additional protocol to the Council of Europe Convention on Cybercrime (Budapest Convention)",
       "document_number": "Statement 02/2021",
@@ -2073,6 +2809,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "new",
+        "draft",
+        "provisions",
+        "second",
+        "additional",
+        "protocol",
+        "europe",
         "Budapest Convention",
         "cybercrime",
         "cross-border access"
@@ -2081,7 +2825,7 @@
       "char_count": 18325
     },
     {
-      "id": "b-statement-statement-03-2021",
+      "id": "a-statement-statement-03-2021",
       "slug": "statement-03-2021",
       "title": "Statement on the ePrivacy Regulation",
       "document_number": "Statement 03/2021",
@@ -2091,6 +2835,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "eprivacy",
+        "health data",
+        "electronic communications",
+        "controller",
+        "data protection",
+        "fundamental rights",
+        "provider",
         "ePrivacy",
         "regulation",
         "electronic communications"
@@ -2099,7 +2851,7 @@
       "char_count": 16638
     },
     {
-      "id": "b-statement-statement-03-2022",
+      "id": "a-statement-statement-03-2022",
       "slug": "statement-03-2022",
       "title": "Statement on the European Police Cooperation Code",
       "document_number": "Statement 03/2022",
@@ -2109,6 +2861,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "police",
+        "cooperation",
+        "code",
+        "data protection",
+        "pseudonymisation",
+        "fundamental rights",
+        "security",
         "police cooperation",
         "law enforcement",
         "Europol"
@@ -2117,7 +2877,7 @@
       "char_count": 14021
     },
     {
-      "id": "b-statement-statement-04-2021",
+      "id": "a-statement-statement-04-2021",
       "slug": "statement-04-2021",
       "title": "Statement on international agreements including transfers",
       "document_number": "Statement 04/2021",
@@ -2130,6 +2890,14 @@
         "Art. 48"
       ],
       "keywords": [
+        "statement",
+        "international",
+        "agreements",
+        "transfers",
+        "data protection",
+        "security",
+        "safeguards",
+        "transfer",
         "international agreements",
         "transfers"
       ],
@@ -2137,7 +2905,7 @@
       "char_count": 3457
     },
     {
-      "id": "b-statement-statement-05-2021",
+      "id": "a-statement-statement-05-2021",
       "slug": "statement-05-2021",
       "title": "Statement on the Data Governance Act in light of the legislative developments",
       "document_number": "Statement 05/2021",
@@ -2147,6 +2915,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "data",
+        "governance",
+        "act",
+        "light",
+        "legislative",
+        "developments",
+        "transparency",
         "Data Governance Act",
         "data intermediaries"
       ],
@@ -2154,7 +2930,7 @@
       "char_count": 26449
     },
     {
-      "id": "b-statement-statement-1-2024",
+      "id": "a-statement-statement-1-2024",
       "slug": "statement-1-2024",
       "title": "Statement on legislative developments regarding the Proposal for a Regulation to prevent and combat child sexual abuse",
       "document_number": "Statement 1/2024",
@@ -2164,6 +2940,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "legislative",
+        "developments",
+        "regarding",
+        "proposal",
+        "prevent",
+        "combat",
+        "child",
         "CSAM",
         "child sexual abuse",
         "encryption"
@@ -2172,7 +2956,7 @@
       "char_count": 12199
     },
     {
-      "id": "b-statement-statement-1-2025",
+      "id": "a-statement-statement-1-2025",
       "slug": "statement-1-2025",
       "title": "Statement on Age Assurance",
       "document_number": "Statement 1/2025",
@@ -2186,6 +2970,14 @@
         "Art. 25"
       ],
       "keywords": [
+        "statement",
+        "age",
+        "assurance",
+        "transparency",
+        "controller",
+        "data protection",
+        "pseudonymisation",
+        "fundamental rights",
         "age assurance",
         "age verification",
         "children",
@@ -2195,7 +2987,7 @@
       "char_count": 38470
     },
     {
-      "id": "b-statement-statement-2-2024",
+      "id": "a-statement-statement-2-2024",
       "slug": "statement-2-2024",
       "title": "Statement on Financial data access and payments package",
       "document_number": "Statement 2/2024",
@@ -2207,6 +2999,14 @@
         "Art. 6"
       ],
       "keywords": [
+        "statement",
+        "financial",
+        "data",
+        "access",
+        "payments",
+        "package",
+        "transparency",
+        "data sharing",
         "financial data",
         "payments",
         "FIDA"
@@ -2215,7 +3015,7 @@
       "char_count": 23282
     },
     {
-      "id": "b-statement-statement-2-2025",
+      "id": "a-statement-statement-2-2025",
       "slug": "statement-2-2025",
       "title": "Statement on Implementation of the PNR Directive in light of CJEU Judgment C-817/19",
       "document_number": "Statement 2/2025",
@@ -2225,6 +3025,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "implementation",
+        "pnr",
+        "light",
+        "cjeu",
+        "judgment",
+        "right of access",
+        "data protection",
         "PNR",
         "passenger name record",
         "CJEU",
@@ -2234,7 +3042,7 @@
       "char_count": 34615
     },
     {
-      "id": "b-statement-statement-3-2024",
+      "id": "a-statement-statement-3-2024",
       "slug": "statement-3-2024",
       "title": "Statement on data protection authorities' role in the Artificial Intelligence Act framework",
       "document_number": "Statement 3/2024",
@@ -2244,6 +3052,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "data",
+        "protection",
+        "authorities'",
+        "role",
+        "artificial",
+        "intelligence",
+        "act",
         "AI Act",
         "artificial intelligence",
         "DPA role",
@@ -2253,7 +3069,7 @@
       "char_count": 15830
     },
     {
-      "id": "b-statement-statement-4-2024",
+      "id": "a-statement-statement-4-2024",
       "slug": "statement-4-2024",
       "title": "Statement on recent legislative developments on the Draft Regulation laying down additional procedural rules for the enforcement of the GDPR",
       "document_number": "Statement 4/2024",
@@ -2266,6 +3082,14 @@
         "Art. 65"
       ],
       "keywords": [
+        "statement",
+        "recent",
+        "legislative",
+        "developments",
+        "draft",
+        "laying",
+        "additional",
+        "procedural",
         "procedural rules",
         "enforcement",
         "regulation"
@@ -2274,7 +3098,7 @@
       "char_count": 34354
     },
     {
-      "id": "b-statement-statement-4-2025",
+      "id": "a-statement-statement-4-2025",
       "slug": "statement-4-2025",
       "title": "Statement on European Commission's Recommendation on draft non-binding model contractual terms on data sharing under the Data Act",
       "document_number": "Statement 4/2025",
@@ -2287,6 +3111,14 @@
         "Art. 28"
       ],
       "keywords": [
+        "statement",
+        "commission's",
+        "recommendation",
+        "draft",
+        "non-binding",
+        "model",
+        "contractual",
+        "terms",
         "Data Act",
         "model contractual terms",
         "data sharing"
@@ -2295,7 +3127,7 @@
       "char_count": 6931
     },
     {
-      "id": "b-statement-statement-5-2024",
+      "id": "a-statement-statement-5-2024",
       "slug": "statement-5-2024",
       "title": "Statement on Recommendations of the High-Level Group on Access to Data for Effective Law Enforcement",
       "document_number": "Statement 5/2024",
@@ -2305,6 +3137,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "recommendations",
+        "high-level",
+        "group",
+        "access",
+        "data",
+        "effective",
+        "law",
         "law enforcement",
         "access to data",
         "high-level group"
@@ -2313,7 +3153,7 @@
       "char_count": 16514
     },
     {
-      "id": "b-statement-statement-6-2024",
+      "id": "a-statement-statement-6-2024",
       "slug": "statement-6-2024",
       "title": "Statement on the Second Report on the Application of the GDPR",
       "document_number": "Statement 6/2024",
@@ -2323,6 +3163,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "second",
+        "report",
+        "application",
+        "gdpr",
+        "transparency",
+        "data protection",
+        "fundamental rights",
         "GDPR evaluation",
         "application report",
         "cross-regulatory"
@@ -2331,7 +3179,7 @@
       "char_count": 7646
     },
     {
-      "id": "b-statement-statement-dsp-2021",
+      "id": "a-statement-statement-dsp-2021",
       "slug": "statement-dsp-2021",
       "title": "Statement on the Digital Services Package and Data Strategy",
       "document_number": "Statement DSP 2021",
@@ -2341,6 +3189,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "digital",
+        "services",
+        "package",
+        "data",
+        "strategy",
+        "transparency",
+        "health data",
         "DSA",
         "DMA",
         "data strategy",
@@ -2350,7 +3206,7 @@
       "char_count": 23590
     },
     {
-      "id": "b-statement-statement-enforcement-2022",
+      "id": "a-statement-statement-enforcement-2022",
       "slug": "statement-enforcement-2022",
       "title": "Statement on enforcement cooperation",
       "document_number": "Statement Enforcement 2022",
@@ -2363,6 +3219,12 @@
         "Art. 65"
       ],
       "keywords": [
+        "statement",
+        "enforcement",
+        "cooperation",
+        "data protection",
+        "data subject",
+        "cross-border",
         "enforcement",
         "cooperation",
         "strategic cases"
@@ -2371,7 +3233,7 @@
       "char_count": 3981
     },
     {
-      "id": "b-statement-statement-pnr-2022",
+      "id": "a-statement-statement-pnr-2022",
       "slug": "statement-pnr-2022",
       "title": "Statement on the implications of the CJEU judgment C-817/19 on the use of PNR in Member States",
       "document_number": "Statement PNR 2022",
@@ -2381,6 +3243,14 @@
       "source_grade": "A",
       "gdpr_articles": [],
       "keywords": [
+        "statement",
+        "implications",
+        "cjeu",
+        "judgment",
+        "use",
+        "pnr",
+        "data protection",
+        "fundamental rights",
         "PNR",
         "CJEU",
         "C-817/19",
@@ -2390,7 +3260,7 @@
       "char_count": 3250
     },
     {
-      "id": "b-report-dpf-review-report-2024",
+      "id": "a-report-dpf-review-report-2024",
       "slug": "dpf-review-report-2024",
       "title": "EDPB Report on the first review of the EU-U.S. Data Privacy Framework",
       "document_number": "DPF Review Report 2024",
@@ -2402,6 +3272,14 @@
         "Art. 45"
       ],
       "keywords": [
+        "edpb",
+        "report",
+        "first",
+        "review",
+        "eu-u",
+        "data",
+        "privacy",
+        "framework",
         "EU-US Data Privacy Framework",
         "review",
         "adequacy",
@@ -2426,6 +3304,13 @@
         "Art. 14"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "transparency",
+        "adequacy",
+        "fines",
+        "personal data",
+        "whatsapp",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2448,6 +3333,13 @@
         "Chapter V"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "standard contractual clauses",
+        "safeguards",
+        "transfer",
+        "personal data",
+        "transfers",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2476,6 +3368,12 @@
         "Art. 35"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "children",
+        "personal data",
+        "instagram",
+        "processing",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2503,6 +3401,14 @@
         "Art. 13"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "adequacy",
+        "data protection",
+        "privacy",
+        "children",
+        "minor",
+        "personal data",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2528,6 +3434,13 @@
         "Art. 13"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "transparency",
+        "personal data",
+        "meta",
+        "processing",
+        "advertising",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2553,6 +3466,13 @@
         "Art. 13"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "transparency",
+        "personal data",
+        "instagram",
+        "behavioural",
+        "advertising",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2578,6 +3498,13 @@
         "Art. 13"
       ],
       "keywords": [
+        "binding",
+        "decision",
+        "security",
+        "legitimate interest",
+        "personal data",
+        "whatsapp",
+        "processing",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2602,6 +3529,12 @@
         "Art. 33(5)"
       ],
       "keywords": [
+        "decision",
+        "adequacy",
+        "notification",
+        "data breach",
+        "personal data",
+        "fine",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2624,6 +3557,12 @@
         "Art. 83"
       ],
       "keywords": [
+        "decision",
+        "right of access",
+        "direct marketing",
+        "fines",
+        "turnover",
+        "calculation",
         "binding decision",
         "Article 65",
         "dispute resolution"
@@ -2646,6 +3585,12 @@
         "Art. 66(2)"
       ],
       "keywords": [
+        "urgent",
+        "binding",
+        "decision",
+        "consent",
+        "legitimate interest",
+        "personal data",
         "binding decision",
         "Article 65",
         "dispute resolution"

@@ -1,40 +1,34 @@
 ---
-# === Identification ===
-source_id: "b-decision-aepd-caixabank-6m-consent-transparency"
-slug: "aepd-caixabank-6m-consent-transparency"
-title_en: "AEPD v CaixaBank — EUR 6 Million"
+source_id: b-decision-aepd-caixabank-6m-consent-transparency
+slug: aepd-caixabank-6m-consent-transparency
+title_en: AEPD v CaixaBank — EUR 6 Million
 document_type: decision
-source_grade: "B"
-publisher: "AEPD (Spain)"
-target_entity: "CaixaBank S.A."
-fine_amount: "EUR 6,000,000"
-decision_date: "2021-01-13"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: AEPD (Spain)
+target_entity: CaixaBank S.A.
+fine_amount: EUR 6,000,000
+decision_date: '2021-01-13'
+source_url: https://www.aepd.es/es/documento/ps-00477-2019.pdf
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-27'
 violated_articles:
-  - "Art. 6"
-  - "Art. 13"
-  - "Art. 14"
-
-# === Search Metadata ===
+- Art. 6
+- Art. 13
+- Art. 14
 keywords:
-  - "aepd"
-  - "caixabank"
-  - "eur"
-  - "million"
-  - "legitimate interest"
-  - "data subject"
-  - "personal data"
-  - "fine"
-  - "banking"
-  - "consent"
-  - "legitimate interest"
-  - "transparency"
-  - "financial services"
+- aepd
+- caixabank
+- eur
+- million
+- legitimate interest
+- data subject
+- personal data
+- fine
+- banking
+- consent
+- transparency
+- financial services
 ---
 
 ## AEPD v CaixaBank — EUR 6 Million

@@ -1,44 +1,32 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 21
 article_sub: 0
-article_title: "Right to object"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_21/oj/eng"
-effective_date: "20180525"
+article_title: Right to object
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_21/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 6(1)"
-  - "Art. 89(1)"
-  - "Directive 2002/58/EC"
-
+- Art. 6(1)
+- Art. 89(1)
+- Directive 2002/58/EC
 related_recitals:
-  - "Recital 69"
-  - "Recital 70"
-
-# === Search Metadata ===
+- Recital 69
+- Recital 70
 keywords:
-  - "right"
-  - "object"
-  - "controller"
-  - "profiling"
-  - "direct marketing"
-  - "data subject"
-  - "personal data"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "profiling"
+- right
+- object
+- controller
+- profiling
+- direct marketing
+- data subject
+- personal data
+- processing
 ---
 
 ## Article 21 — Right to object

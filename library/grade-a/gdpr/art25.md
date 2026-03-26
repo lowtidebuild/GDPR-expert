@@ -1,39 +1,30 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 25
 article_sub: 0
-article_title: "Data protection by design and by default"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_25/oj/eng"
-effective_date: "20180525"
+article_title: Data protection by design and by default
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_25/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 42"
-
+- Art. 42
 related_recitals:
-  - "Recital 78"
-
-# === Search Metadata ===
+- Recital 78
 keywords:
-  - "data"
-  - "protection"
-  - "design"
-  - "default"
-  - "controller"
-  - "data protection"
-  - "pseudonymisation"
-  - "safeguards"
-  - "processing"
-  - "controller"
+- data
+- protection
+- design
+- default
+- controller
+- data protection
+- pseudonymisation
+- safeguards
+- processing
 ---
 
 ## Article 25 — Data protection by design and by default

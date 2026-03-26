@@ -1,50 +1,40 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 14
 article_sub: 0
-article_title: "Information to be provided where personal data have not been obtained from the data subject"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_14/oj/eng"
-effective_date: "20180525"
+article_title: Information to be provided where personal data have not been obtained from the data subject
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_14/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 22(1)"
-  - "Art. 46"
-  - "Art. 49(1)"
-  - "Art. 6(1)"
-  - "Art. 89(1)"
-  - "Art. 9(2)"
-
+- Art. 22(1)
+- Art. 46
+- Art. 49(1)
+- Art. 6(1)
+- Art. 89(1)
+- Art. 9(2)
 related_recitals:
-  - "Recital 60"
-  - "Recital 61"
-  - "Recital 62"
-
-# === Search Metadata ===
+- Recital 60
+- Recital 61
+- Recital 62
 keywords:
-  - "information"
-  - "personal"
-  - "data"
-  - "obtained"
-  - "subject"
-  - "adequacy"
-  - "controller"
-  - "data protection"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "data protection officer"
-  - "information"
+- information
+- personal
+- data
+- obtained
+- subject
+- adequacy
+- controller
+- data protection
+- processing
+- data subject
+- personal data
+- data protection officer
 ---
 
 ## Article 14 — Information to be provided where personal data have not been obtained from the data subject

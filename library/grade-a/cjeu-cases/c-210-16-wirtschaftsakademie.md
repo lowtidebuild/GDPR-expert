@@ -1,40 +1,34 @@
 ---
-# === Identification ===
-source_id: "a-precedent-c-210-16-wirtschaftsakademie"
-slug: "c-210-16-wirtschaftsakademie"
-title_en: "Wirtschaftsakademie Schleswig-Holstein (Facebook Fan Page)"
-case_number: "C-210/16"
-ecli: "ECLI:EU:C:2018:388"
+source_id: a-precedent-c-210-16-wirtschaftsakademie
+slug: c-210-16-wirtschaftsakademie
+title_en: Wirtschaftsakademie Schleswig-Holstein (Facebook Fan Page)
+case_number: C-210/16
+ecli: ECLI:EU:C:2018:388
 document_type: precedent
-source_grade: "A"
-publisher: "Court of Justice of the European Union (CJEU)"
-judgment_date: "2018-06-05"
-source_url: "https://gdprhub.eu"
+source_grade: A
+publisher: Court of Justice of the European Union (CJEU)
+judgment_date: '2018-06-05'
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62016CJ0210
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Related GDPR Articles ===
+significance: important
+retrieved_at: '2026-03-25'
 gdpr_articles:
-  - "Art. 4(7)"
-  - "Art. 26"
-
-# === Search Metadata ===
+- Art. 4(7)
+- Art. 26
 keywords:
-  - "wirtschaftsakademie"
-  - "schleswig-holstein"
-  - "facebook"
-  - "fan"
-  - "page"
-  - "controller"
-  - "data protection"
-  - "cookie"
-  - "joint controller"
-  - "Facebook"
-  - "fan page"
-  - "social network"
-  - "Facebook Insights"
-  - "shared responsibility"
+- wirtschaftsakademie
+- schleswig-holstein
+- facebook
+- fan
+- page
+- controller
+- data protection
+- cookie
+- joint controller
+- fan page
+- social network
+- Facebook Insights
+- shared responsibility
 ---
 
 # CJEU C-210/16: Wirtschaftsakademie (Facebook Fan Page Joint Controllership)

@@ -1,42 +1,32 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 51
 article_sub: 0
-article_title: "Supervisory authority"
-chapter: "VI"
-chapter_title: "Supervisory authority"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_51/oj/eng"
-effective_date: "20180525"
+article_title: Supervisory authority
+chapter: VI
+chapter_title: Supervisory authority
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_51/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 63"
-
+- Art. 63
 related_recitals:
-  - "Recital 117"
-  - "Recital 118"
-  - "Recital 119"
-  - "Recital 120"
-
-# === Search Metadata ===
+- Recital 117
+- Recital 118
+- Recital 119
+- Recital 120
 keywords:
-  - "supervisory"
-  - "authority"
-  - "fundamental rights"
-  - "supervisory authority"
-  - "personal data"
-  - "authorities"
-  - "application"
-  - "processing"
-  - "personal data"
-  - "supervisory authority"
+- supervisory
+- authority
+- fundamental rights
+- supervisory authority
+- personal data
+- authorities
+- application
+- processing
 ---
 
 ## Article 51 — Supervisory authority

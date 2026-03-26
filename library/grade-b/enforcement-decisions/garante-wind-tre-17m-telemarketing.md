@@ -1,42 +1,36 @@
 ---
-# === Identification ===
-source_id: "b-decision-garante-wind-tre-17m-telemarketing"
-slug: "garante-wind-tre-17m-telemarketing"
-title_en: "Garante v Wind Tre — EUR 16.7 Million"
+source_id: b-decision-garante-wind-tre-17m-telemarketing
+slug: garante-wind-tre-17m-telemarketing
+title_en: Garante v Wind Tre — EUR 16.7 Million
 document_type: decision
-source_grade: "B"
-publisher: "Garante per la protezione dei dati personali (Italy)"
-target_entity: "Wind Tre S.p.A."
-fine_amount: "EUR 16,729,600"
-decision_date: "2020-07-09"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: Garante per la protezione dei dati personali (Italy)
+target_entity: Wind Tre S.p.A.
+fine_amount: EUR 16,729,600
+decision_date: '2020-07-09'
+source_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/print/9435901
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 5(1)"
-  - "Art. 5(2)"
-  - "Art. 6(1)(a)"
-  - "Art. 12"
-  - "Art. 24"
-  - "Art. 25"
-
-# === Search Metadata ===
+- Art. 5(1)
+- Art. 5(2)
+- Art. 6(1)(a)
+- Art. 12
+- Art. 24
+- Art. 25
 keywords:
-  - "garante"
-  - "wind"
-  - "tre"
-  - "eur"
-  - "million"
-  - "consent"
-  - "calls"
-  - "telemarketing"
-  - "unsolicited communications"
-  - "consent"
-  - "right to withdraw"
-  - "direct marketing"
+- garante
+- wind
+- tre
+- eur
+- million
+- consent
+- calls
+- telemarketing
+- unsolicited communications
+- right to withdraw
+- direct marketing
 ---
 
 ## Garante v Wind Tre — EUR 16.7 Million

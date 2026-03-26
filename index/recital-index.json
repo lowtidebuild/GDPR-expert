@@ -1,7 +1,7 @@
 {
   "type": "recital_index",
   "count": 535,
-  "generated_at": "2026-03-26T04:18:11.150843+00:00",
+  "generated_at": "2026-03-26T19:22:26.639403+00:00",
   "recitals": [
     {
       "id": "gdpr-recitals-recital1",
@@ -10,8 +10,7 @@
       "recital": "1",
       "path": "library/grade-a/gdpr-recitals/recital1.md",
       "related_articles": [
-        "Art. 16",
-        "Art. 8"
+        "Art. 1"
       ]
     },
     {
@@ -20,7 +19,9 @@
       "law_id": "32016R0679",
       "recital": "10",
       "path": "library/grade-a/gdpr-recitals/recital10.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital100",
@@ -28,7 +29,9 @@
       "law_id": "32016R0679",
       "recital": "100",
       "path": "library/grade-a/gdpr-recitals/recital100.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 42"
+      ]
     },
     {
       "id": "gdpr-recitals-recital101",
@@ -36,7 +39,9 @@
       "law_id": "32016R0679",
       "recital": "101",
       "path": "library/grade-a/gdpr-recitals/recital101.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 44"
+      ]
     },
     {
       "id": "gdpr-recitals-recital102",
@@ -44,7 +49,9 @@
       "law_id": "32016R0679",
       "recital": "102",
       "path": "library/grade-a/gdpr-recitals/recital102.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 44"
+      ]
     },
     {
       "id": "gdpr-recitals-recital103",
@@ -52,7 +59,9 @@
       "law_id": "32016R0679",
       "recital": "103",
       "path": "library/grade-a/gdpr-recitals/recital103.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 45"
+      ]
     },
     {
       "id": "gdpr-recitals-recital104",
@@ -60,7 +69,9 @@
       "law_id": "32016R0679",
       "recital": "104",
       "path": "library/grade-a/gdpr-recitals/recital104.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 45"
+      ]
     },
     {
       "id": "gdpr-recitals-recital105",
@@ -68,7 +79,9 @@
       "law_id": "32016R0679",
       "recital": "105",
       "path": "library/grade-a/gdpr-recitals/recital105.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 45"
+      ]
     },
     {
       "id": "gdpr-recitals-recital106",
@@ -77,8 +90,7 @@
       "recital": "106",
       "path": "library/grade-a/gdpr-recitals/recital106.md",
       "related_articles": [
-        "Art. 25",
-        "Art. 26"
+        "Art. 45"
       ]
     },
     {
@@ -87,7 +99,9 @@
       "law_id": "32016R0679",
       "recital": "107",
       "path": "library/grade-a/gdpr-recitals/recital107.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 45"
+      ]
     },
     {
       "id": "gdpr-recitals-recital108",
@@ -95,7 +109,9 @@
       "law_id": "32016R0679",
       "recital": "108",
       "path": "library/grade-a/gdpr-recitals/recital108.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 46"
+      ]
     },
     {
       "id": "gdpr-recitals-recital109",
@@ -103,7 +119,9 @@
       "law_id": "32016R0679",
       "recital": "109",
       "path": "library/grade-a/gdpr-recitals/recital109.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 46"
+      ]
     },
     {
       "id": "gdpr-recitals-recital11",
@@ -111,7 +129,9 @@
       "law_id": "32016R0679",
       "recital": "11",
       "path": "library/grade-a/gdpr-recitals/recital11.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital110",
@@ -119,7 +139,9 @@
       "law_id": "32016R0679",
       "recital": "110",
       "path": "library/grade-a/gdpr-recitals/recital110.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 47"
+      ]
     },
     {
       "id": "gdpr-recitals-recital111",
@@ -127,7 +149,9 @@
       "law_id": "32016R0679",
       "recital": "111",
       "path": "library/grade-a/gdpr-recitals/recital111.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 49"
+      ]
     },
     {
       "id": "gdpr-recitals-recital112",
@@ -135,7 +159,9 @@
       "law_id": "32016R0679",
       "recital": "112",
       "path": "library/grade-a/gdpr-recitals/recital112.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 49"
+      ]
     },
     {
       "id": "gdpr-recitals-recital113",
@@ -143,7 +169,9 @@
       "law_id": "32016R0679",
       "recital": "113",
       "path": "library/grade-a/gdpr-recitals/recital113.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 49"
+      ]
     },
     {
       "id": "gdpr-recitals-recital114",
@@ -151,7 +179,9 @@
       "law_id": "32016R0679",
       "recital": "114",
       "path": "library/grade-a/gdpr-recitals/recital114.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 49"
+      ]
     },
     {
       "id": "gdpr-recitals-recital115",
@@ -159,7 +189,10 @@
       "law_id": "32016R0679",
       "recital": "115",
       "path": "library/grade-a/gdpr-recitals/recital115.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 48",
+        "Art. 49"
+      ]
     },
     {
       "id": "gdpr-recitals-recital116",
@@ -167,7 +200,9 @@
       "law_id": "32016R0679",
       "recital": "116",
       "path": "library/grade-a/gdpr-recitals/recital116.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 50"
+      ]
     },
     {
       "id": "gdpr-recitals-recital117",
@@ -175,7 +210,11 @@
       "law_id": "32016R0679",
       "recital": "117",
       "path": "library/grade-a/gdpr-recitals/recital117.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 51",
+        "Art. 52",
+        "Art. 54"
+      ]
     },
     {
       "id": "gdpr-recitals-recital118",
@@ -183,7 +222,10 @@
       "law_id": "32016R0679",
       "recital": "118",
       "path": "library/grade-a/gdpr-recitals/recital118.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 51",
+        "Art. 52"
+      ]
     },
     {
       "id": "gdpr-recitals-recital119",
@@ -191,7 +233,9 @@
       "law_id": "32016R0679",
       "recital": "119",
       "path": "library/grade-a/gdpr-recitals/recital119.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 51"
+      ]
     },
     {
       "id": "gdpr-recitals-recital12",
@@ -200,7 +244,7 @@
       "recital": "12",
       "path": "library/grade-a/gdpr-recitals/recital12.md",
       "related_articles": [
-        "Art. 16"
+        "Art. 1"
       ]
     },
     {
@@ -209,7 +253,10 @@
       "law_id": "32016R0679",
       "recital": "120",
       "path": "library/grade-a/gdpr-recitals/recital120.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 51",
+        "Art. 52"
+      ]
     },
     {
       "id": "gdpr-recitals-recital121",
@@ -217,7 +264,11 @@
       "law_id": "32016R0679",
       "recital": "121",
       "path": "library/grade-a/gdpr-recitals/recital121.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 52",
+        "Art. 53",
+        "Art. 54"
+      ]
     },
     {
       "id": "gdpr-recitals-recital122",
@@ -225,7 +276,11 @@
       "law_id": "32016R0679",
       "recital": "122",
       "path": "library/grade-a/gdpr-recitals/recital122.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 55",
+        "Art. 57",
+        "Art. 58"
+      ]
     },
     {
       "id": "gdpr-recitals-recital123",
@@ -233,7 +288,10 @@
       "law_id": "32016R0679",
       "recital": "123",
       "path": "library/grade-a/gdpr-recitals/recital123.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 57",
+        "Art. 61"
+      ]
     },
     {
       "id": "gdpr-recitals-recital124",
@@ -241,7 +299,10 @@
       "law_id": "32016R0679",
       "recital": "124",
       "path": "library/grade-a/gdpr-recitals/recital124.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 56",
+        "Art. 60"
+      ]
     },
     {
       "id": "gdpr-recitals-recital125",
@@ -249,7 +310,9 @@
       "law_id": "32016R0679",
       "recital": "125",
       "path": "library/grade-a/gdpr-recitals/recital125.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 60"
+      ]
     },
     {
       "id": "gdpr-recitals-recital126",
@@ -257,7 +320,9 @@
       "law_id": "32016R0679",
       "recital": "126",
       "path": "library/grade-a/gdpr-recitals/recital126.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 62"
+      ]
     },
     {
       "id": "gdpr-recitals-recital127",
@@ -265,7 +330,9 @@
       "law_id": "32016R0679",
       "recital": "127",
       "path": "library/grade-a/gdpr-recitals/recital127.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 56"
+      ]
     },
     {
       "id": "gdpr-recitals-recital128",
@@ -273,7 +340,9 @@
       "law_id": "32016R0679",
       "recital": "128",
       "path": "library/grade-a/gdpr-recitals/recital128.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 56"
+      ]
     },
     {
       "id": "gdpr-recitals-recital129",
@@ -281,7 +350,9 @@
       "law_id": "32016R0679",
       "recital": "129",
       "path": "library/grade-a/gdpr-recitals/recital129.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 58"
+      ]
     },
     {
       "id": "gdpr-recitals-recital13",
@@ -290,7 +361,8 @@
       "recital": "13",
       "path": "library/grade-a/gdpr-recitals/recital13.md",
       "related_articles": [
-        "Art. 2"
+        "Art. 2",
+        "Art. 30"
       ]
     },
     {
@@ -299,7 +371,9 @@
       "law_id": "32016R0679",
       "recital": "130",
       "path": "library/grade-a/gdpr-recitals/recital130.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 60"
+      ]
     },
     {
       "id": "gdpr-recitals-recital131",
@@ -307,7 +381,9 @@
       "law_id": "32016R0679",
       "recital": "131",
       "path": "library/grade-a/gdpr-recitals/recital131.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 58"
+      ]
     },
     {
       "id": "gdpr-recitals-recital132",
@@ -315,7 +391,10 @@
       "law_id": "32016R0679",
       "recital": "132",
       "path": "library/grade-a/gdpr-recitals/recital132.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 57",
+        "Art. 61"
+      ]
     },
     {
       "id": "gdpr-recitals-recital133",
@@ -323,7 +402,10 @@
       "law_id": "32016R0679",
       "recital": "133",
       "path": "library/grade-a/gdpr-recitals/recital133.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 57",
+        "Art. 61"
+      ]
     },
     {
       "id": "gdpr-recitals-recital134",
@@ -331,7 +413,9 @@
       "law_id": "32016R0679",
       "recital": "134",
       "path": "library/grade-a/gdpr-recitals/recital134.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 62"
+      ]
     },
     {
       "id": "gdpr-recitals-recital135",
@@ -339,7 +423,9 @@
       "law_id": "32016R0679",
       "recital": "135",
       "path": "library/grade-a/gdpr-recitals/recital135.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 63"
+      ]
     },
     {
       "id": "gdpr-recitals-recital136",
@@ -347,7 +433,11 @@
       "law_id": "32016R0679",
       "recital": "136",
       "path": "library/grade-a/gdpr-recitals/recital136.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 64",
+        "Art. 65",
+        "Art. 70"
+      ]
     },
     {
       "id": "gdpr-recitals-recital137",
@@ -355,7 +445,10 @@
       "law_id": "32016R0679",
       "recital": "137",
       "path": "library/grade-a/gdpr-recitals/recital137.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 57",
+        "Art. 66"
+      ]
     },
     {
       "id": "gdpr-recitals-recital138",
@@ -363,7 +456,9 @@
       "law_id": "32016R0679",
       "recital": "138",
       "path": "library/grade-a/gdpr-recitals/recital138.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 66"
+      ]
     },
     {
       "id": "gdpr-recitals-recital139",
@@ -371,7 +466,11 @@
       "law_id": "32016R0679",
       "recital": "139",
       "path": "library/grade-a/gdpr-recitals/recital139.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 68",
+        "Art. 69",
+        "Art. 70"
+      ]
     },
     {
       "id": "gdpr-recitals-recital14",
@@ -379,7 +478,9 @@
       "law_id": "32016R0679",
       "recital": "14",
       "path": "library/grade-a/gdpr-recitals/recital14.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital140",
@@ -387,7 +488,9 @@
       "law_id": "32016R0679",
       "recital": "140",
       "path": "library/grade-a/gdpr-recitals/recital140.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 75"
+      ]
     },
     {
       "id": "gdpr-recitals-recital141",
@@ -396,7 +499,9 @@
       "recital": "141",
       "path": "library/grade-a/gdpr-recitals/recital141.md",
       "related_articles": [
-        "Art. 47"
+        "Art. 77",
+        "Art. 78",
+        "Art. 79"
       ]
     },
     {
@@ -405,7 +510,9 @@
       "law_id": "32016R0679",
       "recital": "142",
       "path": "library/grade-a/gdpr-recitals/recital142.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 80"
+      ]
     },
     {
       "id": "gdpr-recitals-recital143",
@@ -414,8 +521,7 @@
       "recital": "143",
       "path": "library/grade-a/gdpr-recitals/recital143.md",
       "related_articles": [
-        "Art. 263",
-        "Art. 267"
+        "Art. 78"
       ]
     },
     {
@@ -424,7 +530,9 @@
       "law_id": "32016R0679",
       "recital": "144",
       "path": "library/grade-a/gdpr-recitals/recital144.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 81"
+      ]
     },
     {
       "id": "gdpr-recitals-recital145",
@@ -432,7 +540,9 @@
       "law_id": "32016R0679",
       "recital": "145",
       "path": "library/grade-a/gdpr-recitals/recital145.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 79"
+      ]
     },
     {
       "id": "gdpr-recitals-recital146",
@@ -440,7 +550,9 @@
       "law_id": "32016R0679",
       "recital": "146",
       "path": "library/grade-a/gdpr-recitals/recital146.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 82"
+      ]
     },
     {
       "id": "gdpr-recitals-recital147",
@@ -448,7 +560,9 @@
       "law_id": "32016R0679",
       "recital": "147",
       "path": "library/grade-a/gdpr-recitals/recital147.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 82"
+      ]
     },
     {
       "id": "gdpr-recitals-recital148",
@@ -456,7 +570,9 @@
       "law_id": "32016R0679",
       "recital": "148",
       "path": "library/grade-a/gdpr-recitals/recital148.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 83"
+      ]
     },
     {
       "id": "gdpr-recitals-recital149",
@@ -464,7 +580,10 @@
       "law_id": "32016R0679",
       "recital": "149",
       "path": "library/grade-a/gdpr-recitals/recital149.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 83",
+        "Art. 84"
+      ]
     },
     {
       "id": "gdpr-recitals-recital15",
@@ -472,7 +591,10 @@
       "law_id": "32016R0679",
       "recital": "15",
       "path": "library/grade-a/gdpr-recitals/recital15.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2",
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital150",
@@ -480,7 +602,10 @@
       "law_id": "32016R0679",
       "recital": "150",
       "path": "library/grade-a/gdpr-recitals/recital150.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 83",
+        "Art. 84"
+      ]
     },
     {
       "id": "gdpr-recitals-recital151",
@@ -488,7 +613,10 @@
       "law_id": "32016R0679",
       "recital": "151",
       "path": "library/grade-a/gdpr-recitals/recital151.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 83",
+        "Art. 84"
+      ]
     },
     {
       "id": "gdpr-recitals-recital152",
@@ -496,7 +624,10 @@
       "law_id": "32016R0679",
       "recital": "152",
       "path": "library/grade-a/gdpr-recitals/recital152.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 83",
+        "Art. 84"
+      ]
     },
     {
       "id": "gdpr-recitals-recital153",
@@ -505,7 +636,7 @@
       "recital": "153",
       "path": "library/grade-a/gdpr-recitals/recital153.md",
       "related_articles": [
-        "Art. 11"
+        "Art. 85"
       ]
     },
     {
@@ -514,7 +645,9 @@
       "law_id": "32016R0679",
       "recital": "154",
       "path": "library/grade-a/gdpr-recitals/recital154.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 86"
+      ]
     },
     {
       "id": "gdpr-recitals-recital155",
@@ -522,7 +655,9 @@
       "law_id": "32016R0679",
       "recital": "155",
       "path": "library/grade-a/gdpr-recitals/recital155.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 88"
+      ]
     },
     {
       "id": "gdpr-recitals-recital156",
@@ -530,7 +665,9 @@
       "law_id": "32016R0679",
       "recital": "156",
       "path": "library/grade-a/gdpr-recitals/recital156.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital157",
@@ -538,7 +675,9 @@
       "law_id": "32016R0679",
       "recital": "157",
       "path": "library/grade-a/gdpr-recitals/recital157.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital158",
@@ -546,7 +685,9 @@
       "law_id": "32016R0679",
       "recital": "158",
       "path": "library/grade-a/gdpr-recitals/recital158.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital159",
@@ -555,7 +696,7 @@
       "recital": "159",
       "path": "library/grade-a/gdpr-recitals/recital159.md",
       "related_articles": [
-        "Art. 179"
+        "Art. 89"
       ]
     },
     {
@@ -564,7 +705,9 @@
       "law_id": "32016R0679",
       "recital": "16",
       "path": "library/grade-a/gdpr-recitals/recital16.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital160",
@@ -572,7 +715,9 @@
       "law_id": "32016R0679",
       "recital": "160",
       "path": "library/grade-a/gdpr-recitals/recital160.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital161",
@@ -580,7 +725,9 @@
       "law_id": "32016R0679",
       "recital": "161",
       "path": "library/grade-a/gdpr-recitals/recital161.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital162",
@@ -588,7 +735,9 @@
       "law_id": "32016R0679",
       "recital": "162",
       "path": "library/grade-a/gdpr-recitals/recital162.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 89"
+      ]
     },
     {
       "id": "gdpr-recitals-recital163",
@@ -597,7 +746,7 @@
       "recital": "163",
       "path": "library/grade-a/gdpr-recitals/recital163.md",
       "related_articles": [
-        "Art. 338"
+        "Art. 89"
       ]
     },
     {
@@ -606,7 +755,9 @@
       "law_id": "32016R0679",
       "recital": "164",
       "path": "library/grade-a/gdpr-recitals/recital164.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 90"
+      ]
     },
     {
       "id": "gdpr-recitals-recital165",
@@ -615,7 +766,7 @@
       "recital": "165",
       "path": "library/grade-a/gdpr-recitals/recital165.md",
       "related_articles": [
-        "Art. 17"
+        "Art. 91"
       ]
     },
     {
@@ -625,7 +776,7 @@
       "recital": "166",
       "path": "library/grade-a/gdpr-recitals/recital166.md",
       "related_articles": [
-        "Art. 290"
+        "Art. 92"
       ]
     },
     {
@@ -634,7 +785,9 @@
       "law_id": "32016R0679",
       "recital": "167",
       "path": "library/grade-a/gdpr-recitals/recital167.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 92"
+      ]
     },
     {
       "id": "gdpr-recitals-recital168",
@@ -642,7 +795,9 @@
       "law_id": "32016R0679",
       "recital": "168",
       "path": "library/grade-a/gdpr-recitals/recital168.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 92"
+      ]
     },
     {
       "id": "gdpr-recitals-recital169",
@@ -650,7 +805,9 @@
       "law_id": "32016R0679",
       "recital": "169",
       "path": "library/grade-a/gdpr-recitals/recital169.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 92"
+      ]
     },
     {
       "id": "gdpr-recitals-recital17",
@@ -658,7 +815,9 @@
       "law_id": "32016R0679",
       "recital": "17",
       "path": "library/grade-a/gdpr-recitals/recital17.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital170",
@@ -667,7 +826,7 @@
       "recital": "170",
       "path": "library/grade-a/gdpr-recitals/recital170.md",
       "related_articles": [
-        "Art. 5"
+        "Art. 92"
       ]
     },
     {
@@ -676,7 +835,10 @@
       "law_id": "32016R0679",
       "recital": "171",
       "path": "library/grade-a/gdpr-recitals/recital171.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6",
+        "Art. 94"
+      ]
     },
     {
       "id": "gdpr-recitals-recital172",
@@ -684,9 +846,7 @@
       "law_id": "32016R0679",
       "recital": "172",
       "path": "library/grade-a/gdpr-recitals/recital172.md",
-      "related_articles": [
-        "Art. 28"
-      ]
+      "related_articles": []
     },
     {
       "id": "gdpr-recitals-recital173",
@@ -694,7 +854,9 @@
       "law_id": "32016R0679",
       "recital": "173",
       "path": "library/grade-a/gdpr-recitals/recital173.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 95"
+      ]
     },
     {
       "id": "gdpr-recitals-recital18",
@@ -702,7 +864,9 @@
       "law_id": "32016R0679",
       "recital": "18",
       "path": "library/grade-a/gdpr-recitals/recital18.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital19",
@@ -710,7 +874,9 @@
       "law_id": "32016R0679",
       "recital": "19",
       "path": "library/grade-a/gdpr-recitals/recital19.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital2",
@@ -718,7 +884,9 @@
       "law_id": "32016R0679",
       "recital": "2",
       "path": "library/grade-a/gdpr-recitals/recital2.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital20",
@@ -726,7 +894,9 @@
       "law_id": "32016R0679",
       "recital": "20",
       "path": "library/grade-a/gdpr-recitals/recital20.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital21",
@@ -734,7 +904,9 @@
       "law_id": "32016R0679",
       "recital": "21",
       "path": "library/grade-a/gdpr-recitals/recital21.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital22",
@@ -742,7 +914,9 @@
       "law_id": "32016R0679",
       "recital": "22",
       "path": "library/grade-a/gdpr-recitals/recital22.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 3"
+      ]
     },
     {
       "id": "gdpr-recitals-recital23",
@@ -750,7 +924,9 @@
       "law_id": "32016R0679",
       "recital": "23",
       "path": "library/grade-a/gdpr-recitals/recital23.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 3"
+      ]
     },
     {
       "id": "gdpr-recitals-recital24",
@@ -758,7 +934,10 @@
       "law_id": "32016R0679",
       "recital": "24",
       "path": "library/grade-a/gdpr-recitals/recital24.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 3",
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital25",
@@ -766,7 +945,9 @@
       "law_id": "32016R0679",
       "recital": "25",
       "path": "library/grade-a/gdpr-recitals/recital25.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 3"
+      ]
     },
     {
       "id": "gdpr-recitals-recital26",
@@ -774,7 +955,9 @@
       "law_id": "32016R0679",
       "recital": "26",
       "path": "library/grade-a/gdpr-recitals/recital26.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital27",
@@ -782,7 +965,9 @@
       "law_id": "32016R0679",
       "recital": "27",
       "path": "library/grade-a/gdpr-recitals/recital27.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 2"
+      ]
     },
     {
       "id": "gdpr-recitals-recital28",
@@ -790,7 +975,9 @@
       "law_id": "32016R0679",
       "recital": "28",
       "path": "library/grade-a/gdpr-recitals/recital28.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital29",
@@ -798,7 +985,9 @@
       "law_id": "32016R0679",
       "recital": "29",
       "path": "library/grade-a/gdpr-recitals/recital29.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital3",
@@ -806,7 +995,9 @@
       "law_id": "32016R0679",
       "recital": "3",
       "path": "library/grade-a/gdpr-recitals/recital3.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital30",
@@ -814,7 +1005,9 @@
       "law_id": "32016R0679",
       "recital": "30",
       "path": "library/grade-a/gdpr-recitals/recital30.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital31",
@@ -822,7 +1015,9 @@
       "law_id": "32016R0679",
       "recital": "31",
       "path": "library/grade-a/gdpr-recitals/recital31.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital32",
@@ -830,7 +1025,9 @@
       "law_id": "32016R0679",
       "recital": "32",
       "path": "library/grade-a/gdpr-recitals/recital32.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 7"
+      ]
     },
     {
       "id": "gdpr-recitals-recital33",
@@ -838,7 +1035,9 @@
       "law_id": "32016R0679",
       "recital": "33",
       "path": "library/grade-a/gdpr-recitals/recital33.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 7"
+      ]
     },
     {
       "id": "gdpr-recitals-recital34",
@@ -846,7 +1045,9 @@
       "law_id": "32016R0679",
       "recital": "34",
       "path": "library/grade-a/gdpr-recitals/recital34.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital35",
@@ -854,7 +1055,9 @@
       "law_id": "32016R0679",
       "recital": "35",
       "path": "library/grade-a/gdpr-recitals/recital35.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital36",
@@ -862,7 +1065,9 @@
       "law_id": "32016R0679",
       "recital": "36",
       "path": "library/grade-a/gdpr-recitals/recital36.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital37",
@@ -870,7 +1075,9 @@
       "law_id": "32016R0679",
       "recital": "37",
       "path": "library/grade-a/gdpr-recitals/recital37.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 4"
+      ]
     },
     {
       "id": "gdpr-recitals-recital38",
@@ -878,7 +1085,10 @@
       "law_id": "32016R0679",
       "recital": "38",
       "path": "library/grade-a/gdpr-recitals/recital38.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 8",
+        "Art. 12"
+      ]
     },
     {
       "id": "gdpr-recitals-recital39",
@@ -886,7 +1096,10 @@
       "law_id": "32016R0679",
       "recital": "39",
       "path": "library/grade-a/gdpr-recitals/recital39.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 5",
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital4",
@@ -894,7 +1107,9 @@
       "law_id": "32016R0679",
       "recital": "4",
       "path": "library/grade-a/gdpr-recitals/recital4.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital40",
@@ -902,7 +1117,9 @@
       "law_id": "32016R0679",
       "recital": "40",
       "path": "library/grade-a/gdpr-recitals/recital40.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital41",
@@ -910,7 +1127,9 @@
       "law_id": "32016R0679",
       "recital": "41",
       "path": "library/grade-a/gdpr-recitals/recital41.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital42",
@@ -918,7 +1137,10 @@
       "law_id": "32016R0679",
       "recital": "42",
       "path": "library/grade-a/gdpr-recitals/recital42.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6",
+        "Art. 7"
+      ]
     },
     {
       "id": "gdpr-recitals-recital43",
@@ -926,7 +1148,10 @@
       "law_id": "32016R0679",
       "recital": "43",
       "path": "library/grade-a/gdpr-recitals/recital43.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6",
+        "Art. 7"
+      ]
     },
     {
       "id": "gdpr-recitals-recital44",
@@ -934,7 +1159,9 @@
       "law_id": "32016R0679",
       "recital": "44",
       "path": "library/grade-a/gdpr-recitals/recital44.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital45",
@@ -942,7 +1169,9 @@
       "law_id": "32016R0679",
       "recital": "45",
       "path": "library/grade-a/gdpr-recitals/recital45.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital46",
@@ -950,7 +1179,10 @@
       "law_id": "32016R0679",
       "recital": "46",
       "path": "library/grade-a/gdpr-recitals/recital46.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6",
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital47",
@@ -958,7 +1190,9 @@
       "law_id": "32016R0679",
       "recital": "47",
       "path": "library/grade-a/gdpr-recitals/recital47.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital48",
@@ -966,7 +1200,9 @@
       "law_id": "32016R0679",
       "recital": "48",
       "path": "library/grade-a/gdpr-recitals/recital48.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital49",
@@ -974,7 +1210,9 @@
       "law_id": "32016R0679",
       "recital": "49",
       "path": "library/grade-a/gdpr-recitals/recital49.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6"
+      ]
     },
     {
       "id": "gdpr-recitals-recital5",
@@ -982,7 +1220,9 @@
       "law_id": "32016R0679",
       "recital": "5",
       "path": "library/grade-a/gdpr-recitals/recital5.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital50",
@@ -990,7 +1230,10 @@
       "law_id": "32016R0679",
       "recital": "50",
       "path": "library/grade-a/gdpr-recitals/recital50.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 6",
+        "Art. 10"
+      ]
     },
     {
       "id": "gdpr-recitals-recital51",
@@ -998,7 +1241,9 @@
       "law_id": "32016R0679",
       "recital": "51",
       "path": "library/grade-a/gdpr-recitals/recital51.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital52",
@@ -1006,7 +1251,9 @@
       "law_id": "32016R0679",
       "recital": "52",
       "path": "library/grade-a/gdpr-recitals/recital52.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital53",
@@ -1014,7 +1261,9 @@
       "law_id": "32016R0679",
       "recital": "53",
       "path": "library/grade-a/gdpr-recitals/recital53.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital54",
@@ -1022,7 +1271,9 @@
       "law_id": "32016R0679",
       "recital": "54",
       "path": "library/grade-a/gdpr-recitals/recital54.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital55",
@@ -1030,7 +1281,9 @@
       "law_id": "32016R0679",
       "recital": "55",
       "path": "library/grade-a/gdpr-recitals/recital55.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital56",
@@ -1038,7 +1291,9 @@
       "law_id": "32016R0679",
       "recital": "56",
       "path": "library/grade-a/gdpr-recitals/recital56.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 9"
+      ]
     },
     {
       "id": "gdpr-recitals-recital57",
@@ -1046,7 +1301,9 @@
       "law_id": "32016R0679",
       "recital": "57",
       "path": "library/grade-a/gdpr-recitals/recital57.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 11"
+      ]
     },
     {
       "id": "gdpr-recitals-recital58",
@@ -1054,7 +1311,10 @@
       "law_id": "32016R0679",
       "recital": "58",
       "path": "library/grade-a/gdpr-recitals/recital58.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 12",
+        "Art. 26"
+      ]
     },
     {
       "id": "gdpr-recitals-recital59",
@@ -1062,7 +1322,9 @@
       "law_id": "32016R0679",
       "recital": "59",
       "path": "library/grade-a/gdpr-recitals/recital59.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 12"
+      ]
     },
     {
       "id": "gdpr-recitals-recital6",
@@ -1070,7 +1332,9 @@
       "law_id": "32016R0679",
       "recital": "6",
       "path": "library/grade-a/gdpr-recitals/recital6.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital60",
@@ -1078,7 +1342,11 @@
       "law_id": "32016R0679",
       "recital": "60",
       "path": "library/grade-a/gdpr-recitals/recital60.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 12",
+        "Art. 13",
+        "Art. 14"
+      ]
     },
     {
       "id": "gdpr-recitals-recital61",
@@ -1086,7 +1354,10 @@
       "law_id": "32016R0679",
       "recital": "61",
       "path": "library/grade-a/gdpr-recitals/recital61.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 13",
+        "Art. 14"
+      ]
     },
     {
       "id": "gdpr-recitals-recital62",
@@ -1094,7 +1365,10 @@
       "law_id": "32016R0679",
       "recital": "62",
       "path": "library/grade-a/gdpr-recitals/recital62.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 13",
+        "Art. 14"
+      ]
     },
     {
       "id": "gdpr-recitals-recital63",
@@ -1102,7 +1376,9 @@
       "law_id": "32016R0679",
       "recital": "63",
       "path": "library/grade-a/gdpr-recitals/recital63.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 15"
+      ]
     },
     {
       "id": "gdpr-recitals-recital64",
@@ -1110,7 +1386,9 @@
       "law_id": "32016R0679",
       "recital": "64",
       "path": "library/grade-a/gdpr-recitals/recital64.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 15"
+      ]
     },
     {
       "id": "gdpr-recitals-recital65",
@@ -1118,7 +1396,10 @@
       "law_id": "32016R0679",
       "recital": "65",
       "path": "library/grade-a/gdpr-recitals/recital65.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 16",
+        "Art. 17"
+      ]
     },
     {
       "id": "gdpr-recitals-recital66",
@@ -1126,7 +1407,10 @@
       "law_id": "32016R0679",
       "recital": "66",
       "path": "library/grade-a/gdpr-recitals/recital66.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 17",
+        "Art. 19"
+      ]
     },
     {
       "id": "gdpr-recitals-recital67",
@@ -1134,7 +1418,9 @@
       "law_id": "32016R0679",
       "recital": "67",
       "path": "library/grade-a/gdpr-recitals/recital67.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 18"
+      ]
     },
     {
       "id": "gdpr-recitals-recital68",
@@ -1142,7 +1428,9 @@
       "law_id": "32016R0679",
       "recital": "68",
       "path": "library/grade-a/gdpr-recitals/recital68.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 20"
+      ]
     },
     {
       "id": "gdpr-recitals-recital69",
@@ -1150,7 +1438,9 @@
       "law_id": "32016R0679",
       "recital": "69",
       "path": "library/grade-a/gdpr-recitals/recital69.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 21"
+      ]
     },
     {
       "id": "gdpr-recitals-recital7",
@@ -1158,7 +1448,9 @@
       "law_id": "32016R0679",
       "recital": "7",
       "path": "library/grade-a/gdpr-recitals/recital7.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital70",
@@ -1166,7 +1458,9 @@
       "law_id": "32016R0679",
       "recital": "70",
       "path": "library/grade-a/gdpr-recitals/recital70.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 21"
+      ]
     },
     {
       "id": "gdpr-recitals-recital71",
@@ -1174,7 +1468,9 @@
       "law_id": "32016R0679",
       "recital": "71",
       "path": "library/grade-a/gdpr-recitals/recital71.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 22"
+      ]
     },
     {
       "id": "gdpr-recitals-recital72",
@@ -1182,7 +1478,9 @@
       "law_id": "32016R0679",
       "recital": "72",
       "path": "library/grade-a/gdpr-recitals/recital72.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 22"
+      ]
     },
     {
       "id": "gdpr-recitals-recital73",
@@ -1190,7 +1488,10 @@
       "law_id": "32016R0679",
       "recital": "73",
       "path": "library/grade-a/gdpr-recitals/recital73.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 12",
+        "Art. 23"
+      ]
     },
     {
       "id": "gdpr-recitals-recital74",
@@ -1198,7 +1499,10 @@
       "law_id": "32016R0679",
       "recital": "74",
       "path": "library/grade-a/gdpr-recitals/recital74.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 5",
+        "Art. 24"
+      ]
     },
     {
       "id": "gdpr-recitals-recital75",
@@ -1206,7 +1510,11 @@
       "law_id": "32016R0679",
       "recital": "75",
       "path": "library/grade-a/gdpr-recitals/recital75.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 24",
+        "Art. 32",
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital76",
@@ -1214,7 +1522,10 @@
       "law_id": "32016R0679",
       "recital": "76",
       "path": "library/grade-a/gdpr-recitals/recital76.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 24",
+        "Art. 32"
+      ]
     },
     {
       "id": "gdpr-recitals-recital77",
@@ -1222,7 +1533,10 @@
       "law_id": "32016R0679",
       "recital": "77",
       "path": "library/grade-a/gdpr-recitals/recital77.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 24",
+        "Art. 32"
+      ]
     },
     {
       "id": "gdpr-recitals-recital78",
@@ -1230,7 +1544,10 @@
       "law_id": "32016R0679",
       "recital": "78",
       "path": "library/grade-a/gdpr-recitals/recital78.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 25",
+        "Art. 32"
+      ]
     },
     {
       "id": "gdpr-recitals-recital79",
@@ -1238,7 +1555,10 @@
       "law_id": "32016R0679",
       "recital": "79",
       "path": "library/grade-a/gdpr-recitals/recital79.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 26",
+        "Art. 32"
+      ]
     },
     {
       "id": "gdpr-recitals-recital8",
@@ -1246,7 +1566,9 @@
       "law_id": "32016R0679",
       "recital": "8",
       "path": "library/grade-a/gdpr-recitals/recital8.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital80",
@@ -1254,7 +1576,9 @@
       "law_id": "32016R0679",
       "recital": "80",
       "path": "library/grade-a/gdpr-recitals/recital80.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 27"
+      ]
     },
     {
       "id": "gdpr-recitals-recital81",
@@ -1262,7 +1586,9 @@
       "law_id": "32016R0679",
       "recital": "81",
       "path": "library/grade-a/gdpr-recitals/recital81.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 28"
+      ]
     },
     {
       "id": "gdpr-recitals-recital82",
@@ -1270,7 +1596,10 @@
       "law_id": "32016R0679",
       "recital": "82",
       "path": "library/grade-a/gdpr-recitals/recital82.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 30",
+        "Art. 31"
+      ]
     },
     {
       "id": "gdpr-recitals-recital83",
@@ -1278,7 +1607,9 @@
       "law_id": "32016R0679",
       "recital": "83",
       "path": "library/grade-a/gdpr-recitals/recital83.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 32"
+      ]
     },
     {
       "id": "gdpr-recitals-recital84",
@@ -1286,7 +1617,9 @@
       "law_id": "32016R0679",
       "recital": "84",
       "path": "library/grade-a/gdpr-recitals/recital84.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital85",
@@ -1294,7 +1627,9 @@
       "law_id": "32016R0679",
       "recital": "85",
       "path": "library/grade-a/gdpr-recitals/recital85.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 33"
+      ]
     },
     {
       "id": "gdpr-recitals-recital86",
@@ -1302,7 +1637,9 @@
       "law_id": "32016R0679",
       "recital": "86",
       "path": "library/grade-a/gdpr-recitals/recital86.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 34"
+      ]
     },
     {
       "id": "gdpr-recitals-recital87",
@@ -1310,7 +1647,10 @@
       "law_id": "32016R0679",
       "recital": "87",
       "path": "library/grade-a/gdpr-recitals/recital87.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 33",
+        "Art. 34"
+      ]
     },
     {
       "id": "gdpr-recitals-recital88",
@@ -1318,7 +1658,10 @@
       "law_id": "32016R0679",
       "recital": "88",
       "path": "library/grade-a/gdpr-recitals/recital88.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 33",
+        "Art. 34"
+      ]
     },
     {
       "id": "gdpr-recitals-recital89",
@@ -1326,7 +1669,9 @@
       "law_id": "32016R0679",
       "recital": "89",
       "path": "library/grade-a/gdpr-recitals/recital89.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital9",
@@ -1334,7 +1679,9 @@
       "law_id": "32016R0679",
       "recital": "9",
       "path": "library/grade-a/gdpr-recitals/recital9.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 1"
+      ]
     },
     {
       "id": "gdpr-recitals-recital90",
@@ -1342,7 +1689,9 @@
       "law_id": "32016R0679",
       "recital": "90",
       "path": "library/grade-a/gdpr-recitals/recital90.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital91",
@@ -1350,7 +1699,10 @@
       "law_id": "32016R0679",
       "recital": "91",
       "path": "library/grade-a/gdpr-recitals/recital91.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 22",
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital92",
@@ -1358,7 +1710,9 @@
       "law_id": "32016R0679",
       "recital": "92",
       "path": "library/grade-a/gdpr-recitals/recital92.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital93",
@@ -1366,7 +1720,9 @@
       "law_id": "32016R0679",
       "recital": "93",
       "path": "library/grade-a/gdpr-recitals/recital93.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 35"
+      ]
     },
     {
       "id": "gdpr-recitals-recital94",
@@ -1374,7 +1730,9 @@
       "law_id": "32016R0679",
       "recital": "94",
       "path": "library/grade-a/gdpr-recitals/recital94.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 36"
+      ]
     },
     {
       "id": "gdpr-recitals-recital95",
@@ -1382,7 +1740,9 @@
       "law_id": "32016R0679",
       "recital": "95",
       "path": "library/grade-a/gdpr-recitals/recital95.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 36"
+      ]
     },
     {
       "id": "gdpr-recitals-recital96",
@@ -1390,7 +1750,9 @@
       "law_id": "32016R0679",
       "recital": "96",
       "path": "library/grade-a/gdpr-recitals/recital96.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 36"
+      ]
     },
     {
       "id": "gdpr-recitals-recital97",
@@ -1398,7 +1760,11 @@
       "law_id": "32016R0679",
       "recital": "97",
       "path": "library/grade-a/gdpr-recitals/recital97.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 37",
+        "Art. 38",
+        "Art. 39"
+      ]
     },
     {
       "id": "gdpr-recitals-recital98",
@@ -1406,7 +1772,9 @@
       "law_id": "32016R0679",
       "recital": "98",
       "path": "library/grade-a/gdpr-recitals/recital98.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 40"
+      ]
     },
     {
       "id": "gdpr-recitals-recital99",
@@ -1414,7 +1782,9 @@
       "law_id": "32016R0679",
       "recital": "99",
       "path": "library/grade-a/gdpr-recitals/recital99.md",
-      "related_articles": []
+      "related_articles": [
+        "Art. 40"
+      ]
     },
     {
       "id": "eu-ai-act-recitals-recital1",

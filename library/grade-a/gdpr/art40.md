@@ -1,47 +1,37 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 40
 article_sub: 0
-article_title: "Codes of conduct"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_40/oj/eng"
-effective_date: "20180525"
+article_title: Codes of conduct
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_40/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 3"
-  - "Art. 32"
-  - "Art. 41(1)"
-  - "Art. 46(2)"
-  - "Art. 55"
-  - "Art. 63"
-  - "Art. 93(2)"
-
+- Art. 3
+- Art. 32
+- Art. 41(1)
+- Art. 46(2)
+- Art. 55
+- Art. 63
+- Art. 93(2)
 related_recitals:
-  - "Recital 98"
-  - "Recital 99"
-
-# === Search Metadata ===
+- Recital 98
+- Recital 99
 keywords:
-  - "codes"
-  - "conduct"
-  - "controller"
-  - "pseudonymisation"
-  - "codes of conduct"
-  - "security"
-  - "processor"
-  - "safeguards"
-  - "processing"
-  - "controller"
-  - "processor"
+- codes
+- conduct
+- controller
+- pseudonymisation
+- codes of conduct
+- security
+- processor
+- safeguards
+- processing
 ---
 
 ## Article 40 — Codes of conduct

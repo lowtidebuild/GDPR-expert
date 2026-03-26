@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 96
 article_sub: 0
-article_title: "Guidelines from the Commission on the implementation of this Regulation"
-chapter: "X"
-chapter_title: "Codes of conduct for voluntary application of specific requirements"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_96/oj/eng"
-effective_date: "20240801"
+article_title: Guidelines from the Commission on the implementation of this Regulation
+chapter: X
+chapter_title: Codes of conduct for voluntary application of specific requirements
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_96/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 25"
-  - "Art. 3"
-  - "Art. 5"
-  - "Art. 50"
-
-# === Search Metadata ===
+- Art. 25
+- Art. 3
+- Art. 5
+- Art. 50
 keywords:
-  - "guidelines"
-  - "implementation"
-  - "transparency"
-  - "ai system"
-  - "practical"
-  - "application"
-  - "transparency"
-  - "information"
+- guidelines
+- implementation
+- transparency
+- ai system
+- practical
+- application
+- information
 ---
 
 ## Article 96 — Guidelines from the Commission on the implementation of this Regulation

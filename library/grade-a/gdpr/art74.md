@@ -1,34 +1,25 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 74
 article_sub: 0
-article_title: "Tasks of the Chair"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_74/oj/eng"
-effective_date: "20180525"
+article_title: Tasks of the Chair
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_74/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 63"
-  - "Art. 65"
-
-related_recitals:
-
-# === Search Metadata ===
+- Art. 63
+- Art. 65
+related_recitals: []
 keywords:
-  - "tasks"
-  - "chair"
-  - "supervisory authority"
-  - "board"
-  - "supervisory authority"
+- tasks
+- chair
+- supervisory authority
+- board
 ---
 
 ## Article 74 — Tasks of the Chair

@@ -1,38 +1,32 @@
 ---
-# === Identification ===
-source_id: "b-decision-cnil-facebook-60m-cookies-2022"
-slug: "cnil-facebook-60m-cookies-2022"
-title_en: "CNIL v Facebook Ireland — EUR 60 Million (Cookies)"
+source_id: b-decision-cnil-facebook-60m-cookies-2022
+slug: cnil-facebook-60m-cookies-2022
+title_en: CNIL v Facebook Ireland — EUR 60 Million (Cookies)
 document_type: decision
-source_grade: "B"
-publisher: "CNIL (France)"
-target_entity: "Facebook Ireland Limited"
-fine_amount: "EUR 60,000,000"
-decision_date: "2021-12-31"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: CNIL (France)
+target_entity: Facebook Ireland Limited
+fine_amount: EUR 60,000,000
+decision_date: '2021-12-31'
+source_url: https://www.cnil.fr/sites/default/files/atoms/files/deliberation_of_the_restricted_committee_no._san-2021-024_of_31_december_2021_concerning_facebook_ireland_limited.pdf
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 82 French Data Protection Act (ePrivacy transposition)"
-
-# === Search Metadata ===
+- Art. 82 French Data Protection Act (ePrivacy transposition)
 keywords:
-  - "cnil"
-  - "facebook"
-  - "ireland"
-  - "eur"
-  - "million"
-  - "cookies"
-  - "data protection"
-  - "cookie"
-  - "cookies"
-  - "consent"
-  - "dark patterns"
-  - "reject button"
-  - "cookie banner"
+- cnil
+- facebook
+- ireland
+- eur
+- million
+- cookies
+- data protection
+- cookie
+- consent
+- dark patterns
+- reject button
+- cookie banner
 ---
 
 ## CNIL v Facebook Ireland — EUR 60 Million (Cookies)

@@ -1,39 +1,32 @@
 ---
-# === Identification ===
-source_id: "b-decision-cnpd-amazon-746m-advertising"
-slug: "cnpd-amazon-746m-advertising"
-title_en: "CNPD Luxembourg v Amazon — EUR 746 Million"
+source_id: b-decision-cnpd-amazon-746m-advertising
+slug: cnpd-amazon-746m-advertising
+title_en: CNPD Luxembourg v Amazon — EUR 746 Million
 document_type: decision
-source_grade: "B"
-publisher: "CNPD (Luxembourg)"
-target_entity: "Amazon Europe Core S.a r.l."
-fine_amount: "EUR 746,000,000"
-decision_date: "2021-07-15"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: CNPD (Luxembourg)
+target_entity: Amazon Europe Core S.a r.l.
+fine_amount: EUR 746,000,000
+decision_date: '2021-07-15'
+source_url: https://cnpd.public.lu/en/actualites/international/2021/08/decision-amazon-2.html
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 6"
-  - "Art. 5"
-
-# === Search Metadata ===
+- Art. 6
+- Art. 5
 keywords:
-  - "cnpd"
-  - "luxembourg"
-  - "amazon"
-  - "eur"
-  - "million"
-  - "transparency"
-  - "privacy"
-  - "consent"
-  - "targeted advertising"
-  - "consent"
-  - "transparency"
-  - "legitimate interest"
-  - "behavioral advertising"
+- cnpd
+- luxembourg
+- amazon
+- eur
+- million
+- transparency
+- privacy
+- consent
+- targeted advertising
+- legitimate interest
+- behavioral advertising
 ---
 
 # CNPD Luxembourg v Amazon - EUR 746 Million Fine

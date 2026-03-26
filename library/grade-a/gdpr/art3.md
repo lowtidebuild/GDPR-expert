@@ -1,44 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 3
 article_sub: 0
-article_title: "Territorial scope"
-chapter: "I"
-chapter_title: "Subject-matter and objectives"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_3/oj/eng"
-effective_date: "20180525"
+article_title: Territorial scope
+chapter: I
+chapter_title: Subject-matter and objectives
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_3/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 22"
-  - "Recital 23"
-  - "Recital 24"
-  - "Recital 25"
-
-# === Search Metadata ===
+- Recital 22
+- Recital 23
+- Recital 24
+- Recital 25
 keywords:
-  - "territorial"
-  - "scope"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "personal data"
-  - "processing"
-  - "activities"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "personal data"
+- territorial
+- scope
+- controller
+- processor
+- data subject
+- personal data
+- processing
+- activities
 ---
 
 ## Article 3 — Territorial scope

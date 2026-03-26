@@ -17,6 +17,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+import yaml
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 LIBRARY_DIR = BASE_DIR / "library"
 INDEX_DIR = BASE_DIR / "index"
@@ -25,47 +27,19 @@ INDEX_DIR = BASE_DIR / "index"
 def parse_frontmatter(filepath: Path) -> dict:
     """Parse YAML frontmatter from a markdown file."""
     text = filepath.read_text(encoding="utf-8")
-    if not text.startswith("---"):
+    if not text.startswith("---\n"):
         return {}
-    end = text.find("---", 3)
+    end = text.find("\n---\n", 4)
     if end == -1:
         return {}
-    fm_text = text[3:end]
-    result = {}
-    current_key = None
-    current_list = None
+    fm_text = text[4:end]
+    parsed = yaml.safe_load(fm_text)
+    return parsed if isinstance(parsed, dict) else {}
 
-    for line in fm_text.split("\n"):
-        line = line.rstrip()
-        if not line or line.startswith("#"):
-            continue
-        # List item
-        if line.startswith("  - "):
-            val = line.strip("  - ").strip().strip('"').strip("'")
-            if current_list is not None:
-                current_list.append(val)
-            continue
-        # Key: value
-        match = re.match(r'^(\w[\w_]*)\s*:\s*(.*)', line)
-        if match:
-            key = match.group(1)
-            val = match.group(2).strip().strip('"').strip("'")
-            if val == "":
-                # Might be start of a list
-                result[key] = []
-                current_key = key
-                current_list = result[key]
-            elif val == "null":
-                result[key] = None
-                current_list = None
-            else:
-                # Try numeric
-                try:
-                    result[key] = int(val)
-                except ValueError:
-                    result[key] = val
-                current_list = None
-    return result
+
+def ensure_list(value) -> list:
+    """Return a list for frontmatter list fields."""
+    return value if isinstance(value, list) else []
 
 
 def build_article_index():
@@ -93,7 +67,7 @@ def build_article_index():
                 "path": str(md.relative_to(BASE_DIR)),
                 "source_grade": fm.get("source_grade", "A"),
                 "effective_date": fm.get("effective_date", ""),
-                "keywords": fm.get("keywords", []) if isinstance(fm.get("keywords"), list) else [],
+                "keywords": ensure_list(fm.get("keywords")),
             })
 
     index = {
@@ -135,7 +109,7 @@ def build_recital_index():
                 "law_id": fm.get("law_id", ""),
                 "recital": str(recital_num),
                 "path": str(md.relative_to(BASE_DIR)),
-                "related_articles": fm.get("related_articles", []) if isinstance(fm.get("related_articles"), list) else [],
+                "related_articles": ensure_list(fm.get("related_articles")),
             })
 
     index = {
@@ -173,8 +147,8 @@ def build_edpb_document_index():
                 "published_date": fm.get("published_date", ""),
                 "path": str(md.relative_to(BASE_DIR)),
                 "source_grade": fm.get("source_grade", "A"),
-                "gdpr_articles": fm.get("gdpr_articles", []) if isinstance(fm.get("gdpr_articles"), list) else [],
-                "keywords": fm.get("keywords", []) if isinstance(fm.get("keywords"), list) else [],
+                "gdpr_articles": ensure_list(fm.get("gdpr_articles")),
+                "keywords": ensure_list(fm.get("keywords")),
                 "conversion_quality": fm.get("conversion_quality", "unknown"),
                 "char_count": fm.get("char_count", 0),
             })
@@ -213,8 +187,9 @@ def build_case_index():
                 "judgment_date": fm.get("published_date", fm.get("judgment_date", "")),
                 "path": str(md.relative_to(BASE_DIR)),
                 "source_grade": "A",
-                "gdpr_articles": fm.get("gdpr_articles", []) if isinstance(fm.get("gdpr_articles"), list) else [],
-                "keywords": fm.get("keywords", []) if isinstance(fm.get("keywords"), list) else [],
+                "source_url": fm.get("source_url", ""),
+                "gdpr_articles": ensure_list(fm.get("gdpr_articles")),
+                "keywords": ensure_list(fm.get("keywords")),
                 "significance": fm.get("significance", ""),
             })
 
@@ -247,11 +222,13 @@ def build_enforcement_index():
             "publisher": fm.get("publisher", ""),
             "target_entity": fm.get("target_entity", ""),
             "fine_amount": fm.get("fine_amount", ""),
-            "published_date": fm.get("published_date", ""),
+            "decision_date": fm.get("decision_date", fm.get("published_date", "")),
+            "published_date": fm.get("published_date", fm.get("decision_date", "")),
             "path": str(md.relative_to(BASE_DIR)),
             "source_grade": "B",
-            "violated_articles": fm.get("violated_articles", []) if isinstance(fm.get("violated_articles"), list) else [],
-            "keywords": fm.get("keywords", []) if isinstance(fm.get("keywords"), list) else [],
+            "source_url": fm.get("source_url", ""),
+            "violated_articles": ensure_list(fm.get("violated_articles")),
+            "keywords": ensure_list(fm.get("keywords")),
         })
 
     index = {
@@ -299,7 +276,14 @@ def update_source_registry():
         count = len(list(dir_path.glob(pattern))) if dir_path.exists() else 0
         if key not in registry["sources"].get("grade-a", {}):
             registry["sources"]["grade-a"][key] = {}
-        registry["sources"]["grade-a"][key]["status"] = "complete" if count > 0 else "pending"
+        target = registry["sources"]["grade-a"][key].get("target")
+        if count == 0:
+            status = "pending"
+        elif isinstance(target, int) and target > 0 and count < target:
+            status = "partial"
+        else:
+            status = "complete"
+        registry["sources"]["grade-a"][key]["status"] = status
         registry["sources"]["grade-a"][key]["count"] = count
 
     # Enforcement

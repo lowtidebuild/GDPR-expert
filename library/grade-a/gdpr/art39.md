@@ -1,43 +1,32 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 39
 article_sub: 0
-article_title: "Tasks of the data protection officer"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_39/oj/eng"
-effective_date: "20180525"
+article_title: Tasks of the data protection officer
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_39/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 35"
-  - "Art. 36"
-
+- Art. 35
+- Art. 36
 related_recitals:
-  - "Recital 97"
-
-# === Search Metadata ===
+- Recital 97
 keywords:
-  - "tasks"
-  - "data"
-  - "protection"
-  - "officer"
-  - "controller"
-  - "data protection"
-  - "data protection officer"
-  - "processor"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "personal data"
-  - "data protection officer"
+- tasks
+- data
+- protection
+- officer
+- controller
+- data protection
+- data protection officer
+- processor
+- processing
+- personal data
 ---
 
 ## Article 39 — Tasks of the data protection officer

@@ -1,31 +1,24 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 67
 article_sub: 0
-article_title: "Advisory forum"
-chapter: "VII"
-chapter_title: "AI Office"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_67/oj/eng"
-effective_date: "20240801"
+article_title: Advisory forum
+chapter: VII
+chapter_title: AI Office
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_67/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "advisory"
-  - "forum"
-  - "fundamental rights"
-  - "expertise"
-  - "membership"
-  - "balanced"
+- advisory
+- forum
+- fundamental rights
+- expertise
+- membership
+- balanced
 ---
 
 ## Article 67 — Advisory forum

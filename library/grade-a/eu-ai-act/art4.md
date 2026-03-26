@@ -1,31 +1,24 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 4
 article_sub: 0
-article_title: "AI literacy"
-chapter: "I"
-chapter_title: "Subject matter`"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_4/oj/eng"
-effective_date: "20240801"
+article_title: AI literacy
+chapter: I
+chapter_title: Subject matter`
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_4/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "literacy"
-  - "provider"
-  - "ai system"
-  - "deployer"
-  - "systems"
-  - "persons"
+- literacy
+- provider
+- ai system
+- deployer
+- systems
+- persons
 ---
 
 ## Article 4 — AI literacy

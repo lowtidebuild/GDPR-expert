@@ -1,48 +1,39 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 12
 article_sub: 0
-article_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_12/oj/eng"
-effective_date: "20180525"
+article_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_12/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 11"
-  - "Art. 11(2)"
-  - "Art. 92"
-
+- Art. 11
+- Art. 11(2)
+- Art. 92
 related_recitals:
-  - "Recital 38"
-  - "Recital 58"
-  - "Recital 59"
-  - "Recital 60"
-  - "Recital 73"
-
-# === Search Metadata ===
+- Recital 38
+- Recital 58
+- Recital 59
+- Recital 60
+- Recital 73
 keywords:
-  - "transparent"
-  - "information"
-  - "communication"
-  - "modalities"
-  - "exercise"
-  - "rights"
-  - "data"
-  - "subject"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "information"
-  - "child"
+- transparent
+- information
+- communication
+- modalities
+- exercise
+- rights
+- data
+- subject
+- processing
+- controller
+- data subject
+- child
 ---
 
 ## Article 12 — Transparent information, communication and modalities for the exercise of the rights of the data subject

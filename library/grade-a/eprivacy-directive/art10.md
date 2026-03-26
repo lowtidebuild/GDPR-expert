@@ -1,32 +1,25 @@
 ---
-# === Identification ===
-law: "Directive on Privacy and Electronic Communications"
-law_id: "02002L0058-20091219"
+law: Directive on Privacy and Electronic Communications
+law_id: 02002L0058-20091219
 article: 10
 article_sub: 0
-article_title: "Exceptions"
-chapter: "II"
-chapter_title: "Confidentiality"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_10/oj/eng"
-effective_date: "20020731"
+article_title: Exceptions
+chapter: II
+chapter_title: Confidentiality
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/dir/2002/58/art_10/oj/eng
+effective_date: '20020731'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-25'
+cross_references: []
 keywords:
-  - "exceptions"
-  - "electronic communications"
-  - "provider"
-  - "consent"
-  - "available"
-  - "calling"
-  - "identification"
+- exceptions
+- electronic communications
+- provider
+- consent
+- available
+- calling
+- identification
 ---
 
 ## Article 10 —

@@ -1,40 +1,34 @@
 ---
-# === Identification ===
-source_id: "b-decision-datatilsynet-grindr-6m-consent-special-categories"
-slug: "datatilsynet-grindr-6m-consent-special-categories"
-title_en: "Datatilsynet v Grindr — EUR 5.7 Million (NOK 65M)"
+source_id: b-decision-datatilsynet-grindr-6m-consent-special-categories
+slug: datatilsynet-grindr-6m-consent-special-categories
+title_en: Datatilsynet v Grindr — EUR 5.7 Million (NOK 65M)
 document_type: decision
-source_grade: "B"
-publisher: "Datatilsynet (Norway)"
-target_entity: "Grindr LLC"
-fine_amount: "NOK 65,000,000 (approx. EUR 5,700,000)"
-decision_date: "2021-12-13"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: Datatilsynet (Norway)
+target_entity: Grindr LLC
+fine_amount: NOK 65,000,000 (approx. EUR 5,700,000)
+decision_date: '2021-12-13'
+source_url: https://www.datatilsynet.no/en/regulations-and-tools/regulations/avgjorelser-fra-datatilsynet/2021/gebyr-til-grindr/
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 6(1)"
-  - "Art. 9(1)"
-
-# === Search Metadata ===
+- Art. 6(1)
+- Art. 9(1)
 keywords:
-  - "datatilsynet"
-  - "grindr"
-  - "eur"
-  - "million"
-  - "nok"
-  - "privacy"
-  - "consent"
-  - "fine"
-  - "special categories"
-  - "sexual orientation"
-  - "consent"
-  - "third-party sharing"
-  - "advertising"
-  - "dating app"
+- datatilsynet
+- grindr
+- eur
+- million
+- nok
+- privacy
+- consent
+- fine
+- special categories
+- sexual orientation
+- third-party sharing
+- advertising
+- dating app
 ---
 
 ## Datatilsynet v Grindr — EUR 5.7 Million (NOK 65M)

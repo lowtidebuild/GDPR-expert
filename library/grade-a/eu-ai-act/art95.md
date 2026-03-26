@@ -1,33 +1,26 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 95
 article_sub: 0
-article_title: "Codes of conduct for voluntary application of specific requirements"
-chapter: "X"
-chapter_title: "Codes of conduct for voluntary application of specific requirements"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_95/oj/eng"
-effective_date: "20240801"
+article_title: Codes of conduct for voluntary application of specific requirements
+chapter: X
+chapter_title: Codes of conduct for voluntary application of specific requirements
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_95/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "codes"
-  - "conduct"
-  - "voluntary"
-  - "application"
-  - "specific"
-  - "requirements"
-  - "codes of conduct"
-  - "provider"
+- codes
+- conduct
+- voluntary
+- application
+- specific
+- requirements
+- codes of conduct
+- provider
 ---
 
 ## Article 95 — Codes of conduct for voluntary application of specific requirements

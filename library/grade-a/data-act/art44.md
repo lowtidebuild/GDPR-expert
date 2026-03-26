@@ -1,34 +1,27 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 44
 article_sub: 0
-article_title: "Other Union legal acts governing rights and obligations on data access and use"
-chapter: "XI"
-chapter_title: "Other Union legal acts governing rights and obligations on data access and use"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_44/oj/eng"
-effective_date: "20240111"
+article_title: Other Union legal acts governing rights and obligations on data access and use
+chapter: XI
+chapter_title: Other Union legal acts governing rights and obligations on data access and use
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_44/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "legal"
-  - "acts"
-  - "governing"
-  - "rights"
-  - "obligations"
-  - "data"
-  - "access"
-  - "use"
-  - "public interest"
+- legal
+- acts
+- governing
+- rights
+- obligations
+- data
+- access
+- use
+- public interest
 ---
 
 ## Article 44 — Other Union legal acts governing rights and obligations on data access and use

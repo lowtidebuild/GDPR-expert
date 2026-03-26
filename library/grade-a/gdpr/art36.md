@@ -1,44 +1,34 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 36
 article_sub: 0
-article_title: "Prior consultation"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_36/oj/eng"
-effective_date: "20180525"
+article_title: Prior consultation
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_36/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 35"
-  - "Art. 58"
-
+- Art. 35
+- Art. 58
 related_recitals:
-  - "Recital 94"
-  - "Recital 95"
-  - "Recital 96"
-
-# === Search Metadata ===
+- Recital 94
+- Recital 95
+- Recital 96
 keywords:
-  - "prior"
-  - "consultation"
-  - "controller"
-  - "data protection"
-  - "data protection officer"
-  - "processor"
-  - "safeguards"
-  - "impact assessment"
-  - "processing"
-  - "controller"
-  - "supervisory authority"
-  - "impact assessment"
+- prior
+- consultation
+- controller
+- data protection
+- data protection officer
+- processor
+- safeguards
+- impact assessment
+- processing
+- supervisory authority
 ---
 
 ## Article 36 — Prior consultation

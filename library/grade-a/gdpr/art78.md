@@ -1,40 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 78
 article_sub: 0
-article_title: "Right to an effective judicial remedy against a supervisory authority"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_78/oj/eng"
-effective_date: "20180525"
+article_title: Right to an effective judicial remedy against a supervisory authority
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_78/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 77"
-
+- Art. 77
 related_recitals:
-  - "Recital 141"
-  - "Recital 143"
-
-# === Search Metadata ===
+- Recital 141
+- Recital 143
 keywords:
-  - "right"
-  - "effective"
-  - "judicial"
-  - "remedy"
-  - "supervisory"
-  - "authority"
-  - "judicial remedy"
-  - "supervisory authority"
-  - "data subject"
-  - "supervisory authority"
+- right
+- effective
+- judicial
+- remedy
+- supervisory
+- authority
+- judicial remedy
+- supervisory authority
+- data subject
 ---
 
 ## Article 78 — Right to an effective judicial remedy against a supervisory authority

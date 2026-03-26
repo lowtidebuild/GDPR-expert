@@ -1,40 +1,33 @@
 ---
-# === Identification ===
-source_id: "b-decision-dpc-linkedin-310m-advertising"
-slug: "dpc-linkedin-310m-advertising"
-title_en: "DPC Ireland v LinkedIn — EUR 310 Million"
+source_id: b-decision-dpc-linkedin-310m-advertising
+slug: dpc-linkedin-310m-advertising
+title_en: DPC Ireland v LinkedIn — EUR 310 Million
 document_type: decision
-source_grade: "B"
-publisher: "DPC (Ireland)"
-target_entity: "LinkedIn Ireland Unlimited Company"
-fine_amount: "EUR 310,000,000"
-decision_date: "2024-10-24"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: DPC (Ireland)
+target_entity: LinkedIn Ireland Unlimited Company
+fine_amount: EUR 310,000,000
+decision_date: '2024-10-24'
+source_url: https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 6(1)"
-  - "Art. 5(1)(a)"
-
-# === Search Metadata ===
+- Art. 6(1)
+- Art. 5(1)(a)
 keywords:
-  - "dpc"
-  - "ireland"
-  - "linkedin"
-  - "eur"
-  - "million"
-  - "data protection"
-  - "consent"
-  - "legitimate interest"
-  - "behavioral analysis"
-  - "targeted advertising"
-  - "legitimate interest"
-  - "consent"
-  - "fairness"
-  - "transparency"
+- dpc
+- ireland
+- linkedin
+- eur
+- million
+- data protection
+- consent
+- legitimate interest
+- behavioral analysis
+- targeted advertising
+- fairness
+- transparency
 ---
 
 # DPC Ireland v LinkedIn - EUR 310 Million Fine

@@ -1,45 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 22
 article_sub: 0
-article_title: "Automated individual decision-making, including profiling"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_22/oj/eng"
-effective_date: "20180525"
+article_title: Automated individual decision-making, including profiling
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_22/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 9(1)"
-  - "Art. 9(2)"
-
+- Art. 9(1)
+- Art. 9(2)
 related_recitals:
-  - "Recital 71"
-  - "Recital 72"
-  - "Recital 91"
-
-# === Search Metadata ===
+- Recital 71
+- Recital 72
+- Recital 91
 keywords:
-  - "automated"
-  - "individual"
-  - "decision-making"
-  - "profiling"
-  - "controller"
-  - "consent"
-  - "legitimate interest"
-  - "data subject"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "profiling"
-  - "automated"
+- automated
+- individual
+- decision-making
+- profiling
+- controller
+- consent
+- legitimate interest
+- data subject
+- processing
 ---
 
 ## Article 22 — Automated individual decision-making, including profiling

@@ -1,42 +1,36 @@
 ---
-# === Identification ===
-source_id: "a-precedent-c-311-18-schrems-ii"
-slug: "c-311-18-schrems-ii"
-title_en: "Facebook Ireland and Schrems (Schrems II)"
-case_number: "C-311/18"
-ecli: "ECLI:EU:C:2020:559"
+source_id: a-precedent-c-311-18-schrems-ii
+slug: c-311-18-schrems-ii
+title_en: Facebook Ireland and Schrems (Schrems II)
+case_number: C-311/18
+ecli: ECLI:EU:C:2020:559
 document_type: precedent
-source_grade: "A"
-publisher: "Court of Justice of the European Union (CJEU)"
-judgment_date: "2020-07-16"
-source_url: "https://gdprhub.eu"
+source_grade: A
+publisher: Court of Justice of the European Union (CJEU)
+judgment_date: '2020-07-16'
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62018CJ0311
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Related GDPR Articles ===
+significance: landmark
+retrieved_at: '2026-03-25'
 gdpr_articles:
-  - "Art. 44"
-  - "Art. 45"
-  - "Art. 46"
-  - "Art. 49"
-
-# === Search Metadata ===
+- Art. 44
+- Art. 45
+- Art. 46
+- Art. 49
 keywords:
-  - "facebook"
-  - "ireland"
-  - "schrems"
-  - "standard contractual clauses"
-  - "adequacy"
-  - "controller"
-  - "data protection"
-  - "security"
-  - "international transfers"
-  - "Privacy Shield"
-  - "SCC"
-  - "adequacy"
-  - "surveillance"
-  - "FISA"
+- facebook
+- ireland
+- schrems
+- standard contractual clauses
+- adequacy
+- controller
+- data protection
+- security
+- international transfers
+- Privacy Shield
+- SCC
+- surveillance
+- FISA
 ---
 
 # CJEU C-311/18: Facebook Ireland and Schrems (Schrems II)

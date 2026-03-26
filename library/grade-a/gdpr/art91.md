@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 91
 article_sub: 0
-article_title: "Existing data protection rules of churches and religious associations"
-chapter: "IX"
-chapter_title: "Processing and freedom of expression and information"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_91/oj/eng"
-effective_date: "20180525"
+article_title: Existing data protection rules of churches and religious associations
+chapter: IX
+chapter_title: Processing and freedom of expression and information
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_91/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 165"
-
-# === Search Metadata ===
+- Recital 165
 keywords:
-  - "existing"
-  - "data"
-  - "protection"
-  - "rules"
-  - "churches"
-  - "religious"
-  - "associations"
-  - "data protection"
-  - "processing"
+- existing
+- data
+- protection
+- rules
+- churches
+- religious
+- associations
+- data protection
+- processing
 ---
 
 ## Article 91 — Existing data protection rules of churches and religious associations

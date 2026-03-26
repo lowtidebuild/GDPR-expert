@@ -1,33 +1,26 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 15
 article_sub: 0
-article_title: "Exceptional need to use data"
-chapter: "V"
-chapter_title: "Obligation to make data available on the basis of an exceptional need"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_15/oj/eng"
-effective_date: "20240111"
+article_title: Exceptional need to use data
+chapter: V
+chapter_title: Obligation to make data available on the basis of an exceptional need
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_15/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "exceptional"
-  - "need"
-  - "use"
-  - "data"
-  - "public sector"
-  - "personal data"
-  - "body"
-  - "circumstances"
+- exceptional
+- need
+- use
+- data
+- public sector
+- personal data
+- body
+- circumstances
 ---
 
 ## Article 15 — Exceptional need to use data

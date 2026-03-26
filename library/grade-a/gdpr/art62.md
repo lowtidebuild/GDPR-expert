@@ -1,46 +1,35 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 62
 article_sub: 0
-article_title: "Joint operations of supervisory authorities"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_62/oj/eng"
-effective_date: "20180525"
+article_title: Joint operations of supervisory authorities
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_62/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 55"
-  - "Art. 56(1)"
-  - "Art. 66(1)"
-  - "Art. 66(2)"
-
+- Art. 55
+- Art. 56(1)
+- Art. 66(1)
+- Art. 66(2)
 related_recitals:
-  - "Recital 126"
-  - "Recital 134"
-
-# === Search Metadata ===
+- Recital 126
+- Recital 134
 keywords:
-  - "joint"
-  - "operations"
-  - "supervisory"
-  - "authorities"
-  - "controller"
-  - "processor"
-  - "liability"
-  - "supervisory authority"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "supervisory authority"
+- joint
+- operations
+- supervisory
+- authorities
+- controller
+- processor
+- liability
+- supervisory authority
+- processing
+- data subject
 ---
 
 ## Article 62 — Joint operations of supervisory authorities

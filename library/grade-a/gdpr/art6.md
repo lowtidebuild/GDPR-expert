@@ -1,57 +1,47 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 6
 article_sub: 0
-article_title: "Lawfulness of processing"
-chapter: "II"
-chapter_title: "Principles relating to processing of personal data"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj/eng"
-effective_date: "20180525"
+article_title: Lawfulness of processing
+chapter: II
+chapter_title: Principles relating to processing of personal data
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 10"
-  - "Art. 23(1)"
-  - "Art. 9"
-
+- Art. 10
+- Art. 23(1)
+- Art. 9
 related_recitals:
-  - "Recital 39"
-  - "Recital 40"
-  - "Recital 41"
-  - "Recital 42"
-  - "Recital 43"
-  - "Recital 44"
-  - "Recital 45"
-  - "Recital 46"
-  - "Recital 47"
-  - "Recital 48"
-  - "Recital 49"
-  - "Recital 50"
-  - "Recital 171"
-
-# === Search Metadata ===
+- Recital 39
+- Recital 40
+- Recital 41
+- Recital 42
+- Recital 43
+- Recital 44
+- Recital 45
+- Recital 46
+- Recital 47
+- Recital 48
+- Recital 49
+- Recital 50
+- Recital 171
 keywords:
-  - "lawfulness"
-  - "processing"
-  - "controller"
-  - "pseudonymisation"
-  - "fundamental rights"
-  - "safeguards"
-  - "consent"
-  - "legitimate interest"
-  - "consent"
-  - "lawful"
-  - "processing"
-  - "data subject"
-  - "personal data"
-  - "legal obligation"
+- lawfulness
+- processing
+- controller
+- pseudonymisation
+- fundamental rights
+- safeguards
+- consent
+- legitimate interest
+- lawful
+- data subject
+- personal data
+- legal obligation
 ---
 
 ## Article 6 — Lawfulness of processing

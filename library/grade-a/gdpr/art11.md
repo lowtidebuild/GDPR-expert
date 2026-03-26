@@ -1,40 +1,28 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 11
 article_sub: 0
-article_title: "Processing which does not require identification"
-chapter: "II"
-chapter_title: "Principles relating to processing of personal data"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_11/oj/eng"
-effective_date: "20180525"
+article_title: Processing which does not require identification
+chapter: II
+chapter_title: Principles relating to processing of personal data
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_11/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 57"
-
-# === Search Metadata ===
+- Recital 57
 keywords:
-  - "processing"
-  - "require"
-  - "identification"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "identify"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "information"
+- processing
+- require
+- identification
+- controller
+- data subject
+- personal data
+- identify
+- information
 ---
 
 ## Article 11 — Processing which does not require identification

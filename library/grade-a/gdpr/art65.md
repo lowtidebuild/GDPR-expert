@@ -1,42 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 65
 article_sub: 0
-article_title: "Dispute resolution by the Board"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_65/oj/eng"
-effective_date: "20180525"
+article_title: Dispute resolution by the Board
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_65/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 60(4)"
-  - "Art. 60(7)"
-  - "Art. 64"
-  - "Art. 64(1)"
-
+- Art. 60(4)
+- Art. 60(7)
+- Art. 64
+- Art. 64(1)
 related_recitals:
-  - "Recital 136"
-
-# === Search Metadata ===
+- Recital 136
 keywords:
-  - "dispute"
-  - "resolution"
-  - "board"
-  - "controller"
-  - "processor"
-  - "supervisory authority"
-  - "data subject"
-  - "decision"
-  - "supervisory authority"
-  - "objection"
+- dispute
+- resolution
+- board
+- controller
+- processor
+- supervisory authority
+- data subject
+- decision
+- objection
 ---
 
 ## Article 65 — Dispute resolution by the Board

@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 23
 article_sub: 0
-article_title: "Removing obstacles to effective switching"
-chapter: "VI"
-chapter_title: "Removing obstacles to effective switching"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_23/oj/eng"
-effective_date: "20240111"
+article_title: Removing obstacles to effective switching
+chapter: VI
+chapter_title: Removing obstacles to effective switching
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_23/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 24"
-  - "Art. 25"
-  - "Art. 30(1)"
-
-# === Search Metadata ===
+- Art. 24
+- Art. 25
+- Art. 30(1)
 keywords:
-  - "removing"
-  - "obstacles"
-  - "effective"
-  - "switching"
-  - "provider"
-  - "data"
-  - "processing"
-  - "services"
-  - "processing"
+- removing
+- obstacles
+- effective
+- switching
+- provider
+- data
+- processing
+- services
 ---
 
 ## Article 23 — Removing obstacles to effective switching

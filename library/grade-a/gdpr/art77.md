@@ -1,41 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 77
 article_sub: 0
-article_title: "Right to lodge a complaint with a supervisory authority"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_77/oj/eng"
-effective_date: "20180525"
+article_title: Right to lodge a complaint with a supervisory authority
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_77/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 78"
-
+- Art. 78
 related_recitals:
-  - "Recital 141"
-
-# === Search Metadata ===
+- Recital 141
 keywords:
-  - "right"
-  - "lodge"
-  - "complaint"
-  - "supervisory"
-  - "authority"
-  - "judicial remedy"
-  - "supervisory authority"
-  - "data subject"
-  - "processing"
-  - "data subject"
-  - "personal data"
-  - "supervisory authority"
+- right
+- lodge
+- complaint
+- supervisory
+- authority
+- judicial remedy
+- supervisory authority
+- data subject
+- processing
+- personal data
 ---
 
 ## Article 77 — Right to lodge a complaint with a supervisory authority

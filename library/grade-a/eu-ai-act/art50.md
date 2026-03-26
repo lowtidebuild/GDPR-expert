@@ -1,36 +1,28 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 50
 article_sub: 0
-article_title: "Transparency obligations for providers and deployers of certain AI systems"
-chapter: "IV"
-chapter_title: "Transparency obligations for providers and deployers of certain AI systems"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_50/oj/eng"
-effective_date: "20240801"
+article_title: Transparency obligations for providers and deployers of certain AI systems
+chapter: IV
+chapter_title: Transparency obligations for providers and deployers of certain AI systems
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_50/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 56"
-  - "Art. 98(2)"
-
-# === Search Metadata ===
+- Art. 56
+- Art. 98(2)
 keywords:
-  - "transparency"
-  - "obligations"
-  - "providers"
-  - "deployers"
-  - "certain"
-  - "systems"
-  - "provider"
-  - "biometric"
-  - "transparency"
+- transparency
+- obligations
+- providers
+- deployers
+- certain
+- systems
+- provider
+- biometric
 ---
 
 ## Article 50 — Transparency obligations for providers and deployers of certain AI systems

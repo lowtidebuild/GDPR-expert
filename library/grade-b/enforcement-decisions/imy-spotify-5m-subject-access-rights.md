@@ -1,39 +1,34 @@
 ---
-# === Identification ===
-source_id: "b-decision-imy-spotify-5m-subject-access-rights"
-slug: "imy-spotify-5m-subject-access-rights"
-title_en: "IMY v Spotify — EUR 5 Million (SEK 58M)"
+source_id: b-decision-imy-spotify-5m-subject-access-rights
+slug: imy-spotify-5m-subject-access-rights
+title_en: IMY v Spotify — EUR 5 Million (SEK 58M)
 document_type: decision
-source_grade: "B"
-publisher: "IMY (Sweden)"
-target_entity: "Spotify AB"
-fine_amount: "SEK 58,000,000 (approx. EUR 5,000,000)"
-decision_date: "2023-06-12"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: IMY (Sweden)
+target_entity: Spotify AB
+fine_amount: SEK 58,000,000 (approx. EUR 5,000,000)
+decision_date: '2023-06-12'
+source_url: https://www.imy.se/en/news/administrative-fee-against-spotify/
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 12"
-  - "Art. 15(1)"
-  - "Art. 15(2)"
-
-# === Search Metadata ===
+- Art. 12
+- Art. 15(1)
+- Art. 15(2)
 keywords:
-  - "imy"
-  - "spotify"
-  - "eur"
-  - "million"
-  - "sek"
-  - "data subject"
-  - "personal data"
-  - "data subject access"
-  - "right of access"
-  - "transparency"
-  - "DSAR"
-  - "technical data"
+- imy
+- spotify
+- eur
+- million
+- sek
+- data subject
+- personal data
+- data subject access
+- right of access
+- transparency
+- DSAR
+- technical data
 ---
 
 ## IMY v Spotify — EUR 5 Million (SEK 58M)

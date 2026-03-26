@@ -1,43 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 44
 article_sub: 0
-article_title: "General principle for transfers"
-chapter: "V"
-chapter_title: "General principle for transfers"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_44/oj/eng"
-effective_date: "20180525"
+article_title: General principle for transfers
+chapter: V
+chapter_title: General principle for transfers
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_44/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 101"
-  - "Recital 102"
-
-# === Search Metadata ===
+- Recital 101
+- Recital 102
 keywords:
-  - "general"
-  - "principle"
-  - "transfers"
-  - "controller"
-  - "processor"
-  - "transfer"
-  - "personal data"
-  - "third"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "personal data"
-  - "transfer"
-  - "international"
+- general
+- principle
+- transfers
+- controller
+- processor
+- transfer
+- personal data
+- third
+- processing
+- international
 ---
 
 ## Article 44 — General principle for transfers

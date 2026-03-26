@@ -1,46 +1,35 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 30
 article_sub: 0
-article_title: "Records of processing activities"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_30/oj/eng"
-effective_date: "20180525"
+article_title: Records of processing activities
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_30/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 10"
-  - "Art. 32(1)"
-  - "Art. 49(1)"
-  - "Art. 9(1)"
-
+- Art. 10
+- Art. 32(1)
+- Art. 49(1)
+- Art. 9(1)
 related_recitals:
-  - "Recital 13"
-  - "Recital 82"
-
-# === Search Metadata ===
+- Recital 13
+- Recital 82
 keywords:
-  - "records"
-  - "processing"
-  - "activities"
-  - "controller"
-  - "data protection"
-  - "security"
-  - "data protection officer"
-  - "processor"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "data protection officer"
-  - "information"
+- records
+- processing
+- activities
+- controller
+- data protection
+- security
+- data protection officer
+- processor
+- data subject
+- information
 ---
 
 ## Article 30 — Records of processing activities

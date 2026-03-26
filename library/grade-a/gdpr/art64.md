@@ -1,50 +1,40 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 64
 article_sub: 0
-article_title: "Opinion of the Board"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_64/oj/eng"
-effective_date: "20180525"
+article_title: Opinion of the Board
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_64/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 28(8)"
-  - "Art. 35(4)"
-  - "Art. 40(7)"
-  - "Art. 41(3)"
-  - "Art. 43(3)"
-  - "Art. 46(2)"
-  - "Art. 46(3)"
-  - "Art. 47"
-  - "Art. 61"
-  - "Art. 62"
-  - "Art. 65(1)"
-
+- Art. 28(8)
+- Art. 35(4)
+- Art. 40(7)
+- Art. 41(3)
+- Art. 43(3)
+- Art. 46(2)
+- Art. 46(3)
+- Art. 47
+- Art. 61
+- Art. 62
+- Art. 65(1)
 related_recitals:
-  - "Recital 136"
-
-# === Search Metadata ===
+- Recital 136
 keywords:
-  - "opinion"
-  - "board"
-  - "data protection"
-  - "impact assessment"
-  - "certification"
-  - "supervisory authority"
-  - "binding corporate rules"
-  - "processing"
-  - "supervisory authority"
-  - "impact assessment"
-  - "code of conduct"
+- opinion
+- board
+- data protection
+- impact assessment
+- certification
+- supervisory authority
+- binding corporate rules
+- processing
+- code of conduct
 ---
 
 ## Article 64 — Opinion of the Board

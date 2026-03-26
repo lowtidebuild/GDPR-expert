@@ -1,39 +1,34 @@
 ---
-# === Identification ===
-source_id: "a-precedent-c-582-14-breyer"
-slug: "c-582-14-breyer"
-title_en: "Patrick Breyer v Bundesrepublik Deutschland"
-case_number: "C-582/14"
-ecli: "ECLI:EU:C:2016:779"
+source_id: a-precedent-c-582-14-breyer
+slug: c-582-14-breyer
+title_en: Patrick Breyer v Bundesrepublik Deutschland
+case_number: C-582/14
+ecli: ECLI:EU:C:2016:779
 document_type: precedent
-source_grade: "A"
-publisher: "Court of Justice of the European Union (CJEU)"
-judgment_date: "2016-10-19"
-source_url: "https://gdprhub.eu"
+source_grade: A
+publisher: Court of Justice of the European Union (CJEU)
+judgment_date: '2016-10-19'
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62014CJ0582
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Related GDPR Articles ===
+significance: important
+retrieved_at: '2026-03-25'
 gdpr_articles:
-  - "Art. 4(1)"
-  - "Art. 6(1)(f)"
-
-# === Search Metadata ===
+- Art. 4(1)
+- Art. 6(1)(f)
 keywords:
-  - "patrick"
-  - "breyer"
-  - "bundesrepublik"
-  - "deutschland"
-  - "controller"
-  - "data protection"
-  - "fundamental rights"
-  - "provider"
-  - "personal data"
-  - "dynamic IP address"
-  - "identification"
-  - "legitimate interest"
-  - "definition"
+- patrick
+- breyer
+- bundesrepublik
+- deutschland
+- controller
+- data protection
+- fundamental rights
+- provider
+- personal data
+- dynamic IP address
+- identification
+- legitimate interest
+- definition
 ---
 
 # CJEU C-582/14: Breyer (Dynamic IP Addresses)

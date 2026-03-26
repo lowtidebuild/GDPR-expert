@@ -1,44 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 37
 article_sub: 0
-article_title: "Designation of the data protection officer"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_37/oj/eng"
-effective_date: "20180525"
+article_title: Designation of the data protection officer
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_37/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 10"
-  - "Art. 39"
-  - "Art. 9"
-
+- Art. 10
+- Art. 39
+- Art. 9
 related_recitals:
-  - "Recital 97"
-
-# === Search Metadata ===
+- Recital 97
 keywords:
-  - "designation"
-  - "data"
-  - "protection"
-  - "officer"
-  - "controller"
-  - "data protection"
-  - "data protection officer"
-  - "processor"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "data protection officer"
+- designation
+- data
+- protection
+- officer
+- controller
+- data protection
+- data protection officer
+- processor
+- processing
+- data subject
 ---
 
 ## Article 37 — Designation of the data protection officer

@@ -1,42 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 38
 article_sub: 0
-article_title: "Position of the data protection officer"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_38/oj/eng"
-effective_date: "20180525"
+article_title: Position of the data protection officer
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_38/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 39"
-
+- Art. 39
 related_recitals:
-  - "Recital 97"
-
-# === Search Metadata ===
+- Recital 97
 keywords:
-  - "position"
-  - "data"
-  - "protection"
-  - "officer"
-  - "controller"
-  - "data protection"
-  - "data protection officer"
-  - "processor"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "personal data"
-  - "data protection officer"
+- position
+- data
+- protection
+- officer
+- controller
+- data protection
+- data protection officer
+- processor
+- processing
+- personal data
 ---
 
 ## Article 38 — Position of the data protection officer

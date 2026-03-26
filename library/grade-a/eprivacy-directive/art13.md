@@ -1,38 +1,30 @@
 ---
-# === Identification ===
-law: "Directive on Privacy and Electronic Communications"
-law_id: "02002L0058-20091219"
+law: Directive on Privacy and Electronic Communications
+law_id: 02002L0058-20091219
 article: 13
 article_sub: 0
-article_title: "Unsolicited communications"
-chapter: "II"
-chapter_title: "Confidentiality"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_13/oj/eng"
-effective_date: "20020731"
+article_title: Unsolicited communications
+chapter: II
+chapter_title: Confidentiality
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/dir/2002/58/art_13/oj/eng
+effective_date: '20020731'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 15"
-  - "Art. 6"
-  - "Directive 2000/31/EC"
-
-# === Search Metadata ===
+- Art. 15
+- Art. 6
+- Directive 2000/31/EC
 keywords:
-  - "unsolicited"
-  - "communications"
-  - "electronic communications"
-  - "penalties"
-  - "provider"
-  - "direct marketing"
-  - "consent"
-  - "legitimate interest"
-  - "consent"
-  - "automated"
+- unsolicited
+- communications
+- electronic communications
+- penalties
+- provider
+- direct marketing
+- consent
+- legitimate interest
+- automated
 ---
 
 ## Article 13 —

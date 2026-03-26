@@ -1,38 +1,28 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 32
 article_sub: 0
-article_title: "International governmental access and transfer"
-chapter: "VII"
-chapter_title: "International governmental access and transfer"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_32/oj/eng"
-effective_date: "20240111"
+article_title: International governmental access and transfer
+chapter: VII
+chapter_title: International governmental access and transfer
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_32/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 42"
-
-# === Search Metadata ===
+- Art. 42
 keywords:
-  - "international"
-  - "governmental"
-  - "access"
-  - "transfer"
-  - "provider"
-  - "security"
-  - "personal data"
-  - "third-country"
-  - "processing"
-  - "personal data"
-  - "transfer"
-  - "international"
+- international
+- governmental
+- access
+- transfer
+- provider
+- security
+- personal data
+- third-country
+- processing
 ---
 
 ## Article 32 — International governmental access and transfer

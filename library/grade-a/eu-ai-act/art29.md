@@ -1,33 +1,25 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 29
 article_sub: 0
-article_title: "Application of a conformity assessment body for notification"
-chapter: "III"
-chapter_title: "Classification rules for high-risk AI systems"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_29/oj/eng"
-effective_date: "20240801"
+article_title: Application of a conformity assessment body for notification
+chapter: III
+chapter_title: Classification rules for high-risk AI systems
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_29/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 31"
-
-# === Search Metadata ===
+- Art. 31
 keywords:
-  - "application"
-  - "conformity"
-  - "assessment"
-  - "body"
-  - "notification"
-  - "ai system"
-  - "notification"
+- application
+- conformity
+- assessment
+- body
+- notification
+- ai system
 ---
 
 ## Article 29 — Application of a conformity assessment body for notification

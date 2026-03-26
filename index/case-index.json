@@ -1,7 +1,7 @@
 {
   "type": "case_index",
   "count": 51,
-  "generated_at": "2026-03-26T04:18:11.179329+00:00",
+  "generated_at": "2026-03-26T19:22:26.763889+00:00",
   "cases": [
     {
       "id": "a-precedent-c-118-22",
@@ -12,12 +12,21 @@
       "judgment_date": "2024-02-08",
       "path": "library/grade-a/cjeu-cases/c-118-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0118",
       "gdpr_articles": [
         "Art. 37",
         "Art. 38",
         "Art. 39"
       ],
       "keywords": [
+        "gemeinde",
+        "ummendorf",
+        "land",
+        "baden-w",
+        "rttemberg",
+        "dpo",
+        "ecli",
+        "public",
         "data protection officer",
         "DPO designation",
         "small municipalities",
@@ -26,7 +35,7 @@
       "significance": "notable"
     },
     {
-      "id": "b-precedent-c-131-12-google-spain",
+      "id": "a-precedent-c-131-12-google-spain",
       "slug": "c-131-12-google-spain",
       "title": "Google Spain SL v AEPD and Mario Costeja Gonzalez",
       "case_number": "C-131/12",
@@ -34,12 +43,29 @@
       "judgment_date": "2014-05-13",
       "path": "library/grade-a/cjeu-cases/c-131-12-google-spain.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62012CJ0131",
+      "gdpr_articles": [
+        "Art. 17",
+        "Art. 4(7)"
+      ],
+      "keywords": [
+        "google",
+        "spain",
+        "aepd",
+        "mario",
+        "costeja",
+        "gonzalez",
+        "controller",
+        "data protection",
+        "right to be forgotten",
+        "right to erasure",
+        "search engine",
+        "de-referencing"
+      ],
+      "significance": "landmark"
     },
     {
-      "id": "b-precedent-c-136-17-gc-v-cnil",
+      "id": "a-precedent-c-136-17-gc-v-cnil",
       "slug": "c-136-17-gc-v-cnil",
       "title": "GC and Others v CNIL (De-referencing Sensitive Data)",
       "case_number": "C-136/17",
@@ -47,12 +73,31 @@
       "judgment_date": "2019-09-24",
       "path": "library/grade-a/cjeu-cases/c-136-17-gc-v-cnil.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0136",
+      "gdpr_articles": [
+        "Art. 9(1)",
+        "Art. 10",
+        "Art. 17"
+      ],
+      "keywords": [
+        "others",
+        "cnil",
+        "de-referencing",
+        "sensitive",
+        "data",
+        "controller",
+        "personal data",
+        "search",
+        "sensitive data",
+        "search engine",
+        "right to erasure",
+        "balancing test",
+        "criminal data"
+      ],
+      "significance": "important"
     },
     {
-      "id": "b-precedent-c-154-21-osterreichische-post-access",
+      "id": "a-precedent-c-154-21-osterreichische-post-access",
       "slug": "c-154-21-osterreichische-post-access",
       "title": "RW v Osterreichische Post AG (Right of Access - Recipients)",
       "case_number": "C-154/21",
@@ -60,9 +105,25 @@
       "judgment_date": "2023-01-12",
       "path": "library/grade-a/cjeu-cases/c-154-21-osterreichische-post-access.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0154",
+      "gdpr_articles": [
+        "Art. 15(1)(c)",
+        "Art. 5(1)(a)",
+        "Art. 19"
+      ],
+      "keywords": [
+        "osterreichische",
+        "post",
+        "right",
+        "access",
+        "recipients",
+        "transparency",
+        "right of access",
+        "controller",
+        "specific identity",
+        "categories of recipients"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-175-20",
@@ -73,12 +134,21 @@
       "judgment_date": "2022-02-24",
       "path": "library/grade-a/cjeu-cases/c-175-20.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0175",
       "gdpr_articles": [
         "Art. 5(1)(c)",
         "Art. 6(1)(c)",
         "Art. 6(1)(e)"
       ],
       "keywords": [
+        "sia",
+        "'ss'",
+        "valsts",
+        "mumu",
+        "dienests",
+        "personal data",
+        "ecli",
+        "important",
         "data minimization",
         "tax authority",
         "bulk data requests",
@@ -96,11 +166,20 @@
       "judgment_date": "2024-01-25",
       "path": "library/grade-a/cjeu-cases/c-178-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0178",
       "gdpr_articles": [
         "Art. 2(2)(d)",
         "Art. 6(1)(c)"
       ],
       "keywords": [
+        "procura",
+        "della",
+        "repubblica",
+        "presso",
+        "tribunale",
+        "bolzano",
+        "gdpr",
+        "processing",
         "criminal proceedings",
         "material scope",
         "Law Enforcement Directive",
@@ -117,6 +196,7 @@
       "judgment_date": "2022-08-01",
       "path": "library/grade-a/cjeu-cases/c-184-20.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0184",
       "gdpr_articles": [
         "Art. 5(1)(c)",
         "Art. 6(1)(c)",
@@ -124,7 +204,13 @@
         "Art. 9"
       ],
       "keywords": [
+        "vyriausioji",
+        "tarnybin",
+        "etikos",
+        "komisija",
         "transparency",
+        "data protection",
+        "personal data",
         "public interest",
         "proportionality",
         "anti-corruption",
@@ -141,6 +227,7 @@
       "judgment_date": "2024-10-17",
       "path": "library/grade-a/cjeu-cases/c-200-23.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0200",
       "gdpr_articles": [
         "Art. 5(1)(c)",
         "Art. 6(1)(c)",
@@ -148,6 +235,12 @@
         "Art. 25"
       ],
       "keywords": [
+        "agentsia",
+        "vpisvaniyata",
+        "data protection",
+        "safeguards",
+        "personal data",
+        "ecli",
         "commercial registers",
         "data minimization",
         "data protection by design",
@@ -165,11 +258,20 @@
       "judgment_date": "2016-12-21",
       "path": "library/grade-a/cjeu-cases/c-203-15.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62015CJ0203",
       "gdpr_articles": [
         "Art. 5",
         "Art. 6"
       ],
       "keywords": [
+        "tele",
+        "sverige",
+        "post-",
+        "och",
+        "telestyrelsen",
+        "secretary",
+        "home",
+        "department",
         "data retention",
         "electronic communications",
         "proportionality",
@@ -179,7 +281,7 @@
       "significance": "landmark"
     },
     {
-      "id": "b-precedent-c-210-16-wirtschaftsakademie",
+      "id": "a-precedent-c-210-16-wirtschaftsakademie",
       "slug": "c-210-16-wirtschaftsakademie",
       "title": "Wirtschaftsakademie Schleswig-Holstein (Facebook Fan Page)",
       "case_number": "C-210/16",
@@ -187,9 +289,27 @@
       "judgment_date": "2018-06-05",
       "path": "library/grade-a/cjeu-cases/c-210-16-wirtschaftsakademie.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62016CJ0210",
+      "gdpr_articles": [
+        "Art. 4(7)",
+        "Art. 26"
+      ],
+      "keywords": [
+        "wirtschaftsakademie",
+        "schleswig-holstein",
+        "facebook",
+        "fan",
+        "page",
+        "controller",
+        "data protection",
+        "cookie",
+        "joint controller",
+        "fan page",
+        "social network",
+        "Facebook Insights",
+        "shared responsibility"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-231-22",
@@ -200,15 +320,22 @@
       "judgment_date": "2024-01-11",
       "path": "library/grade-a/cjeu-cases/c-231-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0231",
       "gdpr_articles": [
         "Art. 15",
         "Art. 12"
       ],
       "keywords": [
+        "belgian",
+        "autorit",
+        "protection",
+        "des",
+        "donn",
+        "transparency",
         "right of access",
+        "data subject",
         "scope",
         "administrative documents",
-        "transparency",
         "information requests"
       ],
       "significance": "notable"
@@ -222,13 +349,20 @@
       "judgment_date": "2018-07-10",
       "path": "library/grade-a/cjeu-cases/c-25-17.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0025",
       "gdpr_articles": [
         "Art. 2",
         "Art. 4(7)",
         "Art. 9"
       ],
       "keywords": [
+        "tietosuojavaltuutettu",
+        "jehovan",
+        "todistajat",
         "controller",
+        "data protection",
+        "personal data",
+        "jehovah's",
         "religious community",
         "household exemption",
         "door-to-door preaching",
@@ -237,7 +371,7 @@
       "significance": "landmark"
     },
     {
-      "id": "b-precedent-c-252-21-meta-v-bundeskartellamt",
+      "id": "a-precedent-c-252-21-meta-v-bundeskartellamt",
       "slug": "c-252-21-meta-v-bundeskartellamt",
       "title": "Meta Platforms and Others v Bundeskartellamt",
       "case_number": "C-252/21",
@@ -245,9 +379,30 @@
       "judgment_date": "2023-07-04",
       "path": "library/grade-a/cjeu-cases/c-252-21-meta-v-bundeskartellamt.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0252",
+      "gdpr_articles": [
+        "Art. 5(1)(c)",
+        "Art. 6(1)(a)",
+        "Art. 6(1)(b)",
+        "Art. 6(1)(f)",
+        "Art. 9(1)"
+      ],
+      "keywords": [
+        "meta",
+        "platforms",
+        "others",
+        "bundeskartellamt",
+        "data protection",
+        "cookie",
+        "consent",
+        "legitimate interest",
+        "special categories",
+        "dominant position",
+        "competition law",
+        "off-Facebook data",
+        "social network"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-26-22",
@@ -258,14 +413,22 @@
       "judgment_date": "2023-12-07",
       "path": "library/grade-a/cjeu-cases/c-26-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0026",
       "gdpr_articles": [
         "Art. 5(1)(e)",
         "Art. 6(1)(f)",
         "Art. 17"
       ],
       "keywords": [
-        "storage limitation",
+        "schufa",
+        "holding",
+        "discharge",
+        "remaining",
+        "debts",
+        "retention",
         "insolvency",
+        "data",
+        "storage limitation",
         "data retention",
         "right to erasure",
         "credit score",
@@ -283,11 +446,20 @@
       "judgment_date": "2023-03-02",
       "path": "library/grade-a/cjeu-cases/c-268-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0268",
       "gdpr_articles": [
         "Art. 5(1)(c)",
         "Art. 6(1)(f)"
       ],
       "keywords": [
+        "norra",
+        "stockholm",
+        "bygg",
+        "others",
+        "per",
+        "nycander",
+        "data protection",
+        "personal data",
         "litigation",
         "disclosure",
         "balancing test",
@@ -305,11 +477,20 @@
       "judgment_date": "2014-04-08",
       "path": "library/grade-a/cjeu-cases/c-293-12.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62012CJ0293",
       "gdpr_articles": [
         "Art. 5",
         "Art. 6"
       ],
       "keywords": [
+        "digital",
+        "rights",
+        "ireland",
+        "ltd",
+        "minister",
+        "communications",
+        "marine",
+        "natural",
         "data retention",
         "mass surveillance",
         "proportionality",
@@ -319,7 +500,7 @@
       "significance": "landmark"
     },
     {
-      "id": "b-precedent-c-300-21-osterreichische-post-damages",
+      "id": "a-precedent-c-300-21-osterreichische-post-damages",
       "slug": "c-300-21-osterreichische-post-damages",
       "title": "UI v Osterreichische Post AG (Non-Material Damages)",
       "case_number": "C-300/21",
@@ -327,9 +508,25 @@
       "judgment_date": "2023-05-04",
       "path": "library/grade-a/cjeu-cases/c-300-21-osterreichische-post-damages.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0300",
+      "gdpr_articles": [
+        "Art. 82"
+      ],
+      "keywords": [
+        "osterreichische",
+        "post",
+        "non-material",
+        "damages",
+        "consent",
+        "data subject",
+        "compensation",
+        "case",
+        "non-material damage",
+        "no threshold",
+        "political affinity",
+        "inferred data"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-306-21",
@@ -340,12 +537,21 @@
       "judgment_date": "2023-11-16",
       "path": "library/grade-a/cjeu-cases/c-306-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0306",
       "gdpr_articles": [
         "Art. 6(1)(e)",
         "Art. 9",
         "Art. 87"
       ],
       "keywords": [
+        "koalitsia",
+        "demokratichna",
+        "bulgaria",
+        "obedinenie",
+        "predsedatel",
+        "narodnoto",
+        "sabranie",
+        "republika",
         "national identification number",
         "elections",
         "electronic voting",
@@ -355,7 +561,7 @@
       "significance": "notable"
     },
     {
-      "id": "b-precedent-c-311-18-schrems-ii",
+      "id": "a-precedent-c-311-18-schrems-ii",
       "slug": "c-311-18-schrems-ii",
       "title": "Facebook Ireland and Schrems (Schrems II)",
       "case_number": "C-311/18",
@@ -363,9 +569,29 @@
       "judgment_date": "2020-07-16",
       "path": "library/grade-a/cjeu-cases/c-311-18-schrems-ii.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62018CJ0311",
+      "gdpr_articles": [
+        "Art. 44",
+        "Art. 45",
+        "Art. 46",
+        "Art. 49"
+      ],
+      "keywords": [
+        "facebook",
+        "ireland",
+        "schrems",
+        "standard contractual clauses",
+        "adequacy",
+        "controller",
+        "data protection",
+        "security",
+        "international transfers",
+        "Privacy Shield",
+        "SCC",
+        "surveillance",
+        "FISA"
+      ],
+      "significance": "landmark"
     },
     {
       "id": "a-precedent-c-319-20",
@@ -376,10 +602,19 @@
       "judgment_date": "2022-04-28",
       "path": "library/grade-a/cjeu-cases/c-319-20.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0319",
       "gdpr_articles": [
         "Art. 80"
       ],
       "keywords": [
+        "meta",
+        "platforms",
+        "ireland",
+        "ltd",
+        "bundesverband",
+        "der",
+        "verbraucherzentralen",
+        "und",
         "representative action",
         "consumer association",
         "standing",
@@ -397,12 +632,21 @@
       "judgment_date": "2024-01-25",
       "path": "library/grade-a/cjeu-cases/c-33-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0033",
       "gdpr_articles": [
         "Art. 37",
         "Art. 38",
         "Art. 83"
       ],
       "keywords": [
+        "sterreichische",
+        "datenschutzbeh",
+        "rde",
+        "gemeinde",
+        "linz",
+        "fines",
+        "dpo",
+        "ecli",
         "data protection officer",
         "conflict of interest",
         "DPO independence",
@@ -420,11 +664,20 @@
       "judgment_date": "2024-04-11",
       "path": "library/grade-a/cjeu-cases/c-333-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0333",
       "gdpr_articles": [
         "Art. 5",
         "Art. 6"
       ],
       "keywords": [
+        "ligue",
+        "des",
+        "droits",
+        "humains",
+        "asbl",
+        "autorit",
+        "belge",
+        "protection",
         "PNR data",
         "passenger name records",
         "proportionality",
@@ -443,11 +696,20 @@
       "judgment_date": "2022-11-22",
       "path": "library/grade-a/cjeu-cases/c-34-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0034",
       "gdpr_articles": [
         "Art. 6(1)(e)",
         "Art. 88"
       ],
       "keywords": [
+        "hauptpersonalrat",
+        "der",
+        "lehrerinnen",
+        "und",
+        "lehrer",
+        "beim",
+        "hessischen",
+        "kultusministerium",
         "video streaming",
         "education",
         "consent",
@@ -458,7 +720,7 @@
       "significance": "notable"
     },
     {
-      "id": "b-precedent-c-340-21-natsionalna-agentsia",
+      "id": "a-precedent-c-340-21-natsionalna-agentsia",
       "slug": "c-340-21-natsionalna-agentsia",
       "title": "VB v Natsionalna agentsia za prihodite (Data Breach Liability)",
       "case_number": "C-340/21",
@@ -466,12 +728,35 @@
       "judgment_date": "2023-12-14",
       "path": "library/grade-a/cjeu-cases/c-340-21-natsionalna-agentsia.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0340",
+      "gdpr_articles": [
+        "Art. 5(1)(f)",
+        "Art. 24",
+        "Art. 32",
+        "Art. 82"
+      ],
+      "keywords": [
+        "natsionalna",
+        "agentsia",
+        "prihodite",
+        "data",
+        "breach",
+        "liability",
+        "adequacy",
+        "controller",
+        "data breach",
+        "cyberattack",
+        "hacking",
+        "security measures",
+        "TOMs",
+        "burden of proof",
+        "fear",
+        "non-material damage"
+      ],
+      "significance": "important"
     },
     {
-      "id": "b-precedent-c-362-14-schrems-i",
+      "id": "a-precedent-c-362-14-schrems-i",
       "slug": "c-362-14-schrems-i",
       "title": "Schrems v Data Protection Commissioner (Schrems I)",
       "case_number": "C-362/14",
@@ -479,9 +764,27 @@
       "judgment_date": "2015-10-06",
       "path": "library/grade-a/cjeu-cases/c-362-14-schrems-i.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62014CJ0362",
+      "gdpr_articles": [
+        "Art. 45",
+        "Art. 46"
+      ],
+      "keywords": [
+        "schrems",
+        "data",
+        "protection",
+        "commissioner",
+        "adequacy",
+        "data protection",
+        "fundamental rights",
+        "security",
+        "Safe Harbor",
+        "adequacy decision",
+        "international transfers",
+        "surveillance",
+        "DPA powers"
+      ],
+      "significance": "landmark"
     },
     {
       "id": "a-precedent-c-394-23",
@@ -492,6 +795,7 @@
       "judgment_date": "2024-11-14",
       "path": "library/grade-a/cjeu-cases/c-394-23.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0394",
       "gdpr_articles": [
         "Art. 77",
         "Art. 78",
@@ -499,6 +803,14 @@
         "Art. 82"
       ],
       "keywords": [
+        "mousse",
+        "nationale",
+        "l'informatique",
+        "des",
+        "libert",
+        "cnil",
+        "collecte",
+        "localisation",
         "right to compensation",
         "DPA complaint",
         "judicial remedy",
@@ -507,7 +819,7 @@
       "significance": "important"
     },
     {
-      "id": "b-precedent-c-40-17-fashion-id",
+      "id": "a-precedent-c-40-17-fashion-id",
       "slug": "c-40-17-fashion-id",
       "title": "Fashion ID GmbH & Co. KG (Social Plugin Joint Controllership)",
       "case_number": "C-40/17",
@@ -515,12 +827,31 @@
       "judgment_date": "2019-07-29",
       "path": "library/grade-a/cjeu-cases/c-40-17-fashion-id.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0040",
+      "gdpr_articles": [
+        "Art. 4(7)",
+        "Art. 26"
+      ],
+      "keywords": [
+        "fashion",
+        "gmbh",
+        "social",
+        "plugin",
+        "joint",
+        "controllership",
+        "transparency",
+        "controller",
+        "joint controller",
+        "Facebook Like button",
+        "social plugin",
+        "website operator",
+        "consent",
+        "data collection"
+      ],
+      "significance": "important"
     },
     {
-      "id": "b-precedent-c-413-23-srb-v-edps",
+      "id": "a-precedent-c-413-23-srb-v-edps",
       "slug": "c-413-23-srb-v-edps",
       "title": "EDPS v Single Resolution Board (Pseudonymised Data)",
       "case_number": "C-413/23",
@@ -528,12 +859,31 @@
       "judgment_date": "2025-09-01",
       "path": "library/grade-a/cjeu-cases/c-413-23-srb-v-edps.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0413",
+      "gdpr_articles": [
+        "Art. 4(1)",
+        "Art. 4(5)"
+      ],
+      "keywords": [
+        "edps",
+        "single",
+        "resolution",
+        "board",
+        "pseudonymised",
+        "data",
+        "transparency",
+        "data sharing",
+        "pseudonymisation",
+        "personal data",
+        "anonymous data",
+        "relative approach",
+        "re-identification",
+        "definition"
+      ],
+      "significance": "important"
     },
     {
-      "id": "b-precedent-c-434-16-nowak",
+      "id": "a-precedent-c-434-16-nowak",
       "slug": "c-434-16-nowak",
       "title": "Peter Nowak v Data Protection Commissioner",
       "case_number": "C-434/16",
@@ -541,9 +891,27 @@
       "judgment_date": "2017-12-20",
       "path": "library/grade-a/cjeu-cases/c-434-16-nowak.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62016CJ0434",
+      "gdpr_articles": [
+        "Art. 4(1)",
+        "Art. 15"
+      ],
+      "keywords": [
+        "peter",
+        "nowak",
+        "data",
+        "protection",
+        "commissioner",
+        "data protection",
+        "safeguards",
+        "charter",
+        "personal data",
+        "definition",
+        "exam answers",
+        "right of access",
+        "broad interpretation"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-446-21",
@@ -554,12 +922,21 @@
       "judgment_date": "2024-10-04",
       "path": "library/grade-a/cjeu-cases/c-446-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0446",
       "gdpr_articles": [
         "Art. 5(1)(c)",
         "Art. 6(1)(b)",
         "Art. 9"
       ],
       "keywords": [
+        "maximillian",
+        "schrems",
+        "meta",
+        "platforms",
+        "ireland",
+        "ltd",
+        "data subject",
+        "restriction",
         "data minimization",
         "purpose limitation",
         "targeted advertising",
@@ -577,13 +954,19 @@
       "judgment_date": "2024-06-20",
       "path": "library/grade-a/cjeu-cases/c-456-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0456",
       "gdpr_articles": [
         "Art. 82"
       ],
       "keywords": [
+        "gemeinde",
+        "ummendorf",
         "damages",
-        "quantum",
+        "unlawful",
+        "processing",
         "compensation",
+        "quantum",
+        "ecli",
         "non-material damage",
         "adequacy",
         "Member State autonomy"
@@ -599,12 +982,19 @@
       "judgment_date": "2022-12-08",
       "path": "library/grade-a/cjeu-cases/c-460-20.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0460",
       "gdpr_articles": [
         "Art. 17",
         "Art. 5(1)(d)"
       ],
       "keywords": [
+        "google",
+        "llc",
         "right to erasure",
+        "data subject",
+        "search",
+        "content",
+        "ecli",
         "de-referencing",
         "accuracy",
         "search results",
@@ -621,12 +1011,21 @@
       "judgment_date": "2022-08-01",
       "path": "library/grade-a/cjeu-cases/c-461-20.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0461",
       "gdpr_articles": [
         "Art. 6(1)(c)",
         "Art. 6(1)(e)",
         "Art. 9"
       ],
       "keywords": [
+        "asociaci",
+        "estatal",
+        "entidades",
+        "servicios",
+        "atenci",
+        "domicilio",
+        "diputaci",
+        "foral",
         "public procurement",
         "employee data",
         "transparency",
@@ -643,11 +1042,20 @@
       "judgment_date": "2023-12-14",
       "path": "library/grade-a/cjeu-cases/c-477-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0477",
       "gdpr_articles": [
         "Art. 9",
         "Art. 6(1)(e)"
       ],
       "keywords": [
+        "decins",
+        "monde",
+        "dokters",
+        "van",
+        "wereld",
+        "asbl",
+        "commissaire",
+        "ral",
         "biometric data",
         "asylum",
         "special categories",
@@ -665,11 +1073,20 @@
       "judgment_date": "2023-10-05",
       "path": "library/grade-a/cjeu-cases/c-487-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0487",
       "gdpr_articles": [
         "Art. 15",
         "Art. 12"
       ],
       "keywords": [
+        "sterreichische",
+        "datenschutzbeh",
+        "rde",
+        "crif",
+        "gmbh",
+        "personal data",
+        "ecli",
+        "gdpr",
         "right of access",
         "copy of data",
         "faithful reproduction",
@@ -687,11 +1104,19 @@
       "judgment_date": "2019-09-24",
       "path": "library/grade-a/cjeu-cases/c-507-17.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0507",
       "gdpr_articles": [
         "Art. 17",
         "Art. 3"
       ],
       "keywords": [
+        "google",
+        "llc",
+        "nationale",
+        "l'informatique",
+        "des",
+        "libert",
+        "cnil",
         "right to erasure",
         "territorial scope",
         "de-referencing",
@@ -709,12 +1134,18 @@
       "judgment_date": "2024-01-25",
       "path": "library/grade-a/cjeu-cases/c-579-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0579",
       "gdpr_articles": [
         "Art. 15",
         "Art. 12(5)"
       ],
       "keywords": [
+        "pankki",
         "right of access",
+        "controller",
+        "data protection",
+        "data subject",
+        "ecli",
         "employee data",
         "repeated requests",
         "excessive requests",
@@ -723,7 +1154,7 @@
       "significance": "important"
     },
     {
-      "id": "b-precedent-c-582-14-breyer",
+      "id": "a-precedent-c-582-14-breyer",
       "slug": "c-582-14-breyer",
       "title": "Patrick Breyer v Bundesrepublik Deutschland",
       "case_number": "C-582/14",
@@ -731,9 +1162,27 @@
       "judgment_date": "2016-10-19",
       "path": "library/grade-a/cjeu-cases/c-582-14-breyer.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62014CJ0582",
+      "gdpr_articles": [
+        "Art. 4(1)",
+        "Art. 6(1)(f)"
+      ],
+      "keywords": [
+        "patrick",
+        "breyer",
+        "bundesrepublik",
+        "deutschland",
+        "controller",
+        "data protection",
+        "fundamental rights",
+        "provider",
+        "personal data",
+        "dynamic IP address",
+        "identification",
+        "legitimate interest",
+        "definition"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-604-22",
@@ -744,14 +1193,22 @@
       "judgment_date": "2024-03-07",
       "path": "library/grade-a/cjeu-cases/c-604-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0604",
       "gdpr_articles": [
         "Art. 4(1)",
         "Art. 4(7)",
         "Art. 26"
       ],
       "keywords": [
-        "TC string",
+        "iab",
+        "europe",
+        "gegevensbeschermingsautoriteit",
+        "transparency",
+        "controller",
+        "consent",
         "personal data",
+        "ecli",
+        "TC string",
         "consent management",
         "adtech",
         "joint controllership",
@@ -760,7 +1217,7 @@
       "significance": "landmark"
     },
     {
-      "id": "b-precedent-c-61-19-orange-romania",
+      "id": "a-precedent-c-61-19-orange-romania",
       "slug": "c-61-19-orange-romania",
       "title": "Orange Romania SA v ANSPDCP",
       "case_number": "C-61/19",
@@ -768,12 +1225,29 @@
       "judgment_date": "2020-11-11",
       "path": "library/grade-a/cjeu-cases/c-61-19-orange-romania.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62019CJ0061",
+      "gdpr_articles": [
+        "Art. 6(1)(a)",
+        "Art. 7"
+      ],
+      "keywords": [
+        "orange",
+        "romania",
+        "anspdcp",
+        "controller",
+        "penalties",
+        "provider",
+        "consent",
+        "data subject",
+        "freely given",
+        "pre-ticked checkbox",
+        "identity documents",
+        "telecommunications"
+      ],
+      "significance": "important"
     },
     {
-      "id": "b-precedent-c-621-22-knltb",
+      "id": "a-precedent-c-621-22-knltb",
       "slug": "c-621-22-knltb",
       "title": "Koninklijke Nederlandse Lawn Tennisbond (KNLTB - Legitimate Interest)",
       "case_number": "C-621/22",
@@ -781,9 +1255,27 @@
       "judgment_date": "2024-10-04",
       "path": "library/grade-a/cjeu-cases/c-621-22-knltb.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0621",
+      "gdpr_articles": [
+        "Art. 6(1)(f)"
+      ],
+      "keywords": [
+        "koninklijke",
+        "nederlandse",
+        "lawn",
+        "tennisbond",
+        "knltb",
+        "legitimate",
+        "interest",
+        "controller",
+        "legitimate interest",
+        "commercial interest",
+        "direct marketing",
+        "balancing test",
+        "necessity",
+        "proportionality"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-634-21",
@@ -794,13 +1286,21 @@
       "judgment_date": "2023-12-07",
       "path": "library/grade-a/cjeu-cases/c-634-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0634",
       "gdpr_articles": [
         "Art. 22",
         "Art. 6(1)(f)"
       ],
       "keywords": [
-        "automated decision-making",
+        "schufa",
+        "holding",
         "scoring",
+        "automated",
+        "credit",
+        "decision-making",
+        "art",
+        "controller",
+        "automated decision-making",
         "credit score",
         "profiling",
         "legitimate interest",
@@ -819,6 +1319,7 @@
       "judgment_date": "2021-06-15",
       "path": "library/grade-a/cjeu-cases/c-645-19.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62019CJ0645",
       "gdpr_articles": [
         "Art. 55",
         "Art. 56",
@@ -826,6 +1327,14 @@
         "Art. 60-66"
       ],
       "keywords": [
+        "facebook",
+        "ireland",
+        "ltd",
+        "inc",
+        "belgium",
+        "bvba",
+        "gegevensbeschermingsautoriteit",
+        "supervisory authority",
         "one-stop-shop",
         "lead supervisory authority",
         "DPA competence",
@@ -843,12 +1352,19 @@
       "judgment_date": "2024-06-13",
       "path": "library/grade-a/cjeu-cases/c-65-23.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0065",
       "gdpr_articles": [
         "Art. 6(1)(f)",
         "Art. 17",
         "Art. 21"
       ],
       "keywords": [
+        "gmbh",
+        "controller",
+        "data subject",
+        "employee",
+        "monitoring",
+        "ecli",
         "employee monitoring",
         "right to object",
         "legitimate interest",
@@ -866,12 +1382,20 @@
       "judgment_date": "2023-05-21",
       "path": "library/grade-a/cjeu-cases/c-667-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0667",
       "gdpr_articles": [
         "Art. 9(2)(h)",
         "Art. 82"
       ],
       "keywords": [
+        "medizinischer",
+        "dienst",
+        "der",
+        "krankenversicherung",
+        "nordrhein",
         "health data",
+        "safeguards",
+        "employment",
         "special categories",
         "medical assessment",
         "occupational physician",
@@ -880,7 +1404,7 @@
       "significance": "important"
     },
     {
-      "id": "b-precedent-c-673-17-planet49",
+      "id": "a-precedent-c-673-17-planet49",
       "slug": "c-673-17-planet49",
       "title": "Planet49 GmbH (Cookie Consent)",
       "case_number": "C-673/17",
@@ -888,9 +1412,27 @@
       "judgment_date": "2019-10-01",
       "path": "library/grade-a/cjeu-cases/c-673-17-planet49.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0673",
+      "gdpr_articles": [
+        "Art. 6(1)(a)",
+        "Art. 7"
+      ],
+      "keywords": [
+        "planet",
+        "gmbh",
+        "cookie",
+        "consent",
+        "data protection",
+        "provider",
+        "privacy",
+        "personal data",
+        "cookies",
+        "pre-ticked checkbox",
+        "ePrivacy",
+        "affirmative act",
+        "informed consent"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-683-21",
@@ -901,6 +1443,7 @@
       "judgment_date": "2023-12-07",
       "path": "library/grade-a/cjeu-cases/c-683-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0683",
       "gdpr_articles": [
         "Art. 4(7)",
         "Art. 26",
@@ -908,6 +1451,14 @@
         "Art. 83"
       ],
       "keywords": [
+        "nacionalinis",
+        "visuomen",
+        "sveikatos",
+        "centras",
+        "prie",
+        "apsaugos",
+        "ministerijos",
+        "valstybin",
         "joint controllership",
         "processor liability",
         "mobile app",
@@ -917,7 +1468,7 @@
       "significance": "important"
     },
     {
-      "id": "b-precedent-c-687-21-mediamarktsaturn",
+      "id": "a-precedent-c-687-21-mediamarktsaturn",
       "slug": "c-687-21-mediamarktsaturn",
       "title": "Saturn Electro-Handelgesellschaft (MediaMarktSaturn - Damages Standard)",
       "case_number": "C-687/21",
@@ -925,9 +1476,26 @@
       "judgment_date": "2024-01-25",
       "path": "library/grade-a/cjeu-cases/c-687-21-mediamarktsaturn.md",
       "source_grade": "A",
-      "gdpr_articles": [],
-      "keywords": [],
-      "significance": ""
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0687",
+      "gdpr_articles": [
+        "Art. 82"
+      ],
+      "keywords": [
+        "saturn",
+        "electro-handelgesellschaft",
+        "mediamarktsaturn",
+        "damages",
+        "standard",
+        "adequacy",
+        "controller",
+        "security",
+        "non-material damage",
+        "proof standard",
+        "well-founded fear",
+        "compensatory function",
+        "data breach"
+      ],
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-740-22",
@@ -938,13 +1506,20 @@
       "judgment_date": "2024-10-04",
       "path": "library/grade-a/cjeu-cases/c-740-22.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0740",
       "gdpr_articles": [
         "Art. 6(1)(a)",
         "Art. 7",
         "Art. 9"
       ],
       "keywords": [
+        "endemol",
+        "shine",
+        "finland",
         "consent",
+        "reality",
+        "ecli",
+        "gdpr",
         "reality television",
         "health data",
         "withdrawal of consent",
@@ -962,15 +1537,20 @@
       "judgment_date": "2023-04-20",
       "path": "library/grade-a/cjeu-cases/c-741-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0741",
       "gdpr_articles": [
         "Art. 15",
         "Art. 12"
       ],
       "keywords": [
+        "juris",
+        "gmbh",
         "right of access",
+        "personal data",
+        "ecli",
+        "gdpr",
         "legal database",
-        "published court decisions",
-        "personal data"
+        "published court decisions"
       ],
       "significance": "notable"
     },
@@ -983,10 +1563,19 @@
       "judgment_date": "2023-12-05",
       "path": "library/grade-a/cjeu-cases/c-807-21.md",
       "source_grade": "A",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0807",
       "gdpr_articles": [
         "Art. 83"
       ],
       "keywords": [
+        "deutsche",
+        "wohnen",
+        "staatsanwaltschaft",
+        "berlin",
+        "liability",
+        "fines",
+        "gdpr",
+        "ecli",
         "administrative fines",
         "corporate liability",
         "fault requirement",

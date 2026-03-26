@@ -1,40 +1,30 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 23
 article_sub: 0
-article_title: "Restrictions"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_23/oj/eng"
-effective_date: "20180525"
+article_title: Restrictions
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_23/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 34"
-  - "Art. 5"
-
+- Art. 34
+- Art. 5
 related_recitals:
-  - "Recital 73"
-
-# === Search Metadata ===
+- Recital 73
 keywords:
-  - "restrictions"
-  - "controller"
-  - "penalties"
-  - "fundamental rights"
-  - "security"
-  - "processor"
-  - "safeguards"
-  - "controller"
-  - "processor"
-  - "restriction"
+- restrictions
+- controller
+- penalties
+- fundamental rights
+- security
+- processor
+- safeguards
+- restriction
 ---
 
 ## Article 23 — Restrictions

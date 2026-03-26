@@ -1,37 +1,28 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 68
 article_sub: 0
-article_title: "European Data Protection Board"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_68/oj/eng"
-effective_date: "20180525"
+article_title: European Data Protection Board
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_68/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 65"
-
+- Art. 65
 related_recitals:
-  - "Recital 139"
-
-# === Search Metadata ===
+- Recital 139
 keywords:
-  - "data"
-  - "protection"
-  - "board"
-  - "data protection"
-  - "representative"
-  - "supervisory authority"
-  - "right"
-  - "supervisory authority"
+- data
+- protection
+- board
+- data protection
+- representative
+- supervisory authority
+- right
 ---
 
 ## Article 68 — European Data Protection Board

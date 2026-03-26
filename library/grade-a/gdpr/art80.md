@@ -1,41 +1,31 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 80
 article_sub: 0
-article_title: "Representation of data subjects"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_80/oj/eng"
-effective_date: "20180525"
+article_title: Representation of data subjects
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_80/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 77"
-  - "Art. 82"
-
+- Art. 77
+- Art. 82
 related_recitals:
-  - "Recital 142"
-
-# === Search Metadata ===
+- Recital 142
 keywords:
-  - "representation"
-  - "data"
-  - "subjects"
-  - "supervisory authority"
-  - "data subject"
-  - "personal data"
-  - "compensation"
-  - "behalf"
-  - "data subject"
-  - "personal data"
-  - "public interest"
+- representation
+- data
+- subjects
+- supervisory authority
+- data subject
+- personal data
+- compensation
+- behalf
+- public interest
 ---
 
 ## Article 80 — Representation of data subjects

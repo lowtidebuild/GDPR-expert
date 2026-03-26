@@ -1,38 +1,30 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 34
 article_sub: 0
-article_title: "Interoperability for the purposes of in-parallel use of data processing services"
-chapter: "VIII"
-chapter_title: "Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_34/oj/eng"
-effective_date: "20240111"
+article_title: Interoperability for the purposes of in-parallel use of data processing services
+chapter: VIII
+chapter_title: Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_34/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 23"
-  - "Art. 24"
-  - "Art. 25(2)"
-  - "Art. 30(2)"
-
-# === Search Metadata ===
+- Art. 23
+- Art. 24
+- Art. 25(2)
+- Art. 30(2)
 keywords:
-  - "interoperability"
-  - "purposes"
-  - "in-parallel"
-  - "use"
-  - "data"
-  - "processing"
-  - "services"
-  - "provider"
-  - "processing"
+- interoperability
+- purposes
+- in-parallel
+- use
+- data
+- processing
+- services
+- provider
 ---
 
 ## Article 34 — Interoperability for the purposes of in-parallel use of data processing services

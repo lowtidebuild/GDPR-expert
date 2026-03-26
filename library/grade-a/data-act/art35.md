@@ -1,39 +1,31 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 35
 article_sub: 0
-article_title: "Interoperability of data processing services"
-chapter: "VIII"
-chapter_title: "Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_35/oj/eng"
-effective_date: "20240111"
+article_title: Interoperability of data processing services
+chapter: VIII
+chapter_title: Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_35/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 10(1)"
-  - "Art. 30(1)"
-  - "Art. 30(3)"
-  - "Art. 37(5)"
-  - "Art. 46(2)"
-
-# === Search Metadata ===
+- Art. 10(1)
+- Art. 30(1)
+- Art. 30(3)
+- Art. 37(5)
+- Art. 46(2)
 keywords:
-  - "interoperability"
-  - "data"
-  - "processing"
-  - "services"
-  - "security"
-  - "cloud"
-  - "data portability"
-  - "processing"
-  - "portability"
+- interoperability
+- data
+- processing
+- services
+- security
+- cloud
+- data portability
+- portability
 ---
 
 ## Article 35 — Interoperability of data processing services

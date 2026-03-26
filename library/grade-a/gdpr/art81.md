@@ -1,39 +1,29 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 81
 article_sub: 0
-article_title: "Suspension of proceedings"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_81/oj/eng"
-effective_date: "20180525"
+article_title: Suspension of proceedings
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_81/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 144"
-
-# === Search Metadata ===
+- Recital 144
 keywords:
-  - "suspension"
-  - "proceedings"
-  - "controller"
-  - "processor"
-  - "court"
-  - "pending"
-  - "first"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "information"
+- suspension
+- proceedings
+- controller
+- processor
+- court
+- pending
+- first
+- processing
+- information
 ---
 
 ## Article 81 — Suspension of proceedings

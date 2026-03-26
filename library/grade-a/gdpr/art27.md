@@ -1,44 +1,34 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 27
 article_sub: 0
-article_title: "Representatives of controllers or processors not established in the Union"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_27/oj/eng"
-effective_date: "20180525"
+article_title: Representatives of controllers or processors not established in the Union
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_27/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 10"
-  - "Art. 3(2)"
-  - "Art. 9(1)"
-
+- Art. 10
+- Art. 3(2)
+- Art. 9(1)
 related_recitals:
-  - "Recital 80"
-
-# === Search Metadata ===
+- Recital 80
 keywords:
-  - "representatives"
-  - "controllers"
-  - "processors"
-  - "established"
-  - "controller"
-  - "processor"
-  - "representative"
-  - "data subject"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "personal data"
-  - "special categor"
+- representatives
+- controllers
+- processors
+- established
+- controller
+- processor
+- representative
+- data subject
+- processing
+- personal data
+- special categor
 ---
 
 ## Article 27 — Representatives of controllers or processors not established in the Union

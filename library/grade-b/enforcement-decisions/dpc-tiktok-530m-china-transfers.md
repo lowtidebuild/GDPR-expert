@@ -1,40 +1,34 @@
 ---
-# === Identification ===
-source_id: "b-decision-dpc-tiktok-530m-china-transfers"
-slug: "dpc-tiktok-530m-china-transfers"
-title_en: "DPC Ireland v TikTok — EUR 530 Million"
+source_id: b-decision-dpc-tiktok-530m-china-transfers
+slug: dpc-tiktok-530m-china-transfers
+title_en: DPC Ireland v TikTok — EUR 530 Million
 document_type: decision
-source_grade: "B"
-publisher: "DPC (Ireland)"
-target_entity: "TikTok Technology Limited"
-fine_amount: "EUR 530,000,000"
-decision_date: "2025-05-02"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: DPC (Ireland)
+target_entity: TikTok Technology Limited
+fine_amount: EUR 530,000,000
+decision_date: '2025-05-02'
+source_url: https://www.dataprotection.ie/en/news-media/latest-news/irish-data-protection-commission-fines-tiktok-eu530-million-and-orders-corrective-measures-following
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 46(1)"
-  - "Art. 13(1)(f)"
-
-# === Search Metadata ===
+- Art. 46(1)
+- Art. 13(1)(f)
 keywords:
-  - "dpc"
-  - "ireland"
-  - "tiktok"
-  - "eur"
-  - "million"
-  - "transparency"
-  - "data protection"
-  - "privacy"
-  - "international transfers"
-  - "China transfers"
-  - "SCC"
-  - "transparency"
-  - "remote access"
-  - "children"
+- dpc
+- ireland
+- tiktok
+- eur
+- million
+- transparency
+- data protection
+- privacy
+- international transfers
+- China transfers
+- SCC
+- remote access
+- children
 ---
 
 # DPC Ireland v TikTok - EUR 530 Million Fine

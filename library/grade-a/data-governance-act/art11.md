@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "Data Governance Act"
-law_id: "32022R0868"
+law: Data Governance Act
+law_id: 32022R0868
 article: 11
 article_sub: 0
-article_title: "Notification by data intermediation services providers"
-chapter: "III"
-chapter_title: "Data intermediation services"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_11/oj/eng"
-effective_date: "20220623"
+article_title: Notification by data intermediation services providers
+chapter: III
+chapter_title: Data intermediation services
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2022/868/art_11/oj/eng
+effective_date: '20220623'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 10"
-  - "Art. 12"
-  - "Art. 33(2)"
-
-# === Search Metadata ===
+- Art. 10
+- Art. 12
+- Art. 33(2)
 keywords:
-  - "notification"
-  - "data"
-  - "intermediation"
-  - "services"
-  - "providers"
-  - "provider"
-  - "representative"
-  - "data subject"
-  - "notification"
+- notification
+- data
+- intermediation
+- services
+- providers
+- provider
+- representative
+- data subject
 ---
 
 ## Article 11 — Notification by data intermediation services providers

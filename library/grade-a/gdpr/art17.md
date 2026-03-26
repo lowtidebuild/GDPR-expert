@@ -1,50 +1,37 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 17
 article_sub: 0
-article_title: "Right to erasure (‘right to be forgotten’)"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_17/oj/eng"
-effective_date: "20180525"
+article_title: Right to erasure (‘right to be forgotten’)
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_17/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 21(1)"
-  - "Art. 21(2)"
-  - "Art. 6(1)"
-  - "Art. 8(1)"
-  - "Art. 89(1)"
-  - "Art. 9(2)"
-  - "Art. 9(3)"
-
+- Art. 21(1)
+- Art. 21(2)
+- Art. 6(1)
+- Art. 8(1)
+- Art. 89(1)
+- Art. 9(2)
+- Art. 9(3)
 related_recitals:
-  - "Recital 65"
-  - "Recital 66"
-
-# === Search Metadata ===
+- Recital 65
+- Recital 66
 keywords:
-  - "right"
-  - "erasure"
-  - "forgotten"
-  - "controller"
-  - "right to erasure"
-  - "consent"
-  - "data subject"
-  - "personal data"
-  - "consent"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "erasure"
+- right
+- erasure
+- forgotten
+- controller
+- right to erasure
+- consent
+- data subject
+- personal data
+- processing
 ---
 
 ## Article 17 — Right to erasure (‘right to be forgotten’)

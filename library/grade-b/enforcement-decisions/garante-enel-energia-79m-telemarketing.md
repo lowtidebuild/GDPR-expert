@@ -1,40 +1,35 @@
 ---
-# === Identification ===
-source_id: "b-decision-garante-enel-energia-79m-telemarketing"
-slug: "garante-enel-energia-79m-telemarketing"
-title_en: "Garante v Enel Energia — EUR 79.1 Million"
+source_id: b-decision-garante-enel-energia-79m-telemarketing
+slug: garante-enel-energia-79m-telemarketing
+title_en: Garante v Enel Energia — EUR 79.1 Million
 document_type: decision
-source_grade: "B"
-publisher: "Garante per la protezione dei dati personali (Italy)"
-target_entity: "Enel Energia S.p.A."
-fine_amount: "EUR 79,100,000"
-decision_date: "2024-02-08"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: Garante per la protezione dei dati personali (Italy)
+target_entity: Enel Energia S.p.A.
+fine_amount: EUR 79,100,000
+decision_date: '2024-02-08'
+source_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9988921
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 5(2)"
-  - "Art. 25"
-  - "Art. 28"
-
-# === Search Metadata ===
+- Art. 5(2)
+- Art. 25
+- Art. 28
 keywords:
-  - "garante"
-  - "enel"
-  - "energia"
-  - "eur"
-  - "million"
-  - "controller"
-  - "fine"
-  - "decision"
-  - "telemarketing"
-  - "controller liability"
-  - "third-party agents"
-  - "accountability"
-  - "privacy by design"
+- garante
+- enel
+- energia
+- eur
+- million
+- controller
+- fine
+- decision
+- telemarketing
+- controller liability
+- third-party agents
+- accountability
+- privacy by design
 ---
 
 ## Garante v Enel Energia — EUR 79.1 Million

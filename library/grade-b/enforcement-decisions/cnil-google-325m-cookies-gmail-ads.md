@@ -1,39 +1,33 @@
 ---
-# === Identification ===
-source_id: "b-decision-cnil-google-325m-cookies-gmail-ads"
-slug: "cnil-google-325m-cookies-gmail-ads"
-title_en: "CNIL v Google — EUR 325 Million"
+source_id: b-decision-cnil-google-325m-cookies-gmail-ads
+slug: cnil-google-325m-cookies-gmail-ads
+title_en: CNIL v Google — EUR 325 Million
 document_type: decision
-source_grade: "B"
-publisher: "CNIL (France)"
-target_entity: "Google LLC / Google Ireland Limited"
-fine_amount: "EUR 325,000,000"
-decision_date: "2025-09-01"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: CNIL (France)
+target_entity: Google LLC / Google Ireland Limited
+fine_amount: EUR 325,000,000
+decision_date: '2025-09-01'
+source_url: https://www.cnil.fr/en/cookies-and-advertisements-inserted-between-emails-google-fined-325-million-euros-cnil
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 82 French Data Protection Act (ePrivacy transposition)"
-
-# === Search Metadata ===
+- Art. 82 French Data Protection Act (ePrivacy transposition)
 keywords:
-  - "cnil"
-  - "google"
-  - "eur"
-  - "million"
-  - "data protection"
-  - "cookie"
-  - "privacy"
-  - "consent"
-  - "cookies"
-  - "consent"
-  - "Gmail"
-  - "advertising"
-  - "dark patterns"
-  - "recidivism"
+- cnil
+- google
+- eur
+- million
+- data protection
+- cookie
+- privacy
+- consent
+- cookies
+- Gmail
+- advertising
+- dark patterns
+- recidivism
 ---
 
 ## CNIL v Google — EUR 325 Million

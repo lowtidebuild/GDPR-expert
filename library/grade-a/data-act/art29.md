@@ -1,35 +1,27 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 29
 article_sub: 0
-article_title: "Gradual withdrawal of switching charges"
-chapter: "VI"
-chapter_title: "Removing obstacles to effective switching"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_29/oj/eng"
-effective_date: "20240111"
+article_title: Gradual withdrawal of switching charges
+chapter: VI
+chapter_title: Removing obstacles to effective switching
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_29/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 45"
-
-# === Search Metadata ===
+- Art. 45
 keywords:
-  - "gradual"
-  - "withdrawal"
-  - "switching"
-  - "charges"
-  - "penalties"
-  - "provider"
-  - "data"
-  - "processing"
-  - "processing"
+- gradual
+- withdrawal
+- switching
+- charges
+- penalties
+- provider
+- data
+- processing
 ---
 
 ## Article 29 — Gradual withdrawal of switching charges

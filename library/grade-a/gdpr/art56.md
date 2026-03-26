@@ -1,45 +1,34 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 56
 article_sub: 0
-article_title: "Competence of the lead supervisory authority"
-chapter: "VI"
-chapter_title: "Supervisory authority"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_56/oj/eng"
-effective_date: "20180525"
+article_title: Competence of the lead supervisory authority
+chapter: VI
+chapter_title: Supervisory authority
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_56/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 55"
-  - "Art. 60"
-  - "Art. 60(3)"
-
+- Art. 55
+- Art. 60
+- Art. 60(3)
 related_recitals:
-  - "Recital 124"
-  - "Recital 127"
-  - "Recital 128"
-
-# === Search Metadata ===
+- Recital 124
+- Recital 127
+- Recital 128
 keywords:
-  - "competence"
-  - "lead"
-  - "supervisory"
-  - "authority"
-  - "controller"
-  - "processor"
-  - "supervisory authority"
-  - "data subject"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "supervisory authority"
+- competence
+- lead
+- supervisory
+- authority
+- controller
+- processor
+- supervisory authority
+- data subject
+- processing
 ---
 
 ## Article 56 — Competence of the lead supervisory authority

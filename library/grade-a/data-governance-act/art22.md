@@ -1,36 +1,27 @@
 ---
-# === Identification ===
-law: "Data Governance Act"
-law_id: "32022R0868"
+law: Data Governance Act
+law_id: 32022R0868
 article: 22
 article_sub: 0
-article_title: "Rulebook"
-chapter: "IV"
-chapter_title: "National arrangements for data altruism"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_22/oj/eng"
-effective_date: "20220623"
+article_title: Rulebook
+chapter: IV
+chapter_title: National arrangements for data altruism
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2022/868/art_22/oj/eng
+effective_date: '20220623'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 32"
-
-# === Search Metadata ===
+- Art. 32
 keywords:
-  - "rulebook"
-  - "security"
-  - "consent"
-  - "interoperability"
-  - "altruism"
-  - "data subject"
-  - "data holder"
-  - "consent"
-  - "data subject"
-  - "information"
+- rulebook
+- security
+- consent
+- interoperability
+- altruism
+- data subject
+- data holder
+- information
 ---
 
 ## Article 22 — Rulebook

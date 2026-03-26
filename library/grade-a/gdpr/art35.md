@@ -1,52 +1,43 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 35
 article_sub: 0
-article_title: "Data protection impact assessment"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_35/oj/eng"
-effective_date: "20180525"
+article_title: Data protection impact assessment
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_35/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 10"
-  - "Art. 40"
-  - "Art. 6(1)"
-  - "Art. 63"
-  - "Art. 68"
-  - "Art. 9(1)"
-
+- Art. 10
+- Art. 40
+- Art. 6(1)
+- Art. 63
+- Art. 68
+- Art. 9(1)
 related_recitals:
-  - "Recital 75"
-  - "Recital 84"
-  - "Recital 89"
-  - "Recital 90"
-  - "Recital 91"
-  - "Recital 92"
-  - "Recital 93"
-
-# === Search Metadata ===
+- Recital 75
+- Recital 84
+- Recital 89
+- Recital 90
+- Recital 91
+- Recital 92
+- Recital 93
 keywords:
-  - "data"
-  - "protection"
-  - "impact"
-  - "assessment"
-  - "controller"
-  - "data protection"
-  - "codes of conduct"
-  - "profiling"
-  - "processing"
-  - "controller"
-  - "personal data"
-  - "impact assessment"
+- data
+- protection
+- impact
+- assessment
+- controller
+- data protection
+- codes of conduct
+- profiling
+- processing
+- personal data
+- impact assessment
 ---
 
 ## Article 35 — Data protection impact assessment

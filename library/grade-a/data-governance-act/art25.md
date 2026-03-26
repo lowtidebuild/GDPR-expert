@@ -1,35 +1,27 @@
 ---
-# === Identification ===
-law: "Data Governance Act"
-law_id: "32022R0868"
+law: Data Governance Act
+law_id: 32022R0868
 article: 25
 article_sub: 0
-article_title: "European data altruism consent form"
-chapter: "IV"
-chapter_title: "National arrangements for data altruism"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_25/oj/eng"
-effective_date: "20220623"
+article_title: European data altruism consent form
+chapter: IV
+chapter_title: National arrangements for data altruism
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2022/868/art_25/oj/eng
+effective_date: '20220623'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 33(2)"
-  - "Regulation (EU) 2016/679"
-
-# === Search Metadata ===
+- Art. 33(2)
+- Regulation (EU) 2016/679
 keywords:
-  - "data"
-  - "altruism"
-  - "consent"
-  - "form"
-  - "data protection"
-  - "data subject"
-  - "personal data"
-  - "consent"
+- data
+- altruism
+- consent
+- form
+- data protection
+- data subject
+- personal data
 ---
 
 ## Article 25 — European data altruism consent form

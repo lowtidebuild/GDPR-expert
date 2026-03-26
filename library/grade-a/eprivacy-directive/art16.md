@@ -1,36 +1,28 @@
 ---
-# === Identification ===
-law: "Directive on Privacy and Electronic Communications"
-law_id: "02002L0058-20091219"
+law: Directive on Privacy and Electronic Communications
+law_id: 02002L0058-20091219
 article: 16
 article_sub: 0
-article_title: "Transitional arrangements"
-chapter: "IV"
-chapter_title: "Final provisions"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_16/oj/eng"
-effective_date: "20020731"
+article_title: Transitional arrangements
+chapter: IV
+chapter_title: Final provisions
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/dir/2002/58/art_16/oj/eng
+effective_date: '20020731'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 11"
-  - "Art. 12"
-
-# === Search Metadata ===
+- Art. 11
+- Art. 12
 keywords:
-  - "transitional"
-  - "arrangements"
-  - "personal data"
-  - "provisions"
-  - "subscribers"
-  - "public"
-  - "printed"
-  - "electronic"
-  - "personal data"
+- transitional
+- arrangements
+- personal data
+- provisions
+- subscribers
+- public
+- printed
+- electronic
 ---
 
 ## Article 16 —

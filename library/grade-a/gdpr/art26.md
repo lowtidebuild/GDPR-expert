@@ -1,39 +1,29 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 26
 article_sub: 0
-article_title: "Joint controllers"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_26/oj/eng"
-effective_date: "20180525"
+article_title: Joint controllers
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_26/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 58"
-  - "Recital 79"
-
-# === Search Metadata ===
+- Recital 58
+- Recital 79
 keywords:
-  - "joint"
-  - "controllers"
-  - "controller"
-  - "data subject"
-  - "respective"
-  - "arrangement"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "information"
+- joint
+- controllers
+- controller
+- data subject
+- respective
+- arrangement
+- processing
+- information
 ---
 
 ## Article 26 — Joint controllers

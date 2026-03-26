@@ -1,42 +1,32 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 61
 article_sub: 0
-article_title: "Mutual assistance"
-chapter: "VII"
-chapter_title: "Cooperation between the lead supervisory authority and the other supervisory authorities concerned"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_61/oj/eng"
-effective_date: "20180525"
+article_title: Mutual assistance
+chapter: VII
+chapter_title: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_61/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 55(1)"
-  - "Art. 66(1)"
-  - "Art. 66(2)"
-  - "Art. 93(2)"
-
+- Art. 55(1)
+- Art. 66(1)
+- Art. 66(2)
+- Art. 93(2)
 related_recitals:
-  - "Recital 123"
-  - "Recital 132"
-  - "Recital 133"
-
-# === Search Metadata ===
+- Recital 123
+- Recital 132
+- Recital 133
 keywords:
-  - "mutual"
-  - "assistance"
-  - "supervisory authority"
-  - "measures"
-  - "information"
-  - "another"
-  - "supervisory authority"
-  - "information"
+- mutual
+- assistance
+- supervisory authority
+- measures
+- information
+- another
 ---
 
 ## Article 61 — Mutual assistance

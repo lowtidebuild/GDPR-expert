@@ -1,43 +1,35 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 59
 article_sub: 0
-article_title: "Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox"
-chapter: "VI"
-chapter_title: "AI regulatory sandboxes"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_59/oj/eng"
-effective_date: "20240801"
+article_title: Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox
+chapter: VI
+chapter_title: AI regulatory sandboxes
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_59/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 35"
-  - "Art. 39"
-  - "Regulation (EU) 2016/679"
-  - "Regulation (EU) 2018/1725"
-
-# === Search Metadata ===
+- Art. 35
+- Art. 39
+- Regulation (EU) 2016/679
+- Regulation (EU) 2018/1725
 keywords:
-  - "processing"
-  - "personal"
-  - "data"
-  - "developing"
-  - "certain"
-  - "systems"
-  - "public"
-  - "interest"
-  - "lawful"
-  - "processing"
-  - "personal data"
-  - "public interest"
-  - "safeguard"
-  - "health"
+- processing
+- personal
+- data
+- developing
+- certain
+- systems
+- public
+- interest
+- lawful
+- personal data
+- public interest
+- safeguard
+- health
 ---
 
 ## Article 59 — Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox

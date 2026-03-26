@@ -1,47 +1,38 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 89
 article_sub: 0
-article_title: "Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes"
-chapter: "IX"
-chapter_title: "Processing and freedom of expression and information"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_89/oj/eng"
-effective_date: "20180525"
+article_title: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+chapter: IX
+chapter_title: Processing and freedom of expression and information
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_89/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 156"
-  - "Recital 157"
-  - "Recital 158"
-  - "Recital 159"
-  - "Recital 160"
-  - "Recital 161"
-  - "Recital 162"
-  - "Recital 163"
-
-# === Search Metadata ===
+- Recital 156
+- Recital 157
+- Recital 158
+- Recital 159
+- Recital 160
+- Recital 161
+- Recital 162
+- Recital 163
 keywords:
-  - "safeguards"
-  - "derogations"
-  - "relating"
-  - "processing"
-  - "archiving"
-  - "purposes"
-  - "public"
-  - "interest"
-  - "processing"
-  - "data subject"
-  - "public interest"
-  - "safeguard"
+- safeguards
+- derogations
+- relating
+- processing
+- archiving
+- purposes
+- public
+- interest
+- data subject
+- public interest
+- safeguard
 ---
 
 ## Article 89 — Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes

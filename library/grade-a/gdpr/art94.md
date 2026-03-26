@@ -1,38 +1,29 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 94
 article_sub: 0
-article_title: "Repeal of Directive 95/46/EC"
-chapter: "XI"
-chapter_title: "Repeal of Directive 95/46/EC"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_94/oj/eng"
-effective_date: "20180525"
+article_title: Repeal of Directive 95/46/EC
+chapter: XI
+chapter_title: Repeal of Directive 95/46/EC
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_94/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 29"
-
+- Art. 29
 related_recitals:
-  - "Recital 171"
-
-# === Search Metadata ===
+- Recital 171
 keywords:
-  - "repeal"
-  - "data protection"
-  - "personal data"
-  - "references"
-  - "repealed"
-  - "construed"
-  - "established"
-  - "processing"
-  - "personal data"
+- repeal
+- data protection
+- personal data
+- references
+- repealed
+- construed
+- established
+- processing
 ---
 
 ## Article 94 — Repeal of Directive 95/46/EC

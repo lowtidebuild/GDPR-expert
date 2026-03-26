@@ -1,37 +1,28 @@
 ---
-# === Identification ===
-law: "Data Act"
-law_id: "32023R2854"
+law: Data Act
+law_id: 32023R2854
 article: 26
 article_sub: 0
-article_title: "Information obligation of providers of data processing services"
-chapter: "VI"
-chapter_title: "Removing obstacles to effective switching"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_26/oj/eng"
-effective_date: "20240111"
+article_title: Information obligation of providers of data processing services
+chapter: VI
+chapter_title: Removing obstacles to effective switching
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2023/2854/art_26/oj/eng
+effective_date: '20240111'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 25(2)"
-
-# === Search Metadata ===
+- Art. 25(2)
 keywords:
-  - "information"
-  - "obligation"
-  - "providers"
-  - "data"
-  - "processing"
-  - "services"
-  - "provider"
-  - "interoperability"
-  - "processing"
-  - "restriction"
-  - "information"
+- information
+- obligation
+- providers
+- data
+- processing
+- services
+- provider
+- interoperability
+- restriction
 ---
 
 ## Article 26 — Information obligation of providers of data processing services

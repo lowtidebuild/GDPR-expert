@@ -1,39 +1,33 @@
 ---
-# === Identification ===
-source_id: "b-decision-bfdi-vodafone-45m-third-party-security"
-slug: "bfdi-vodafone-45m-third-party-security"
-title_en: "BfDI v Vodafone — EUR 45 Million"
+source_id: b-decision-bfdi-vodafone-45m-third-party-security
+slug: bfdi-vodafone-45m-third-party-security
+title_en: BfDI v Vodafone — EUR 45 Million
 document_type: decision
-source_grade: "B"
-publisher: "BfDI (Germany, Federal)"
-target_entity: "Vodafone GmbH"
-fine_amount: "EUR 45,000,000"
-decision_date: "2025-06-03"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: BfDI (Germany, Federal)
+target_entity: Vodafone GmbH
+fine_amount: EUR 45,000,000
+decision_date: '2025-06-03'
+source_url: https://www.bfdi.bund.de/SharedDocs/Pressemitteilungen/EN/2025/06_Geldbu%C3%9Fe-Vodafone.html
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 28(1)"
-  - "Art. 32(1)"
-
-# === Search Metadata ===
+- Art. 28(1)
+- Art. 32(1)
 keywords:
-  - "bfdi"
-  - "vodafone"
-  - "eur"
-  - "million"
-  - "controller"
-  - "security"
-  - "fines"
-  - "federal"
-  - "third-party management"
-  - "processor oversight"
-  - "authentication"
-  - "security"
-  - "sales partners"
+- bfdi
+- vodafone
+- eur
+- million
+- controller
+- security
+- fines
+- federal
+- third-party management
+- processor oversight
+- authentication
+- sales partners
 ---
 
 ## BfDI v Vodafone — EUR 45 Million

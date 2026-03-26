@@ -1,39 +1,33 @@
 ---
-# === Identification ===
-source_id: "a-precedent-c-61-19-orange-romania"
-slug: "c-61-19-orange-romania"
-title_en: "Orange Romania SA v ANSPDCP"
-case_number: "C-61/19"
-ecli: "ECLI:EU:C:2020:901"
+source_id: a-precedent-c-61-19-orange-romania
+slug: c-61-19-orange-romania
+title_en: Orange Romania SA v ANSPDCP
+case_number: C-61/19
+ecli: ECLI:EU:C:2020:901
 document_type: precedent
-source_grade: "A"
-publisher: "Court of Justice of the European Union (CJEU)"
-judgment_date: "2020-11-11"
-source_url: "https://gdprhub.eu"
+source_grade: A
+publisher: Court of Justice of the European Union (CJEU)
+judgment_date: '2020-11-11'
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62019CJ0061
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Related GDPR Articles ===
+significance: important
+retrieved_at: '2026-03-25'
 gdpr_articles:
-  - "Art. 6(1)(a)"
-  - "Art. 7"
-
-# === Search Metadata ===
+- Art. 6(1)(a)
+- Art. 7
 keywords:
-  - "orange"
-  - "romania"
-  - "anspdcp"
-  - "controller"
-  - "penalties"
-  - "provider"
-  - "consent"
-  - "data subject"
-  - "consent"
-  - "freely given"
-  - "pre-ticked checkbox"
-  - "identity documents"
-  - "telecommunications"
+- orange
+- romania
+- anspdcp
+- controller
+- penalties
+- provider
+- consent
+- data subject
+- freely given
+- pre-ticked checkbox
+- identity documents
+- telecommunications
 ---
 
 # CJEU C-61/19: Orange Romania (Freely Given Consent)

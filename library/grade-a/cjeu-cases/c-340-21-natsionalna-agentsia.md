@@ -1,44 +1,39 @@
 ---
-# === Identification ===
-source_id: "a-precedent-c-340-21-natsionalna-agentsia"
-slug: "c-340-21-natsionalna-agentsia"
-title_en: "VB v Natsionalna agentsia za prihodite (Data Breach Liability)"
-case_number: "C-340/21"
-ecli: "ECLI:EU:C:2023:986"
+source_id: a-precedent-c-340-21-natsionalna-agentsia
+slug: c-340-21-natsionalna-agentsia
+title_en: VB v Natsionalna agentsia za prihodite (Data Breach Liability)
+case_number: C-340/21
+ecli: ECLI:EU:C:2023:986
 document_type: precedent
-source_grade: "A"
-publisher: "Court of Justice of the European Union (CJEU)"
-judgment_date: "2023-12-14"
-source_url: "https://gdprhub.eu"
+source_grade: A
+publisher: Court of Justice of the European Union (CJEU)
+judgment_date: '2023-12-14'
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0340
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Related GDPR Articles ===
+significance: important
+retrieved_at: '2026-03-25'
 gdpr_articles:
-  - "Art. 5(1)(f)"
-  - "Art. 24"
-  - "Art. 32"
-  - "Art. 82"
-
-# === Search Metadata ===
+- Art. 5(1)(f)
+- Art. 24
+- Art. 32
+- Art. 82
 keywords:
-  - "natsionalna"
-  - "agentsia"
-  - "prihodite"
-  - "data"
-  - "breach"
-  - "liability"
-  - "adequacy"
-  - "controller"
-  - "data breach"
-  - "cyberattack"
-  - "hacking"
-  - "security measures"
-  - "TOMs"
-  - "burden of proof"
-  - "fear"
-  - "non-material damage"
+- natsionalna
+- agentsia
+- prihodite
+- data
+- breach
+- liability
+- adequacy
+- controller
+- data breach
+- cyberattack
+- hacking
+- security measures
+- TOMs
+- burden of proof
+- fear
+- non-material damage
 ---
 
 # CJEU C-340/21: Natsionalna agentsia za prihodite (Data Breach Liability)

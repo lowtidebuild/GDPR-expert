@@ -1,39 +1,33 @@
 ---
-# === Identification ===
-source_id: "b-decision-ico-british-airways-20m-breach"
-slug: "ico-british-airways-20m-breach"
-title_en: "ICO UK v British Airways — GBP 20 Million"
+source_id: b-decision-ico-british-airways-20m-breach
+slug: ico-british-airways-20m-breach
+title_en: ICO UK v British Airways — GBP 20 Million
 document_type: decision
-source_grade: "B"
-publisher: "ICO (UK)"
-target_entity: "British Airways"
-fine_amount: "GBP 20,000,000"
-decision_date: "2020-10-16"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: ICO (UK)
+target_entity: British Airways
+fine_amount: GBP 20,000,000
+decision_date: '2020-10-16'
+source_url: https://ico.org.uk/media/action-weve-taken/mpns/2618546/british-airways-plc-mpn-20201016.pdf
 jurisdiction: EU
-significance: "important"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: important
+retrieved_at: '2026-03-27'
 violated_articles:
-  - "Art. 5(1)(f)"
-  - "Art. 32"
-
-# === Search Metadata ===
+- Art. 5(1)(f)
+- Art. 32
 keywords:
-  - "ico"
-  - "british"
-  - "airways"
-  - "gbp"
-  - "million"
-  - "security"
-  - "data breach"
-  - "fines"
-  - "data breach"
-  - "security measures"
-  - "web application"
-  - "credit card data"
-  - "Magecart attack"
+- ico
+- british
+- airways
+- gbp
+- million
+- security
+- data breach
+- fines
+- security measures
+- web application
+- credit card data
+- Magecart attack
 ---
 
 # ICO UK v British Airways - GBP 20 Million Fine

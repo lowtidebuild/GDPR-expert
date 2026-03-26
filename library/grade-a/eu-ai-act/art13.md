@@ -1,39 +1,30 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 13
 article_sub: 0
-article_title: "Transparency and provision of information to deployers"
-chapter: "III"
-chapter_title: "Classification rules for high-risk AI systems"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_13/oj/eng"
-effective_date: "20240801"
+article_title: Transparency and provision of information to deployers
+chapter: III
+chapter_title: Classification rules for high-risk AI systems
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_13/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 12"
-  - "Art. 14"
-  - "Art. 15"
-  - "Art. 9(2)"
-
-# === Search Metadata ===
+- Art. 12
+- Art. 14
+- Art. 15
+- Art. 9(2)
 keywords:
-  - "transparency"
-  - "provision"
-  - "information"
-  - "deployers"
-  - "fundamental rights"
-  - "provider"
-  - "security"
-  - "ai system"
-  - "transparency"
-  - "information"
+- transparency
+- provision
+- information
+- deployers
+- fundamental rights
+- provider
+- security
+- ai system
 ---
 
 ## Article 13 — Transparency and provision of information to deployers

@@ -1,44 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 33
 article_sub: 0
-article_title: "Notification of a personal data breach to the supervisory authority"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_33/oj/eng"
-effective_date: "20180525"
+article_title: Notification of a personal data breach to the supervisory authority
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_33/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 55"
-
+- Art. 55
 related_recitals:
-  - "Recital 85"
-  - "Recital 87"
-  - "Recital 88"
-
-# === Search Metadata ===
+- Recital 85
+- Recital 87
+- Recital 88
 keywords:
-  - "notification"
-  - "personal"
-  - "data"
-  - "breach"
-  - "supervisory"
-  - "authority"
-  - "controller"
-  - "data protection"
-  - "controller"
-  - "personal data"
-  - "supervisory authority"
-  - "breach"
-  - "notification"
+- notification
+- personal
+- data
+- breach
+- supervisory
+- authority
+- controller
+- data protection
+- personal data
+- supervisory authority
 ---
 
 ## Article 33 — Notification of a personal data breach to the supervisory authority

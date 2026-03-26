@@ -1,44 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 79
 article_sub: 0
-article_title: "Right to an effective judicial remedy against a controller or processor"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_79/oj/eng"
-effective_date: "20180525"
+article_title: Right to an effective judicial remedy against a controller or processor
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_79/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 77"
-
+- Art. 77
 related_recitals:
-  - "Recital 141"
-  - "Recital 145"
-
-# === Search Metadata ===
+- Recital 141
+- Recital 145
 keywords:
-  - "right"
-  - "effective"
-  - "judicial"
-  - "remedy"
-  - "controller"
-  - "processor"
-  - "judicial remedy"
-  - "supervisory authority"
-  - "processing"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "personal data"
-  - "supervisory authority"
+- right
+- effective
+- judicial
+- remedy
+- controller
+- processor
+- judicial remedy
+- supervisory authority
+- processing
+- data subject
+- personal data
 ---
 
 ## Article 79 — Right to an effective judicial remedy against a controller or processor

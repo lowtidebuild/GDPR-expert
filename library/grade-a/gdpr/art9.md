@@ -1,51 +1,42 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 9
 article_sub: 0
-article_title: "Processing of special categories of personal data"
-chapter: "II"
-chapter_title: "Principles relating to processing of personal data"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_9/oj/eng"
-effective_date: "20180525"
+article_title: Processing of special categories of personal data
+chapter: II
+chapter_title: Principles relating to processing of personal data
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_9/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 89(1)"
-
+- Art. 89(1)
 related_recitals:
-  - "Recital 46"
-  - "Recital 51"
-  - "Recital 52"
-  - "Recital 53"
-  - "Recital 54"
-  - "Recital 55"
-  - "Recital 56"
-
-# === Search Metadata ===
+- Recital 46
+- Recital 51
+- Recital 52
+- Recital 53
+- Recital 54
+- Recital 55
+- Recital 56
 keywords:
-  - "processing"
-  - "special"
-  - "categories"
-  - "personal"
-  - "data"
-  - "controller"
-  - "data protection"
-  - "genetic data"
-  - "consent"
-  - "processing"
-  - "data subject"
-  - "personal data"
-  - "special categor"
-  - "genetic"
-  - "biometric"
-  - "health"
+- processing
+- special
+- categories
+- personal
+- data
+- controller
+- data protection
+- genetic data
+- consent
+- data subject
+- personal data
+- special categor
+- genetic
+- biometric
+- health
 ---
 
 ## Article 9 — Processing of special categories of personal data

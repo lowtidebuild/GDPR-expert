@@ -1,38 +1,28 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 55
 article_sub: 0
-article_title: "Competence"
-chapter: "VI"
-chapter_title: "Supervisory authority"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_55/oj/eng"
-effective_date: "20180525"
+article_title: Competence
+chapter: VI
+chapter_title: Supervisory authority
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_55/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 56"
-  - "Art. 6(1)"
-
+- Art. 56
+- Art. 6(1)
 related_recitals:
-  - "Recital 122"
-
-# === Search Metadata ===
+- Recital 122
 keywords:
-  - "competence"
-  - "supervisory authority"
-  - "competent"
-  - "processing"
-  - "authorities"
-  - "acting"
-  - "processing"
-  - "supervisory authority"
+- competence
+- supervisory authority
+- competent
+- processing
+- authorities
+- acting
 ---
 
 ## Article 55 — Competence

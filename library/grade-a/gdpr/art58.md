@@ -1,55 +1,45 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 58
 article_sub: 0
-article_title: "Powers"
-chapter: "VI"
-chapter_title: "Supervisory authority"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_58/oj/eng"
-effective_date: "20180525"
+article_title: Powers
+chapter: VI
+chapter_title: Supervisory authority
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_58/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 17(2)"
-  - "Art. 19"
-  - "Art. 28(8)"
-  - "Art. 36"
-  - "Art. 36(5)"
-  - "Art. 40(5)"
-  - "Art. 42(5)"
-  - "Art. 42(7)"
-  - "Art. 43"
-  - "Art. 46(2)"
-  - "Art. 46(3)"
-  - "Art. 47"
-  - "Art. 83"
-
+- Art. 17(2)
+- Art. 19
+- Art. 28(8)
+- Art. 36
+- Art. 36(5)
+- Art. 40(5)
+- Art. 42(5)
+- Art. 42(7)
+- Art. 43
+- Art. 46(2)
+- Art. 46(3)
+- Art. 47
+- Art. 83
 related_recitals:
-  - "Recital 122"
-  - "Recital 129"
-  - "Recital 131"
-
-# === Search Metadata ===
+- Recital 122
+- Recital 129
+- Recital 131
 keywords:
-  - "powers"
-  - "controller"
-  - "data protection"
-  - "codes of conduct"
-  - "judicial remedy"
-  - "processor"
-  - "safeguards"
-  - "controller"
-  - "processor"
-  - "supervisory authority"
-  - "information"
-  - "certification"
+- powers
+- controller
+- data protection
+- codes of conduct
+- judicial remedy
+- processor
+- safeguards
+- supervisory authority
+- information
+- certification
 ---
 
 ## Article 58 — Powers

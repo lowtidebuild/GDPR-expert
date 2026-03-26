@@ -1,39 +1,30 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 88
 article_sub: 0
-article_title: "Processing in the context of employment"
-chapter: "IX"
-chapter_title: "Processing and freedom of expression and information"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_88/oj/eng"
-effective_date: "20180525"
+article_title: Processing in the context of employment
+chapter: IX
+chapter_title: Processing and freedom of expression and information
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_88/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 155"
-
-# === Search Metadata ===
+- Recital 155
 keywords:
-  - "processing"
-  - "context"
-  - "employment"
-  - "transparency"
-  - "fundamental rights"
-  - "legitimate interest"
-  - "data subject"
-  - "transfer"
-  - "processing"
-  - "personal data"
-  - "health"
+- processing
+- context
+- employment
+- transparency
+- fundamental rights
+- legitimate interest
+- data subject
+- transfer
+- personal data
+- health
 ---
 
 ## Article 88 — Processing in the context of employment

@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 52
 article_sub: 0
-article_title: "Procedure"
-chapter: "V"
-chapter_title: "Classification of general-purpose AI models as general-purpose AI models with systemic risk"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_52/oj/eng"
-effective_date: "20240801"
+article_title: Procedure
+chapter: V
+chapter_title: Classification of general-purpose AI models as general-purpose AI models with systemic risk
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_52/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 51(1)"
-  - "Art. 90(1)"
-  - "Art. 97"
-
-# === Search Metadata ===
+- Art. 51(1)
+- Art. 90(1)
+- Art. 97
 keywords:
-  - "procedure"
-  - "provider"
-  - "general-purpose"
-  - "notification"
-  - "model"
-  - "meets"
-  - "condition"
-  - "notification"
-  - "information"
+- procedure
+- provider
+- general-purpose
+- notification
+- model
+- meets
+- condition
+- information
 ---
 
 ## Article 52 — Procedure

@@ -1,36 +1,27 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 45
 article_sub: 0
-article_title: "Information obligations of notified bodies"
-chapter: "III"
-chapter_title: "Classification rules for high-risk AI systems"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_45/oj/eng"
-effective_date: "20240801"
+article_title: Information obligations of notified bodies
+chapter: III
+chapter_title: Classification rules for high-risk AI systems
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_45/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 78"
-
-# === Search Metadata ===
+- Art. 78
 keywords:
-  - "information"
-  - "obligations"
-  - "notified"
-  - "bodies"
-  - "ai system"
-  - "confidentiality"
-  - "notification"
-  - "restriction"
-  - "restriction"
-  - "information"
+- information
+- obligations
+- notified
+- bodies
+- ai system
+- confidentiality
+- notification
+- restriction
 ---
 
 ## Article 45 — Information obligations of notified bodies

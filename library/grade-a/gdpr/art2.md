@@ -1,49 +1,40 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 2
 article_sub: 0
-article_title: "Material scope"
-chapter: "I"
-chapter_title: "Subject-matter and objectives"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_2/oj/eng"
-effective_date: "20180525"
+article_title: Material scope
+chapter: I
+chapter_title: Subject-matter and objectives
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_2/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 98"
-  - "Directive 2000/31/EC"
-
+- Art. 98
+- Directive 2000/31/EC
 related_recitals:
-  - "Recital 13"
-  - "Recital 14"
-  - "Recital 15"
-  - "Recital 16"
-  - "Recital 17"
-  - "Recital 18"
-  - "Recital 19"
-  - "Recital 20"
-  - "Recital 21"
-  - "Recital 27"
-
-# === Search Metadata ===
+- Recital 13
+- Recital 14
+- Recital 15
+- Recital 16
+- Recital 17
+- Recital 18
+- Recital 19
+- Recital 20
+- Recital 21
+- Recital 27
 keywords:
-  - "material"
-  - "scope"
-  - "penalties"
-  - "provider"
-  - "security"
-  - "liability"
-  - "personal data"
-  - "processing"
-  - "personal data"
-  - "automated"
+- material
+- scope
+- penalties
+- provider
+- security
+- liability
+- personal data
+- processing
+- automated
 ---
 
 ## Article 2 — Material scope

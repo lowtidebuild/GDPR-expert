@@ -1,28 +1,21 @@
 ---
-# === Identification ===
-law: "Data Governance Act"
-law_id: "32022R0868"
+law: Data Governance Act
+law_id: 32022R0868
 article: 38
 article_sub: 0
-article_title: "Entry into force and application"
-chapter: "IX"
-chapter_title: "Penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_38/oj/eng"
-effective_date: "20220623"
+article_title: Entry into force and application
+chapter: IX
+chapter_title: Penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2022/868/art_38/oj/eng
+effective_date: '20220623'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "entry"
-  - "force"
-  - "application"
+- entry
+- force
+- application
 ---
 
 ## Article 38 — Entry into force and application

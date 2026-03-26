@@ -1,34 +1,26 @@
 ---
-# === Identification ===
-law: "Directive on Privacy and Electronic Communications"
-law_id: "02002L0058-20091219"
+law: Directive on Privacy and Electronic Communications
+law_id: 02002L0058-20091219
 article: 8
 article_sub: 0
-article_title: "Presentation and restriction of calling and connected line identification"
-chapter: "II"
-chapter_title: "Confidentiality"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_8/oj/eng"
-effective_date: "20020731"
+article_title: Presentation and restriction of calling and connected line identification
+chapter: II
+chapter_title: Confidentiality
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/dir/2002/58/art_8/oj/eng
+effective_date: '20020731'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-25'
+cross_references: []
 keywords:
-  - "presentation"
-  - "restriction"
-  - "calling"
-  - "connected"
-  - "line"
-  - "identification"
-  - "electronic communications"
-  - "provider"
-  - "restriction"
+- presentation
+- restriction
+- calling
+- connected
+- line
+- identification
+- electronic communications
+- provider
 ---
 
 ## Article 8 —

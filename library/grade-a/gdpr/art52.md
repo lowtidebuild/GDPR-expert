@@ -1,38 +1,29 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 52
 article_sub: 0
-article_title: "Independence"
-chapter: "VI"
-chapter_title: "Supervisory authority"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_52/oj/eng"
-effective_date: "20180525"
+article_title: Independence
+chapter: VI
+chapter_title: Supervisory authority
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_52/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-cross_references:
-
+retrieved_at: '2026-03-25'
+cross_references: []
 related_recitals:
-  - "Recital 117"
-  - "Recital 118"
-  - "Recital 120"
-  - "Recital 121"
-
-# === Search Metadata ===
+- Recital 117
+- Recital 118
+- Recital 120
+- Recital 121
 keywords:
-  - "independence"
-  - "supervisory authority"
-  - "tasks"
-  - "powers"
-  - "members"
-  - "incompatible"
-  - "supervisory authority"
+- independence
+- supervisory authority
+- tasks
+- powers
+- members
+- incompatible
 ---
 
 ## Article 52 — Independence

@@ -1,52 +1,42 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 46
 article_sub: 0
-article_title: "Transfers subject to appropriate safeguards"
-chapter: "V"
-chapter_title: "General principle for transfers"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_46/oj/eng"
-effective_date: "20180525"
+article_title: Transfers subject to appropriate safeguards
+chapter: V
+chapter_title: General principle for transfers
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_46/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 26(2)"
-  - "Art. 26(4)"
-  - "Art. 40"
-  - "Art. 42"
-  - "Art. 45(3)"
-  - "Art. 47"
-  - "Art. 63"
-  - "Art. 93(2)"
-
+- Art. 26(2)
+- Art. 26(4)
+- Art. 40
+- Art. 42
+- Art. 45(3)
+- Art. 47
+- Art. 63
+- Art. 93(2)
 related_recitals:
-  - "Recital 108"
-  - "Recital 109"
-
-# === Search Metadata ===
+- Recital 108
+- Recital 109
 keywords:
-  - "transfers"
-  - "subject"
-  - "safeguards"
-  - "controller"
-  - "data protection"
-  - "processor"
-  - "certification"
-  - "supervisory authority"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "personal data"
-  - "transfer"
-  - "international"
-  - "safeguard"
+- transfers
+- subject
+- safeguards
+- controller
+- data protection
+- processor
+- certification
+- supervisory authority
+- data subject
+- personal data
+- transfer
+- international
+- safeguard
 ---
 
 ## Article 46 — Transfers subject to appropriate safeguards

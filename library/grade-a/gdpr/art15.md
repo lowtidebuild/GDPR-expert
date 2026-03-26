@@ -1,45 +1,35 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 15
 article_sub: 0
-article_title: "Right of access by the data subject"
-chapter: "III"
-chapter_title: "Transparent information, communication and modalities for the exercise of the rights of the data subject"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_15/oj/eng"
-effective_date: "20180525"
+article_title: Right of access by the data subject
+chapter: III
+chapter_title: Transparent information, communication and modalities for the exercise of the rights of the data subject
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_15/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 22(1)"
-  - "Art. 46"
-
+- Art. 22(1)
+- Art. 46
 related_recitals:
-  - "Recital 63"
-  - "Recital 64"
-
-# === Search Metadata ===
+- Recital 63
+- Recital 64
 keywords:
-  - "right"
-  - "access"
-  - "data"
-  - "subject"
-  - "right of access"
-  - "controller"
-  - "profiling"
-  - "safeguards"
-  - "processing"
-  - "controller"
-  - "data subject"
-  - "personal data"
-  - "right of access"
-  - "information"
+- right
+- access
+- data
+- subject
+- right of access
+- controller
+- profiling
+- safeguards
+- processing
+- data subject
+- personal data
+- information
 ---
 
 ## Article 15 — Right of access by the data subject

@@ -1,46 +1,40 @@
 ---
-# === Identification ===
-source_id: "b-decision-garante-openai-15m-chatgpt-ai"
-slug: "garante-openai-15m-chatgpt-ai"
-title_en: "Garante v OpenAI (ChatGPT) — EUR 15 Million"
+source_id: b-decision-garante-openai-15m-chatgpt-ai
+slug: garante-openai-15m-chatgpt-ai
+title_en: Garante v OpenAI (ChatGPT) — EUR 15 Million
 document_type: decision
-source_grade: "B"
-publisher: "Garante per la protezione dei dati personali (Italy)"
-target_entity: "OpenAI OpCo, LLC"
-fine_amount: "EUR 15,000,000"
-decision_date: "2024-12-20"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: Garante per la protezione dei dati personali (Italy)
+target_entity: OpenAI OpCo, LLC
+fine_amount: EUR 15,000,000
+decision_date: '2024-12-20'
+source_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10085432
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 5(1)(a)"
-  - "Art. 6"
-  - "Art. 8"
-  - "Art. 13"
-  - "Art. 25"
-  - "Art. 33"
-
-# === Search Metadata ===
+- Art. 5(1)(a)
+- Art. 6
+- Art. 8
+- Art. 13
+- Art. 25
+- Art. 33
 keywords:
-  - "garante"
-  - "openai"
-  - "chatgpt"
-  - "eur"
-  - "million"
-  - "transparency"
-  - "data breach"
-  - "personal data"
-  - "AI"
-  - "generative AI"
-  - "ChatGPT"
-  - "legal basis"
-  - "age verification"
-  - "children"
-  - "training data"
-  - "breach notification"
+- garante
+- openai
+- chatgpt
+- eur
+- million
+- transparency
+- data breach
+- personal data
+- AI
+- generative AI
+- legal basis
+- age verification
+- children
+- training data
+- breach notification
 ---
 
 ## Garante v OpenAI (ChatGPT) — EUR 15 Million

@@ -1,6 +1,6 @@
 {
   "type": "source_registry",
-  "generated_at": "2026-03-26T04:18:11.184197+00:00",
+  "generated_at": "2026-03-26T19:22:26.786416+00:00",
   "sources": {
     "grade-a": {
       "gdpr": {
@@ -34,7 +34,7 @@
         "target": 38
       },
       "edpb-guidelines": {
-        "status": "complete",
+        "status": "partial",
         "count": 52,
         "target": 82,
         "note": "Phase 3"
@@ -46,7 +46,7 @@
         "note": "Phase 3, initial 20"
       },
       "edpb-recommendations": {
-        "status": "complete",
+        "status": "partial",
         "count": 7,
         "target": 11,
         "note": "Phase 3"
@@ -88,7 +88,7 @@
     "grade-b": {
       "enforcement-decisions": {
         "status": "complete",
-        "count": 35
+        "count": 33
       },
       "legislative-proposals": {
         "status": "complete",

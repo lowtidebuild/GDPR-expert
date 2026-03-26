@@ -1,32 +1,24 @@
 ---
-# === Identification ===
-law: "Data Governance Act"
-law_id: "32022R0868"
+law: Data Governance Act
+law_id: 32022R0868
 article: 15
 article_sub: 0
-article_title: "Exceptions"
-chapter: "III"
-chapter_title: "Data intermediation services"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_15/oj/eng"
-effective_date: "20220623"
+article_title: Exceptions
+chapter: III
+chapter_title: Data intermediation services
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2022/868/art_15/oj/eng
+effective_date: '20220623'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "exceptions"
-  - "altruism"
-  - "data subject"
-  - "data holder"
-  - "organisations"
-  - "entities"
-  - "data subject"
+- exceptions
+- altruism
+- data subject
+- data holder
+- organisations
+- entities
 ---
 
 ## Article 15 — Exceptions

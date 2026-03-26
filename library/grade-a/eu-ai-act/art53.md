@@ -1,39 +1,31 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 53
 article_sub: 0
-article_title: "Obligations for providers of general-purpose AI models"
-chapter: "V"
-chapter_title: "Classification of general-purpose AI models as general-purpose AI models with systemic risk"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_53/oj/eng"
-effective_date: "20240801"
+article_title: Obligations for providers of general-purpose AI models
+chapter: V
+chapter_title: Classification of general-purpose AI models as general-purpose AI models with systemic risk
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_53/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 4(3)"
-  - "Art. 56"
-  - "Art. 78"
-  - "Art. 97"
-  - "Art. 97(2)"
-
-# === Search Metadata ===
+- Art. 4(3)
+- Art. 56
+- Art. 78
+- Art. 97
+- Art. 97(2)
 keywords:
-  - "obligations"
-  - "providers"
-  - "general-purpose"
-  - "models"
-  - "provider"
-  - "ai system"
-  - "confidentiality"
-  - "information"
-  - "information"
+- obligations
+- providers
+- general-purpose
+- models
+- provider
+- ai system
+- confidentiality
+- information
 ---
 
 ## Article 53 — Obligations for providers of general-purpose AI models

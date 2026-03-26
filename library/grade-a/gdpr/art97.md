@@ -1,37 +1,27 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 97
 article_sub: 0
-article_title: "Commission reports"
-chapter: "XI"
-chapter_title: "Repeal of Directive 95/46/EC"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_97/oj/eng"
-effective_date: "20180525"
+article_title: Commission reports
+chapter: XI
+chapter_title: Repeal of Directive 95/46/EC
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_97/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 25(6)"
-  - "Art. 45(3)"
-
-related_recitals:
-
-# === Search Metadata ===
+- Art. 25(6)
+- Art. 45(3)
+related_recitals: []
 keywords:
-  - "reports"
-  - "transfer"
-  - "personal data"
-  - "decisions"
-  - "adopted"
-  - "personal data"
-  - "transfer"
-  - "international"
+- reports
+- transfer
+- personal data
+- decisions
+- adopted
+- international
 ---
 
 ## Article 97 — Commission reports

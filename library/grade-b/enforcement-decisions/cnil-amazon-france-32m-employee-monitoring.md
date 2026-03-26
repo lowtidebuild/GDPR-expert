@@ -1,43 +1,38 @@
 ---
-# === Identification ===
-source_id: "b-decision-cnil-amazon-france-32m-employee-monitoring"
-slug: "cnil-amazon-france-32m-employee-monitoring"
-title_en: "CNIL v Amazon France Logistique — EUR 32 Million"
+source_id: b-decision-cnil-amazon-france-32m-employee-monitoring
+slug: cnil-amazon-france-32m-employee-monitoring
+title_en: CNIL v Amazon France Logistique — EUR 32 Million
 document_type: decision
-source_grade: "B"
-publisher: "CNIL (France)"
-target_entity: "Amazon France Logistique SAS"
-fine_amount: "EUR 32,000,000"
-decision_date: "2023-12-27"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: CNIL (France)
+target_entity: Amazon France Logistique SAS
+fine_amount: EUR 32,000,000
+decision_date: '2023-12-27'
+source_url: https://www.cnil.fr/fr/node/164840
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 5(1)(c)"
-  - "Art. 6(1)(f)"
-  - "Art. 12"
-  - "Art. 13"
-  - "Art. 32"
-
-# === Search Metadata ===
+- Art. 5(1)(c)
+- Art. 6(1)(f)
+- Art. 12
+- Art. 13
+- Art. 32
 keywords:
-  - "cnil"
-  - "amazon"
-  - "france"
-  - "logistique"
-  - "eur"
-  - "million"
-  - "fine"
-  - "decision"
-  - "employee monitoring"
-  - "warehouse surveillance"
-  - "scanner data"
-  - "productivity tracking"
-  - "video surveillance"
-  - "data minimization"
+- cnil
+- amazon
+- france
+- logistique
+- eur
+- million
+- fine
+- decision
+- employee monitoring
+- warehouse surveillance
+- scanner data
+- productivity tracking
+- video surveillance
+- data minimization
 ---
 
 ## CNIL v Amazon France Logistique — EUR 32 Million

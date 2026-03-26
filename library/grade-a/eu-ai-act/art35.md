@@ -1,32 +1,25 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 35
 article_sub: 0
-article_title: "Identification numbers and lists of notified bodies"
-chapter: "III"
-chapter_title: "Classification rules for high-risk AI systems"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_35/oj/eng"
-effective_date: "20240801"
+article_title: Identification numbers and lists of notified bodies
+chapter: III
+chapter_title: Classification rules for high-risk AI systems
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_35/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
-cross_references:
-
-# === Search Metadata ===
+retrieved_at: '2026-03-26'
+cross_references: []
 keywords:
-  - "identification"
-  - "numbers"
-  - "lists"
-  - "notified"
-  - "bodies"
-  - "body"
-  - "list"
+- identification
+- numbers
+- lists
+- notified
+- bodies
+- body
+- list
 ---
 
 ## Article 35 — Identification numbers and lists of notified bodies

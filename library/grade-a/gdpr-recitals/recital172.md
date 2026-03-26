@@ -1,17 +1,12 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 recital: 172
-document_type: "recital"
-
-# === Source ===
-source_grade: "A"
-effective_date: "20180525"
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
-related_articles:
+document_type: recital
+source_grade: A
+effective_date: '20180525'
+retrieved_at: '2026-03-25'
+related_articles: []
 ---
 
 ## Recital 172

@@ -1,40 +1,35 @@
 ---
-# === Identification ===
-source_id: "b-decision-dpc-whatsapp-225m-transparency"
-slug: "dpc-whatsapp-225m-transparency"
-title_en: "DPC v WhatsApp — EUR 225 Million"
+source_id: b-decision-dpc-whatsapp-225m-transparency
+slug: dpc-whatsapp-225m-transparency
+title_en: DPC v WhatsApp — EUR 225 Million
 document_type: decision
-source_grade: "B"
-publisher: "DPC (Ireland)"
-target_entity: "WhatsApp Ireland Limited"
-fine_amount: "EUR 225,000,000"
-decision_date: "2021-09-02"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: DPC (Ireland)
+target_entity: WhatsApp Ireland Limited
+fine_amount: EUR 225,000,000
+decision_date: '2021-09-02'
+source_url: https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-whatsapp-inquiry
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 5(1)(a)"
-  - "Art. 12"
-  - "Art. 13"
-  - "Art. 14"
-
-# === Search Metadata ===
+- Art. 5(1)(a)
+- Art. 12
+- Art. 13
+- Art. 14
 keywords:
-  - "dpc"
-  - "whatsapp"
-  - "eur"
-  - "million"
-  - "privacy"
-  - "ireland"
-  - "fine"
-  - "dispute"
-  - "transparency"
-  - "privacy policy"
-  - "non-users"
-  - "EDPB dispute resolution"
+- dpc
+- whatsapp
+- eur
+- million
+- privacy
+- ireland
+- fine
+- dispute
+- transparency
+- privacy policy
+- non-users
+- EDPB dispute resolution
 ---
 
 ## DPC v WhatsApp — EUR 225 Million

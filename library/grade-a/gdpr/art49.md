@@ -1,52 +1,42 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 49
 article_sub: 0
-article_title: "Derogations for specific situations"
-chapter: "V"
-chapter_title: "General principle for transfers"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_49/oj/eng"
-effective_date: "20180525"
+article_title: Derogations for specific situations
+chapter: V
+chapter_title: General principle for transfers
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_49/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 30"
-  - "Art. 45"
-  - "Art. 45(3)"
-  - "Art. 46"
-
+- Art. 30
+- Art. 45
+- Art. 45(3)
+- Art. 46
 related_recitals:
-  - "Recital 111"
-  - "Recital 112"
-  - "Recital 113"
-  - "Recital 114"
-  - "Recital 115"
-
-# === Search Metadata ===
+- Recital 111
+- Recital 112
+- Recital 113
+- Recital 114
+- Recital 115
 keywords:
-  - "derogations"
-  - "specific"
-  - "situations"
-  - "adequacy"
-  - "controller"
-  - "processor"
-  - "safeguards"
-  - "consent"
-  - "consent"
-  - "data subject"
-  - "personal data"
-  - "transfer"
-  - "international"
-  - "adequacy"
-  - "safeguard"
-  - "binding corporate"
+- derogations
+- specific
+- situations
+- adequacy
+- controller
+- processor
+- safeguards
+- consent
+- data subject
+- personal data
+- transfer
+- international
+- safeguard
+- binding corporate
 ---
 
 ## Article 49 — Derogations for specific situations

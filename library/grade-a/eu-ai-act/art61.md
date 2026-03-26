@@ -1,37 +1,29 @@
 ---
-# === Identification ===
-law: "Artificial Intelligence Act"
-law_id: "32024R1689"
+law: Artificial Intelligence Act
+law_id: 32024R1689
 article: 61
 article_sub: 0
-article_title: "Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes"
-chapter: "VI"
-chapter_title: "AI regulatory sandboxes"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_61/oj/eng"
-effective_date: "20240801"
+article_title: Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes
+chapter: VI
+chapter_title: AI regulatory sandboxes
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2024/1689/art_61/oj/eng
+effective_date: '20240801'
 last_amended: null
-retrieved_at: "2026-03-26"
-
-# === Relationships ===
+retrieved_at: '2026-03-26'
 cross_references:
-  - "Art. 60"
-  - "Art. 60(4)"
-
-# === Search Metadata ===
+- Art. 60
+- Art. 60(4)
 keywords:
-  - "informed"
-  - "consent"
-  - "participate"
-  - "testing"
-  - "real"
-  - "world"
-  - "conditions"
-  - "outside"
-  - "consent"
-  - "information"
+- informed
+- consent
+- participate
+- testing
+- real
+- world
+- conditions
+- outside
+- information
 ---
 
 ## Article 61 — Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes

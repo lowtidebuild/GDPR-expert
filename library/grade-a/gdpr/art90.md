@@ -1,39 +1,28 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 90
 article_sub: 0
-article_title: "Obligations of secrecy"
-chapter: "IX"
-chapter_title: "Processing and freedom of expression and information"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_90/oj/eng"
-effective_date: "20180525"
+article_title: Obligations of secrecy
+chapter: IX
+chapter_title: Processing and freedom of expression and information
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_90/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 58(1)"
-
+- Art. 58(1)
 related_recitals:
-  - "Recital 164"
-
-# === Search Metadata ===
+- Recital 164
 keywords:
-  - "obligations"
-  - "secrecy"
-  - "controller"
-  - "processor"
-  - "personal data"
-  - "rules"
-  - "obligation"
-  - "controller"
-  - "processor"
-  - "personal data"
+- obligations
+- secrecy
+- controller
+- processor
+- personal data
+- rules
+- obligation
 ---
 
 ## Article 90 — Obligations of secrecy

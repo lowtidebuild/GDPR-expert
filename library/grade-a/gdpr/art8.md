@@ -1,43 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 8
 article_sub: 0
-article_title: "Conditions applicable to child's consent in relation to information society services"
-chapter: "II"
-chapter_title: "Principles relating to processing of personal data"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_8/oj/eng"
-effective_date: "20180525"
+article_title: Conditions applicable to child's consent in relation to information society services
+chapter: II
+chapter_title: Principles relating to processing of personal data
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_8/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 6(1)"
-
+- Art. 6(1)
 related_recitals:
-  - "Recital 38"
-
-# === Search Metadata ===
+- Recital 38
 keywords:
-  - "conditions"
-  - "child's"
-  - "consent"
-  - "relation"
-  - "information"
-  - "society"
-  - "services"
-  - "controller"
-  - "consent"
-  - "lawful"
-  - "processing"
-  - "personal data"
-  - "information"
-  - "child"
+- conditions
+- child's
+- consent
+- relation
+- information
+- society
+- services
+- controller
+- lawful
+- processing
+- personal data
+- child
 ---
 
 ## Article 8 — Conditions applicable to child's consent in relation to information society services

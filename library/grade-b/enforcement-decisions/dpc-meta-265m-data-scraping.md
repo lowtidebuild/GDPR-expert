@@ -1,39 +1,33 @@
 ---
-# === Identification ===
-source_id: "b-decision-dpc-meta-265m-data-scraping"
-slug: "dpc-meta-265m-data-scraping"
-title_en: "DPC v Meta (Facebook) — EUR 265 Million"
+source_id: b-decision-dpc-meta-265m-data-scraping
+slug: dpc-meta-265m-data-scraping
+title_en: DPC v Meta (Facebook) — EUR 265 Million
 document_type: decision
-source_grade: "B"
-publisher: "DPC (Ireland)"
-target_entity: "Meta Platforms Ireland Limited"
-fine_amount: "EUR 265,000,000"
-decision_date: "2022-11-25"
-source_url: "https://gdprhub.eu"
+source_grade: B
+publisher: DPC (Ireland)
+target_entity: Meta Platforms Ireland Limited
+fine_amount: EUR 265,000,000
+decision_date: '2022-11-25'
+source_url: https://dataprotection.ie/index.php/en/news-media/press-releases/data-protection-commission-announces-decision-in-facebook-data-scraping-inquiry
 jurisdiction: EU
-significance: "landmark"
-retrieved_at: "2026-03-25"
-
-# === Violated Articles ===
+significance: landmark
+retrieved_at: '2026-03-26'
 violated_articles:
-  - "Art. 25(1)"
-  - "Art. 25(2)"
-
-# === Search Metadata ===
+- Art. 25(1)
+- Art. 25(2)
 keywords:
-  - "dpc"
-  - "meta"
-  - "facebook"
-  - "eur"
-  - "million"
-  - "controller"
-  - "data protection"
-  - "ireland"
-  - "data scraping"
-  - "data breach"
-  - "privacy by design"
-  - "data protection by default"
-  - "Facebook"
+- dpc
+- meta
+- facebook
+- eur
+- million
+- controller
+- data protection
+- ireland
+- data scraping
+- data breach
+- privacy by design
+- data protection by default
 ---
 
 ## DPC v Meta (Facebook) — EUR 265 Million

@@ -1,43 +1,33 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 43
 article_sub: 0
-article_title: "Certification bodies"
-chapter: "IV"
-chapter_title: "Responsibility of the controller"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_43/oj/eng"
-effective_date: "20180525"
+article_title: Certification bodies
+chapter: IV
+chapter_title: Responsibility of the controller
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_43/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 42(1)"
-  - "Art. 42(5)"
-  - "Art. 55"
-  - "Art. 58(2)"
-  - "Art. 63"
-  - "Art. 92"
-  - "Art. 93(2)"
-
-related_recitals:
-
-# === Search Metadata ===
+- Art. 42(1)
+- Art. 42(5)
+- Art. 55
+- Art. 58(2)
+- Art. 63
+- Art. 92
+- Art. 93(2)
+related_recitals: []
 keywords:
-  - "certification"
-  - "bodies"
-  - "controller"
-  - "data protection"
-  - "processor"
-  - "supervisory authority"
-  - "data subject"
-  - "supervisory authority"
-  - "certification"
+- certification
+- bodies
+- controller
+- data protection
+- processor
+- supervisory authority
+- data subject
 ---
 
 ## Article 43 — Certification bodies

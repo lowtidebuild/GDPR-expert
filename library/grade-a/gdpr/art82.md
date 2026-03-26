@@ -1,40 +1,30 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 82
 article_sub: 0
-article_title: "Right to compensation and liability"
-chapter: "VIII"
-chapter_title: "Remedies, liability and penalties"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_82/oj/eng"
-effective_date: "20180525"
+article_title: Right to compensation and liability
+chapter: VIII
+chapter_title: Remedies, liability and penalties
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_82/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 79(2)"
-
+- Art. 79(2)
 related_recitals:
-  - "Recital 146"
-  - "Recital 147"
-
-# === Search Metadata ===
+- Recital 146
+- Recital 147
 keywords:
-  - "right"
-  - "compensation"
-  - "liability"
-  - "controller"
-  - "processor"
-  - "data subject"
-  - "damage"
-  - "processing"
-  - "controller"
-  - "processor"
+- right
+- compensation
+- liability
+- controller
+- processor
+- data subject
+- damage
+- processing
 ---
 
 ## Article 82 — Right to compensation and liability

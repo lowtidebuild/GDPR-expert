@@ -1,47 +1,38 @@
 ---
-# === Identification ===
-law: "General Data Protection Regulation"
-law_id: "32016R0679"
+law: General Data Protection Regulation
+law_id: 32016R0679
 article: 45
 article_sub: 0
-article_title: "Transfers on the basis of an adequacy decision"
-chapter: "V"
-chapter_title: "General principle for transfers"
-
-# === Source ===
-source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_45/oj/eng"
-effective_date: "20180525"
+article_title: Transfers on the basis of an adequacy decision
+chapter: V
+chapter_title: General principle for transfers
+source_grade: A
+source_url: https://eur-lex.europa.eu/eli/reg/2016/679/art_45/oj/eng
+effective_date: '20180525'
 last_amended: null
-retrieved_at: "2026-03-25"
-
-# === Relationships ===
+retrieved_at: '2026-03-25'
 cross_references:
-  - "Art. 25(6)"
-  - "Art. 93(2)"
-  - "Art. 93(3)"
-
+- Art. 25(6)
+- Art. 93(2)
+- Art. 93(3)
 related_recitals:
-  - "Recital 103"
-  - "Recital 104"
-  - "Recital 105"
-  - "Recital 106"
-  - "Recital 107"
-
-# === Search Metadata ===
+- Recital 103
+- Recital 104
+- Recital 105
+- Recital 106
+- Recital 107
 keywords:
-  - "transfers"
-  - "basis"
-  - "adequacy"
-  - "decision"
-  - "data protection"
-  - "security"
-  - "supervisory authority"
-  - "data subject"
-  - "personal data"
-  - "transfer"
-  - "international"
-  - "adequacy"
+- transfers
+- basis
+- adequacy
+- decision
+- data protection
+- security
+- supervisory authority
+- data subject
+- personal data
+- transfer
+- international
 ---
 
 ## Article 45 — Transfers on the basis of an adequacy decision
