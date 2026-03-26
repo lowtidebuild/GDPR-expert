@@ -34,7 +34,7 @@ Built for [Claude Code](https://claude.ai/claude-code) · Powered by structured 
 Existing AI legal assistants (ChatGPT Custom GPTs, Gemini Gems, etc.) treat EU legislation as flat text documents. They upload PDFs, run semantic search, and hope for the best. This approach **fundamentally fails** for EU data protection work because it ignores:
 
 - **Recitals as interpretive authority** — GDPR has 173 Recitals that courts and DPAs rely on to interpret the 99 Articles. Flat-text RAG treats them as disconnected paragraphs
-- **Cross-legislation references** — GDPR Art. 5(3) references the ePrivacy Directive; the AI Act cross-references GDPR Art. 22. Five laws form an interconnected web
+- **Cross-legislation references** — GDPR Article 95 governs the relationship with the ePrivacy Directive; the AI Act cross-references GDPR Art. 22. Five laws form an interconnected web
 - **Source authority hierarchy** — an EDPB binding decision (Art. 65) carries legal force; a law firm newsletter does not. Generic RAG treats them identically
 - **Citation verifiability** — every legal citation must trace back to an exact provision. "Somewhere in the GDPR" is not a citation
 
@@ -199,7 +199,7 @@ In EU law, CJEU judgments are **binding interpretations** of legislation — not
 | C-311/18 **Schrems II** | International transfers | Invalidated EU-US Privacy Shield |
 | C-252/21 **Meta v Bundeskartellamt** | Legitimate interest | Competition authority can assess GDPR compliance |
 | C-807/21 **Deutsche Wohnen** | Corporate fines | Clarified corporate fault requirement for Art. 83 fines |
-| C-26/22 **SCHUFA Scoring** | Automated decisions | Credit scoring = automated decision-making under Art. 22 |
+| C-634/21 **SCHUFA Scoring** | Automated decisions | Credit scoring = automated decision-making under Art. 22 |
 | C-604/22 **IAB Europe TCF** | Adtech / consent | TC string is personal data; joint controllership in adtech |
 | C-673/17 **Planet49** | Cookie consent | Pre-ticked boxes are not valid consent |
 | C-40/17 **Fashion ID** | Joint controllership | Website operator + Facebook = joint controllers for Like button |
@@ -215,7 +215,7 @@ Major DPA enforcement actions including fines against Meta, Amazon, TikTok, Goog
 
 ### Legislative Proposals — Digital Omnibus Package (Grade B)
 
-The EU Commission's November 2025 Digital Omnibus Package (COM(2025) 836 + 837) proposes significant GDPR amendments including AI training as explicit legitimate interest, breach notification threshold changes, and cookie consent migration from ePrivacy to GDPR. Stored as Grade B (proposal, not yet law) with key changes summarized in frontmatter.
+The EU Commission's November 2025 Digital Omnibus Package (COM(2025) 836 + 837) proposes significant GDPR amendments — clarifying that AI development may qualify as a legitimate interest under Art. 6(1)(f), raising the breach notification threshold, and migrating cookie consent rules from the ePrivacy Directive into GDPR. Stored as Grade B (proposal, not yet law) with key changes summarized in frontmatter.
 
 ---
 

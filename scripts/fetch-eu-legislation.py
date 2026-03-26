@@ -61,7 +61,7 @@ LAWS = {
         "type": "regulation",
         "effective_date": "20240801",
         "dir": "eu-ai-act",
-        "recitals_dir": None,
+        "recitals_dir": "eu-ai-act-recitals",
         "has_recitals": True,
     },
     "data-act": {
@@ -71,7 +71,7 @@ LAWS = {
         "type": "regulation",
         "effective_date": "20240111",
         "dir": "data-act",
-        "recitals_dir": None,
+        "recitals_dir": "data-act-recitals",
         "has_recitals": True,
     },
     "dga": {
@@ -81,7 +81,7 @@ LAWS = {
         "type": "regulation",
         "effective_date": "20220623",
         "dir": "data-governance-act",
-        "recitals_dir": None,
+        "recitals_dir": "data-governance-act-recitals",
         "has_recitals": True,
     },
 }

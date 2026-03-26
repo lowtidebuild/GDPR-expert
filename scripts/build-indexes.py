@@ -111,12 +111,12 @@ def build_article_index():
 def build_recital_index():
     """Build recital-index.json from all recital directories."""
     recitals = []
-    recital_dirs = ["grade-a/gdpr-recitals"]
-    # Also check for other law recitals that might have been saved in the law dir
-    for law_dir in ["grade-a/eu-ai-act", "grade-a/data-act", "grade-a/data-governance-act"]:
-        dir_path = LIBRARY_DIR / law_dir
-        if dir_path.exists() and list(dir_path.glob("recital*.md")):
-            recital_dirs.append(law_dir)
+    recital_dirs = [
+        "grade-a/gdpr-recitals",
+        "grade-a/eu-ai-act-recitals",
+        "grade-a/data-act-recitals",
+        "grade-a/data-governance-act-recitals",
+    ]
 
     for rdir in recital_dirs:
         dir_path = LIBRARY_DIR / rdir
@@ -280,8 +280,11 @@ def update_source_registry():
         "gdpr-recitals": ("grade-a/gdpr-recitals", "recital*.md"),
         "eprivacy-directive": ("grade-a/eprivacy-directive", "art*.md"),
         "eu-ai-act": ("grade-a/eu-ai-act", "art*.md"),
+        "eu-ai-act-recitals": ("grade-a/eu-ai-act-recitals", "recital*.md"),
         "data-act": ("grade-a/data-act", "art*.md"),
+        "data-act-recitals": ("grade-a/data-act-recitals", "recital*.md"),
         "data-governance-act": ("grade-a/data-governance-act", "art*.md"),
+        "data-governance-act-recitals": ("grade-a/data-governance-act-recitals", "recital*.md"),
         "edpb-guidelines": ("grade-a/edpb-guidelines", "*.md"),
         "edpb-opinions": ("grade-a/edpb-opinions", "*.md"),
         "edpb-recommendations": ("grade-a/edpb-recommendations", "*.md"),

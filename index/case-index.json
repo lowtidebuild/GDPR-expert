@@ -1,7 +1,7 @@
 {
   "type": "case_index",
   "count": 51,
-  "generated_at": "2026-03-26T00:53:05.284605+00:00",
+  "generated_at": "2026-03-26T02:49:30.528938+00:00",
   "cases": [
     {
       "id": "a-precedent-c-118-22",
@@ -252,24 +252,27 @@
     {
       "id": "a-precedent-c-26-22",
       "slug": "c-26-22",
-      "title": "SCHUFA Holding AG (Scoring)",
+      "title": "SCHUFA Holding AG (Discharge from remaining debts) — Retention of insolvency data",
       "case_number": "C-26/22",
-      "ecli": "ECLI:EU:C:2023:988",
+      "ecli": "ECLI:EU:C:2023:958",
       "judgment_date": "2023-12-07",
       "path": "library/grade-a/cjeu-cases/c-26-22.md",
       "source_grade": "A",
       "gdpr_articles": [
-        "Art. 22",
-        "Art. 6(1)(f)"
+        "Art. 5(1)(e)",
+        "Art. 6(1)(f)",
+        "Art. 17"
       ],
       "keywords": [
-        "automated decision-making",
-        "scoring",
+        "storage limitation",
+        "insolvency",
+        "data retention",
+        "right to erasure",
         "credit score",
         "profiling",
         "significant effects"
       ],
-      "significance": "landmark"
+      "significance": "important"
     },
     {
       "id": "a-precedent-c-268-21",
@@ -785,25 +788,27 @@
     {
       "id": "a-precedent-c-634-21",
       "slug": "c-634-21",
-      "title": "SCHUFA Holding AG (Retention of insolvency data)",
+      "title": "SCHUFA Holding AG (Scoring) — Automated credit scoring as decision-making under Art. 22",
       "case_number": "C-634/21",
-      "ecli": "ECLI:EU:C:2023:987",
+      "ecli": "ECLI:EU:C:2023:957",
       "judgment_date": "2023-12-07",
       "path": "library/grade-a/cjeu-cases/c-634-21.md",
       "source_grade": "A",
       "gdpr_articles": [
-        "Art. 5(1)(e)",
-        "Art. 6(1)(f)",
-        "Art. 17"
+        "Art. 22",
+        "Art. 6(1)(f)"
       ],
       "keywords": [
-        "storage limitation",
+        "automated decision-making",
+        "scoring",
+        "credit score",
+        "profiling",
         "legitimate interest",
         "insolvency data",
         "public registers",
         "erasure"
       ],
-      "significance": "important"
+      "significance": "landmark"
     },
     {
       "id": "a-precedent-c-645-19",
