@@ -117,7 +117,7 @@ Specify which languages you need:
 
 > "Draft this opinion in French and Korean as well"
 
-The agent will produce separate DOCX files for each language. In non-English versions, **legal citations remain in the original English** (EU legislation is authoritative in its original language) while the analysis and commentary are translated.
+The agent will produce separate DOCX files for each language. In non-English versions, **legal citations remain in English** — not because English is the only official EU language (EU legislation exists in all 24 official languages), but because this knowledge base was built from English-language sources. Translating a citation back from English could introduce inaccuracy, so we keep quotes as-is.
 
 ---
 
