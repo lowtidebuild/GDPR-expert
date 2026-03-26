@@ -11,9 +11,32 @@
 | 항목 | 이유 | 설치 방법 |
 |------|------|---------|
 | **Claude Code** | 에이전트를 실행하는 앱 | [시작하기](https://docs.anthropic.com/en/docs/claude-code/overview) — CLI, 데스크톱 앱, VS Code 확장 |
-| **이 저장소** | 법령 Knowledge Base + 에이전트 포함 | 팀 리드 또는 IT에서 제공 |
+| **이 저장소** | 법령 Knowledge Base + 에이전트 포함 | GitHub에서 다운로드 (아래 참조) |
 
 이게 전부입니다. 데이터베이스, 서버, API 키 설정이 필요 없습니다 (법령 데이터를 직접 갱신하려는 경우 제외).
+
+---
+
+## 저장소 다운로드
+
+이 프로젝트의 로컬 복사본이 컴퓨터에 필요합니다.
+
+### Git이 설치되어 있는 경우
+
+터미널을 열고 실행:
+
+```bash
+git clone https://github.com/lowtidebuild/GDPR-expert.git
+```
+
+모든 법령 데이터와 에이전트 파일이 포함된 `GDPR-expert` 폴더가 생성됩니다.
+
+### Git이 없는 경우
+
+1. [github.com/lowtidebuild/GDPR-expert](https://github.com/lowtidebuild/GDPR-expert) 접속
+2. 초록색 **"Code"** 버튼 클릭
+3. **"Download ZIP"** 클릭
+4. 다운로드한 파일을 원하는 폴더에 압축 해제 (예: `Documents/GDPR-expert`)
 
 ---
 
@@ -22,7 +45,7 @@
 ### 방법 A: 데스크톱 앱 / VS Code
 
 1. Claude Code 실행
-2. `GDPR-expert` 폴더 열기
+2. 다운로드한 `GDPR-expert` 폴더 열기
 3. 에이전트가 자동 활성화 — 법령 Knowledge Base에 접근 가능
 
 ### 방법 B: 터미널 (CLI)

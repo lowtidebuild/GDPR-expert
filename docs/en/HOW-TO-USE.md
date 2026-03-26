@@ -11,9 +11,32 @@
 | What | Why | How to Get It |
 |------|-----|---------------|
 | **Claude Code** | This is the app that runs the agent | [Get started here](https://docs.anthropic.com/en/docs/claude-code/overview) — available as CLI, desktop app, or VS Code extension |
-| **This repository** | Contains the legal knowledge base + agent | Your team lead or IT will provide access |
+| **This repository** | Contains the legal knowledge base + agent | Download from GitHub (see below) |
 
 That's it. No databases, no servers, no API keys to configure (unless you want to refresh the legal data yourself).
+
+---
+
+## Downloading the Repository
+
+You need a local copy of this project on your computer.
+
+### If you have Git installed
+
+Open a terminal and run:
+
+```bash
+git clone https://github.com/lowtidebuild/GDPR-expert.git
+```
+
+This creates a `GDPR-expert` folder with all the legal data and agent files.
+
+### If you don't have Git
+
+1. Go to [github.com/lowtidebuild/GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)
+2. Click the green **"Code"** button
+3. Click **"Download ZIP"**
+4. Unzip the downloaded file to a folder of your choice (e.g., `Documents/GDPR-expert`)
 
 ---
 
@@ -22,7 +45,7 @@ That's it. No databases, no servers, no API keys to configure (unless you want t
 ### Option A: Desktop App / VS Code
 
 1. Open Claude Code
-2. Open the `GDPR-expert` folder
+2. Open the `GDPR-expert` folder you downloaded
 3. The agent activates automatically — you'll see it has access to the legal knowledge base
 
 ### Option B: Terminal (CLI)
