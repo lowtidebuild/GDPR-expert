@@ -27,6 +27,9 @@ Built for [Claude Code](https://claude.ai/claude-code) · Powered by structured 
 > [!CAUTION]
 > **This tool is for legal research assistance only — it does not provide legal advice.** Outputs are AI-generated and may contain errors despite built-in verification. All legal citations should be independently verified before reliance. Consult a qualified attorney for advice on specific legal matters. **[Full Disclaimer](docs/en/DISCLAIMER.md)** · **[면책사항](docs/ko/DISCLAIMER.md)**
 
+> [!TIP]
+> **New here?** Read the **[How to Use Guide](docs/en/HOW-TO-USE.md)** — no technical background required. **[사용 가이드 (한국어)](docs/ko/HOW-TO-USE.md)**
+
 ---
 
 ## The Problem
@@ -478,9 +481,9 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ---
 
-## Part of Project Pearl
+## Part of Jinju Project
 
-This agent is part of the **법무법인 진주 (Project Pearl)** series of specialized legal AI agents:
+This agent is part of the **법무법인 진주 (Jinju Project)** series of specialized legal AI agents:
 
 | Agent | Attorney | Specialty |
 |-------|----------|-----------|

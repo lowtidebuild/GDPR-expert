@@ -13,7 +13,7 @@ source_grade: "A"
 source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj/eng"
 effective_date: "20220623"
 last_amended: null
-retrieved_at: "2026-03-25"
+retrieved_at: "2026-03-26"
 
 # === Relationships ===
 cross_references:
