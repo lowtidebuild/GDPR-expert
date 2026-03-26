@@ -1,0 +1,92 @@
+{
+  "article_to_recital": {},
+  "recital_to_article": {},
+  "article_to_article": {
+    "Art. 1": [
+      "Art. 1"
+    ],
+    "Art. 2": [
+      "Art. 2"
+    ],
+    "Art. 3": [
+      "Art. 3"
+    ],
+    "Art. 4": [
+      "Art. 14",
+      "Art. 29",
+      "Art. 4"
+    ],
+    "Art. 5": [
+      "Art. 15(1)",
+      "Art. 5"
+    ],
+    "Art. 6": [
+      "Art. 15(1)",
+      "Art. 6"
+    ],
+    "Art. 7": [
+      "Art. 7"
+    ],
+    "Art. 8": [
+      "Art. 8"
+    ],
+    "Art. 9": [
+      "Art. 9"
+    ],
+    "Art. 10": [
+      "Art. 10"
+    ],
+    "Art. 11": [
+      "Art. 11"
+    ],
+    "Art. 12": [
+      "Art. 12"
+    ],
+    "Art. 13": [
+      "Art. 13",
+      "Art. 15",
+      "Art. 6"
+    ],
+    "Art. 14": [
+      "Art. 14",
+      "Art. 22",
+      "Art. 5",
+      "Art. 7",
+      "Art. 8"
+    ],
+    "Art. 15": [
+      "Art. 1(1)",
+      "Art. 13(1)",
+      "Art. 15",
+      "Art. 29",
+      "Art. 30",
+      "Art. 5",
+      "Art. 6",
+      "Art. 6(1)",
+      "Art. 8(1)",
+      "Art. 9"
+    ],
+    "Art. 16": [
+      "Art. 11",
+      "Art. 12",
+      "Art. 16"
+    ],
+    "Art. 17": [
+      "Art. 17"
+    ],
+    "Art. 18": [
+      "Art. 17(1)",
+      "Art. 18"
+    ],
+    "Art. 19": [
+      "Art. 17(1)",
+      "Art. 19"
+    ],
+    "Art. 20": [
+      "Art. 20"
+    ],
+    "Art. 21": [
+      "Art. 21"
+    ]
+  }
+}

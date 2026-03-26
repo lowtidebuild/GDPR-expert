@@ -1,0 +1,4513 @@
+{
+  "type": "article_index",
+  "count": 321,
+  "generated_at": "2026-03-26T00:53:05.241895+00:00",
+  "articles": [
+    {
+      "id": "gdpr-art1",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "1",
+      "chapter": "I",
+      "title": "Subject-matter and objectives",
+      "path": "library/grade-a/gdpr/art1.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art10",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "10",
+      "chapter": "II",
+      "title": "Processing of personal data relating to criminal convictions and offences",
+      "path": "library/grade-a/gdpr/art10.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "data subject",
+        "personal data",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "gdpr-art11",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "11",
+      "chapter": "II",
+      "title": "Processing which does not require identification",
+      "path": "library/grade-a/gdpr/art11.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art12",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "12",
+      "chapter": "III",
+      "title": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+      "path": "library/grade-a/gdpr/art12.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "information",
+        "child"
+      ]
+    },
+    {
+      "id": "gdpr-art13",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "13",
+      "chapter": "III",
+      "title": "Information to be provided where personal data are collected from the data subject",
+      "path": "library/grade-a/gdpr/art13.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "data protection officer",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art14",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "14",
+      "chapter": "III",
+      "title": "Information to be provided where personal data have not been obtained from the data subject",
+      "path": "library/grade-a/gdpr/art14.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "data protection officer",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art15",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "15",
+      "chapter": "III",
+      "title": "Right of access by the data subject",
+      "path": "library/grade-a/gdpr/art15.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "right of access",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art16",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "16",
+      "chapter": "III",
+      "title": "Right to rectification",
+      "path": "library/grade-a/gdpr/art16.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "rectification"
+      ]
+    },
+    {
+      "id": "gdpr-art17",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "17",
+      "chapter": "III",
+      "title": "Right to erasure (‘right to be forgotten’)",
+      "path": "library/grade-a/gdpr/art17.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "erasure"
+      ]
+    },
+    {
+      "id": "gdpr-art18",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "18",
+      "chapter": "III",
+      "title": "Right to restriction of processing",
+      "path": "library/grade-a/gdpr/art18.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "lawful",
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "erasure",
+        "restriction"
+      ]
+    },
+    {
+      "id": "gdpr-art19",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "19",
+      "chapter": "III",
+      "title": "Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+      "path": "library/grade-a/gdpr/art19.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "notification",
+        "rectification",
+        "erasure",
+        "restriction"
+      ]
+    },
+    {
+      "id": "gdpr-art2",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "2",
+      "chapter": "I",
+      "title": "Material scope",
+      "path": "library/grade-a/gdpr/art2.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data",
+        "automated"
+      ]
+    },
+    {
+      "id": "gdpr-art20",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "20",
+      "chapter": "III",
+      "title": "Right to data portability",
+      "path": "library/grade-a/gdpr/art20.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "portability"
+      ]
+    },
+    {
+      "id": "gdpr-art21",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "21",
+      "chapter": "III",
+      "title": "Right to object",
+      "path": "library/grade-a/gdpr/art21.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "personal data",
+        "profiling"
+      ]
+    },
+    {
+      "id": "gdpr-art22",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "22",
+      "chapter": "III",
+      "title": "Automated individual decision-making, including profiling",
+      "path": "library/grade-a/gdpr/art22.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "profiling",
+        "automated"
+      ]
+    },
+    {
+      "id": "gdpr-art23",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "23",
+      "chapter": "III",
+      "title": "Restrictions",
+      "path": "library/grade-a/gdpr/art23.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "restriction"
+      ]
+    },
+    {
+      "id": "gdpr-art24",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "24",
+      "chapter": "IV",
+      "title": "Responsibility of the controller",
+      "path": "library/grade-a/gdpr/art24.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller"
+      ]
+    },
+    {
+      "id": "gdpr-art25",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "25",
+      "chapter": "IV",
+      "title": "Data protection by design and by default",
+      "path": "library/grade-a/gdpr/art25.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller"
+      ]
+    },
+    {
+      "id": "gdpr-art26",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "26",
+      "chapter": "IV",
+      "title": "Joint controllers",
+      "path": "library/grade-a/gdpr/art26.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art27",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "27",
+      "chapter": "IV",
+      "title": "Representatives of controllers or processors not established in the Union",
+      "path": "library/grade-a/gdpr/art27.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data",
+        "special categor"
+      ]
+    },
+    {
+      "id": "gdpr-art28",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "28",
+      "chapter": "IV",
+      "title": "Processor",
+      "path": "library/grade-a/gdpr/art28.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "data subject"
+      ]
+    },
+    {
+      "id": "gdpr-art29",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "29",
+      "chapter": "IV",
+      "title": "Processing under the authority of the controller or processor",
+      "path": "library/grade-a/gdpr/art29.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art3",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "3",
+      "chapter": "I",
+      "title": "Territorial scope",
+      "path": "library/grade-a/gdpr/art3.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "data subject",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art30",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "30",
+      "chapter": "IV",
+      "title": "Records of processing activities",
+      "path": "library/grade-a/gdpr/art30.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "data subject",
+        "data protection officer",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art31",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "31",
+      "chapter": "IV",
+      "title": "Cooperation with the supervisory authority",
+      "path": "library/grade-a/gdpr/art31.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art32",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "32",
+      "chapter": "IV",
+      "title": "Security of processing",
+      "path": "library/grade-a/gdpr/art32.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art33",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "33",
+      "chapter": "IV",
+      "title": "Notification of a personal data breach to the supervisory authority",
+      "path": "library/grade-a/gdpr/art33.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "personal data",
+        "supervisory authority",
+        "breach",
+        "notification"
+      ]
+    },
+    {
+      "id": "gdpr-art34",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "34",
+      "chapter": "IV",
+      "title": "Communication of a personal data breach to the data subject",
+      "path": "library/grade-a/gdpr/art34.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "data subject",
+        "personal data",
+        "breach",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art35",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "35",
+      "chapter": "IV",
+      "title": "Data protection impact assessment",
+      "path": "library/grade-a/gdpr/art35.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "personal data",
+        "impact assessment"
+      ]
+    },
+    {
+      "id": "gdpr-art36",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "36",
+      "chapter": "IV",
+      "title": "Prior consultation",
+      "path": "library/grade-a/gdpr/art36.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "supervisory authority",
+        "impact assessment"
+      ]
+    },
+    {
+      "id": "gdpr-art37",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "37",
+      "chapter": "IV",
+      "title": "Designation of the data protection officer",
+      "path": "library/grade-a/gdpr/art37.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "data subject",
+        "data protection officer"
+      ]
+    },
+    {
+      "id": "gdpr-art38",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "38",
+      "chapter": "IV",
+      "title": "Position of the data protection officer",
+      "path": "library/grade-a/gdpr/art38.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data",
+        "data protection officer"
+      ]
+    },
+    {
+      "id": "gdpr-art39",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "39",
+      "chapter": "IV",
+      "title": "Tasks of the data protection officer",
+      "path": "library/grade-a/gdpr/art39.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data",
+        "data protection officer"
+      ]
+    },
+    {
+      "id": "gdpr-art4",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "4",
+      "chapter": "I",
+      "title": "Definitions",
+      "path": "library/grade-a/gdpr/art4.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "data subject",
+        "personal data",
+        "information",
+        "genetic"
+      ]
+    },
+    {
+      "id": "gdpr-art40",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "40",
+      "chapter": "IV",
+      "title": "Codes of conduct",
+      "path": "library/grade-a/gdpr/art40.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor"
+      ]
+    },
+    {
+      "id": "gdpr-art41",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "41",
+      "chapter": "IV",
+      "title": "Monitoring of approved codes of conduct",
+      "path": "library/grade-a/gdpr/art41.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "code of conduct"
+      ]
+    },
+    {
+      "id": "gdpr-art42",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "42",
+      "chapter": "IV",
+      "title": "Certification",
+      "path": "library/grade-a/gdpr/art42.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "certification"
+      ]
+    },
+    {
+      "id": "gdpr-art43",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "43",
+      "chapter": "IV",
+      "title": "Certification bodies",
+      "path": "library/grade-a/gdpr/art43.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "certification"
+      ]
+    },
+    {
+      "id": "gdpr-art44",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "44",
+      "chapter": "V",
+      "title": "General principle for transfers",
+      "path": "library/grade-a/gdpr/art44.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art45",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "45",
+      "chapter": "V",
+      "title": "Transfers on the basis of an adequacy decision",
+      "path": "library/grade-a/gdpr/art45.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data",
+        "transfer",
+        "international",
+        "adequacy"
+      ]
+    },
+    {
+      "id": "gdpr-art46",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "46",
+      "chapter": "V",
+      "title": "Transfers subject to appropriate safeguards",
+      "path": "library/grade-a/gdpr/art46.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "data subject",
+        "personal data",
+        "transfer",
+        "international",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "gdpr-art47",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "47",
+      "chapter": "V",
+      "title": "Binding corporate rules",
+      "path": "library/grade-a/gdpr/art47.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "data subject",
+        "personal data",
+        "supervisory authority",
+        "binding corporate"
+      ]
+    },
+    {
+      "id": "gdpr-art48",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "48",
+      "chapter": "V",
+      "title": "Transfers or disclosures not authorised by Union law",
+      "path": "library/grade-a/gdpr/art48.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art49",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "49",
+      "chapter": "V",
+      "title": "Derogations for specific situations",
+      "path": "library/grade-a/gdpr/art49.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "data subject",
+        "personal data",
+        "transfer",
+        "international",
+        "adequacy",
+        "safeguard",
+        "binding corporate"
+      ]
+    },
+    {
+      "id": "gdpr-art5",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "5",
+      "chapter": "II",
+      "title": "Principles relating to processing of personal data",
+      "path": "library/grade-a/gdpr/art5.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "lawful",
+        "processing",
+        "data subject",
+        "personal data",
+        "transparency",
+        "public interest"
+      ]
+    },
+    {
+      "id": "gdpr-art50",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "50",
+      "chapter": "V",
+      "title": "International cooperation for the protection of personal data",
+      "path": "library/grade-a/gdpr/art50.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data",
+        "notification",
+        "information",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art51",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "51",
+      "chapter": "VI",
+      "title": "Supervisory authority",
+      "path": "library/grade-a/gdpr/art51.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art52",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "52",
+      "chapter": "VI",
+      "title": "Independence",
+      "path": "library/grade-a/gdpr/art52.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art53",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "53",
+      "chapter": "VI",
+      "title": "General conditions for the members of the supervisory authority",
+      "path": "library/grade-a/gdpr/art53.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art54",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "54",
+      "chapter": "VI",
+      "title": "Rules on the establishment of the supervisory authority",
+      "path": "library/grade-a/gdpr/art54.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art55",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "55",
+      "chapter": "VI",
+      "title": "Competence",
+      "path": "library/grade-a/gdpr/art55.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art56",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "56",
+      "chapter": "VI",
+      "title": "Competence of the lead supervisory authority",
+      "path": "library/grade-a/gdpr/art56.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art57",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "57",
+      "chapter": "VI",
+      "title": "Tasks",
+      "path": "library/grade-a/gdpr/art57.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "supervisory authority",
+        "safeguard",
+        "child"
+      ]
+    },
+    {
+      "id": "gdpr-art58",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "58",
+      "chapter": "VI",
+      "title": "Powers",
+      "path": "library/grade-a/gdpr/art58.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "supervisory authority",
+        "information",
+        "certification"
+      ]
+    },
+    {
+      "id": "gdpr-art59",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "59",
+      "chapter": "VI",
+      "title": "Activity reports",
+      "path": "library/grade-a/gdpr/art59.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art6",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "6",
+      "chapter": "II",
+      "title": "Lawfulness of processing",
+      "path": "library/grade-a/gdpr/art6.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "lawful",
+        "processing",
+        "data subject",
+        "personal data",
+        "legal obligation"
+      ]
+    },
+    {
+      "id": "gdpr-art60",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "60",
+      "chapter": "VII",
+      "title": "Cooperation between the lead supervisory authority and the other supervisory authorities concerned",
+      "path": "library/grade-a/gdpr/art60.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art61",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "61",
+      "chapter": "VII",
+      "title": "Mutual assistance",
+      "path": "library/grade-a/gdpr/art61.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art62",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "62",
+      "chapter": "VII",
+      "title": "Joint operations of supervisory authorities",
+      "path": "library/grade-a/gdpr/art62.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "data subject",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art63",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "63",
+      "chapter": "VII",
+      "title": "Consistency mechanism",
+      "path": "library/grade-a/gdpr/art63.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art64",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "64",
+      "chapter": "VII",
+      "title": "Opinion of the Board",
+      "path": "library/grade-a/gdpr/art64.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "supervisory authority",
+        "impact assessment",
+        "code of conduct"
+      ]
+    },
+    {
+      "id": "gdpr-art65",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "65",
+      "chapter": "VII",
+      "title": "Dispute resolution by the Board",
+      "path": "library/grade-a/gdpr/art65.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "objection"
+      ]
+    },
+    {
+      "id": "gdpr-art66",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "66",
+      "chapter": "VII",
+      "title": "Urgency procedure",
+      "path": "library/grade-a/gdpr/art66.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "data subject",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art67",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "67",
+      "chapter": "VII",
+      "title": "Exchange of information",
+      "path": "library/grade-a/gdpr/art67.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art68",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "68",
+      "chapter": "VII",
+      "title": "European Data Protection Board",
+      "path": "library/grade-a/gdpr/art68.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art69",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "69",
+      "chapter": "VII",
+      "title": "Independence",
+      "path": "library/grade-a/gdpr/art69.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art7",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "7",
+      "chapter": "II",
+      "title": "Conditions for consent",
+      "path": "library/grade-a/gdpr/art7.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "processing",
+        "controller",
+        "data subject",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art70",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "70",
+      "chapter": "VII",
+      "title": "Tasks of the Board",
+      "path": "library/grade-a/gdpr/art70.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art71",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "71",
+      "chapter": "VII",
+      "title": "Reports",
+      "path": "library/grade-a/gdpr/art71.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art72",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "72",
+      "chapter": "VII",
+      "title": "Procedure",
+      "path": "library/grade-a/gdpr/art72.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art73",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "73",
+      "chapter": "VII",
+      "title": "Chair",
+      "path": "library/grade-a/gdpr/art73.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art74",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "74",
+      "chapter": "VII",
+      "title": "Tasks of the Chair",
+      "path": "library/grade-a/gdpr/art74.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art75",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "75",
+      "chapter": "VII",
+      "title": "Secretariat",
+      "path": "library/grade-a/gdpr/art75.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art76",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "76",
+      "chapter": "VII",
+      "title": "Confidentiality",
+      "path": "library/grade-a/gdpr/art76.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art77",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "77",
+      "chapter": "VIII",
+      "title": "Right to lodge a complaint with a supervisory authority",
+      "path": "library/grade-a/gdpr/art77.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "data subject",
+        "personal data",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art78",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "78",
+      "chapter": "VIII",
+      "title": "Right to an effective judicial remedy against a supervisory authority",
+      "path": "library/grade-a/gdpr/art78.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "data subject",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art79",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "79",
+      "chapter": "VIII",
+      "title": "Right to an effective judicial remedy against a controller or processor",
+      "path": "library/grade-a/gdpr/art79.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "data subject",
+        "personal data",
+        "supervisory authority"
+      ]
+    },
+    {
+      "id": "gdpr-art8",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "8",
+      "chapter": "II",
+      "title": "Conditions applicable to child's consent in relation to information society services",
+      "path": "library/grade-a/gdpr/art8.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "lawful",
+        "processing",
+        "personal data",
+        "information",
+        "child"
+      ]
+    },
+    {
+      "id": "gdpr-art80",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "80",
+      "chapter": "VIII",
+      "title": "Representation of data subjects",
+      "path": "library/grade-a/gdpr/art80.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "data subject",
+        "personal data",
+        "public interest"
+      ]
+    },
+    {
+      "id": "gdpr-art81",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "81",
+      "chapter": "VIII",
+      "title": "Suspension of proceedings",
+      "path": "library/grade-a/gdpr/art81.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art82",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "82",
+      "chapter": "VIII",
+      "title": "Right to compensation and liability",
+      "path": "library/grade-a/gdpr/art82.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "controller",
+        "processor"
+      ]
+    },
+    {
+      "id": "gdpr-art83",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "83",
+      "chapter": "VIII",
+      "title": "General conditions for imposing administrative fines",
+      "path": "library/grade-a/gdpr/art83.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "supervisory authority",
+        "fine"
+      ]
+    },
+    {
+      "id": "gdpr-art84",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "84",
+      "chapter": "VIII",
+      "title": "Penalties",
+      "path": "library/grade-a/gdpr/art84.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "fine"
+      ]
+    },
+    {
+      "id": "gdpr-art85",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "85",
+      "chapter": "IX",
+      "title": "Processing and freedom of expression and information",
+      "path": "library/grade-a/gdpr/art85.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data",
+        "information"
+      ]
+    },
+    {
+      "id": "gdpr-art86",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "86",
+      "chapter": "IX",
+      "title": "Processing and public access to official documents",
+      "path": "library/grade-a/gdpr/art86.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data",
+        "public interest"
+      ]
+    },
+    {
+      "id": "gdpr-art87",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "87",
+      "chapter": "IX",
+      "title": "Processing of the national identification number",
+      "path": "library/grade-a/gdpr/art87.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "data subject",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "gdpr-art88",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "88",
+      "chapter": "IX",
+      "title": "Processing in the context of employment",
+      "path": "library/grade-a/gdpr/art88.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data",
+        "health"
+      ]
+    },
+    {
+      "id": "gdpr-art89",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "89",
+      "chapter": "IX",
+      "title": "Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes",
+      "path": "library/grade-a/gdpr/art89.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "data subject",
+        "public interest",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "gdpr-art9",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "9",
+      "chapter": "II",
+      "title": "Processing of special categories of personal data",
+      "path": "library/grade-a/gdpr/art9.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "consent",
+        "processing",
+        "data subject",
+        "personal data",
+        "special categor",
+        "genetic",
+        "biometric",
+        "health"
+      ]
+    },
+    {
+      "id": "gdpr-art90",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "90",
+      "chapter": "IX",
+      "title": "Obligations of secrecy",
+      "path": "library/grade-a/gdpr/art90.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "controller",
+        "processor",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art91",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "91",
+      "chapter": "IX",
+      "title": "Existing data protection rules of churches and religious associations",
+      "path": "library/grade-a/gdpr/art91.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "gdpr-art92",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "92",
+      "chapter": "X",
+      "title": "Exercise of the delegation",
+      "path": "library/grade-a/gdpr/art92.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art93",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "93",
+      "chapter": "X",
+      "title": "Committee procedure",
+      "path": "library/grade-a/gdpr/art93.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "gdpr-art94",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "94",
+      "chapter": "XI",
+      "title": "Repeal of Directive 95/46/EC",
+      "path": "library/grade-a/gdpr/art94.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art95",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "95",
+      "chapter": "XI",
+      "title": "Relationship with Directive 2002/58/EC",
+      "path": "library/grade-a/gdpr/art95.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "gdpr-art96",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "96",
+      "chapter": "XI",
+      "title": "Relationship with previously concluded Agreements",
+      "path": "library/grade-a/gdpr/art96.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art97",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "97",
+      "chapter": "XI",
+      "title": "Commission reports",
+      "path": "library/grade-a/gdpr/art97.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "gdpr-art98",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "98",
+      "chapter": "XI",
+      "title": "Review of other Union legal acts on data protection",
+      "path": "library/grade-a/gdpr/art98.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": [
+        "processing",
+        "personal data"
+      ]
+    },
+    {
+      "id": "gdpr-art99",
+      "law": "General Data Protection Regulation",
+      "law_id": "32016R0679",
+      "article": "99",
+      "chapter": "XI",
+      "title": "Entry into force and application",
+      "path": "library/grade-a/gdpr/art99.md",
+      "source_grade": "A",
+      "effective_date": 20180525,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art1",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "1",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art1.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "processing",
+        "personal data"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art10",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "10",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art10.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art11",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "11",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art11.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art12",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "12",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art12.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "personal data"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art13",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "13",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art13.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "consent",
+        "automated"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art14",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "14",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art14.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art15",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "15",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art15.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "restriction",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art16",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "16",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art16.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "personal data"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art17",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "17",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art17.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art18",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "18",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art18.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "information",
+        "international"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art19",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "19",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art19.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art2",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "2",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art2.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art20",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "20",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art20.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art21",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "21",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art21.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art3",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "3",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art3.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "processing",
+        "personal data"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art4",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "4",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art4.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "processing",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art5",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "5",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art5.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "consent"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art6",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "6",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art6.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art7",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "7",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art7.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": []
+    },
+    {
+      "id": "eprivacy-directive-art8",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "8",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art8.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "restriction"
+      ]
+    },
+    {
+      "id": "eprivacy-directive-art9",
+      "law": "Directive on Privacy and Electronic Communications",
+      "law_id": "02002L0058-20091219",
+      "article": "9",
+      "chapter": [],
+      "title": [],
+      "path": "library/grade-a/eprivacy-directive/art9.md",
+      "source_grade": "A",
+      "effective_date": 20020731,
+      "keywords": [
+        "consent"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art1",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "1",
+      "chapter": "I",
+      "title": "Subject matter`",
+      "path": "library/grade-a/eu-ai-act/art1.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art10",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "10",
+      "chapter": "III",
+      "title": "Data and data governance",
+      "path": "library/grade-a/eu-ai-act/art10.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art100",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "100",
+      "chapter": "XII",
+      "title": "Administrative fines on Union institutions, bodies, offices and agencies",
+      "path": "library/grade-a/eu-ai-act/art100.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "fine"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art101",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "101",
+      "chapter": "XII",
+      "title": "Fines for providers of general-purpose AI models",
+      "path": "library/grade-a/eu-ai-act/art101.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information",
+        "fine"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art102",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "102",
+      "chapter": "XIII",
+      "title": "Amendment to Regulation (EC) No 300/2008",
+      "path": "library/grade-a/eu-ai-act/art102.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art103",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "103",
+      "chapter": "XIII",
+      "title": "Amendment to Regulation (EU) No 167/2013",
+      "path": "library/grade-a/eu-ai-act/art103.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art104",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "104",
+      "chapter": "XIII",
+      "title": "Amendment to Regulation (EU) No 168/2013",
+      "path": "library/grade-a/eu-ai-act/art104.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art105",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "105",
+      "chapter": "XIII",
+      "title": "Amendment to Directive 2014/90/EU",
+      "path": "library/grade-a/eu-ai-act/art105.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art106",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "106",
+      "chapter": "XIII",
+      "title": "Amendment to Directive (EU) 2016/797",
+      "path": "library/grade-a/eu-ai-act/art106.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art107",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "107",
+      "chapter": "XIII",
+      "title": "Amendment to Regulation (EU) 2018/858",
+      "path": "library/grade-a/eu-ai-act/art107.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art108",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "108",
+      "chapter": "XIII",
+      "title": "Amendments to Regulation (EU) 2018/1139",
+      "path": "library/grade-a/eu-ai-act/art108.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art109",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "109",
+      "chapter": "XIII",
+      "title": "Amendment to Regulation (EU) 2019/2144",
+      "path": "library/grade-a/eu-ai-act/art109.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art11",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "11",
+      "chapter": "III",
+      "title": "Technical documentation",
+      "path": "library/grade-a/eu-ai-act/art11.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art110",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "110",
+      "chapter": "XIII",
+      "title": "Amendment to Directive (EU) 2020/1828",
+      "path": "library/grade-a/eu-ai-act/art110.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art111",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "111",
+      "chapter": "XIII",
+      "title": "AI systems already placed on the market or put into service and general-purpose AI models already placed on the marked",
+      "path": "library/grade-a/eu-ai-act/art111.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art112",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "112",
+      "chapter": "XIII",
+      "title": "Evaluation and review",
+      "path": "library/grade-a/eu-ai-act/art112.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art113",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "113",
+      "chapter": "XIII",
+      "title": "Entry into force and application",
+      "path": "library/grade-a/eu-ai-act/art113.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art12",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "12",
+      "chapter": "III",
+      "title": "Record-keeping",
+      "path": "library/grade-a/eu-ai-act/art12.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art13",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "13",
+      "chapter": "III",
+      "title": "Transparency and provision of information to deployers",
+      "path": "library/grade-a/eu-ai-act/art13.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "transparency",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art14",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "14",
+      "chapter": "III",
+      "title": "Human oversight",
+      "path": "library/grade-a/eu-ai-act/art14.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art15",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "15",
+      "chapter": "III",
+      "title": "Accuracy, robustness and cybersecurity",
+      "path": "library/grade-a/eu-ai-act/art15.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art16",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "16",
+      "chapter": "III",
+      "title": "Obligations of providers of high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art16.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art17",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "17",
+      "chapter": "III",
+      "title": "Quality management system",
+      "path": "library/grade-a/eu-ai-act/art17.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art18",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "18",
+      "chapter": "III",
+      "title": "Documentation keeping",
+      "path": "library/grade-a/eu-ai-act/art18.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art19",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "19",
+      "chapter": "III",
+      "title": "Automatically generated logs",
+      "path": "library/grade-a/eu-ai-act/art19.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "personal data"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art2",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "2",
+      "chapter": "I",
+      "title": "Scope",
+      "path": "library/grade-a/eu-ai-act/art2.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art20",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "20",
+      "chapter": "III",
+      "title": "Corrective actions and duty of information",
+      "path": "library/grade-a/eu-ai-act/art20.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art21",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "21",
+      "chapter": "III",
+      "title": "Cooperation with competent authorities",
+      "path": "library/grade-a/eu-ai-act/art21.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art22",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "22",
+      "chapter": "III",
+      "title": "Authorised representatives of providers of high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art22.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art23",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "23",
+      "chapter": "III",
+      "title": "Obligations of importers",
+      "path": "library/grade-a/eu-ai-act/art23.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art24",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "24",
+      "chapter": "III",
+      "title": "Obligations of distributors",
+      "path": "library/grade-a/eu-ai-act/art24.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art25",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "25",
+      "chapter": "III",
+      "title": "Responsibilities along the AI value chain",
+      "path": "library/grade-a/eu-ai-act/art25.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art26",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "26",
+      "chapter": "III",
+      "title": "Obligations of deployers of high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art26.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art27",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "27",
+      "chapter": "III",
+      "title": "Fundamental rights impact assessment for high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art27.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "impact assessment"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art28",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "28",
+      "chapter": "III",
+      "title": "Notifying authorities",
+      "path": "library/grade-a/eu-ai-act/art28.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art29",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "29",
+      "chapter": "III",
+      "title": "Application of a conformity assessment body for notification",
+      "path": "library/grade-a/eu-ai-act/art29.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art3",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "3",
+      "chapter": "I",
+      "title": "Definitions",
+      "path": "library/grade-a/eu-ai-act/art3.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art30",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "30",
+      "chapter": "III",
+      "title": "Notification procedure",
+      "path": "library/grade-a/eu-ai-act/art30.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art31",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "31",
+      "chapter": "III",
+      "title": "Requirements relating to notified bodies",
+      "path": "library/grade-a/eu-ai-act/art31.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art32",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "32",
+      "chapter": "III",
+      "title": "Presumption of conformity with requirements relating to notified bodies",
+      "path": "library/grade-a/eu-ai-act/art32.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art33",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "33",
+      "chapter": "III",
+      "title": "Subsidiaries of notified bodies and subcontracting",
+      "path": "library/grade-a/eu-ai-act/art33.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art34",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "34",
+      "chapter": "III",
+      "title": "Operational obligations of notified bodies",
+      "path": "library/grade-a/eu-ai-act/art34.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art35",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "35",
+      "chapter": "III",
+      "title": "Identification numbers and lists of notified bodies",
+      "path": "library/grade-a/eu-ai-act/art35.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art36",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "36",
+      "chapter": "III",
+      "title": "Changes to notifications",
+      "path": "library/grade-a/eu-ai-act/art36.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art37",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "37",
+      "chapter": "III",
+      "title": "Challenge to the competence of notified bodies",
+      "path": "library/grade-a/eu-ai-act/art37.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art38",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "38",
+      "chapter": "III",
+      "title": "Coordination of notified bodies",
+      "path": "library/grade-a/eu-ai-act/art38.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art39",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "39",
+      "chapter": "III",
+      "title": "Conformity assessment bodies of third countries",
+      "path": "library/grade-a/eu-ai-act/art39.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art4",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "4",
+      "chapter": "I",
+      "title": "AI literacy",
+      "path": "library/grade-a/eu-ai-act/art4.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art40",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "40",
+      "chapter": "III",
+      "title": "Harmonised standards and standardisation deliverables",
+      "path": "library/grade-a/eu-ai-act/art40.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art41",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "41",
+      "chapter": "III",
+      "title": "Common specifications",
+      "path": "library/grade-a/eu-ai-act/art41.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art42",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "42",
+      "chapter": "III",
+      "title": "Presumption of conformity with certain requirements",
+      "path": "library/grade-a/eu-ai-act/art42.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art43",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "43",
+      "chapter": "III",
+      "title": "Conformity assessment",
+      "path": "library/grade-a/eu-ai-act/art43.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art44",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "44",
+      "chapter": "III",
+      "title": "Certificates",
+      "path": "library/grade-a/eu-ai-act/art44.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art45",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "45",
+      "chapter": "III",
+      "title": "Information obligations of notified bodies",
+      "path": "library/grade-a/eu-ai-act/art45.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "restriction",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art46",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "46",
+      "chapter": "III",
+      "title": "Derogation from conformity assessment procedure",
+      "path": "library/grade-a/eu-ai-act/art46.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art47",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "47",
+      "chapter": "III",
+      "title": "EU declaration of conformity",
+      "path": "library/grade-a/eu-ai-act/art47.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art48",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "48",
+      "chapter": "III",
+      "title": "CE marking",
+      "path": "library/grade-a/eu-ai-act/art48.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art49",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "49",
+      "chapter": "III",
+      "title": "Registration",
+      "path": "library/grade-a/eu-ai-act/art49.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art5",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "5",
+      "chapter": "II",
+      "title": "Prohibited AI practices",
+      "path": "library/grade-a/eu-ai-act/art5.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art50",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "50",
+      "chapter": "IV",
+      "title": "Transparency obligations for providers and deployers of certain AI systems",
+      "path": "library/grade-a/eu-ai-act/art50.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "transparency"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art51",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "51",
+      "chapter": "V",
+      "title": "Classification of general-purpose AI models as general-purpose AI models with systemic risk",
+      "path": "library/grade-a/eu-ai-act/art51.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art52",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "52",
+      "chapter": "V",
+      "title": "Procedure",
+      "path": "library/grade-a/eu-ai-act/art52.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art53",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "53",
+      "chapter": "V",
+      "title": "Obligations for providers of general-purpose AI models",
+      "path": "library/grade-a/eu-ai-act/art53.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art54",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "54",
+      "chapter": "V",
+      "title": "Authorised representatives of providers of general-purpose AI models",
+      "path": "library/grade-a/eu-ai-act/art54.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art55",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "55",
+      "chapter": "V",
+      "title": "Obligations of providers of general-purpose AI models with systemic risk",
+      "path": "library/grade-a/eu-ai-act/art55.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art56",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "56",
+      "chapter": "V",
+      "title": "Codes of practice",
+      "path": "library/grade-a/eu-ai-act/art56.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information",
+        "international"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art57",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "57",
+      "chapter": "VI",
+      "title": "AI regulatory sandboxes",
+      "path": "library/grade-a/eu-ai-act/art57.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art58",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "58",
+      "chapter": "VI",
+      "title": "Detailed arrangements for, and functioning of, AI regulatory sandboxes",
+      "path": "library/grade-a/eu-ai-act/art58.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art59",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "59",
+      "chapter": "VI",
+      "title": "Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox",
+      "path": "library/grade-a/eu-ai-act/art59.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "lawful",
+        "processing",
+        "personal data",
+        "public interest",
+        "safeguard",
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art6",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "6",
+      "chapter": "III",
+      "title": "Classification rules for high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art6.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art60",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "60",
+      "chapter": "VI",
+      "title": "Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes",
+      "path": "library/grade-a/eu-ai-act/art60.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art61",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "61",
+      "chapter": "VI",
+      "title": "Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes",
+      "path": "library/grade-a/eu-ai-act/art61.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "consent",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art62",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "62",
+      "chapter": "VI",
+      "title": "Measures for providers and deployers, in particular SMEs, including start-ups",
+      "path": "library/grade-a/eu-ai-act/art62.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art63",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "63",
+      "chapter": "VI",
+      "title": "Derogations for specific operators",
+      "path": "library/grade-a/eu-ai-act/art63.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art64",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "64",
+      "chapter": "VII",
+      "title": "AI Office",
+      "path": "library/grade-a/eu-ai-act/art64.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art65",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "65",
+      "chapter": "VII",
+      "title": "Establishment and structure of the European Artificial Intelligence Board",
+      "path": "library/grade-a/eu-ai-act/art65.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art66",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "66",
+      "chapter": "VII",
+      "title": "Tasks of the Board",
+      "path": "library/grade-a/eu-ai-act/art66.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art67",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "67",
+      "chapter": "VII",
+      "title": "Advisory forum",
+      "path": "library/grade-a/eu-ai-act/art67.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art68",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "68",
+      "chapter": "VII",
+      "title": "Scientific panel of independent experts",
+      "path": "library/grade-a/eu-ai-act/art68.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art69",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "69",
+      "chapter": "VII",
+      "title": "Access to the pool of experts by the Member States",
+      "path": "library/grade-a/eu-ai-act/art69.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art7",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "7",
+      "chapter": "III",
+      "title": "Amendments to Annex III",
+      "path": "library/grade-a/eu-ai-act/art7.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art70",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "70",
+      "chapter": "VII",
+      "title": "Designation of national competent authorities and single points of contact",
+      "path": "library/grade-a/eu-ai-act/art70.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "safeguard"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art71",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "71",
+      "chapter": "VIII",
+      "title": "EU database for high-risk AI systems listed in Annex III",
+      "path": "library/grade-a/eu-ai-act/art71.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art72",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "72",
+      "chapter": "IX",
+      "title": "Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems",
+      "path": "library/grade-a/eu-ai-act/art72.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art73",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "73",
+      "chapter": "IX",
+      "title": "Reporting of serious incidents",
+      "path": "library/grade-a/eu-ai-act/art73.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art74",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "74",
+      "chapter": "IX",
+      "title": "Market surveillance and control of AI systems in the Union market",
+      "path": "library/grade-a/eu-ai-act/art74.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art75",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "75",
+      "chapter": "IX",
+      "title": "Mutual assistance, market surveillance and control of general-purpose AI systems",
+      "path": "library/grade-a/eu-ai-act/art75.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art76",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "76",
+      "chapter": "IX",
+      "title": "Supervision of testing in real world conditions by market surveillance authorities",
+      "path": "library/grade-a/eu-ai-act/art76.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art77",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "77",
+      "chapter": "IX",
+      "title": "Powers of authorities protecting fundamental rights",
+      "path": "library/grade-a/eu-ai-act/art77.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art78",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "78",
+      "chapter": "IX",
+      "title": "Confidentiality",
+      "path": "library/grade-a/eu-ai-act/art78.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art79",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "79",
+      "chapter": "IX",
+      "title": "Procedure at national level for dealing with AI systems presenting a risk",
+      "path": "library/grade-a/eu-ai-act/art79.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "fine",
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art8",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "8",
+      "chapter": "III",
+      "title": "Compliance with the requirements",
+      "path": "library/grade-a/eu-ai-act/art8.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art80",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "80",
+      "chapter": "IX",
+      "title": "Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III",
+      "path": "library/grade-a/eu-ai-act/art80.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art81",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "81",
+      "chapter": "IX",
+      "title": "Union safeguard procedure",
+      "path": "library/grade-a/eu-ai-act/art81.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "notification",
+        "objection",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art82",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "82",
+      "chapter": "IX",
+      "title": "Compliant AI systems which present a risk",
+      "path": "library/grade-a/eu-ai-act/art82.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "public interest",
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art83",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "83",
+      "chapter": "IX",
+      "title": "Formal non-compliance",
+      "path": "library/grade-a/eu-ai-act/art83.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art84",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "84",
+      "chapter": "IX",
+      "title": "Union AI testing support structures",
+      "path": "library/grade-a/eu-ai-act/art84.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art85",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "85",
+      "chapter": "IX",
+      "title": "Right to lodge a complaint with a market surveillance authority",
+      "path": "library/grade-a/eu-ai-act/art85.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art86",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "86",
+      "chapter": "IX",
+      "title": "Right to explanation of individual decision-making",
+      "path": "library/grade-a/eu-ai-act/art86.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "health"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art87",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "87",
+      "chapter": "IX",
+      "title": "Reporting of infringements and protection of reporting persons",
+      "path": "library/grade-a/eu-ai-act/art87.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art88",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "88",
+      "chapter": "IX",
+      "title": "Enforcement of the obligations of providers of general-purpose AI models",
+      "path": "library/grade-a/eu-ai-act/art88.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art89",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "89",
+      "chapter": "IX",
+      "title": "Monitoring actions",
+      "path": "library/grade-a/eu-ai-act/art89.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art9",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "9",
+      "chapter": "III",
+      "title": "Risk management system",
+      "path": "library/grade-a/eu-ai-act/art9.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art90",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "90",
+      "chapter": "IX",
+      "title": "Alerts of systemic risks by the scientific panel",
+      "path": "library/grade-a/eu-ai-act/art90.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art91",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "91",
+      "chapter": "IX",
+      "title": "Power to request documentation and information",
+      "path": "library/grade-a/eu-ai-act/art91.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art92",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "92",
+      "chapter": "IX",
+      "title": "Power to conduct evaluations",
+      "path": "library/grade-a/eu-ai-act/art92.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art93",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "93",
+      "chapter": "IX",
+      "title": "Power to request measures",
+      "path": "library/grade-a/eu-ai-act/art93.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art94",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "94",
+      "chapter": "IX",
+      "title": "Procedural rights of economic operators of the general-purpose AI model",
+      "path": "library/grade-a/eu-ai-act/art94.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art95",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "95",
+      "chapter": "X",
+      "title": "Codes of conduct for voluntary application of specific requirements",
+      "path": "library/grade-a/eu-ai-act/art95.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art96",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "96",
+      "chapter": "X",
+      "title": "Guidelines from the Commission on the implementation of this Regulation",
+      "path": "library/grade-a/eu-ai-act/art96.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": [
+        "transparency",
+        "information"
+      ]
+    },
+    {
+      "id": "eu-ai-act-art97",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "97",
+      "chapter": "XI",
+      "title": "Exercise of the delegation",
+      "path": "library/grade-a/eu-ai-act/art97.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art98",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "98",
+      "chapter": "XI",
+      "title": "Committee procedure",
+      "path": "library/grade-a/eu-ai-act/art98.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "eu-ai-act-art99",
+      "law": "Artificial Intelligence Act",
+      "law_id": "32024R1689",
+      "article": "99",
+      "chapter": "XII",
+      "title": "Penalties",
+      "path": "library/grade-a/eu-ai-act/art99.md",
+      "source_grade": "A",
+      "effective_date": 20240801,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art1",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "1",
+      "chapter": "I",
+      "title": "Subject matter and scope",
+      "path": "library/grade-a/data-act/art1.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art10",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "10",
+      "chapter": "III",
+      "title": "Dispute settlement",
+      "path": "library/grade-a/data-act/art10.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art11",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "11",
+      "chapter": "III",
+      "title": "Technical protection measures on the unauthorised use or disclosure of data",
+      "path": "library/grade-a/data-act/art11.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art12",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "12",
+      "chapter": "III",
+      "title": "Scope of obligations for data holders obliged pursuant to Union law to make data available",
+      "path": "library/grade-a/data-act/art12.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art13",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "13",
+      "chapter": "IV",
+      "title": "Unfair contractual terms unilaterally imposed on another enterprise",
+      "path": "library/grade-a/data-act/art13.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "breach"
+      ]
+    },
+    {
+      "id": "data-act-art14",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "14",
+      "chapter": "V",
+      "title": "Obligation to make data available on the basis of an exceptional need",
+      "path": "library/grade-a/data-act/art14.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "public interest"
+      ]
+    },
+    {
+      "id": "data-act-art15",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "15",
+      "chapter": "V",
+      "title": "Exceptional need to use data",
+      "path": "library/grade-a/data-act/art15.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art16",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "16",
+      "chapter": "V",
+      "title": "Relationship with other obligations to make data available to public sector bodies, the Commission, the European Central Bank and Union bodies",
+      "path": "library/grade-a/data-act/art16.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "information",
+        "legal obligation"
+      ]
+    },
+    {
+      "id": "data-act-art17",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "17",
+      "chapter": "V",
+      "title": "Requests for data to be made available",
+      "path": "library/grade-a/data-act/art17.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art18",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "18",
+      "chapter": "V",
+      "title": "Compliance with requests for data",
+      "path": "library/grade-a/data-act/art18.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "fine"
+      ]
+    },
+    {
+      "id": "data-act-art19",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "19",
+      "chapter": "V",
+      "title": "Obligations of public sector bodies, the Commission, the European Central Bank and Union bodies",
+      "path": "library/grade-a/data-act/art19.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "data subject",
+        "personal data",
+        "transfer",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "data-act-art2",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "2",
+      "chapter": "I",
+      "title": "Definitions",
+      "path": "library/grade-a/data-act/art2.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "personal data",
+        "information",
+        "fine"
+      ]
+    },
+    {
+      "id": "data-act-art20",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "20",
+      "chapter": "V",
+      "title": "Compensation in cases of an exceptional need",
+      "path": "library/grade-a/data-act/art20.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art21",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "21",
+      "chapter": "V",
+      "title": "Sharing of data obtained in the context of an exceptional need with research organisations or statistical bodies",
+      "path": "library/grade-a/data-act/art21.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art22",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "22",
+      "chapter": "V",
+      "title": "Mutual assistance and cross-border cooperation",
+      "path": "library/grade-a/data-act/art22.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art23",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "23",
+      "chapter": "VI",
+      "title": "Removing obstacles to effective switching",
+      "path": "library/grade-a/data-act/art23.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art24",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "24",
+      "chapter": "VI",
+      "title": "Scope of the technical obligations",
+      "path": "library/grade-a/data-act/art24.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art25",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "25",
+      "chapter": "VI",
+      "title": "Contractual terms concerning switching",
+      "path": "library/grade-a/data-act/art25.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art26",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "26",
+      "chapter": "VI",
+      "title": "Information obligation of providers of data processing services",
+      "path": "library/grade-a/data-act/art26.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing",
+        "restriction",
+        "information"
+      ]
+    },
+    {
+      "id": "data-act-art27",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "27",
+      "chapter": "VI",
+      "title": "Obligation of good faith",
+      "path": "library/grade-a/data-act/art27.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing",
+        "transfer"
+      ]
+    },
+    {
+      "id": "data-act-art28",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "28",
+      "chapter": "VI",
+      "title": "Contractual transparency obligations on international access and transfer",
+      "path": "library/grade-a/data-act/art28.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing",
+        "personal data",
+        "transfer",
+        "transparency",
+        "information",
+        "international"
+      ]
+    },
+    {
+      "id": "data-act-art29",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "29",
+      "chapter": "VI",
+      "title": "Gradual withdrawal of switching charges",
+      "path": "library/grade-a/data-act/art29.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art3",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "3",
+      "chapter": "II",
+      "title": "Obligation to make product data and related service data accessible to the user",
+      "path": "library/grade-a/data-act/art3.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art30",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "30",
+      "chapter": "VI",
+      "title": "Technical aspects of switching",
+      "path": "library/grade-a/data-act/art30.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art31",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "31",
+      "chapter": "VI",
+      "title": "Specific regime for certain data processing services",
+      "path": "library/grade-a/data-act/art31.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art32",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "32",
+      "chapter": "VII",
+      "title": "International governmental access and transfer",
+      "path": "library/grade-a/data-act/art32.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing",
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "data-act-art33",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "33",
+      "chapter": "VIII",
+      "title": "Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces",
+      "path": "library/grade-a/data-act/art33.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art34",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "34",
+      "chapter": "VIII",
+      "title": "Interoperability for the purposes of in-parallel use of data processing services",
+      "path": "library/grade-a/data-act/art34.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing"
+      ]
+    },
+    {
+      "id": "data-act-art35",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "35",
+      "chapter": "VIII",
+      "title": "Interoperability of data processing services",
+      "path": "library/grade-a/data-act/art35.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "processing",
+        "portability"
+      ]
+    },
+    {
+      "id": "data-act-art36",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "36",
+      "chapter": "VIII",
+      "title": "Essential requirements regarding smart contracts for executing data sharing agreements",
+      "path": "library/grade-a/data-act/art36.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art37",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "37",
+      "chapter": "IX",
+      "title": "Competent authorities and data coordinators",
+      "path": "library/grade-a/data-act/art37.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art38",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "38",
+      "chapter": "IX",
+      "title": "Right to lodge a complaint",
+      "path": "library/grade-a/data-act/art38.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "data-act-art39",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "39",
+      "chapter": "IX",
+      "title": "Right to an effective judicial remedy",
+      "path": "library/grade-a/data-act/art39.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art4",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "4",
+      "chapter": "II",
+      "title": "The rights and obligations of users and data holders with regard to access, use and making available product data and related service data",
+      "path": "library/grade-a/data-act/art4.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art40",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "40",
+      "chapter": "IX",
+      "title": "Penalties",
+      "path": "library/grade-a/data-act/art40.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art41",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "41",
+      "chapter": "IX",
+      "title": "Model contractual terms and standard contractual clauses",
+      "path": "library/grade-a/data-act/art41.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art42",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "42",
+      "chapter": "IX",
+      "title": "Role of the EDIB",
+      "path": "library/grade-a/data-act/art42.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art43",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "43",
+      "chapter": "X",
+      "title": "Databases containing certain data",
+      "path": "library/grade-a/data-act/art43.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art44",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "44",
+      "chapter": "XI",
+      "title": "Other Union legal acts governing rights and obligations on data access and use",
+      "path": "library/grade-a/data-act/art44.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "public interest"
+      ]
+    },
+    {
+      "id": "data-act-art45",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "45",
+      "chapter": "XI",
+      "title": "Exercise of the delegation",
+      "path": "library/grade-a/data-act/art45.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art46",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "46",
+      "chapter": "XI",
+      "title": "Committee procedure",
+      "path": "library/grade-a/data-act/art46.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art47",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "47",
+      "chapter": "XI",
+      "title": "Amendment to Regulation (EU) 2017/2394",
+      "path": "library/grade-a/data-act/art47.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art48",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "48",
+      "chapter": "XI",
+      "title": "Amendment to Directive (EU) 2020/1828",
+      "path": "library/grade-a/data-act/art48.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art49",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "49",
+      "chapter": "XI",
+      "title": "Evaluation and review",
+      "path": "library/grade-a/data-act/art49.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art5",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "5",
+      "chapter": "II",
+      "title": "Right of the user to share data with third parties",
+      "path": "library/grade-a/data-act/art5.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art50",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "50",
+      "chapter": "XI",
+      "title": "Entry into force and application",
+      "path": "library/grade-a/data-act/art50.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art6",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "6",
+      "chapter": "II",
+      "title": "Obligations of third parties receiving data at the request of the user",
+      "path": "library/grade-a/data-act/art6.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": [
+        "data subject",
+        "personal data"
+      ]
+    },
+    {
+      "id": "data-act-art7",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "7",
+      "chapter": "II",
+      "title": "Scope of business-to-consumer and business-to-business data sharing obligations",
+      "path": "library/grade-a/data-act/art7.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art8",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "8",
+      "chapter": "III",
+      "title": "Conditions under which data holders make data available to data recipients",
+      "path": "library/grade-a/data-act/art8.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-act-art9",
+      "law": "Data Act",
+      "law_id": "32023R2854",
+      "article": "9",
+      "chapter": "III",
+      "title": "Compensation for making data available",
+      "path": "library/grade-a/data-act/art9.md",
+      "source_grade": "A",
+      "effective_date": 20240111,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art1",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "1",
+      "chapter": "I",
+      "title": "Subject matter and scope",
+      "path": "library/grade-a/data-governance-act/art1.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art10",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "10",
+      "chapter": "III",
+      "title": "Data intermediation services",
+      "path": "library/grade-a/data-governance-act/art10.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art11",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "11",
+      "chapter": "III",
+      "title": "Notification by data intermediation services providers",
+      "path": "library/grade-a/data-governance-act/art11.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art12",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "12",
+      "chapter": "III",
+      "title": "Conditions for providing data intermediation services",
+      "path": "library/grade-a/data-governance-act/art12.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art13",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "13",
+      "chapter": "III",
+      "title": "Competent authorities for data intermediation services",
+      "path": "library/grade-a/data-governance-act/art13.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art14",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "14",
+      "chapter": "III",
+      "title": "Monitoring of compliance",
+      "path": "library/grade-a/data-governance-act/art14.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art15",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "15",
+      "chapter": "III",
+      "title": "Exceptions",
+      "path": "library/grade-a/data-governance-act/art15.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "data subject"
+      ]
+    },
+    {
+      "id": "data-governance-act-art16",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "16",
+      "chapter": "IV",
+      "title": "National arrangements for data altruism",
+      "path": "library/grade-a/data-governance-act/art16.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "data subject",
+        "personal data",
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art17",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "17",
+      "chapter": "IV",
+      "title": "Public registers of recognised data altruism organisations",
+      "path": "library/grade-a/data-governance-act/art17.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art18",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "18",
+      "chapter": "IV",
+      "title": "General requirements for registration",
+      "path": "library/grade-a/data-governance-act/art18.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art19",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "19",
+      "chapter": "IV",
+      "title": "Registration of recognised data altruism organisations",
+      "path": "library/grade-a/data-governance-act/art19.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art2",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "2",
+      "chapter": "I",
+      "title": "Definitions",
+      "path": "library/grade-a/data-governance-act/art2.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art20",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "20",
+      "chapter": "IV",
+      "title": "Transparency requirements",
+      "path": "library/grade-a/data-governance-act/art20.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "processing",
+        "personal data",
+        "transparency"
+      ]
+    },
+    {
+      "id": "data-governance-act-art21",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "21",
+      "chapter": "IV",
+      "title": "Specific requirements to safeguard rights and interests of data subjects and data holders with regard to their data",
+      "path": "library/grade-a/data-governance-act/art21.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "processing",
+        "data subject",
+        "personal data",
+        "safeguard"
+      ]
+    },
+    {
+      "id": "data-governance-act-art22",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "22",
+      "chapter": "IV",
+      "title": "Rulebook",
+      "path": "library/grade-a/data-governance-act/art22.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "consent",
+        "data subject",
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art23",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "23",
+      "chapter": "IV",
+      "title": "Competent authorities for the registration of data altruism organisations",
+      "path": "library/grade-a/data-governance-act/art23.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art24",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "24",
+      "chapter": "IV",
+      "title": "Monitoring of compliance",
+      "path": "library/grade-a/data-governance-act/art24.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art25",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "25",
+      "chapter": "IV",
+      "title": "European data altruism consent form",
+      "path": "library/grade-a/data-governance-act/art25.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "consent"
+      ]
+    },
+    {
+      "id": "data-governance-act-art26",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "26",
+      "chapter": "V",
+      "title": "Requirements relating to competent authorities",
+      "path": "library/grade-a/data-governance-act/art26.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art27",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "27",
+      "chapter": "V",
+      "title": "Right to lodge a complaint",
+      "path": "library/grade-a/data-governance-act/art27.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art28",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "28",
+      "chapter": "V",
+      "title": "Right to an effective judicial remedy",
+      "path": "library/grade-a/data-governance-act/art28.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art29",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "29",
+      "chapter": "VI",
+      "title": "European Data Innovation Board",
+      "path": "library/grade-a/data-governance-act/art29.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art3",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "3",
+      "chapter": "II",
+      "title": "Categories of data",
+      "path": "library/grade-a/data-governance-act/art3.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "personal data"
+      ]
+    },
+    {
+      "id": "data-governance-act-art30",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "30",
+      "chapter": "VI",
+      "title": "Tasks of the European Data Innovation Board",
+      "path": "library/grade-a/data-governance-act/art30.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art31",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "31",
+      "chapter": "VII",
+      "title": "International access and transfer",
+      "path": "library/grade-a/data-governance-act/art31.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "personal data",
+        "transfer",
+        "international"
+      ]
+    },
+    {
+      "id": "data-governance-act-art32",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "32",
+      "chapter": "VIII",
+      "title": "Exercise of the delegation",
+      "path": "library/grade-a/data-governance-act/art32.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art33",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "33",
+      "chapter": "VIII",
+      "title": "Committee procedure",
+      "path": "library/grade-a/data-governance-act/art33.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art34",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "34",
+      "chapter": "IX",
+      "title": "Penalties",
+      "path": "library/grade-a/data-governance-act/art34.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "personal data",
+        "transfer",
+        "notification"
+      ]
+    },
+    {
+      "id": "data-governance-act-art35",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "35",
+      "chapter": "IX",
+      "title": "Evaluation and review",
+      "path": "library/grade-a/data-governance-act/art35.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art36",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "36",
+      "chapter": "IX",
+      "title": "Amendment to Regulation (EU) 2018/1724",
+      "path": "library/grade-a/data-governance-act/art36.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art37",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "37",
+      "chapter": "IX",
+      "title": "Transitional arrangements",
+      "path": "library/grade-a/data-governance-act/art37.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art38",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "38",
+      "chapter": "IX",
+      "title": "Entry into force and application",
+      "path": "library/grade-a/data-governance-act/art38.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art4",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "4",
+      "chapter": "II",
+      "title": "Prohibition of exclusive arrangements",
+      "path": "library/grade-a/data-governance-act/art4.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art5",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "5",
+      "chapter": "II",
+      "title": "Conditions for re-use",
+      "path": "library/grade-a/data-governance-act/art5.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art6",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "6",
+      "chapter": "II",
+      "title": "Fees",
+      "path": "library/grade-a/data-governance-act/art6.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art7",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "7",
+      "chapter": "II",
+      "title": "Competent bodies",
+      "path": "library/grade-a/data-governance-act/art7.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    },
+    {
+      "id": "data-governance-act-art8",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "8",
+      "chapter": "II",
+      "title": "Single information points",
+      "path": "library/grade-a/data-governance-act/art8.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": [
+        "automated",
+        "information"
+      ]
+    },
+    {
+      "id": "data-governance-act-art9",
+      "law": "Data Governance Act",
+      "law_id": "32022R0868",
+      "article": "9",
+      "chapter": "II",
+      "title": "Procedure for requests for re-use",
+      "path": "library/grade-a/data-governance-act/art9.md",
+      "source_grade": "A",
+      "effective_date": 20220623,
+      "keywords": []
+    }
+  ]
+}

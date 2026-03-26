@@ -1,0 +1,733 @@
+{
+  "type": "enforcement_index",
+  "count": 35,
+  "generated_at": "2026-03-26T00:53:05.288707+00:00",
+  "decisions": [
+    {
+      "id": "b-decision-aepd-caixabank-6m-consent-transparency",
+      "slug": "aepd-caixabank-6m-consent-transparency",
+      "title": "AEPD v CaixaBank — EUR 6 Million",
+      "publisher": "AEPD (Spain)",
+      "target_entity": "CaixaBank S.A.",
+      "fine_amount": "EUR 6,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/aepd-caixabank-6m-consent-transparency.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 6",
+        "Art. 13",
+        "Art. 14"
+      ],
+      "keywords": [
+        "banking",
+        "consent",
+        "legitimate interest",
+        "transparency",
+        "financial services"
+      ]
+    },
+    {
+      "id": "b-decision-ap-clearview-ai-30m-biometric-netherlands",
+      "slug": "ap-clearview-ai-30m-biometric-netherlands",
+      "title": "AP Netherlands v Clearview AI — EUR 30.5 Million",
+      "publisher": "AP (Netherlands)",
+      "target_entity": "Clearview AI Inc.",
+      "fine_amount": "EUR 30,500,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/ap-clearview-ai-30m-biometric-netherlands.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 6(1)",
+        "Art. 9(1)",
+        "Art. 12(1)",
+        "Art. 14(1)",
+        "Art. 14(2)",
+        "Art. 27(1)"
+      ],
+      "keywords": [
+        "facial recognition",
+        "biometric data",
+        "scraping",
+        "AI",
+        "special categories",
+        "EU representative"
+      ]
+    },
+    {
+      "id": "b-decision-ap-netflix-5m-transparency",
+      "slug": "ap-netflix-5m-transparency",
+      "title": "AP Netherlands v Netflix — EUR 4.75 Million",
+      "publisher": "AP (Netherlands)",
+      "target_entity": "Netflix International B.V.",
+      "fine_amount": "EUR 4,750,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/ap-netflix-5m-transparency.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 5(2)",
+        "Art. 12",
+        "Art. 13",
+        "Art. 15"
+      ],
+      "keywords": [
+        "transparency",
+        "privacy policy",
+        "data subject access",
+        "streaming",
+        "information obligations"
+      ]
+    },
+    {
+      "id": "b-decision-ap-uber-290m-us-transfers",
+      "slug": "ap-uber-290m-us-transfers",
+      "title": "AP Netherlands v Uber - EUR 290 Million",
+      "publisher": "AP (Netherlands)",
+      "target_entity": "Uber B.V. / Uber Technologies Inc.",
+      "fine_amount": "290,000,000",
+      "published_date": "2024-08-26",
+      "path": "library/grade-b/enforcement-decisions/ap-uber-290m-us-transfers.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-bfdi-vodafone-45m-third-party-security",
+      "slug": "bfdi-vodafone-45m-third-party-security",
+      "title": "BfDI v Vodafone — EUR 45 Million",
+      "publisher": "BfDI (Germany, Federal)",
+      "target_entity": "Vodafone GmbH",
+      "fine_amount": "EUR 45,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/bfdi-vodafone-45m-third-party-security.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 28(1)",
+        "Art. 32(1)"
+      ],
+      "keywords": [
+        "third-party management",
+        "processor oversight",
+        "authentication",
+        "security",
+        "sales partners"
+      ]
+    },
+    {
+      "id": "b-decision-cjeu-schufa-art22-automated-scoring",
+      "slug": "cjeu-schufa-art22-automated-scoring",
+      "title": "CJEU — SCHUFA Credit Scoring (Art. 22 Ruling)",
+      "publisher": "CJEU (Preliminary ruling; referred by German courts)",
+      "target_entity": "SCHUFA Holding AG",
+      "fine_amount": "No fine (CJEU preliminary ruling)",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cjeu-schufa-art22-automated-scoring.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 22(1)"
+      ],
+      "keywords": [
+        "automated decision-making",
+        "credit scoring",
+        "profiling",
+        "AI",
+        "algorithmic transparency",
+        "Art. 22"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-amazon-france-32m-employee-monitoring",
+      "slug": "cnil-amazon-france-32m-employee-monitoring",
+      "title": "CNIL v Amazon France Logistique — EUR 32 Million",
+      "publisher": "CNIL (France)",
+      "target_entity": "Amazon France Logistique SAS",
+      "fine_amount": "EUR 32,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-amazon-france-32m-employee-monitoring.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(c)",
+        "Art. 6(1)(f)",
+        "Art. 12",
+        "Art. 13",
+        "Art. 32"
+      ],
+      "keywords": [
+        "employee monitoring",
+        "warehouse surveillance",
+        "scanner data",
+        "productivity tracking",
+        "video surveillance",
+        "data minimization"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-criteo-40m-advertising",
+      "slug": "cnil-criteo-40m-advertising",
+      "title": "CNIL France v Criteo - EUR 40 Million",
+      "publisher": "CNIL (France)",
+      "target_entity": "Criteo SA",
+      "fine_amount": "40,000,000",
+      "published_date": "2023-06-15",
+      "path": "library/grade-b/enforcement-decisions/cnil-criteo-40m-advertising.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-cnil-facebook-60m-cookies-2022",
+      "slug": "cnil-facebook-60m-cookies-2022",
+      "title": "CNIL v Facebook Ireland — EUR 60 Million (Cookies)",
+      "publisher": "CNIL (France)",
+      "target_entity": "Facebook Ireland Limited",
+      "fine_amount": "EUR 60,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-facebook-60m-cookies-2022.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 82 French Data Protection Act (ePrivacy transposition)"
+      ],
+      "keywords": [
+        "cookies",
+        "consent",
+        "dark patterns",
+        "reject button",
+        "cookie banner"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-google-150m-cookies-2022",
+      "slug": "cnil-google-150m-cookies-2022",
+      "title": "CNIL v Google — EUR 150 Million (Cookies 2022)",
+      "publisher": "CNIL (France)",
+      "target_entity": "Google LLC / Google Ireland Limited",
+      "fine_amount": "EUR 150,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-google-150m-cookies-2022.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 82 French Data Protection Act (ePrivacy transposition)"
+      ],
+      "keywords": [
+        "cookies",
+        "consent",
+        "dark patterns",
+        "cookie banner",
+        "reject button"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-google-325m-cookies-gmail-ads",
+      "slug": "cnil-google-325m-cookies-gmail-ads",
+      "title": "CNIL v Google — EUR 325 Million",
+      "publisher": "CNIL (France)",
+      "target_entity": "Google LLC / Google Ireland Limited",
+      "fine_amount": "EUR 325,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-google-325m-cookies-gmail-ads.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 82 French Data Protection Act (ePrivacy transposition)"
+      ],
+      "keywords": [
+        "cookies",
+        "consent",
+        "Gmail",
+        "advertising",
+        "dark patterns",
+        "recidivism"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-google-50m-transparency-consent-2019",
+      "slug": "cnil-google-50m-transparency-consent-2019",
+      "title": "CNIL v Google — EUR 50 Million (Transparency 2019)",
+      "publisher": "CNIL (France)",
+      "target_entity": "Google LLC",
+      "fine_amount": "EUR 50,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-google-50m-transparency-consent-2019.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 6",
+        "Art. 12",
+        "Art. 13"
+      ],
+      "keywords": [
+        "transparency",
+        "consent",
+        "advertising personalization",
+        "information obligations",
+        "Android"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-orange-50m-email-ads-cookies",
+      "slug": "cnil-orange-50m-email-ads-cookies",
+      "title": "CNIL v Orange — EUR 50 Million",
+      "publisher": "CNIL (France)",
+      "target_entity": "Orange SA",
+      "fine_amount": "EUR 50,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-orange-50m-email-ads-cookies.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. L. 34-5 French Postal and Electronic Communications Code",
+        "Art. 82 French Data Protection Act"
+      ],
+      "keywords": [
+        "email advertising",
+        "cookies",
+        "consent withdrawal",
+        "telecommunications",
+        "ePrivacy"
+      ]
+    },
+    {
+      "id": "b-decision-cnil-shein-150m-cookies-consent",
+      "slug": "cnil-shein-150m-cookies-consent",
+      "title": "CNIL v Shein — EUR 150 Million",
+      "publisher": "CNIL (France)",
+      "target_entity": "Infinite Styles Services Co. Limited (Shein)",
+      "fine_amount": "EUR 150,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/cnil-shein-150m-cookies-consent.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 82 French Data Protection Act (ePrivacy transposition)"
+      ],
+      "keywords": [
+        "cookies",
+        "consent",
+        "cookie banner",
+        "e-commerce",
+        "fast fashion"
+      ]
+    },
+    {
+      "id": "b-decision-cnpd-amazon-746m-advertising",
+      "slug": "cnpd-amazon-746m-advertising",
+      "title": "CNPD Luxembourg v Amazon - EUR 746 Million",
+      "publisher": "CNPD (Luxembourg)",
+      "target_entity": "Amazon Europe Core S.a r.l.",
+      "fine_amount": "746,000,000",
+      "published_date": "2021-07-15",
+      "path": "library/grade-b/enforcement-decisions/cnpd-amazon-746m-advertising.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-datatilsynet-grindr-6m-consent-special-categories",
+      "slug": "datatilsynet-grindr-6m-consent-special-categories",
+      "title": "Datatilsynet v Grindr — EUR 5.7 Million (NOK 65M)",
+      "publisher": "Datatilsynet (Norway)",
+      "target_entity": "Grindr LLC",
+      "fine_amount": "NOK 65,000,000 (approx. EUR 5,700,000)",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/datatilsynet-grindr-6m-consent-special-categories.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 6(1)",
+        "Art. 9(1)"
+      ],
+      "keywords": [
+        "special categories",
+        "sexual orientation",
+        "consent",
+        "third-party sharing",
+        "advertising",
+        "dating app"
+      ]
+    },
+    {
+      "id": "b-decision-dpc-linkedin-310m-advertising",
+      "slug": "dpc-linkedin-310m-advertising",
+      "title": "DPC Ireland v LinkedIn - EUR 310 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "LinkedIn Ireland Unlimited Company",
+      "fine_amount": "310,000,000",
+      "published_date": "2024-10-24",
+      "path": "library/grade-b/enforcement-decisions/dpc-linkedin-310m-advertising.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-dpc-meta-265m-data-scraping",
+      "slug": "dpc-meta-265m-data-scraping",
+      "title": "DPC v Meta (Facebook) — EUR 265 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Limited",
+      "fine_amount": "EUR 265,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-265m-data-scraping.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 25(1)",
+        "Art. 25(2)"
+      ],
+      "keywords": [
+        "data scraping",
+        "data breach",
+        "privacy by design",
+        "data protection by default",
+        "Facebook"
+      ]
+    },
+    {
+      "id": "b-decision-dpc-meta-91m-password-plaintext",
+      "slug": "dpc-meta-91m-password-plaintext",
+      "title": "DPC v Meta — EUR 91 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Limited",
+      "fine_amount": "EUR 91,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-91m-password-plaintext.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(f)",
+        "Art. 32(1)",
+        "Art. 33(1)",
+        "Art. 33(5)"
+      ],
+      "keywords": [
+        "data breach",
+        "password storage",
+        "encryption",
+        "security measures",
+        "breach notification"
+      ]
+    },
+    {
+      "id": "b-decision-dpc-meta-facebook-210m-instagram-180m-legal-basis-ads",
+      "slug": "dpc-meta-facebook-210m-instagram-180m-legal-basis-ads",
+      "title": "DPC v Meta (Facebook EUR 210M + Instagram EUR 180M) — EUR 390 Million (Legal Basis for Ads)",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Limited",
+      "fine_amount": "EUR 390,000,000 (EUR 210M Facebook + EUR 180M Instagram)",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-facebook-210m-instagram-180m-legal-basis-ads.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 6(1)",
+        "Art. 12",
+        "Art. 13(1)(c)"
+      ],
+      "keywords": [
+        "legal basis",
+        "contract performance",
+        "personalized advertising",
+        "transparency",
+        "forced consent"
+      ]
+    },
+    {
+      "id": "b-decision-dpc-meta-facebook-390m-legal-basis",
+      "slug": "dpc-meta-facebook-390m-legal-basis",
+      "title": "DPC Ireland v Meta (Facebook) - EUR 390 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Ltd (Facebook)",
+      "fine_amount": "390,000,000",
+      "published_date": "2023-01-04",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-facebook-390m-legal-basis.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-dpc-meta-instagram-405m-children",
+      "slug": "dpc-meta-instagram-405m-children",
+      "title": "DPC Ireland v Meta (Instagram) - EUR 405 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Ltd (Instagram)",
+      "fine_amount": "405,000,000",
+      "published_date": "2022-09-05",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-instagram-405m-children.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-dpc-meta-whatsapp-1200m-transfers",
+      "slug": "dpc-meta-whatsapp-1200m-transfers",
+      "title": "DPC Ireland v Meta Platforms (WhatsApp) - EUR 1.2 Billion",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "Meta Platforms Ireland Ltd",
+      "fine_amount": "1,200,000,000",
+      "published_date": "2023-05-22",
+      "path": "library/grade-b/enforcement-decisions/dpc-meta-whatsapp-1200m-transfers.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-dpc-tiktok-530m-china-transfers",
+      "slug": "dpc-tiktok-530m-china-transfers",
+      "title": "DPC Ireland v TikTok - EUR 530 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "TikTok Technology Limited",
+      "fine_amount": "530,000,000",
+      "published_date": "2025-05-02",
+      "path": "library/grade-b/enforcement-decisions/dpc-tiktok-530m-china-transfers.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-dpc-whatsapp-225m-transparency",
+      "slug": "dpc-whatsapp-225m-transparency",
+      "title": "DPC v WhatsApp — EUR 225 Million",
+      "publisher": "DPC (Ireland)",
+      "target_entity": "WhatsApp Ireland Limited",
+      "fine_amount": "EUR 225,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/dpc-whatsapp-225m-transparency.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 12",
+        "Art. 13",
+        "Art. 14"
+      ],
+      "keywords": [
+        "transparency",
+        "privacy policy",
+        "non-users",
+        "EDPB dispute resolution"
+      ]
+    },
+    {
+      "id": "b-decision-garante-enel-energia-79m-telemarketing",
+      "slug": "garante-enel-energia-79m-telemarketing",
+      "title": "Garante v Enel Energia — EUR 79.1 Million",
+      "publisher": "Garante per la protezione dei dati personali (Italy)",
+      "target_entity": "Enel Energia S.p.A.",
+      "fine_amount": "EUR 79,100,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/garante-enel-energia-79m-telemarketing.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(2)",
+        "Art. 25",
+        "Art. 28"
+      ],
+      "keywords": [
+        "telemarketing",
+        "controller liability",
+        "third-party agents",
+        "accountability",
+        "privacy by design"
+      ]
+    },
+    {
+      "id": "b-decision-garante-openai-15m-chatgpt-ai",
+      "slug": "garante-openai-15m-chatgpt-ai",
+      "title": "Garante v OpenAI (ChatGPT) — EUR 15 Million",
+      "publisher": "Garante per la protezione dei dati personali (Italy)",
+      "target_entity": "OpenAI OpCo, LLC",
+      "fine_amount": "EUR 15,000,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/garante-openai-15m-chatgpt-ai.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 6",
+        "Art. 8",
+        "Art. 13",
+        "Art. 25",
+        "Art. 33"
+      ],
+      "keywords": [
+        "AI",
+        "generative AI",
+        "ChatGPT",
+        "legal basis",
+        "age verification",
+        "children",
+        "training data",
+        "breach notification"
+      ]
+    },
+    {
+      "id": "b-decision-garante-tim-28m-telemarketing",
+      "slug": "garante-tim-28m-telemarketing",
+      "title": "Garante v TIM — EUR 27.8 Million",
+      "publisher": "Garante per la protezione dei dati personali (Italy)",
+      "target_entity": "TIM S.p.A. (Telecom Italia)",
+      "fine_amount": "EUR 27,802,946",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/garante-tim-28m-telemarketing.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)",
+        "Art. 5(2)",
+        "Art. 6",
+        "Art. 7",
+        "Art. 21",
+        "Art. 24",
+        "Art. 25",
+        "Art. 28",
+        "Art. 32",
+        "Art. 33"
+      ],
+      "keywords": [
+        "telemarketing",
+        "unsolicited communications",
+        "consent",
+        "right to object",
+        "data retention",
+        "accountability"
+      ]
+    },
+    {
+      "id": "b-decision-garante-wind-tre-17m-telemarketing",
+      "slug": "garante-wind-tre-17m-telemarketing",
+      "title": "Garante v Wind Tre — EUR 16.7 Million",
+      "publisher": "Garante per la protezione dei dati personali (Italy)",
+      "target_entity": "Wind Tre S.p.A.",
+      "fine_amount": "EUR 16,729,600",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/garante-wind-tre-17m-telemarketing.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)",
+        "Art. 5(2)",
+        "Art. 6(1)(a)",
+        "Art. 12",
+        "Art. 24",
+        "Art. 25"
+      ],
+      "keywords": [
+        "telemarketing",
+        "unsolicited communications",
+        "consent",
+        "right to withdraw",
+        "direct marketing"
+      ]
+    },
+    {
+      "id": "b-decision-hmbfdi-hm-35m-employee-surveillance",
+      "slug": "hmbfdi-hm-35m-employee-surveillance",
+      "title": "HmbBfDI v H&M — EUR 35.3 Million",
+      "publisher": "HmbBfDI (Hamburg, Germany)",
+      "target_entity": "H&M Hennes & Mauritz Online Shop A.B. & Co. KG",
+      "fine_amount": "EUR 35,258,708",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/hmbfdi-hm-35m-employee-surveillance.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 5(1)(b)",
+        "Art. 5(1)(c)",
+        "Art. 6(1)",
+        "Art. 9(1)"
+      ],
+      "keywords": [
+        "employee monitoring",
+        "employee surveillance",
+        "health data",
+        "special categories",
+        "workplace privacy"
+      ]
+    },
+    {
+      "id": "b-decision-ico-british-airways-20m-breach",
+      "slug": "ico-british-airways-20m-breach",
+      "title": "ICO UK v British Airways - GBP 20 Million",
+      "publisher": "ICO (UK)",
+      "target_entity": "British Airways",
+      "fine_amount": "20,000,000",
+      "published_date": "2020-10-16",
+      "path": "library/grade-b/enforcement-decisions/ico-british-airways-20m-breach.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    },
+    {
+      "id": "b-decision-ico-marriott-18m-data-breach",
+      "slug": "ico-marriott-18m-data-breach",
+      "title": "ICO v Marriott International — GBP 18.4 Million",
+      "publisher": "ICO (United Kingdom)",
+      "target_entity": "Marriott International Inc.",
+      "fine_amount": "GBP 18,400,000 (approx. EUR 20,400,000)",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/ico-marriott-18m-data-breach.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(f)",
+        "Art. 32"
+      ],
+      "keywords": [
+        "data breach",
+        "M&A due diligence",
+        "security measures",
+        "Starwood",
+        "hotel",
+        "database breach"
+      ]
+    },
+    {
+      "id": "b-decision-imy-spotify-5m-subject-access-rights",
+      "slug": "imy-spotify-5m-subject-access-rights",
+      "title": "IMY v Spotify — EUR 5 Million (SEK 58M)",
+      "publisher": "IMY (Sweden)",
+      "target_entity": "Spotify AB",
+      "fine_amount": "SEK 58,000,000 (approx. EUR 5,000,000)",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/imy-spotify-5m-subject-access-rights.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 12",
+        "Art. 15(1)",
+        "Art. 15(2)"
+      ],
+      "keywords": [
+        "data subject access",
+        "right of access",
+        "transparency",
+        "DSAR",
+        "technical data"
+      ]
+    },
+    {
+      "id": "b-decision-lfd-notebooksbilliger-10m-video-surveillance",
+      "slug": "lfd-notebooksbilliger-10m-video-surveillance",
+      "title": "LfD Lower Saxony v Notebooksbilliger.de — EUR 10.4 Million",
+      "publisher": "LfD Niedersachsen (Lower Saxony, Germany)",
+      "target_entity": "notebooksbilliger.de AG",
+      "fine_amount": "EUR 10,400,000",
+      "published_date": "",
+      "path": "library/grade-b/enforcement-decisions/lfd-notebooksbilliger-10m-video-surveillance.md",
+      "source_grade": "B",
+      "violated_articles": [
+        "Art. 5(1)(a)",
+        "Art. 5(1)(c)",
+        "Art. 5(1)(e)",
+        "Art. 6(1)"
+      ],
+      "keywords": [
+        "video surveillance",
+        "employee monitoring",
+        "CCTV",
+        "data retention",
+        "proportionality"
+      ]
+    },
+    {
+      "id": "b-decision-multi-dpa-clearview-ai-biometric",
+      "slug": "multi-dpa-clearview-ai-biometric",
+      "title": "Multiple DPAs v Clearview AI - Biometric Data Collection",
+      "publisher": "IT Garante / FR CNIL / GR HDPA / UK ICO",
+      "target_entity": "Clearview AI Inc.",
+      "fine_amount": "20,000,000 (each by IT/FR/GR)",
+      "published_date": "2022-03-09",
+      "path": "library/grade-b/enforcement-decisions/multi-dpa-clearview-ai-biometric.md",
+      "source_grade": "B",
+      "violated_articles": [],
+      "keywords": []
+    }
+  ]
+}
