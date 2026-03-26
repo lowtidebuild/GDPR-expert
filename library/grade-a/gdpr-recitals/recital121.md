@@ -12,6 +12,9 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
+  - "Art. 52"
+  - "Art. 53"
+  - "Art. 54"
 ---
 
 ## Recital 121

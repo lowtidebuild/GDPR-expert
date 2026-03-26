@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-2-2021"
 title_en: "Joint Opinion on standard contractual clauses for the transfer of personal data to third countries"
 document_number: "EDPB-EDPS Joint Opinion 2/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-01-14"
 source_url: "https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_edps_jointopinion_202102_art46sccs_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "standard"
+  - "contractual"
+  - "clauses"
+  - "transfer"
+  - "personal"
+  - "data"
   - "standard contractual clauses"
   - "SCCs"
   - "international transfers"

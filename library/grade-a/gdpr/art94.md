@@ -19,8 +19,18 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 29"
 
+related_recitals:
+  - "Recital 171"
+
 # === Search Metadata ===
 keywords:
+  - "repeal"
+  - "data protection"
+  - "personal data"
+  - "references"
+  - "repealed"
+  - "construed"
+  - "established"
   - "processing"
   - "personal data"
 ---

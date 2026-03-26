@@ -5,7 +5,7 @@ slug: "opinion-28-2022"
 title_en: "Opinion on the Europrivacy criteria of certification regarding their approval as European Data Protection Seal pursuant to Article 42.5 GDPR"
 document_number: "Opinion 28/2022"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2022-10-10"
 source_url: "https://www.edpb.europa.eu/system/files/2022-10/edpb_opinion_202228_approval_of_europrivacy_certification_criteria_as_eu_data_protection_seal_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "europrivacy"
+  - "criteria"
+  - "certification"
+  - "regarding"
+  - "approval"
+  - "data"
+  - "protection"
   - "certification"
   - "Europrivacy"
   - "European Data Protection Seal"

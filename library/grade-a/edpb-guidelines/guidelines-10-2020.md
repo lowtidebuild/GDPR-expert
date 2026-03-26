@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "restrictions"
+  - "gdpr"
+  - "right of access"
+  - "controller"
+  - "data protection"
+  - "pseudonymisation"
+  - "penalties"
   - "restrictions"
   - "legislative measures"
   - "data subject rights"

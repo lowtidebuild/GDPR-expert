@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "draft"
+  - "adequacy"
+  - "decision"
+  - "brazil"
+  - "standard contractual clauses"
+  - "transparency"
   - "adequacy"
   - "Brazil"
   - "LGPD"

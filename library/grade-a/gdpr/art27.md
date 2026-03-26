@@ -21,8 +21,19 @@ cross_references:
   - "Art. 3(2)"
   - "Art. 9(1)"
 
+related_recitals:
+  - "Recital 80"
+
 # === Search Metadata ===
 keywords:
+  - "representatives"
+  - "controllers"
+  - "processors"
+  - "established"
+  - "controller"
+  - "processor"
+  - "representative"
+  - "data subject"
   - "processing"
   - "controller"
   - "processor"

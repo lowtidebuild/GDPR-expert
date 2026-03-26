@@ -19,8 +19,18 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 65"
 
+related_recitals:
+  - "Recital 139"
+
 # === Search Metadata ===
 keywords:
+  - "data"
+  - "protection"
+  - "board"
+  - "data protection"
+  - "representative"
+  - "supervisory authority"
+  - "right"
   - "supervisory authority"
 ---
 

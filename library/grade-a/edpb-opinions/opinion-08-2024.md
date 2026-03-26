@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "valid"
+  - "consent"
+  - "context"
+  - "pay"
+  - "models"
+  - "implemented"
+  - "large"
   - "consent or pay"
   - "behavioural advertising"
   - "large online platforms"

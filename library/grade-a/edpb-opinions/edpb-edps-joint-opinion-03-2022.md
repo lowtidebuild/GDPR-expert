@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-03-2022"
 title_en: "Joint Opinion on the Proposal for a Regulation on the European Health Data Space"
 document_number: "EDPB-EDPS Joint Opinion 03/2022"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2022-07-12"
 source_url: "https://www.edpb.europa.eu/system/files/2022-07/edpb_edps_jointopinion_202203_europeanhealthdataspace_en.pdf"
@@ -21,6 +21,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "health"
+  - "data"
+  - "space"
+  - "health data"
+  - "data subject"
   - "European Health Data Space"
   - "EHDS"
   - "health data"

@@ -6,7 +6,7 @@ article: 80
 article_sub: 0
 article_title: "Representation of data subjects"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -20,8 +20,19 @@ cross_references:
   - "Art. 77"
   - "Art. 82"
 
+related_recitals:
+  - "Recital 142"
+
 # === Search Metadata ===
 keywords:
+  - "representation"
+  - "data"
+  - "subjects"
+  - "supervisory authority"
+  - "data subject"
+  - "personal data"
+  - "compensation"
+  - "behalf"
   - "data subject"
   - "personal data"
   - "public interest"

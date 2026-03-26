@@ -4,7 +4,7 @@ source_id: "b-decision-dpc-meta-91m-password-plaintext"
 slug: "dpc-meta-91m-password-plaintext"
 title_en: "DPC v Meta — EUR 91 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "DPC (Ireland)"
 target_entity: "Meta Platforms Ireland Limited"
 fine_amount: "EUR 91,000,000"
@@ -23,6 +23,13 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "dpc"
+  - "meta"
+  - "eur"
+  - "million"
+  - "security"
+  - "ireland"
+  - "failed"
   - "data breach"
   - "password storage"
   - "encryption"

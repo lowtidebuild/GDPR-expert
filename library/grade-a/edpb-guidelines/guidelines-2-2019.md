@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "personal"
+  - "data"
+  - "gdpr"
+  - "context"
+  - "provision"
+  - "online"
   - "contractual necessity"
   - "online services"
   - "performance of contract"

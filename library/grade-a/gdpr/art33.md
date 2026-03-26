@@ -19,8 +19,21 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 55"
 
+related_recitals:
+  - "Recital 85"
+  - "Recital 87"
+  - "Recital 88"
+
 # === Search Metadata ===
 keywords:
+  - "notification"
+  - "personal"
+  - "data"
+  - "breach"
+  - "supervisory"
+  - "authority"
+  - "controller"
+  - "data protection"
   - "controller"
   - "personal data"
   - "supervisory authority"

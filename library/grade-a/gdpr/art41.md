@@ -20,8 +20,18 @@ cross_references:
   - "Art. 40"
   - "Art. 63"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "monitoring"
+  - "approved"
+  - "codes"
+  - "conduct"
+  - "controller"
+  - "codes of conduct"
+  - "processor"
+  - "safeguards"
   - "supervisory authority"
   - "code of conduct"
 ---

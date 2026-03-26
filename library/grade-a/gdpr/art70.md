@@ -41,8 +41,20 @@ cross_references:
   - "Art. 83"
   - "Art. 93"
 
+related_recitals:
+  - "Recital 136"
+  - "Recital 139"
+
 # === Search Metadata ===
 keywords:
+  - "tasks"
+  - "board"
+  - "adequacy"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
+  - "profiling"
+  - "processor"
   - "personal data"
 ---
 

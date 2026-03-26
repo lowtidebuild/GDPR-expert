@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-1-2025"
+source_id: "a-statement-statement-1-2025"
 slug: "statement-1-2025"
 title_en: "Statement on Age Assurance"
 document_number: "Statement 1/2025"
@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "age"
+  - "assurance"
+  - "transparency"
+  - "controller"
+  - "data protection"
+  - "pseudonymisation"
+  - "fundamental rights"
   - "age assurance"
   - "age verification"
   - "children"

@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "reasoned"
+  - "objection"
+  - "controller"
+  - "data protection"
+  - "fundamental rights"
+  - "processor"
+  - "safeguards"
   - "relevant and reasoned objection"
   - "consistency mechanism"
 ---

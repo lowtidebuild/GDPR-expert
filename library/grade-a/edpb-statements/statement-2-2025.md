@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-2-2025"
+source_id: "a-statement-statement-2-2025"
 slug: "statement-2-2025"
 title_en: "Statement on Implementation of the PNR Directive in light of CJEU Judgment C-817/19"
 document_number: "Statement 2/2025"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "implementation"
+  - "pnr"
+  - "light"
+  - "cjeu"
+  - "judgment"
+  - "right of access"
+  - "data protection"
   - "PNR"
   - "passenger name record"
   - "CJEU"

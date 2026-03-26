@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "personal"
+  - "data"
+  - "context"
+  - "connected"
+  - "vehicles"
+  - "mobility"
   - "connected vehicles"
   - "mobility"
   - "IoT"

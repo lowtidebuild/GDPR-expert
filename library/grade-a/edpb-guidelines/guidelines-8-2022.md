@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "identifying"
+  - "controller"
+  - "processor's"
+  - "lead"
+  - "supervisory"
+  - "authority"
+  - "data protection"
   - "lead supervisory authority"
   - "one-stop-shop"
   - "main establishment"

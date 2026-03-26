@@ -5,7 +5,7 @@ slug: "opinion-28-2018"
 title_en: "Opinion regarding the European Commission Draft Implementing Decision on the adequate protection of personal data in Japan"
 document_number: "Opinion 28/2018"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2018-12-05"
 source_url: "https://www.edpb.europa.eu/sites/default/files/files/file1/2018-12-05-opinion_2018-28_art.70_japan_adequacy_en.pdf"
@@ -19,6 +19,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "draft"
+  - "implementing"
+  - "decision"
+  - "adequate"
+  - "protection"
+  - "personal"
   - "adequacy"
   - "Japan"
   - "APPI"

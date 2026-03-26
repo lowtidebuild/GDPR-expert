@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-02-2023"
 title_en: "Joint Opinion on the Proposal for a Regulation on the establishment of the digital euro"
 document_number: "EDPB-EDPS Joint Opinion 02/2023"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2023-10-18"
 source_url: "https://www.edpb.europa.eu/system/files/2023-10/edpb_edps_jointopinion_022023_digitaleuro_en.pdf"
@@ -21,6 +21,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "establishment"
+  - "digital"
+  - "euro"
+  - "pseudonymisation"
+  - "privacy"
   - "digital euro"
   - "CBDC"
   - "central bank digital currency"

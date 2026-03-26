@@ -29,8 +29,18 @@ cross_references:
   - "Art. 62"
   - "Art. 65(1)"
 
+related_recitals:
+  - "Recital 136"
+
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "board"
+  - "data protection"
+  - "impact assessment"
+  - "certification"
+  - "supervisory authority"
+  - "binding corporate rules"
   - "processing"
   - "supervisory authority"
   - "impact assessment"

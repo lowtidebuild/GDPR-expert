@@ -5,7 +5,7 @@ slug: "binding-decision-2-2022"
 title_en: "Binding Decision 2/2022"
 decision_number: "Binding Decision 2/2022"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2022-07-28"
 source_url: "https://www.edpb.europa.eu/system/files/2022-09/edpb_bindingdecision_20222_ie_sa_instagramchildusers_en.pdf"
@@ -28,6 +28,12 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "children"
+  - "personal data"
+  - "instagram"
+  - "processing"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

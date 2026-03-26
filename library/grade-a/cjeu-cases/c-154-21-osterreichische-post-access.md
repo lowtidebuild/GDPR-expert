@@ -1,20 +1,40 @@
 ---
-source_id: b-precedent-c-154-21-osterreichische-post-access
-slug: c-154-21-osterreichische-post-access
+# === Identification ===
+source_id: "a-precedent-c-154-21-osterreichische-post-access"
+slug: "c-154-21-osterreichische-post-access"
 title_en: "RW v Osterreichische Post AG (Right of Access - Recipients)"
 case_number: "C-154/21"
 ecli: "ECLI:EU:C:2023:3"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2023-01-12
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2023-01-12"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 15(1)(c), Art. 5(1)(a), Art. 19]
-keywords: [right of access, recipients, specific identity, transparency, categories of recipients]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 15(1)(c)"
+  - "Art. 5(1)(a)"
+  - "Art. 19"
+
+# === Search Metadata ===
+keywords:
+  - "osterreichische"
+  - "post"
+  - "right"
+  - "access"
+  - "recipients"
+  - "transparency"
+  - "right of access"
+  - "controller"
+  - "right of access"
+  - "recipients"
+  - "specific identity"
+  - "transparency"
+  - "categories of recipients"
 ---
 
 # CJEU C-154/21: Osterreichische Post (Right of Access - Recipients)

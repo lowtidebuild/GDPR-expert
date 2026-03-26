@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "wada"
+  - "world"
+  - "anti-doping"
+  - "code"
+  - "transparency"
+  - "health data"
+  - "adequacy"
   - "WADA"
   - "anti-doping"
   - "sports"

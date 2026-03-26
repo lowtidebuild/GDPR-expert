@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-google-325m-cookies-gmail-ads"
 slug: "cnil-google-325m-cookies-gmail-ads"
 title_en: "CNIL v Google — EUR 325 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Google LLC / Google Ireland Limited"
 fine_amount: "EUR 325,000,000"
@@ -20,6 +20,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "google"
+  - "eur"
+  - "million"
+  - "data protection"
+  - "cookie"
+  - "privacy"
+  - "consent"
   - "cookies"
   - "consent"
   - "Gmail"

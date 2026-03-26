@@ -25,8 +25,20 @@ cross_references:
   - "Art. 9(2)"
   - "Art. 9(3)"
 
+related_recitals:
+  - "Recital 65"
+  - "Recital 66"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "erasure"
+  - "forgotten"
+  - "controller"
+  - "right to erasure"
+  - "consent"
+  - "data subject"
+  - "personal data"
   - "consent"
   - "processing"
   - "controller"

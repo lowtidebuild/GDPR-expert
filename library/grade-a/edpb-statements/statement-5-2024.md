@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-5-2024"
+source_id: "a-statement-statement-5-2024"
 slug: "statement-5-2024"
 title_en: "Statement on Recommendations of the High-Level Group on Access to Data for Effective Law Enforcement"
 document_number: "Statement 5/2024"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "recommendations"
+  - "high-level"
+  - "group"
+  - "access"
+  - "data"
+  - "effective"
+  - "law"
   - "law enforcement"
   - "access to data"
   - "high-level group"

@@ -1,20 +1,40 @@
 ---
-source_id: b-precedent-c-40-17-fashion-id
-slug: c-40-17-fashion-id
+# === Identification ===
+source_id: "a-precedent-c-40-17-fashion-id"
+slug: "c-40-17-fashion-id"
 title_en: "Fashion ID GmbH & Co. KG (Social Plugin Joint Controllership)"
 case_number: "C-40/17"
 ecli: "ECLI:EU:C:2019:629"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2019-07-29
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2019-07-29"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 4(7), Art. 26]
-keywords: [joint controller, Facebook Like button, social plugin, website operator, consent, data collection]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 4(7)"
+  - "Art. 26"
+
+# === Search Metadata ===
+keywords:
+  - "fashion"
+  - "gmbh"
+  - "social"
+  - "plugin"
+  - "joint"
+  - "controllership"
+  - "transparency"
+  - "controller"
+  - "joint controller"
+  - "Facebook Like button"
+  - "social plugin"
+  - "website operator"
+  - "consent"
+  - "data collection"
 ---
 
 # CJEU C-40/17: Fashion ID (Social Plugin Joint Controllership)

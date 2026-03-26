@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "guidelines"
+  - "interplay"
+  - "digital"
+  - "markets"
+  - "act"
+  - "gdpr"
+  - "transparency"
   - "DMA"
   - "Digital Markets Act"
   - "gatekeepers"

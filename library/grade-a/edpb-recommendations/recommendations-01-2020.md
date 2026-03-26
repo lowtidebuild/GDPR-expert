@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "measures"
+  - "supplement"
+  - "transfer"
+  - "tools"
+  - "compliance"
+  - "level"
+  - "protection"
   - "supplementary measures"
   - "transfers"
   - "Schrems II"

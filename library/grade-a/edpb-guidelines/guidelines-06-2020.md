@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "interplay"
+  - "second"
+  - "payment"
+  - "services"
+  - "gdpr"
+  - "transparency"
+  - "electronic communications"
   - "PSD2"
   - "payment services"
   - "financial data"

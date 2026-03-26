@@ -19,8 +19,15 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Directive 2002/58/EC"
 
+related_recitals:
+  - "Recital 173"
+
 # === Search Metadata ===
 keywords:
+  - "relationship"
+  - "electronic communications"
+  - "obligations"
+  - "relation"
   - "processing"
 ---
 

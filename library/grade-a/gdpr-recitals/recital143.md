@@ -12,8 +12,7 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
-  - "Art. 263"
-  - "Art. 267"
+  - "Art. 78"
 ---
 
 ## Recital 143

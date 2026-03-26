@@ -12,8 +12,7 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
-  - "Art. 16"
-  - "Art. 8"
+  - "Art. 1"
 ---
 
 ## Recital 1

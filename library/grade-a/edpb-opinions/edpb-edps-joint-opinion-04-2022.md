@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-04-2022"
 title_en: "Joint Opinion on the Proposal for a Regulation laying down rules to prevent and combat child sexual abuse (CSAM)"
 document_number: "EDPB-EDPS Joint Opinion 04/2022"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2022-07-28"
 source_url: "https://www.edpb.europa.eu/system/files/2022-07/edpb_edps_jointopinion_202204_csam_en_0.pdf"
@@ -21,6 +21,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "laying"
+  - "rules"
+  - "prevent"
+  - "combat"
+  - "child"
   - "CSAM"
   - "child sexual abuse"
   - "content scanning"

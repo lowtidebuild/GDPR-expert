@@ -22,8 +22,20 @@ cross_references:
   - "Art. 66(1)"
   - "Art. 66(2)"
 
+related_recitals:
+  - "Recital 126"
+  - "Recital 134"
+
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "operations"
+  - "supervisory"
+  - "authorities"
+  - "controller"
+  - "processor"
+  - "liability"
+  - "supervisory authority"
   - "processing"
   - "controller"
   - "processor"

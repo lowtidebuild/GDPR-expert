@@ -28,6 +28,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "personal"
+  - "data"
+  - "blockchain"
+  - "technologies"
+  - "transparency"
+  - "right of access"
   - "blockchain"
   - "distributed ledger"
   - "right to erasure"

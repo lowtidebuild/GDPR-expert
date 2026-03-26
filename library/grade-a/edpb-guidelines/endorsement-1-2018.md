@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-endorsement-endorsement-1-2018"
+source_id: "a-endorsement-endorsement-1-2018"
 slug: "endorsement-1-2018"
 title_en: "Endorsement 1/2018 - EDPB Endorsement of WP29 documents"
 document_number: "Endorsement 1/2018"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "endorsement"
+  - "edpb"
+  - "documents"
+  - "transparency"
+  - "adequacy"
+  - "controller"
+  - "data protection"
+  - "profiling"
   - "endorsement"
   - "WP29"
   - "Article 29 Working Party"

@@ -20,8 +20,13 @@ cross_references:
   - "Art. 65"
   - "Art. 70(1)"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "reports"
+  - "report"
+  - "annual"
   - "processing"
   - "international"
 ---

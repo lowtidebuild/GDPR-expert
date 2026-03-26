@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-shein-150m-cookies-consent"
 slug: "cnil-shein-150m-cookies-consent"
 title_en: "CNIL v Shein — EUR 150 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Infinite Styles Services Co. Limited (Shein)"
 fine_amount: "EUR 150,000,000"
@@ -20,6 +20,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "shein"
+  - "eur"
+  - "million"
+  - "data protection"
+  - "cookie"
+  - "privacy"
+  - "consent"
   - "cookies"
   - "consent"
   - "cookie banner"

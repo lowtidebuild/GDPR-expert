@@ -22,8 +22,19 @@ cross_references:
   - "Art. 66(2)"
   - "Art. 93(2)"
 
+related_recitals:
+  - "Recital 123"
+  - "Recital 132"
+  - "Recital 133"
+
 # === Search Metadata ===
 keywords:
+  - "mutual"
+  - "assistance"
+  - "supervisory authority"
+  - "measures"
+  - "information"
+  - "another"
   - "supervisory authority"
   - "information"
 ---

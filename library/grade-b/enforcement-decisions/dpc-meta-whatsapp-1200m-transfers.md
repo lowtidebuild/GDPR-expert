@@ -1,20 +1,39 @@
 ---
-source_id: b-decision-dpc-meta-whatsapp-1200m-transfers
-slug: dpc-meta-whatsapp-1200m-transfers
-title_en: "DPC Ireland v Meta Platforms (WhatsApp) - EUR 1.2 Billion"
+# === Identification ===
+source_id: "b-decision-dpc-meta-whatsapp-1200m-transfers"
+slug: "dpc-meta-whatsapp-1200m-transfers"
+title_en: "DPC Ireland v Meta Platforms (WhatsApp) — EUR 1.2 Billion"
 document_type: decision
-source_grade: A
-publisher: DPC (Ireland)
+source_grade: "B"
+publisher: "DPC (Ireland)"
 target_entity: "Meta Platforms Ireland Ltd"
-fine_amount: "1,200,000,000"
-published_date: 2023-05-22
-source_url: https://gdprhub.eu
-original_format: html
+fine_amount: "EUR 1,200,000,000"
+decision_date: "2023-05-22"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-violated_articles: [Art. 46(1)]
-keywords: [international transfers, US transfers, SCC, Privacy Shield, EDPB binding decision, record fine]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "landmark"
+retrieved_at: "2026-03-25"
+
+# === Violated Articles ===
+violated_articles:
+  - "Art. 46(1)"
+
+# === Search Metadata ===
+keywords:
+  - "dpc"
+  - "ireland"
+  - "meta"
+  - "platforms"
+  - "whatsapp"
+  - "eur"
+  - "billion"
+  - "standard contractual clauses"
+  - "international transfers"
+  - "US transfers"
+  - "SCC"
+  - "Privacy Shield"
+  - "EDPB binding decision"
+  - "record fine"
 ---
 
 # DPC Ireland v Meta Platforms - EUR 1.2 Billion Fine

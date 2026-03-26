@@ -21,8 +21,18 @@ cross_references:
   - "Art. 64(3)"
   - "Art. 65(2)"
 
+related_recitals:
+  - "Recital 137"
+  - "Recital 138"
+
 # === Search Metadata ===
 keywords:
+  - "urgency"
+  - "procedure"
+  - "supervisory authority"
+  - "data subject"
+  - "concerned"
+  - "measures"
   - "data subject"
   - "supervisory authority"
 ---

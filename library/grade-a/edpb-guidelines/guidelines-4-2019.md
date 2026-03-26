@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "data"
+  - "protection"
+  - "design"
+  - "default"
+  - "transparency"
+  - "right of access"
+  - "controller"
   - "data protection by design"
   - "data protection by default"
   - "DPbDD"

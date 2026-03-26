@@ -24,8 +24,25 @@ cross_references:
   - "Art. 68"
   - "Art. 9(1)"
 
+related_recitals:
+  - "Recital 75"
+  - "Recital 84"
+  - "Recital 89"
+  - "Recital 90"
+  - "Recital 91"
+  - "Recital 92"
+  - "Recital 93"
+
 # === Search Metadata ===
 keywords:
+  - "data"
+  - "protection"
+  - "impact"
+  - "assessment"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
+  - "profiling"
   - "processing"
   - "controller"
   - "personal data"

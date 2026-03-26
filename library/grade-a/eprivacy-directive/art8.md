@@ -4,30 +4,34 @@ law: "Directive on Privacy and Electronic Communications"
 law_id: "02002L0058-20091219"
 article: 8
 article_sub: 0
-article_title: ""
-chapter: ""
-chapter_title: ""
+article_title: "Presentation and restriction of calling and connected line identification"
+chapter: "II"
+chapter_title: "Confidentiality"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_8/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_8/oj/eng"
 effective_date: "20020731"
 last_amended: null
 retrieved_at: "2026-03-25"
 
 # === Relationships ===
 cross_references:
-  - "Art. 8"
 
 # === Search Metadata ===
 keywords:
+  - "presentation"
+  - "restriction"
+  - "calling"
+  - "connected"
+  - "line"
+  - "identification"
+  - "electronic communications"
+  - "provider"
   - "restriction"
 ---
 
-## Article 8 — 
-
-id="art_8">
-Article 8
+## Article 8 —
 Presentation and restriction of calling and connected line identification
 1.
 Where presentation of calling line identification is offered, the service provider must offer the calling user the possibility, using a simple means and free of charge, of preventing the presentation of the calling line identification on a per-call basis. The calling subscriber must have this possibility on a per-line basis.
@@ -41,4 +45,3 @@ Where presentation of connected line identification is offered, the service prov
 Paragraph 1 shall also apply with regard to calls to third countries originating in the Community. Paragraphs 2, 3 and 4 shall also apply to incoming calls originating in third countries.
 6.
 Member States shall ensure that where presentation of calling and/or connected line identification is offered, the providers of publicly available electronic communications services inform the public thereof and of the possibilities set out in paragraphs 1, 2, 3 and 4.
-<div class="eli-subdivision"

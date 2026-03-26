@@ -4,7 +4,7 @@ source_id: "b-decision-ap-clearview-ai-30m-biometric-netherlands"
 slug: "ap-clearview-ai-30m-biometric-netherlands"
 title_en: "AP Netherlands v Clearview AI — EUR 30.5 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "AP (Netherlands)"
 target_entity: "Clearview AI Inc."
 fine_amount: "EUR 30,500,000"
@@ -26,6 +26,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "netherlands"
+  - "clearview"
+  - "eur"
+  - "million"
+  - "transparency"
+  - "biometric"
+  - "consent"
+  - "representative"
   - "facial recognition"
   - "biometric data"
   - "scraping"

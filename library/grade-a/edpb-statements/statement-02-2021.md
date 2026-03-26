@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-02-2021"
+source_id: "a-statement-statement-02-2021"
 slug: "statement-02-2021"
 title_en: "Statement on new draft provisions of the second additional protocol to the Council of Europe Convention on Cybercrime (Budapest Convention)"
 document_number: "Statement 02/2021"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "new"
+  - "draft"
+  - "provisions"
+  - "second"
+  - "additional"
+  - "protocol"
+  - "europe"
   - "Budapest Convention"
   - "cybercrime"
   - "cross-border access"

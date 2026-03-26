@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-03-2022"
+source_id: "a-statement-statement-03-2022"
 slug: "statement-03-2022"
 title_en: "Statement on the European Police Cooperation Code"
 document_number: "Statement 03/2022"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "police"
+  - "cooperation"
+  - "code"
+  - "data protection"
+  - "pseudonymisation"
+  - "fundamental rights"
+  - "security"
   - "police cooperation"
   - "law enforcement"
   - "Europol"

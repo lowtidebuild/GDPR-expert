@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-facebook-60m-cookies-2022"
 slug: "cnil-facebook-60m-cookies-2022"
 title_en: "CNIL v Facebook Ireland — EUR 60 Million (Cookies)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Facebook Ireland Limited"
 fine_amount: "EUR 60,000,000"
@@ -20,6 +20,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "facebook"
+  - "ireland"
+  - "eur"
+  - "million"
+  - "cookies"
+  - "data protection"
+  - "cookie"
   - "cookies"
   - "consent"
   - "dark patterns"

@@ -19,8 +19,21 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 63"
 
+related_recitals:
+  - "Recital 117"
+  - "Recital 118"
+  - "Recital 119"
+  - "Recital 120"
+
 # === Search Metadata ===
 keywords:
+  - "supervisory"
+  - "authority"
+  - "fundamental rights"
+  - "supervisory authority"
+  - "personal data"
+  - "authorities"
+  - "application"
   - "processing"
   - "personal data"
   - "supervisory authority"

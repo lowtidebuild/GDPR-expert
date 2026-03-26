@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "pseudonymisation"
+  - "standard contractual clauses"
+  - "transparency"
+  - "right of access"
+  - "health data"
+  - "controller"
+  - "traffic data"
   - "pseudonymisation"
   - "data protection by design"
   - "security"

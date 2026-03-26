@@ -4,7 +4,7 @@ source_id: "b-decision-dpc-meta-facebook-210m-instagram-180m-legal-basis-ads"
 slug: "dpc-meta-facebook-210m-instagram-180m-legal-basis-ads"
 title_en: "DPC v Meta (Facebook EUR 210M + Instagram EUR 180M) — EUR 390 Million (Legal Basis for Ads)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "DPC (Ireland)"
 target_entity: "Meta Platforms Ireland Limited"
 fine_amount: "EUR 390,000,000 (EUR 210M Facebook + EUR 180M Instagram)"
@@ -23,6 +23,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "dpc"
+  - "meta"
+  - "facebook"
+  - "eur"
+  - "instagram"
+  - "million"
+  - "legal"
+  - "basis"
   - "legal basis"
   - "contract performance"
   - "personalized advertising"

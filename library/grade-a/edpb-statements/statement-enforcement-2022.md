@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-enforcement-2022"
+source_id: "a-statement-statement-enforcement-2022"
 slug: "statement-enforcement-2022"
 title_en: "Statement on enforcement cooperation"
 document_number: "Statement Enforcement 2022"
@@ -25,6 +25,12 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "enforcement"
+  - "cooperation"
+  - "data protection"
+  - "data subject"
+  - "cross-border"
   - "enforcement"
   - "cooperation"
   - "strategic cases"

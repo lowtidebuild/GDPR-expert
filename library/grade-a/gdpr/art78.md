@@ -6,7 +6,7 @@ article: 78
 article_sub: 0
 article_title: "Right to an effective judicial remedy against a supervisory authority"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -19,8 +19,20 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 77"
 
+related_recitals:
+  - "Recital 141"
+  - "Recital 143"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "effective"
+  - "judicial"
+  - "remedy"
+  - "supervisory"
+  - "authority"
+  - "judicial remedy"
+  - "supervisory authority"
   - "data subject"
   - "supervisory authority"
 ---

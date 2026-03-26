@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "application"
+  - "gdpr"
+  - "transparency"
+  - "right of access"
+  - "controller"
+  - "data protection"
+  - "fundamental rights"
   - "dispute resolution"
   - "binding decision"
   - "consistency mechanism"

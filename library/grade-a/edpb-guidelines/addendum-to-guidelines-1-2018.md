@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidance"
+  - "certification"
+  - "criteria"
+  - "assessment"
+  - "addendum"
+  - "guidelines"
+  - "transparency"
+  - "adequacy"
   - "certification"
   - "criteria"
   - "assessment"

@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "application"
+  - "gdpr"
+  - "transparency"
+  - "controller"
+  - "data protection"
+  - "fundamental rights"
+  - "judicial remedy"
   - "cooperation"
   - "lead supervisory authority"
   - "one-stop-shop"

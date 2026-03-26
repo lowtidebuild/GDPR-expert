@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-03-2021"
+source_id: "a-statement-statement-03-2021"
 slug: "statement-03-2021"
 title_en: "Statement on the ePrivacy Regulation"
 document_number: "Statement 03/2021"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "eprivacy"
+  - "health data"
+  - "electronic communications"
+  - "controller"
+  - "data protection"
+  - "fundamental rights"
+  - "provider"
   - "ePrivacy"
   - "regulation"
   - "electronic communications"

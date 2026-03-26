@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-04-2021"
+source_id: "a-statement-statement-04-2021"
 slug: "statement-04-2021"
 title_en: "Statement on international agreements including transfers"
 document_number: "Statement 04/2021"
@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "international"
+  - "agreements"
+  - "transfers"
+  - "data protection"
+  - "security"
+  - "safeguards"
+  - "transfer"
   - "international agreements"
   - "transfers"
 ---

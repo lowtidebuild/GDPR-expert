@@ -21,8 +21,23 @@ cross_references:
   - "Art. 93(2)"
   - "Art. 93(3)"
 
+related_recitals:
+  - "Recital 103"
+  - "Recital 104"
+  - "Recital 105"
+  - "Recital 106"
+  - "Recital 107"
+
 # === Search Metadata ===
 keywords:
+  - "transfers"
+  - "basis"
+  - "adequacy"
+  - "decision"
+  - "data protection"
+  - "security"
+  - "supervisory authority"
+  - "data subject"
   - "personal data"
   - "transfer"
   - "international"

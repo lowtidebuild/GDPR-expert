@@ -23,8 +23,19 @@ cross_references:
   - "Art. 79"
   - "Art. 93(2)"
 
+related_recitals:
+  - "Recital 110"
+
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "corporate"
+  - "rules"
+  - "controller"
+  - "data protection"
+  - "profiling"
+  - "security"
+  - "data protection officer"
   - "processing"
   - "data subject"
   - "personal data"

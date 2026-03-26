@@ -23,8 +23,17 @@ cross_references:
   - "Art. 63"
   - "Art. 93(2)"
 
+related_recitals:
+  - "Recital 81"
+
 # === Search Metadata ===
 keywords:
+  - "processor"
+  - "standard contractual clauses"
+  - "controller"
+  - "data protection"
+  - "certification"
+  - "confidentiality"
   - "processing"
   - "controller"
   - "processor"

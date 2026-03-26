@@ -4,7 +4,7 @@ source_id: "b-decision-hmbfdi-hm-35m-employee-surveillance"
 slug: "hmbfdi-hm-35m-employee-surveillance"
 title_en: "HmbBfDI v H&M — EUR 35.3 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "HmbBfDI (Hamburg, Germany)"
 target_entity: "H&M Hennes & Mauritz Online Shop A.B. & Co. KG"
 fine_amount: "EUR 35,258,708"
@@ -24,6 +24,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "hmbbfdi"
+  - "eur"
+  - "million"
+  - "personal data"
+  - "hamburg"
+  - "decision"
+  - "landmark"
+  - "managers"
   - "employee monitoring"
   - "employee surveillance"
   - "health data"

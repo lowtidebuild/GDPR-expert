@@ -21,8 +21,19 @@ cross_references:
   - "Art. 17(1)"
   - "Art. 18"
 
+related_recitals:
+  - "Recital 66"
+
 # === Search Metadata ===
 keywords:
+  - "notification"
+  - "obligation"
+  - "regarding"
+  - "rectification"
+  - "erasure"
+  - "personal"
+  - "data"
+  - "restriction"
   - "processing"
   - "controller"
   - "data subject"

@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-2-2022"
 title_en: "Joint Opinion on the Proposal of the European Parliament and of the Council on harmonised rules on fair access to and use of data (Data Act)"
 document_number: "EDPB-EDPS Joint Opinion 2/2022"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2022-05-04"
 source_url: "https://www.edpb.europa.eu/system/files/2022-05/edpb-edps_joint_opinion_22022_on_data_act_proposal_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "harmonised"
+  - "rules"
+  - "fair"
+  - "access"
+  - "use"
   - "Data Act"
   - "data portability"
   - "IoT"

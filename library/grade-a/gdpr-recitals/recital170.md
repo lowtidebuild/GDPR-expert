@@ -12,7 +12,7 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
-  - "Art. 5"
+  - "Art. 92"
 ---
 
 ## Recital 170

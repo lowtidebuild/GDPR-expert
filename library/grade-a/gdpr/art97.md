@@ -20,8 +20,15 @@ cross_references:
   - "Art. 25(6)"
   - "Art. 45(3)"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "reports"
+  - "transfer"
+  - "personal data"
+  - "decisions"
+  - "adopted"
   - "personal data"
   - "transfer"
   - "international"

@@ -5,7 +5,7 @@ slug: "binding-decision-1-2021"
 title_en: "Binding Decision 1/2021"
 decision_number: "Binding Decision 1/2021"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2021-07-28"
 source_url: "https://www.edpb.europa.eu/system/files/2021-09/edpb_bindingdecision_202101_ie_sa_whatsapp_redacted_en.pdf"
@@ -23,6 +23,13 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "transparency"
+  - "adequacy"
+  - "fines"
+  - "personal data"
+  - "whatsapp"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

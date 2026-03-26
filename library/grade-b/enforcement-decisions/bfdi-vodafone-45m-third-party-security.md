@@ -4,7 +4,7 @@ source_id: "b-decision-bfdi-vodafone-45m-third-party-security"
 slug: "bfdi-vodafone-45m-third-party-security"
 title_en: "BfDI v Vodafone — EUR 45 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "BfDI (Germany, Federal)"
 target_entity: "Vodafone GmbH"
 fine_amount: "EUR 45,000,000"
@@ -21,6 +21,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "bfdi"
+  - "vodafone"
+  - "eur"
+  - "million"
+  - "controller"
+  - "security"
+  - "fines"
+  - "federal"
   - "third-party management"
   - "processor oversight"
   - "authentication"

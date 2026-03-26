@@ -28,6 +28,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "deceptive"
+  - "design"
+  - "patterns"
+  - "social"
+  - "media"
+  - "platform"
+  - "interfaces"
   - "dark patterns"
   - "deceptive design"
   - "social media"

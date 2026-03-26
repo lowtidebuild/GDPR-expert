@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-2-2026"
 title_en: "Joint Opinion on the Proposal for a Regulation as regards the simplification of the digital legislative framework (Digital Omnibus Regulation)"
 document_number: "EDPB-EDPS Joint Opinion 2/2026"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2026-02-11"
 source_url: "https://www.edpb.europa.eu/system/files/2026-02/edpb_edps_jointopinion_202602_digitalomnibus_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "regards"
+  - "simplification"
+  - "digital"
+  - "legislative"
+  - "framework"
   - "Digital Omnibus"
   - "DSA"
   - "DMA"

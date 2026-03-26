@@ -1,20 +1,42 @@
 ---
-source_id: b-decision-cnil-criteo-40m-advertising
-slug: cnil-criteo-40m-advertising
-title_en: "CNIL France v Criteo - EUR 40 Million"
+# === Identification ===
+source_id: "b-decision-cnil-criteo-40m-advertising"
+slug: "cnil-criteo-40m-advertising"
+title_en: "CNIL France v Criteo — EUR 40 Million"
 document_type: decision
-source_grade: A
-publisher: CNIL (France)
+source_grade: "B"
+publisher: "CNIL (France)"
 target_entity: "Criteo SA"
-fine_amount: "40,000,000"
-published_date: 2023-06-15
-source_url: https://gdprhub.eu
-original_format: html
+fine_amount: "EUR 40,000,000"
+decision_date: "2023-06-15"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-violated_articles: [Art. 7, Art. 15, Art. 17, Art. 26]
-keywords: [consent, cookies, joint controllership, right of access, right to erasure, advertising technology]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Violated Articles ===
+violated_articles:
+  - "Art. 7"
+  - "Art. 15"
+  - "Art. 17"
+  - "Art. 26"
+
+# === Search Metadata ===
+keywords:
+  - "cnil"
+  - "france"
+  - "criteo"
+  - "eur"
+  - "million"
+  - "right of access"
+  - "controller"
+  - "cookie"
+  - "consent"
+  - "cookies"
+  - "joint controllership"
+  - "right of access"
+  - "right to erasure"
+  - "advertising technology"
 ---
 
 # CNIL France v Criteo - EUR 40 Million Fine

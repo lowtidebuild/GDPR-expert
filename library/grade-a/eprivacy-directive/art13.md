@@ -4,34 +4,38 @@ law: "Directive on Privacy and Electronic Communications"
 law_id: "02002L0058-20091219"
 article: 13
 article_sub: 0
-article_title: ""
-chapter: ""
-chapter_title: ""
+article_title: "Unsolicited communications"
+chapter: "II"
+chapter_title: "Confidentiality"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_13/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_13/oj/eng"
 effective_date: "20020731"
 last_amended: null
 retrieved_at: "2026-03-25"
 
 # === Relationships ===
 cross_references:
-  - "Art. 13"
   - "Art. 15"
   - "Art. 6"
   - "Directive 2000/31/EC"
 
 # === Search Metadata ===
 keywords:
+  - "unsolicited"
+  - "communications"
+  - "electronic communications"
+  - "penalties"
+  - "provider"
+  - "direct marketing"
+  - "consent"
+  - "legitimate interest"
   - "consent"
   - "automated"
 ---
 
-## Article 13 — 
-
-id="art_13">
-Article 13
+## Article 13 —
 Unsolicited communications
 1.
 The use of automated calling and communication systems without human intervention (automatic calling machines), facsimile machines (fax) or electronic mail for the purposes of direct marketing may be allowed only in respect of subscribers or users who have given their prior consent.
@@ -45,5 +49,3 @@ In any event, the practice of sending electronic mail for the purposes of direct
 Paragraphs 1 and 3 shall apply to subscribers who are natural persons. Member States shall also ensure, in the framework of Community law and applicable national legislation, that the legitimate interests of subscribers other than natural persons with regard to unsolicited communications are sufficiently protected.
 6.
 Without prejudice to any administrative remedy for which provision may be made, inter alia, under Article 15a(2), Member States shall ensure that any natural or legal person adversely affected by infringements of national provisions adopted pursuant to this Article and therefore having a legitimate interest in the cessation or prohibition of such infringements, including an electronic communications service provider protecting its legitimate business interests, may bring legal proceedings in respect of such infringements. Member States may also lay down specific rules on penalties applicable to providers of electronic communications services which by their negligence contribute to infringements of national provisions adopted pursuant to this Article.
-▼B
-<div class="eli-subdivision"

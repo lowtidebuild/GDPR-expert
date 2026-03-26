@@ -4,7 +4,7 @@ source_id: "b-decision-ico-marriott-18m-data-breach"
 slug: "ico-marriott-18m-data-breach"
 title_en: "ICO v Marriott International — GBP 18.4 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "ICO (United Kingdom)"
 target_entity: "Marriott International Inc."
 fine_amount: "GBP 18,400,000 (approx. EUR 20,400,000)"
@@ -21,6 +21,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "ico"
+  - "marriott"
+  - "international"
+  - "gbp"
+  - "million"
+  - "data protection"
+  - "security"
+  - "data breach"
   - "data breach"
   - "M&A due diligence"
   - "security measures"

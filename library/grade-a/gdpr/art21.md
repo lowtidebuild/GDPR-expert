@@ -21,8 +21,19 @@ cross_references:
   - "Art. 89(1)"
   - "Directive 2002/58/EC"
 
+related_recitals:
+  - "Recital 69"
+  - "Recital 70"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "object"
+  - "controller"
+  - "profiling"
+  - "direct marketing"
+  - "data subject"
+  - "personal data"
   - "processing"
   - "controller"
   - "data subject"

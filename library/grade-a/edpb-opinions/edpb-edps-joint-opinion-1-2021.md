@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-1-2021"
 title_en: "Joint Opinion on standard contractual clauses between controllers and processors"
 document_number: "EDPB-EDPS Joint Opinion 1/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-01-14"
 source_url: "https://www.edpb.europa.eu/sites/default/files/files/file1/edpb-edpsjointopinion01_2021_sccs_c_p_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "standard"
+  - "contractual"
+  - "clauses"
+  - "controllers"
+  - "processors"
+  - "standard contractual clauses"
   - "standard contractual clauses"
   - "SCCs"
   - "controller-processor"

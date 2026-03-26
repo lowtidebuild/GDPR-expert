@@ -18,8 +18,20 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 101"
+  - "Recital 102"
+
 # === Search Metadata ===
 keywords:
+  - "general"
+  - "principle"
+  - "transfers"
+  - "controller"
+  - "processor"
+  - "transfer"
+  - "personal data"
+  - "third"
   - "processing"
   - "controller"
   - "processor"

@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "personal"
+  - "data"
+  - "breach"
+  - "notification"
+  - "gdpr"
+  - "transparency"
+  - "electronic communications"
   - "data breach"
   - "notification"
   - "communication"

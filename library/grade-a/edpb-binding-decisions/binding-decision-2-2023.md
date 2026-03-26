@@ -5,7 +5,7 @@ slug: "binding-decision-2-2023"
 title_en: "Binding Decision 2/2023"
 decision_number: "Binding Decision 2/2023"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2023-08-02"
 source_url: "https://www.edpb.europa.eu/system/files/2023-09/edpb_bindingdecision_202302_ie_sa_ttl_children_en.pdf"
@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "adequacy"
+  - "data protection"
+  - "privacy"
+  - "children"
+  - "minor"
+  - "personal data"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

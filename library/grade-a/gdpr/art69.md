@@ -20,8 +20,15 @@ cross_references:
   - "Art. 70(1)"
   - "Art. 70(2)"
 
+related_recitals:
+  - "Recital 139"
+
 # === Search Metadata ===
 keywords:
+  - "independence"
+  - "board"
+  - "tasks"
+  - "powers"
 ---
 
 ## Article 69 — Independence

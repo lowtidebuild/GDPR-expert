@@ -19,8 +19,14 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 58(2)"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "activity"
+  - "reports"
+  - "supervisory authority"
+  - "types"
   - "supervisory authority"
 ---
 

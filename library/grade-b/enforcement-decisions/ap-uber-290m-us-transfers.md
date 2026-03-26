@@ -1,20 +1,39 @@
 ---
-source_id: b-decision-ap-uber-290m-us-transfers
-slug: ap-uber-290m-us-transfers
-title_en: "AP Netherlands v Uber - EUR 290 Million"
+# === Identification ===
+source_id: "b-decision-ap-uber-290m-us-transfers"
+slug: "ap-uber-290m-us-transfers"
+title_en: "AP Netherlands v Uber — EUR 290 Million"
 document_type: decision
-source_grade: A
-publisher: AP (Netherlands)
+source_grade: "B"
+publisher: "AP (Netherlands)"
 target_entity: "Uber B.V. / Uber Technologies Inc."
-fine_amount: "290,000,000"
-published_date: 2024-08-26
-source_url: https://gdprhub.eu
-original_format: html
+fine_amount: "EUR 290,000,000"
+decision_date: "2024-08-26"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-violated_articles: [Art. 44 GDPR]
-keywords: [international transfers, US transfers, drivers data, sensitive data, SCC gap, location data]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Violated Articles ===
+violated_articles:
+  - "Art. 44"
+
+# === Search Metadata ===
+keywords:
+  - "netherlands"
+  - "uber"
+  - "eur"
+  - "million"
+  - "biometric"
+  - "privacy"
+  - "safeguards"
+  - "supervisory authority"
+  - "international transfers"
+  - "US transfers"
+  - "drivers data"
+  - "sensitive data"
+  - "SCC gap"
+  - "location data"
 ---
 
 # AP Netherlands v Uber - EUR 290 Million Fine

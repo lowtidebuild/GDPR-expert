@@ -5,7 +5,7 @@ slug: "binding-decision-1-2023"
 title_en: "Binding Decision 1/2023"
 decision_number: "Binding Decision 1/2023"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2023-04-13"
 source_url: "https://www.edpb.europa.eu/system/files/2023-05/edpb_bindingdecision_202301_ie_sa_facebooktransfers_en.pdf"
@@ -22,6 +22,13 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "standard contractual clauses"
+  - "safeguards"
+  - "transfer"
+  - "personal data"
+  - "transfers"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

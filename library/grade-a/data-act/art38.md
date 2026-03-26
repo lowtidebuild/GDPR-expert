@@ -10,7 +10,7 @@ chapter_title: "Competent authorities and data coordinators"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_38/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_38/oj/eng"
 effective_date: "20240111"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -22,6 +22,12 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "lodge"
+  - "complaint"
+  - "judicial remedy"
+  - "competent"
+  - "authority"
   - "information"
 ---
 

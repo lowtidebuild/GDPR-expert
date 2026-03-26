@@ -1,20 +1,41 @@
 ---
-source_id: b-decision-multi-dpa-clearview-ai-biometric
-slug: multi-dpa-clearview-ai-biometric
-title_en: "Multiple DPAs v Clearview AI - Biometric Data Collection"
+# === Identification ===
+source_id: "b-decision-multi-dpa-clearview-ai-biometric"
+slug: "multi-dpa-clearview-ai-biometric"
+title_en: "Multiple DPAs v Clearview AI — Biometric Data Collection"
 document_type: decision
-source_grade: A
-publisher: IT Garante / FR CNIL / GR HDPA / UK ICO
+source_grade: "B"
+publisher: "IT Garante / FR CNIL / GR HDPA / UK ICO"
 target_entity: "Clearview AI Inc."
-fine_amount: "20,000,000 (each by IT/FR/GR)"
-published_date: 2022-03-09
-source_url: https://gdprhub.eu
-original_format: html
+fine_amount: "EUR 20,000,000 (each by IT/FR/GR)"
+decision_date: "2022-03-09"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-violated_articles: [Art. 6, Art. 9, Art. 14]
-keywords: [biometric data, facial recognition, scraping, sensitive data, right to information, legitimate interest]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Violated Articles ===
+violated_articles:
+  - "Art. 6"
+  - "Art. 9"
+  - "Art. 14"
+
+# === Search Metadata ===
+keywords:
+  - "multiple"
+  - "dpas"
+  - "clearview"
+  - "biometric"
+  - "data"
+  - "collection"
+  - "consent"
+  - "data subject"
+  - "biometric data"
+  - "facial recognition"
+  - "scraping"
+  - "sensitive data"
+  - "right to information"
+  - "legitimate interest"
 ---
 
 # Multiple DPAs v Clearview AI - Biometric Data Enforcement

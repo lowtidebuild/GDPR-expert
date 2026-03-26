@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "interplay"
+  - "dsa"
+  - "gdpr"
+  - "transparency"
+  - "controller"
+  - "data protection"
+  - "genetic data"
   - "DSA"
   - "Digital Services Act"
   - "interplay"

@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-2-2024"
+source_id: "a-statement-statement-2-2024"
 slug: "statement-2-2024"
 title_en: "Statement on Financial data access and payments package"
 document_number: "Statement 2/2024"
@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "financial"
+  - "data"
+  - "access"
+  - "payments"
+  - "package"
+  - "transparency"
+  - "data sharing"
   - "financial data"
   - "payments"
   - "FIDA"

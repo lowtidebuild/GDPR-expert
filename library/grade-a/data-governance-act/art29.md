@@ -10,7 +10,7 @@ chapter_title: "European Data Innovation Board"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_29/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_29/oj/eng"
 effective_date: "20220623"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -21,6 +21,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "data"
+  - "innovation"
+  - "board"
+  - "data protection"
+  - "interoperability"
+  - "altruism"
+  - "representative"
+  - "intermediation"
 ---
 
 ## Article 29 — European Data Innovation Board

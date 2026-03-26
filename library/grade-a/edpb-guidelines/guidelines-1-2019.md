@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "codes"
+  - "conduct"
+  - "monitoring"
+  - "bodies"
+  - "transparency"
+  - "health data"
+  - "controller"
   - "codes of conduct"
   - "monitoring bodies"
 ---

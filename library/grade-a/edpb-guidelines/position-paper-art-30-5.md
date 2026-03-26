@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "position"
+  - "paper"
+  - "derogations"
+  - "obligation"
+  - "maintain"
+  - "records"
+  - "processing"
+  - "activities"
   - "records of processing"
   - "ROPA"
   - "SME"

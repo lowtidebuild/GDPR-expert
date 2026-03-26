@@ -5,7 +5,7 @@ slug: "binding-decision-5-2022"
 title_en: "Binding Decision 5/2022"
 decision_number: "Binding Decision 5/2022"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2022-12-05"
 source_url: "https://www.edpb.europa.eu/our-work-tools/our-documents/binding-decision-board-art-65/binding-decision-52022-dispute-submitted_en"
@@ -25,6 +25,13 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "security"
+  - "legitimate interest"
+  - "personal data"
+  - "whatsapp"
+  - "processing"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

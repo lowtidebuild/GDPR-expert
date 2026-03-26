@@ -18,8 +18,20 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 117"
+  - "Recital 118"
+  - "Recital 120"
+  - "Recital 121"
+
 # === Search Metadata ===
 keywords:
+  - "independence"
+  - "supervisory authority"
+  - "tasks"
+  - "powers"
+  - "members"
+  - "incompatible"
   - "supervisory authority"
 ---
 

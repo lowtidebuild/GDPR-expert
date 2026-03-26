@@ -12,8 +12,7 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
-  - "Art. 25"
-  - "Art. 26"
+  - "Art. 45"
 ---
 
 ## Recital 106

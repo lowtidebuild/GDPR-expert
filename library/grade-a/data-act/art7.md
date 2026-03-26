@@ -10,7 +10,7 @@ chapter_title: "Obligation to make product data and related service data accessi
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_7/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_7/oj/eng"
 effective_date: "20240111"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -22,6 +22,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "scope"
+  - "business-to-consumer"
+  - "business-to-business"
+  - "data"
+  - "sharing"
+  - "obligations"
+  - "connected product"
+  - "data sharing"
 ---
 
 ## Article 7 — Scope of business-to-consumer and business-to-business data sharing obligations

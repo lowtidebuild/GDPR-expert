@@ -22,8 +22,21 @@ cross_references:
   - "Art. 63"
   - "Art. 66"
 
+related_recitals:
+  - "Recital 124"
+  - "Recital 125"
+  - "Recital 130"
+
 # === Search Metadata ===
 keywords:
+  - "cooperation"
+  - "lead"
+  - "supervisory"
+  - "authority"
+  - "authorities"
+  - "concerned"
+  - "controller"
+  - "processor"
   - "supervisory authority"
   - "information"
 ---

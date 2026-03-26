@@ -20,8 +20,21 @@ cross_references:
   - "Art. 9(1)"
   - "Art. 9(2)"
 
+related_recitals:
+  - "Recital 71"
+  - "Recital 72"
+  - "Recital 91"
+
 # === Search Metadata ===
 keywords:
+  - "automated"
+  - "individual"
+  - "decision-making"
+  - "profiling"
+  - "controller"
+  - "consent"
+  - "legitimate interest"
+  - "data subject"
   - "processing"
   - "controller"
   - "data subject"

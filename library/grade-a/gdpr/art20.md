@@ -21,8 +21,19 @@ cross_references:
   - "Art. 6(1)"
   - "Art. 9(2)"
 
+related_recitals:
+  - "Recital 68"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "data"
+  - "portability"
+  - "controller"
+  - "consent"
+  - "data subject"
+  - "data portability"
+  - "personal data"
   - "consent"
   - "processing"
   - "controller"

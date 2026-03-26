@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "technical"
+  - "scope"
+  - "art"
+  - "eprivacy"
+  - "electronic communications"
+  - "controller"
+  - "data protection"
   - "ePrivacy"
   - "cookies"
   - "tracking"

@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-05-2021"
+source_id: "a-statement-statement-05-2021"
 slug: "statement-05-2021"
 title_en: "Statement on the Data Governance Act in light of the legislative developments"
 document_number: "Statement 05/2021"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "data"
+  - "governance"
+  - "act"
+  - "light"
+  - "legislative"
+  - "developments"
+  - "transparency"
   - "Data Governance Act"
   - "data intermediaries"
 ---

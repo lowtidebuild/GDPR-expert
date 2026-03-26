@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "adequacy"
+  - "referential"
+  - "law"
+  - "enforcement"
+  - "transparency"
+  - "right of access"
+  - "controller"
   - "adequacy"
   - "law enforcement directive"
   - "transfers"

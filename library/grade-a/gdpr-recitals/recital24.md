@@ -12,6 +12,8 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
+  - "Art. 3"
+  - "Art. 4"
 ---
 
 ## Recital 24

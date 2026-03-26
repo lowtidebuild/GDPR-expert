@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-1-2024"
+source_id: "a-statement-statement-1-2024"
 slug: "statement-1-2024"
 title_en: "Statement on legislative developments regarding the Proposal for a Regulation to prevent and combat child sexual abuse"
 document_number: "Statement 1/2024"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "legislative"
+  - "developments"
+  - "regarding"
+  - "proposal"
+  - "prevent"
+  - "combat"
+  - "child"
   - "CSAM"
   - "child sexual abuse"
   - "encryption"

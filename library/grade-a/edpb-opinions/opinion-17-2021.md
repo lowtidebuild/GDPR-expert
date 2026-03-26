@@ -5,7 +5,7 @@ slug: "opinion-17-2021"
 title_en: "Opinion on the draft decision of the French Supervisory Authority regarding the European code of conduct submitted by the Cloud Infrastructure Service Providers (CISPE)"
 document_number: "Opinion 17/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-05-19"
 source_url: "https://www.edpb.europa.eu/system/files/2021-05/edpb_opinion_202117_cispecode_en_0.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "draft"
+  - "decision"
+  - "french"
+  - "supervisory"
+  - "authority"
+  - "regarding"
+  - "code"
   - "code of conduct"
   - "CISPE"
   - "cloud infrastructure"

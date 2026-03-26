@@ -20,8 +20,23 @@ cross_references:
   - "Art. 40"
   - "Art. 42"
 
+related_recitals:
+  - "Recital 75"
+  - "Recital 76"
+  - "Recital 77"
+  - "Recital 78"
+  - "Recital 79"
+  - "Recital 83"
+
 # === Search Metadata ===
 keywords:
+  - "security"
+  - "processing"
+  - "controller"
+  - "pseudonymisation"
+  - "processor"
+  - "certification"
+  - "confidentiality"
   - "processing"
   - "controller"
   - "processor"

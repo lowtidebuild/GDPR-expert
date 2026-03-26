@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "territorial"
+  - "scope"
+  - "gdpr"
+  - "transparency"
+  - "controller"
+  - "data protection"
+  - "penalties"
   - "territorial scope"
   - "establishment"
   - "offering goods or services"

@@ -21,8 +21,28 @@ cross_references:
   - "Art. 27"
   - "Art. 51"
 
+related_recitals:
+  - "Recital 15"
+  - "Recital 24"
+  - "Recital 26"
+  - "Recital 28"
+  - "Recital 29"
+  - "Recital 30"
+  - "Recital 31"
+  - "Recital 34"
+  - "Recital 35"
+  - "Recital 36"
+  - "Recital 37"
+
 # === Search Metadata ===
 keywords:
+  - "definitions"
+  - "controller"
+  - "data protection"
+  - "genetic data"
+  - "pseudonymisation"
+  - "fundamental rights"
+  - "profiling"
   - "data subject"
   - "personal data"
   - "information"

@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 154"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "public"
+  - "access"
+  - "official"
+  - "documents"
+  - "personal data"
+  - "body"
+  - "authority"
   - "processing"
   - "personal data"
   - "public interest"

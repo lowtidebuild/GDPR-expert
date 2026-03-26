@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "practical"
+  - "implementation"
+  - "amicable"
+  - "settlements"
+  - "transparency"
+  - "right of access"
+  - "controller"
   - "amicable settlement"
   - "dispute resolution"
 ---

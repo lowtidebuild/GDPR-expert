@@ -1,20 +1,44 @@
 ---
-source_id: b-precedent-c-252-21-meta-v-bundeskartellamt
-slug: c-252-21-meta-v-bundeskartellamt
+# === Identification ===
+source_id: "a-precedent-c-252-21-meta-v-bundeskartellamt"
+slug: "c-252-21-meta-v-bundeskartellamt"
 title_en: "Meta Platforms and Others v Bundeskartellamt"
 case_number: "C-252/21"
 ecli: "ECLI:EU:C:2023:537"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2023-07-04
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2023-07-04"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 5(1)(c), Art. 6(1)(a), Art. 6(1)(b), Art. 6(1)(f), Art. 9(1)]
-keywords: [consent, legitimate interest, special categories, dominant position, competition law, off-Facebook data, social network]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 5(1)(c)"
+  - "Art. 6(1)(a)"
+  - "Art. 6(1)(b)"
+  - "Art. 6(1)(f)"
+  - "Art. 9(1)"
+
+# === Search Metadata ===
+keywords:
+  - "meta"
+  - "platforms"
+  - "others"
+  - "bundeskartellamt"
+  - "data protection"
+  - "cookie"
+  - "consent"
+  - "legitimate interest"
+  - "consent"
+  - "legitimate interest"
+  - "special categories"
+  - "dominant position"
+  - "competition law"
+  - "off-Facebook data"
+  - "social network"
 ---
 
 # CJEU C-252/21: Meta Platforms v Bundeskartellamt

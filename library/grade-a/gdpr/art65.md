@@ -22,8 +22,19 @@ cross_references:
   - "Art. 64"
   - "Art. 64(1)"
 
+related_recitals:
+  - "Recital 136"
+
 # === Search Metadata ===
 keywords:
+  - "dispute"
+  - "resolution"
+  - "board"
+  - "controller"
+  - "processor"
+  - "supervisory authority"
+  - "data subject"
+  - "decision"
   - "supervisory authority"
   - "objection"
 ---

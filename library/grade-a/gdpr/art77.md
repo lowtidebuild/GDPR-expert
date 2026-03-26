@@ -6,7 +6,7 @@ article: 77
 article_sub: 0
 article_title: "Right to lodge a complaint with a supervisory authority"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 78"
 
+related_recitals:
+  - "Recital 141"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "lodge"
+  - "complaint"
+  - "supervisory"
+  - "authority"
+  - "judicial remedy"
+  - "supervisory authority"
+  - "data subject"
   - "processing"
   - "data subject"
   - "personal data"

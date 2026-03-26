@@ -10,7 +10,7 @@ chapter_title: "Prohibited AI practices"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_5/oj/eng"
 effective_date: "20240801"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -24,6 +24,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "prohibited"
+  - "practices"
+  - "data protection"
+  - "fundamental rights"
+  - "profiling"
+  - "biometric"
+  - "ai system"
+  - "safeguards"
 ---
 
 ## Article 5 — Prohibited AI practices

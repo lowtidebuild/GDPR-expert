@@ -1,20 +1,39 @@
 ---
-source_id: b-precedent-c-687-21-mediamarktsaturn
-slug: c-687-21-mediamarktsaturn
+# === Identification ===
+source_id: "a-precedent-c-687-21-mediamarktsaturn"
+slug: "c-687-21-mediamarktsaturn"
 title_en: "Saturn Electro-Handelgesellschaft (MediaMarktSaturn - Damages Standard)"
 case_number: "C-687/21"
 ecli: "ECLI:EU:C:2024:72"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2024-01-25
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2024-01-25"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 82]
-keywords: [damages, non-material damage, proof standard, well-founded fear, compensatory function, data breach]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 82"
+
+# === Search Metadata ===
+keywords:
+  - "saturn"
+  - "electro-handelgesellschaft"
+  - "mediamarktsaturn"
+  - "damages"
+  - "standard"
+  - "adequacy"
+  - "controller"
+  - "security"
+  - "damages"
+  - "non-material damage"
+  - "proof standard"
+  - "well-founded fear"
+  - "compensatory function"
+  - "data breach"
 ---
 
 # CJEU C-687/21: MediaMarktSaturn (Non-Material Damages Proof Standard)

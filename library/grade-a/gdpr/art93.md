@@ -20,8 +20,14 @@ cross_references:
   - "Art. 5"
   - "Art. 8"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "committee"
+  - "procedure"
+  - "reference"
+  - "made"
 ---
 
 ## Article 93 — Committee procedure

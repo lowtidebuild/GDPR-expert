@@ -18,8 +18,13 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 135"
+
 # === Search Metadata ===
 keywords:
+  - "consistency"
+  - "mechanism"
 ---
 
 ## Article 63 — Consistency mechanism

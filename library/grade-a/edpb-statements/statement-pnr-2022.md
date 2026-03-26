@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-pnr-2022"
+source_id: "a-statement-statement-pnr-2022"
 slug: "statement-pnr-2022"
 title_en: "Statement on the implications of the CJEU judgment C-817/19 on the use of PNR in Member States"
 document_number: "Statement PNR 2022"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "implications"
+  - "cjeu"
+  - "judgment"
+  - "use"
+  - "pnr"
+  - "data protection"
+  - "fundamental rights"
   - "PNR"
   - "CJEU"
   - "C-817/19"

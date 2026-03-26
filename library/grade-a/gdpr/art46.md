@@ -26,8 +26,20 @@ cross_references:
   - "Art. 63"
   - "Art. 93(2)"
 
+related_recitals:
+  - "Recital 108"
+  - "Recital 109"
+
 # === Search Metadata ===
 keywords:
+  - "transfers"
+  - "subject"
+  - "safeguards"
+  - "controller"
+  - "data protection"
+  - "processor"
+  - "certification"
+  - "supervisory authority"
   - "controller"
   - "processor"
   - "data subject"

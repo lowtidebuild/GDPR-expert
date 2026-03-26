@@ -20,8 +20,22 @@ cross_references:
   - "Art. 12(8)"
   - "Art. 43(8)"
 
+related_recitals:
+  - "Recital 166"
+  - "Recital 167"
+  - "Recital 168"
+  - "Recital 169"
+  - "Recital 170"
+
 # === Search Metadata ===
 keywords:
+  - "exercise"
+  - "delegation"
+  - "notification"
+  - "power"
+  - "delegated"
+  - "acts"
+  - "conferred"
 ---
 
 ## Article 92 — Exercise of the delegation

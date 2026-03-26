@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-03-2021"
 title_en: "Joint Opinion on the Proposal for a Regulation on European data governance (Data Governance Act)"
 document_number: "EDPB-EDPS Joint Opinion 03/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-03-10"
 source_url: "https://www.edpb.europa.eu/system/files/2021-03/edpb-edps_joint_opinion_dga_en.pdf"
@@ -21,6 +21,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "data"
+  - "governance"
+  - "act"
+  - "public sector"
+  - "personal data"
   - "Data Governance Act"
   - "data intermediaries"
   - "data altruism"

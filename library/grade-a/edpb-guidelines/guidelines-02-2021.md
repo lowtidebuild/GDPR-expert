@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "virtual"
+  - "voice"
+  - "assistants"
+  - "transparency"
+  - "right of access"
+  - "health data"
+  - "electronic communications"
   - "voice assistants"
   - "smart devices"
   - "IoT"

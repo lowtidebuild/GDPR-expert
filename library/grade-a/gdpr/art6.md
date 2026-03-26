@@ -21,8 +21,31 @@ cross_references:
   - "Art. 23(1)"
   - "Art. 9"
 
+related_recitals:
+  - "Recital 39"
+  - "Recital 40"
+  - "Recital 41"
+  - "Recital 42"
+  - "Recital 43"
+  - "Recital 44"
+  - "Recital 45"
+  - "Recital 46"
+  - "Recital 47"
+  - "Recital 48"
+  - "Recital 49"
+  - "Recital 50"
+  - "Recital 171"
+
 # === Search Metadata ===
 keywords:
+  - "lawfulness"
+  - "processing"
+  - "controller"
+  - "pseudonymisation"
+  - "fundamental rights"
+  - "safeguards"
+  - "consent"
+  - "legitimate interest"
   - "consent"
   - "lawful"
   - "processing"

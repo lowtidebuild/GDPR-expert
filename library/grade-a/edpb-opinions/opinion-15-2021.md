@@ -5,7 +5,7 @@ slug: "opinion-15-2021"
 title_en: "Opinion regarding the European Commission Draft Implementing Decision on the adequate protection of personal data in the United Kingdom (LED)"
 document_number: "Opinion 15/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-04-13"
 source_url: "https://www.edpb.europa.eu/system/files/2021-04/edpb_opinion152021_ukadequacy_led_en.pdf"
@@ -19,6 +19,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "draft"
+  - "implementing"
+  - "decision"
+  - "adequate"
+  - "protection"
+  - "personal"
   - "adequacy"
   - "United Kingdom"
   - "Law Enforcement Directive"

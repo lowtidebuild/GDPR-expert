@@ -25,8 +25,20 @@ cross_references:
   - "Art. 63"
   - "Art. 93(2)"
 
+related_recitals:
+  - "Recital 98"
+  - "Recital 99"
+
 # === Search Metadata ===
 keywords:
+  - "codes"
+  - "conduct"
+  - "controller"
+  - "pseudonymisation"
+  - "codes of conduct"
+  - "security"
+  - "processor"
+  - "safeguards"
   - "processing"
   - "controller"
   - "processor"

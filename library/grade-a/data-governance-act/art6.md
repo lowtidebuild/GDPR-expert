@@ -10,7 +10,7 @@ chapter_title: "Categories of data"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_6/oj/eng"
 effective_date: "20220623"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -22,6 +22,13 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "fees"
+  - "provider"
+  - "consent"
+  - "public sector"
+  - "data subject"
+  - "anonymisation"
+  - "personal data"
 ---
 
 ## Article 6 — Fees

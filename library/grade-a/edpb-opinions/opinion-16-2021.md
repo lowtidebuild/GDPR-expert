@@ -5,7 +5,7 @@ slug: "opinion-16-2021"
 title_en: "Opinion on the draft decision of the Belgian Supervisory Authority regarding the EU Cloud Code of Conduct submitted by SCOPE Europe"
 document_number: "Opinion 16/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-05-19"
 source_url: "https://www.edpb.europa.eu/system/files/2021-05/edpb_opinion_202116_eucloudcode_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "draft"
+  - "decision"
+  - "belgian"
+  - "supervisory"
+  - "authority"
+  - "regarding"
+  - "cloud"
   - "code of conduct"
   - "cloud services"
   - "SCOPE Europe"

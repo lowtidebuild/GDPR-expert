@@ -13,6 +13,7 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 related_articles:
   - "Art. 2"
+  - "Art. 30"
 ---
 
 ## Recital 13

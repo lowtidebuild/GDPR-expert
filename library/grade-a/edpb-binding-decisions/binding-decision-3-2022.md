@@ -5,7 +5,7 @@ slug: "binding-decision-3-2022"
 title_en: "Binding Decision 3/2022"
 decision_number: "Binding Decision 3/2022"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2022-12-05"
 source_url: "https://www.edpb.europa.eu/system/files/2023-01/edpb_bindingdecision_202203_ie_sa_meta_facebookservice_redacted_en.pdf"
@@ -25,6 +25,13 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "binding"
+  - "decision"
+  - "transparency"
+  - "personal data"
+  - "meta"
+  - "processing"
+  - "advertising"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 39"
 
+related_recitals:
+  - "Recital 97"
+
 # === Search Metadata ===
 keywords:
+  - "position"
+  - "data"
+  - "protection"
+  - "officer"
+  - "controller"
+  - "data protection"
+  - "data protection officer"
+  - "processor"
   - "processing"
   - "controller"
   - "processor"

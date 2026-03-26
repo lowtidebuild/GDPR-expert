@@ -6,7 +6,7 @@ article: 81
 article_sub: 0
 article_title: "Suspension of proceedings"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -18,8 +18,18 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 144"
+
 # === Search Metadata ===
 keywords:
+  - "suspension"
+  - "proceedings"
+  - "controller"
+  - "processor"
+  - "court"
+  - "pending"
+  - "first"
   - "processing"
   - "controller"
   - "processor"

@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-amazon-france-32m-employee-monitoring"
 slug: "cnil-amazon-france-32m-employee-monitoring"
 title_en: "CNIL v Amazon France Logistique — EUR 32 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Amazon France Logistique SAS"
 fine_amount: "EUR 32,000,000"
@@ -24,6 +24,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "amazon"
+  - "france"
+  - "logistique"
+  - "eur"
+  - "million"
+  - "fine"
+  - "decision"
   - "employee monitoring"
   - "warehouse surveillance"
   - "scanner data"

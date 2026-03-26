@@ -4,7 +4,7 @@ source_id: "b-decision-dpc-whatsapp-225m-transparency"
 slug: "dpc-whatsapp-225m-transparency"
 title_en: "DPC v WhatsApp — EUR 225 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "DPC (Ireland)"
 target_entity: "WhatsApp Ireland Limited"
 fine_amount: "EUR 225,000,000"
@@ -23,6 +23,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "dpc"
+  - "whatsapp"
+  - "eur"
+  - "million"
+  - "privacy"
+  - "ireland"
+  - "fine"
+  - "dispute"
   - "transparency"
   - "privacy policy"
   - "non-users"

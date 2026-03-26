@@ -20,8 +20,20 @@ cross_references:
   - "Art. 22(1)"
   - "Art. 46"
 
+related_recitals:
+  - "Recital 63"
+  - "Recital 64"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "access"
+  - "data"
+  - "subject"
+  - "right of access"
+  - "controller"
+  - "profiling"
+  - "safeguards"
   - "processing"
   - "controller"
   - "data subject"

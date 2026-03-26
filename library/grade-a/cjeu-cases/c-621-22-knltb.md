@@ -1,20 +1,39 @@
 ---
-source_id: b-precedent-c-621-22-knltb
-slug: c-621-22-knltb
+# === Identification ===
+source_id: "a-precedent-c-621-22-knltb"
+slug: "c-621-22-knltb"
 title_en: "Koninklijke Nederlandse Lawn Tennisbond (KNLTB - Legitimate Interest)"
 case_number: "C-621/22"
 ecli: "ECLI:EU:C:2024:857"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2024-10-04
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2024-10-04"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 6(1)(f)]
-keywords: [legitimate interest, commercial interest, direct marketing, balancing test, necessity, proportionality]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 6(1)(f)"
+
+# === Search Metadata ===
+keywords:
+  - "koninklijke"
+  - "nederlandse"
+  - "lawn"
+  - "tennisbond"
+  - "knltb"
+  - "legitimate"
+  - "interest"
+  - "controller"
+  - "legitimate interest"
+  - "commercial interest"
+  - "direct marketing"
+  - "balancing test"
+  - "necessity"
+  - "proportionality"
 ---
 
 # CJEU C-621/22: KNLTB (Commercial Legitimate Interest)

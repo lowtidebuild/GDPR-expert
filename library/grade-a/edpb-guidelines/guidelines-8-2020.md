@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "targeting"
+  - "social"
+  - "media"
+  - "users"
+  - "transparency"
+  - "right of access"
+  - "controller"
   - "social media"
   - "targeting"
   - "advertising"

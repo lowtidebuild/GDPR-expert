@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-01-2022"
+source_id: "a-statement-statement-01-2022"
 slug: "statement-01-2022"
 title_en: "Statement on the announcement of an agreement in principle on a new Trans-Atlantic Data Privacy Framework"
 document_number: "Statement 01/2022"
@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "announcement"
+  - "agreement"
+  - "principle"
+  - "new"
+  - "trans-atlantic"
+  - "data"
+  - "privacy"
   - "Trans-Atlantic"
   - "Data Privacy Framework"
   - "US"

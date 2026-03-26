@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "concepts"
+  - "controller"
+  - "processor"
+  - "gdpr"
+  - "standard contractual clauses"
+  - "transparency"
+  - "health data"
   - "controller"
   - "processor"
   - "joint controllers"

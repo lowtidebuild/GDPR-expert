@@ -4,7 +4,7 @@ source_id: "b-decision-garante-openai-15m-chatgpt-ai"
 slug: "garante-openai-15m-chatgpt-ai"
 title_en: "Garante v OpenAI (ChatGPT) — EUR 15 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "Garante per la protezione dei dati personali (Italy)"
 target_entity: "OpenAI OpCo, LLC"
 fine_amount: "EUR 15,000,000"
@@ -25,6 +25,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "garante"
+  - "openai"
+  - "chatgpt"
+  - "eur"
+  - "million"
+  - "transparency"
+  - "data breach"
+  - "personal data"
   - "AI"
   - "generative AI"
   - "ChatGPT"

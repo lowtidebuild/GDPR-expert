@@ -31,8 +31,20 @@ cross_references:
   - "Art. 47"
   - "Art. 83"
 
+related_recitals:
+  - "Recital 122"
+  - "Recital 129"
+  - "Recital 131"
+
 # === Search Metadata ===
 keywords:
+  - "powers"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
+  - "judicial remedy"
+  - "processor"
+  - "safeguards"
   - "controller"
   - "processor"
   - "supervisory authority"

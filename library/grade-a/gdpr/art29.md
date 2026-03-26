@@ -18,8 +18,15 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "authority"
+  - "controller"
+  - "processor"
+  - "personal data"
   - "processing"
   - "controller"
   - "processor"

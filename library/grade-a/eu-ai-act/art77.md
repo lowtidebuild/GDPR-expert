@@ -10,7 +10,7 @@ chapter_title: "Post-market monitoring by providers and post-market monitoring p
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_77/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_77/oj/eng"
 effective_date: "20240801"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -21,6 +21,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "powers"
+  - "authorities"
+  - "protecting"
+  - "fundamental"
+  - "rights"
+  - "fundamental rights"
+  - "ai system"
+  - "high-risk"
 ---
 
 ## Article 77 — Powers of authorities protecting fundamental rights

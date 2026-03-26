@@ -19,8 +19,18 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 58(1)"
 
+related_recitals:
+  - "Recital 164"
+
 # === Search Metadata ===
 keywords:
+  - "obligations"
+  - "secrecy"
+  - "controller"
+  - "processor"
+  - "personal data"
+  - "rules"
+  - "obligation"
   - "controller"
   - "processor"
   - "personal data"

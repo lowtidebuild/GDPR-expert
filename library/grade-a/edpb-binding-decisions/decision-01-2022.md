@@ -5,7 +5,7 @@ slug: "decision-01-2022"
 title_en: "Decision 01/2022"
 decision_number: "Decision 01/2022"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2022-06-15"
 source_url: "https://www.edpb.europa.eu/our-work-tools/our-documents/binding-decision-board-art-65/decision-012022-dispute-arisen-draft_en"
@@ -22,6 +22,12 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "decision"
+  - "right of access"
+  - "direct marketing"
+  - "fines"
+  - "turnover"
+  - "calculation"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

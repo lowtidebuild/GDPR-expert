@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "articles"
+  - "transfers"
+  - "personal"
+  - "data"
+  - "eea"
+  - "non-eea"
+  - "public"
   - "international transfers"
   - "public authorities"
   - "administrative arrangements"

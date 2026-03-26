@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "certification"
+  - "identifying"
+  - "criteria"
+  - "articles"
+  - "transparency"
+  - "health data"
+  - "controller"
   - "certification"
   - "certification criteria"
   - "accreditation"

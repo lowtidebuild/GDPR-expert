@@ -5,7 +5,7 @@ slug: "opinion-06-2025"
 title_en: "Opinion regarding the extension of the European Commission Implementing Decisions under the GDPR and the LED on the adequate protection of personal data in the United Kingdom"
 document_number: "Opinion 06/2025"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2025-05-06"
 source_url: "https://www.edpb.europa.eu/system/files/2025-05/edpb-opinion-202506-uk-adequacyextension-gdpr-led_en.pdf"
@@ -19,6 +19,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "extension"
+  - "implementing"
+  - "decisions"
+  - "gdpr"
+  - "led"
+  - "adequate"
   - "adequacy"
   - "United Kingdom"
   - "extension"

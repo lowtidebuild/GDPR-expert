@@ -5,7 +5,7 @@ slug: "opinion-26-2025"
 title_en: "Opinion regarding the European Commission Draft Implementing Decision on the adequate protection of personal data in the United Kingdom (GDPR) - Renewal"
 document_number: "Opinion 26/2025"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2025-10-07"
 source_url: "https://www.edpb.europa.eu/system/files/2025-10/edpb_opinion_202526_united_kingdom_adequacy_gdpr_en.pdf"
@@ -19,6 +19,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "draft"
+  - "implementing"
+  - "decision"
+  - "adequate"
+  - "protection"
+  - "personal"
   - "adequacy"
   - "United Kingdom"
   - "renewal"

@@ -4,7 +4,7 @@ source_id: "b-decision-garante-wind-tre-17m-telemarketing"
 slug: "garante-wind-tre-17m-telemarketing"
 title_en: "Garante v Wind Tre — EUR 16.7 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "Garante per la protezione dei dati personali (Italy)"
 target_entity: "Wind Tre S.p.A."
 fine_amount: "EUR 16,729,600"
@@ -25,6 +25,13 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "garante"
+  - "wind"
+  - "tre"
+  - "eur"
+  - "million"
+  - "consent"
+  - "calls"
   - "telemarketing"
   - "unsolicited communications"
   - "consent"

@@ -1,20 +1,39 @@
 ---
-source_id: b-decision-dpc-meta-facebook-390m-legal-basis
-slug: dpc-meta-facebook-390m-legal-basis
-title_en: "DPC Ireland v Meta (Facebook) - EUR 390 Million"
+# === Identification ===
+source_id: "b-decision-dpc-meta-facebook-390m-legal-basis"
+slug: "dpc-meta-facebook-390m-legal-basis"
+title_en: "DPC Ireland v Meta (Facebook) — EUR 390 Million"
 document_type: decision
-source_grade: A
-publisher: DPC (Ireland)
+source_grade: "B"
+publisher: "DPC (Ireland)"
 target_entity: "Meta Platforms Ireland Ltd (Facebook)"
-fine_amount: "390,000,000"
-published_date: 2023-01-04
-source_url: https://gdprhub.eu
-original_format: html
+fine_amount: "EUR 390,000,000"
+decision_date: "2023-01-04"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-violated_articles: [Art. 6(1)(b), Art. 5(1)(a)]
-keywords: [contractual necessity, behavioral advertising, transparency, personalized ads, EDPB binding decision]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Violated Articles ===
+violated_articles:
+  - "Art. 6(1)(b)"
+  - "Art. 5(1)(a)"
+
+# === Search Metadata ===
+keywords:
+  - "dpc"
+  - "ireland"
+  - "meta"
+  - "facebook"
+  - "eur"
+  - "million"
+  - "transparency"
+  - "data protection"
+  - "contractual necessity"
+  - "behavioral advertising"
+  - "transparency"
+  - "personalized ads"
+  - "EDPB binding decision"
 ---
 
 # DPC Ireland v Meta (Facebook) - EUR 390 Million Fine

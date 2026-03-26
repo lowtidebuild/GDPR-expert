@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "certification"
+  - "tool"
+  - "transfers"
+  - "transparency"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
   - "certification"
   - "transfers"
   - "safeguards"

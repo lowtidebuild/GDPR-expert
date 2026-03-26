@@ -24,8 +24,17 @@ cross_references:
   - "Art. 58(3)"
   - "Art. 63"
 
+related_recitals:
+  - "Recital 100"
+
 # === Search Metadata ===
 keywords:
+  - "certification"
+  - "controller"
+  - "data protection"
+  - "processor"
+  - "safeguards"
+  - "supervisory authority"
   - "processing"
   - "controller"
   - "processor"

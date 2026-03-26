@@ -4,7 +4,7 @@ source_id: "b-decision-garante-tim-28m-telemarketing"
 slug: "garante-tim-28m-telemarketing"
 title_en: "Garante v TIM — EUR 27.8 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "Garante per la protezione dei dati personali (Italy)"
 target_entity: "TIM S.p.A. (Telecom Italia)"
 fine_amount: "EUR 27,802,946"
@@ -29,6 +29,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "garante"
+  - "tim"
+  - "eur"
+  - "million"
+  - "data protection"
+  - "consent"
+  - "decision"
+  - "telemarketing"
   - "telemarketing"
   - "unsolicited communications"
   - "consent"

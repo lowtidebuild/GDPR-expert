@@ -10,7 +10,7 @@ chapter_title: "Post-market monitoring by providers and post-market monitoring p
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_72/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_72/oj/eng"
 effective_date: "20240801"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -21,6 +21,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "post-market"
+  - "monitoring"
+  - "providers"
+  - "plan"
+  - "high-risk"
+  - "systems"
+  - "provider"
+  - "ai system"
 ---
 
 ## Article 72 — Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems

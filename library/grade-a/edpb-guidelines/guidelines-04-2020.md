@@ -27,6 +27,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "use"
+  - "location"
+  - "data"
+  - "contact"
+  - "tracing"
+  - "tools"
+  - "context"
   - "location data"
   - "contact tracing"
   - "COVID-19"

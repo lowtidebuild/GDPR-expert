@@ -6,7 +6,7 @@ article: 82
 article_sub: 0
 article_title: "Right to compensation and liability"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 79(2)"
 
+related_recitals:
+  - "Recital 146"
+  - "Recital 147"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "compensation"
+  - "liability"
+  - "controller"
+  - "processor"
+  - "data subject"
+  - "damage"
   - "processing"
   - "controller"
   - "processor"

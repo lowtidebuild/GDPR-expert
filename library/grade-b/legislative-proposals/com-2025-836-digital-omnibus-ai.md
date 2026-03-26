@@ -30,6 +30,14 @@ key_changes:
 
 # === Search Metadata ===
 keywords:
+  - "digital"
+  - "omnibus"
+  - "proposal"
+  - "amending"
+  - "act"
+  - "easa"
+  - "transparency"
+  - "adequacy"
   - "AI Act"
   - "omnibus"
   - "simplification"

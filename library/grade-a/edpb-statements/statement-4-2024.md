@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-4-2024"
+source_id: "a-statement-statement-4-2024"
 slug: "statement-4-2024"
 title_en: "Statement on recent legislative developments on the Draft Regulation laying down additional procedural rules for the enforcement of the GDPR"
 document_number: "Statement 4/2024"
@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "recent"
+  - "legislative"
+  - "developments"
+  - "draft"
+  - "laying"
+  - "additional"
+  - "procedural"
   - "procedural rules"
   - "enforcement"
   - "regulation"

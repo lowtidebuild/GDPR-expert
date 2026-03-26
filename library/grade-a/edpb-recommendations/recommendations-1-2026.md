@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "application"
+  - "approval"
+  - "elements"
+  - "principles"
+  - "found"
+  - "processor"
+  - "binding"
   - "BCR"
   - "binding corporate rules"
   - "processor"

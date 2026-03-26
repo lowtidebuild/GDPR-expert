@@ -33,8 +33,22 @@ cross_references:
   - "Art. 58(2)"
   - "Art. 80"
 
+related_recitals:
+  - "Recital 122"
+  - "Recital 123"
+  - "Recital 132"
+  - "Recital 133"
+  - "Recital 137"
+
 # === Search Metadata ===
 keywords:
+  - "tasks"
+  - "standard contractual clauses"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
+  - "data protection officer"
+  - "processor"
   - "processing"
   - "supervisory authority"
   - "safeguard"

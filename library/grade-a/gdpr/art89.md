@@ -18,8 +18,26 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 156"
+  - "Recital 157"
+  - "Recital 158"
+  - "Recital 159"
+  - "Recital 160"
+  - "Recital 161"
+  - "Recital 162"
+  - "Recital 163"
+
 # === Search Metadata ===
 keywords:
+  - "safeguards"
+  - "derogations"
+  - "relating"
+  - "processing"
+  - "archiving"
+  - "purposes"
+  - "public"
+  - "interest"
   - "processing"
   - "data subject"
   - "public interest"

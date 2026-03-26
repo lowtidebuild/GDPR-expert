@@ -10,7 +10,7 @@ chapter_title: "Post-market monitoring by providers and post-market monitoring p
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_73/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_73/oj/eng"
 effective_date: "20240801"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -25,6 +25,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "reporting"
+  - "serious"
+  - "incidents"
+  - "provider"
+  - "ai system"
+  - "high-risk"
+  - "notification"
+  - "deployer"
 ---
 
 ## Article 73 — Reporting of serious incidents

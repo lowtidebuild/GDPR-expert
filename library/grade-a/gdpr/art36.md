@@ -20,8 +20,21 @@ cross_references:
   - "Art. 35"
   - "Art. 58"
 
+related_recitals:
+  - "Recital 94"
+  - "Recital 95"
+  - "Recital 96"
+
 # === Search Metadata ===
 keywords:
+  - "prior"
+  - "consultation"
+  - "controller"
+  - "data protection"
+  - "data protection officer"
+  - "processor"
+  - "safeguards"
+  - "impact assessment"
   - "processing"
   - "controller"
   - "supervisory authority"

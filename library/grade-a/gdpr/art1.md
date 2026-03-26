@@ -18,8 +18,30 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 1"
+  - "Recital 2"
+  - "Recital 3"
+  - "Recital 4"
+  - "Recital 5"
+  - "Recital 6"
+  - "Recital 7"
+  - "Recital 8"
+  - "Recital 9"
+  - "Recital 10"
+  - "Recital 11"
+  - "Recital 12"
+
 # === Search Metadata ===
 keywords:
+  - "subject-matter"
+  - "objectives"
+  - "fundamental rights"
+  - "personal data"
+  - "protection"
+  - "natural"
+  - "persons"
+  - "rules"
   - "processing"
   - "personal data"
 ---

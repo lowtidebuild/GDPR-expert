@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "personal"
+  - "data"
+  - "video"
+  - "devices"
+  - "transparency"
+  - "controller"
   - "video surveillance"
   - "CCTV"
   - "biometric data"

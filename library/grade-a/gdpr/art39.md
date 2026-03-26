@@ -20,8 +20,19 @@ cross_references:
   - "Art. 35"
   - "Art. 36"
 
+related_recitals:
+  - "Recital 97"
+
 # === Search Metadata ===
 keywords:
+  - "tasks"
+  - "data"
+  - "protection"
+  - "officer"
+  - "controller"
+  - "data protection"
+  - "data protection officer"
+  - "processor"
   - "processing"
   - "controller"
   - "processor"

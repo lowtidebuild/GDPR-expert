@@ -12,7 +12,9 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
-  - "Art. 47"
+  - "Art. 77"
+  - "Art. 78"
+  - "Art. 79"
 ---
 
 ## Recital 141

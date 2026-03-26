@@ -1,20 +1,41 @@
 ---
-source_id: b-precedent-c-136-17-gc-v-cnil
-slug: c-136-17-gc-v-cnil
+# === Identification ===
+source_id: "a-precedent-c-136-17-gc-v-cnil"
+slug: "c-136-17-gc-v-cnil"
 title_en: "GC and Others v CNIL (De-referencing Sensitive Data)"
 case_number: "C-136/17"
 ecli: "ECLI:EU:C:2019:773"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2019-09-24
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2019-09-24"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 9(1), Art. 10, Art. 17]
-keywords: [de-referencing, sensitive data, search engine, right to erasure, balancing test, criminal data]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 9(1)"
+  - "Art. 10"
+  - "Art. 17"
+
+# === Search Metadata ===
+keywords:
+  - "others"
+  - "cnil"
+  - "de-referencing"
+  - "sensitive"
+  - "data"
+  - "controller"
+  - "personal data"
+  - "search"
+  - "de-referencing"
+  - "sensitive data"
+  - "search engine"
+  - "right to erasure"
+  - "balancing test"
+  - "criminal data"
 ---
 
 # CJEU C-136/17: GC and Others (De-referencing of Sensitive Data)

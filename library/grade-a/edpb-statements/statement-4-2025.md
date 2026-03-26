@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-4-2025"
+source_id: "a-statement-statement-4-2025"
 slug: "statement-4-2025"
 title_en: "Statement on European Commission's Recommendation on draft non-binding model contractual terms on data sharing under the Data Act"
 document_number: "Statement 4/2025"
@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "commission's"
+  - "recommendation"
+  - "draft"
+  - "non-binding"
+  - "model"
+  - "contractual"
+  - "terms"
   - "Data Act"
   - "model contractual terms"
   - "data sharing"

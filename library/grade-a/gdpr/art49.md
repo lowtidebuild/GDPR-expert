@@ -22,8 +22,23 @@ cross_references:
   - "Art. 45(3)"
   - "Art. 46"
 
+related_recitals:
+  - "Recital 111"
+  - "Recital 112"
+  - "Recital 113"
+  - "Recital 114"
+  - "Recital 115"
+
 # === Search Metadata ===
 keywords:
+  - "derogations"
+  - "specific"
+  - "situations"
+  - "adequacy"
+  - "controller"
+  - "processor"
+  - "safeguards"
+  - "consent"
   - "consent"
   - "data subject"
   - "personal data"

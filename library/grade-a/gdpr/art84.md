@@ -6,7 +6,7 @@ article: 84
 article_sub: 0
 article_title: "Penalties"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -19,8 +19,17 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 83"
 
+related_recitals:
+  - "Recital 149"
+  - "Recital 150"
+  - "Recital 151"
+  - "Recital 152"
+
 # === Search Metadata ===
 keywords:
+  - "penalties"
+  - "fines"
+  - "infringements"
   - "fine"
 ---
 

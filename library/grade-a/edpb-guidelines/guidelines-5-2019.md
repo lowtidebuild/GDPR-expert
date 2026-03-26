@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "criteria"
+  - "right"
+  - "forgotten"
+  - "search"
+  - "engine"
+  - "cases"
+  - "gdpr"
   - "right to be forgotten"
   - "right to erasure"
   - "search engines"

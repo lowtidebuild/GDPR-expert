@@ -4,7 +4,7 @@ source_id: "b-decision-cjeu-schufa-art22-automated-scoring"
 slug: "cjeu-schufa-art22-automated-scoring"
 title_en: "CJEU — SCHUFA Credit Scoring (Art. 22 Ruling)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CJEU (Preliminary ruling; referred by German courts)"
 target_entity: "SCHUFA Holding AG"
 fine_amount: "No fine (CJEU preliminary ruling)"
@@ -20,6 +20,13 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cjeu"
+  - "schufa"
+  - "credit"
+  - "scoring"
+  - "art"
+  - "ruling"
+  - "restriction"
   - "automated decision-making"
   - "credit scoring"
   - "profiling"

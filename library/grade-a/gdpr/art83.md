@@ -6,7 +6,7 @@ article: 83
 article_sub: 0
 article_title: "General conditions for imposing administrative fines"
 chapter: "VIII"
-chapter_title: "Right to lodge a complaint with a supervisory authority"
+chapter_title: "Remedies, liability and penalties"
 
 # === Source ===
 source_grade: "A"
@@ -23,8 +23,23 @@ cross_references:
   - "Art. 58(1)"
   - "Art. 58(2)"
 
+related_recitals:
+  - "Recital 148"
+  - "Recital 149"
+  - "Recital 150"
+  - "Recital 151"
+  - "Recital 152"
+
 # === Search Metadata ===
 keywords:
+  - "general"
+  - "conditions"
+  - "imposing"
+  - "administrative"
+  - "fines"
+  - "controller"
+  - "codes of conduct"
+  - "judicial remedy"
   - "supervisory authority"
   - "fine"
 ---

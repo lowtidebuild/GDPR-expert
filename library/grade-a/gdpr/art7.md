@@ -18,8 +18,21 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 32"
+  - "Recital 33"
+  - "Recital 42"
+  - "Recital 43"
+
 # === Search Metadata ===
 keywords:
+  - "conditions"
+  - "consent"
+  - "controller"
+  - "data subject"
+  - "personal data"
+  - "processing"
+  - "based"
   - "consent"
   - "processing"
   - "controller"

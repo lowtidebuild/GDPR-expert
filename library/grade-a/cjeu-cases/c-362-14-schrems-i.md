@@ -1,20 +1,39 @@
 ---
-source_id: b-precedent-c-362-14-schrems-i
-slug: c-362-14-schrems-i
+# === Identification ===
+source_id: "a-precedent-c-362-14-schrems-i"
+slug: "c-362-14-schrems-i"
 title_en: "Schrems v Data Protection Commissioner (Schrems I)"
 case_number: "C-362/14"
 ecli: "ECLI:EU:C:2015:650"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2015-10-06
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2015-10-06"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 45, Art. 46]
-keywords: [Safe Harbor, adequacy decision, international transfers, surveillance, DPA powers]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "landmark"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 45"
+  - "Art. 46"
+
+# === Search Metadata ===
+keywords:
+  - "schrems"
+  - "data"
+  - "protection"
+  - "commissioner"
+  - "adequacy"
+  - "data protection"
+  - "fundamental rights"
+  - "security"
+  - "Safe Harbor"
+  - "adequacy decision"
+  - "international transfers"
+  - "surveillance"
+  - "DPA powers"
 ---
 
 # CJEU C-362/14: Schrems I

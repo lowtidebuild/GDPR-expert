@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 116"
+
 # === Search Metadata ===
 keywords:
+  - "international"
+  - "cooperation"
+  - "protection"
+  - "personal"
+  - "data"
+  - "data protection"
+  - "fundamental rights"
+  - "safeguards"
   - "personal data"
   - "notification"
   - "information"

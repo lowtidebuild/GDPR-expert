@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "calculation"
+  - "administrative"
+  - "fines"
+  - "gdpr"
+  - "transparency"
+  - "right of access"
+  - "health data"
   - "fines"
   - "administrative fines"
   - "calculation"

@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "use"
+  - "facial"
+  - "recognition"
+  - "technology"
+  - "area"
+  - "law"
+  - "enforcement"
   - "facial recognition"
   - "biometric data"
   - "law enforcement"

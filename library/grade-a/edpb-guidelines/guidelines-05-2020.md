@@ -28,6 +28,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "consent"
+  - "transparency"
+  - "health data"
+  - "electronic communications"
+  - "adequacy"
+  - "controller"
+  - "data protection"
   - "consent"
   - "valid consent"
   - "freely given"

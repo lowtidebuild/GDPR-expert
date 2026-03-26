@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-orange-50m-email-ads-cookies"
 slug: "cnil-orange-50m-email-ads-cookies"
 title_en: "CNIL v Orange — EUR 50 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Orange SA"
 fine_amount: "EUR 50,000,000"
@@ -21,6 +21,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "orange"
+  - "eur"
+  - "million"
+  - "electronic communications"
+  - "data protection"
+  - "cookie"
+  - "direct marketing"
   - "email advertising"
   - "cookies"
   - "consent withdrawal"

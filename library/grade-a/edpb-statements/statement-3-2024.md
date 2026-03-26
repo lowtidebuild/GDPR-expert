@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-3-2024"
+source_id: "a-statement-statement-3-2024"
 slug: "statement-3-2024"
 title_en: "Statement on data protection authorities' role in the Artificial Intelligence Act framework"
 document_number: "Statement 3/2024"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "data"
+  - "protection"
+  - "authorities'"
+  - "role"
+  - "artificial"
+  - "intelligence"
+  - "act"
   - "AI Act"
   - "artificial intelligence"
   - "DPA role"

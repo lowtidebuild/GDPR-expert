@@ -20,8 +20,16 @@ cross_references:
   - "Art. 64"
   - "Art. 93(2)"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "exchange"
+  - "information"
+  - "implementing"
+  - "acts"
+  - "supervisory"
+  - "authorities"
   - "information"
 ---
 

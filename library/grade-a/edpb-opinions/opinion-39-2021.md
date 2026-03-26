@@ -5,7 +5,7 @@ slug: "opinion-39-2021"
 title_en: "Opinion on whether Article 58(2)(g) GDPR could serve as a legal basis for a supervisory authority to order ex officio the erasure of personal data"
 document_number: "Opinion 39/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-12-14"
 source_url: "https://www.edpb.europa.eu/system/files/2022-01/edpb_opinion_202139_article_582g_gdpr_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "gdpr"
+  - "serve"
+  - "legal"
+  - "basis"
+  - "supervisory"
+  - "authority"
+  - "order"
   - "corrective powers"
   - "erasure"
   - "ex officio"

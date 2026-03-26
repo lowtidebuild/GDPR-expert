@@ -25,8 +25,17 @@ cross_references:
   - "Art. 92"
   - "Art. 93(2)"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "certification"
+  - "bodies"
+  - "controller"
+  - "data protection"
+  - "processor"
+  - "supervisory authority"
+  - "data subject"
   - "supervisory authority"
   - "certification"
 ---

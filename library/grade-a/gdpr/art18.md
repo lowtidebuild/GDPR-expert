@@ -19,8 +19,18 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 21(1)"
 
+related_recitals:
+  - "Recital 67"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "restriction"
+  - "processing"
+  - "controller"
+  - "consent"
+  - "data subject"
+  - "personal data"
   - "lawful"
   - "processing"
   - "controller"

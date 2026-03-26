@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-google-50m-transparency-consent-2019"
 slug: "cnil-google-50m-transparency-consent-2019"
 title_en: "CNIL v Google — EUR 50 Million (Transparency 2019)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Google LLC"
 fine_amount: "EUR 50,000,000"
@@ -22,6 +22,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "google"
+  - "eur"
+  - "million"
+  - "transparency"
+  - "consent"
+  - "fine"
+  - "decision"
   - "transparency"
   - "consent"
   - "advertising personalization"

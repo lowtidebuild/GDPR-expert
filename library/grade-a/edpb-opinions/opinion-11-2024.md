@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "use"
+  - "facial"
+  - "recognition"
+  - "streamline"
+  - "airport"
+  - "passengers'"
+  - "flow"
   - "facial recognition"
   - "biometric data"
   - "airports"

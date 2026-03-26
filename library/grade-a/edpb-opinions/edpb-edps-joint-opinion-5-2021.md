@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-5-2021"
 title_en: "Joint Opinion on the proposal for a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)"
 document_number: "EDPB-EDPS Joint Opinion 5/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-06-18"
 source_url: "https://www.edpb.europa.eu/system/files/2021-06/edpb-edps_joint_opinion_ai_regulation_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "laying"
+  - "harmonised"
+  - "rules"
+  - "artificial"
+  - "intelligence"
   - "AI Act"
   - "artificial intelligence"
   - "biometric identification"

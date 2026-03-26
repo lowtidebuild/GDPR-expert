@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 6(1)"
 
+related_recitals:
+  - "Recital 50"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "personal"
+  - "data"
+  - "relating"
+  - "criminal"
+  - "convictions"
+  - "offences"
+  - "security"
   - "processing"
   - "data subject"
   - "personal data"

@@ -18,8 +18,18 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 57"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "require"
+  - "identification"
+  - "controller"
+  - "data subject"
+  - "personal data"
+  - "identify"
   - "processing"
   - "controller"
   - "data subject"

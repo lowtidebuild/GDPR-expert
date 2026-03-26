@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-helsinki-statement-2025"
+source_id: "a-statement-helsinki-statement-2025"
 slug: "helsinki-statement-2025"
 title_en: "The Helsinki Statement - Enhanced clarity, support and engagement"
 document_number: "Helsinki Statement 2025"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "helsinki"
+  - "statement"
+  - "enhanced"
+  - "clarity"
+  - "support"
+  - "engagement"
+  - "data protection"
+  - "fundamental rights"
   - "Helsinki Statement"
   - "EDPB strategy"
   - "engagement"

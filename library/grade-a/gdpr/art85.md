@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 153"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "freedom"
+  - "expression"
+  - "information"
+  - "controller"
+  - "processor"
+  - "data subject"
+  - "transfer"
   - "processing"
   - "personal data"
   - "information"

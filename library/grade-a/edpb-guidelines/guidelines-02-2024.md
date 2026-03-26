@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "gdpr"
+  - "adequacy"
+  - "controller"
+  - "data protection"
+  - "fundamental rights"
+  - "security"
+  - "processor"
   - "international transfers"
   - "judgments"
   - "third country authorities"

@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "certain"
+  - "obligations"
+  - "following"
+  - "reliance"
+  - "processor"
+  - "sub-processor"
+  - "standard contractual clauses"
   - "processor"
   - "sub-processor"
   - "controller obligations"

@@ -4,7 +4,7 @@ source_id: "b-decision-aepd-caixabank-6m-consent-transparency"
 slug: "aepd-caixabank-6m-consent-transparency"
 title_en: "AEPD v CaixaBank — EUR 6 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "AEPD (Spain)"
 target_entity: "CaixaBank S.A."
 fine_amount: "EUR 6,000,000"
@@ -22,6 +22,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "aepd"
+  - "caixabank"
+  - "eur"
+  - "million"
+  - "legitimate interest"
+  - "data subject"
+  - "personal data"
+  - "fine"
   - "banking"
   - "consent"
   - "legitimate interest"

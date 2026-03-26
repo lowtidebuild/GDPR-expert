@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-1-2026"
 title_en: "Joint Opinion on the Proposal for a Regulation as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)"
 document_number: "EDPB-EDPS Joint Opinion 1/2026"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2026-01-21"
 source_url: "https://www.edpb.europa.eu/system/files/2026-01/edpb_edps_jointopinion_202601_proposal_ai-omnibus_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "regards"
+  - "simplification"
+  - "implementation"
+  - "harmonised"
+  - "rules"
   - "AI Act"
   - "Digital Omnibus"
   - "AI simplification"

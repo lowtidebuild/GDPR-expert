@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-6-2024"
+source_id: "a-statement-statement-6-2024"
 slug: "statement-6-2024"
 title_en: "Statement on the Second Report on the Application of the GDPR"
 document_number: "Statement 6/2024"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "second"
+  - "report"
+  - "application"
+  - "gdpr"
+  - "transparency"
+  - "data protection"
+  - "fundamental rights"
   - "GDPR evaluation"
   - "application report"
   - "cross-regulatory"

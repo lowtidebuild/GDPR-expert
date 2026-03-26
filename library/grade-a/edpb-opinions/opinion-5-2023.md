@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "draft"
+  - "implementing"
+  - "decision"
+  - "adequate"
+  - "protection"
+  - "personal"
+  - "data"
   - "EU-US Data Privacy Framework"
   - "adequacy"
   - "Schrems II"

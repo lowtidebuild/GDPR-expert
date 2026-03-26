@@ -20,8 +20,14 @@ cross_references:
   - "Art. 63"
   - "Art. 65"
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "tasks"
+  - "chair"
+  - "supervisory authority"
+  - "board"
   - "supervisory authority"
 ---
 

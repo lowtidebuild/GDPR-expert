@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "examples"
+  - "regarding"
+  - "personal"
+  - "data"
+  - "breach"
+  - "notification"
+  - "health data"
   - "data breach"
   - "notification"
   - "examples"

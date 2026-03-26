@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "accreditation"
+  - "certification"
+  - "bodies"
+  - "gdpr"
+  - "transparency"
+  - "controller"
+  - "data protection"
   - "accreditation"
   - "certification bodies"
 ---

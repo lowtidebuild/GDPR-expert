@@ -18,8 +18,22 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 22"
+  - "Recital 23"
+  - "Recital 24"
+  - "Recital 25"
+
 # === Search Metadata ===
 keywords:
+  - "territorial"
+  - "scope"
+  - "controller"
+  - "processor"
+  - "data subject"
+  - "personal data"
+  - "processing"
+  - "activities"
   - "processing"
   - "controller"
   - "processor"

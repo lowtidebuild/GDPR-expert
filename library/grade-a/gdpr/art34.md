@@ -19,8 +19,21 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 33(3)"
 
+related_recitals:
+  - "Recital 86"
+  - "Recital 87"
+  - "Recital 88"
+
 # === Search Metadata ===
 keywords:
+  - "communication"
+  - "personal"
+  - "data"
+  - "breach"
+  - "subject"
+  - "controller"
+  - "data breach"
+  - "supervisory authority"
   - "controller"
   - "data subject"
   - "personal data"

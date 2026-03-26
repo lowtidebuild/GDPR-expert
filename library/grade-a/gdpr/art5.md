@@ -19,8 +19,20 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 89(1)"
 
+related_recitals:
+  - "Recital 39"
+  - "Recital 74"
+
 # === Search Metadata ===
 keywords:
+  - "principles"
+  - "relating"
+  - "processing"
+  - "personal"
+  - "data"
+  - "transparency"
+  - "controller"
+  - "security"
   - "lawful"
   - "processing"
   - "data subject"

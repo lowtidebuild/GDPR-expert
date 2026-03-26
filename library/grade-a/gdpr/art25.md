@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 42"
 
+related_recitals:
+  - "Recital 78"
+
 # === Search Metadata ===
 keywords:
+  - "data"
+  - "protection"
+  - "design"
+  - "default"
+  - "controller"
+  - "data protection"
+  - "pseudonymisation"
+  - "safeguards"
   - "processing"
   - "controller"
 ---

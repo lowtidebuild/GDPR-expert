@@ -18,8 +18,20 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 117"
+  - "Recital 121"
+
 # === Search Metadata ===
 keywords:
+  - "rules"
+  - "establishment"
+  - "supervisory"
+  - "authority"
+  - "employment"
+  - "supervisory authority"
+  - "appointment"
+  - "members"
   - "supervisory authority"
 ---
 

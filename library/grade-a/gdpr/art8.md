@@ -19,8 +19,19 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 6(1)"
 
+related_recitals:
+  - "Recital 38"
+
 # === Search Metadata ===
 keywords:
+  - "conditions"
+  - "child's"
+  - "consent"
+  - "relation"
+  - "information"
+  - "society"
+  - "services"
+  - "controller"
   - "consent"
   - "lawful"
   - "processing"

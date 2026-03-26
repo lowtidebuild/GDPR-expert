@@ -1,20 +1,39 @@
 ---
-source_id: b-precedent-c-131-12-google-spain
-slug: c-131-12-google-spain
+# === Identification ===
+source_id: "a-precedent-c-131-12-google-spain"
+slug: "c-131-12-google-spain"
 title_en: "Google Spain SL v AEPD and Mario Costeja Gonzalez"
 case_number: "C-131/12"
 ecli: "ECLI:EU:C:2014:317"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2014-05-13
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2014-05-13"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 17, Art. 4(7)]
-keywords: [right to be forgotten, right to erasure, search engine, controller, de-referencing]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "landmark"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 17"
+  - "Art. 4(7)"
+
+# === Search Metadata ===
+keywords:
+  - "google"
+  - "spain"
+  - "aepd"
+  - "mario"
+  - "costeja"
+  - "gonzalez"
+  - "controller"
+  - "data protection"
+  - "right to be forgotten"
+  - "right to erasure"
+  - "search engine"
+  - "controller"
+  - "de-referencing"
 ---
 
 # CJEU C-131/12: Google Spain (Right to Be Forgotten)

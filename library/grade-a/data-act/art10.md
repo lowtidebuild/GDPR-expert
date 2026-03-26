@@ -10,7 +10,7 @@ chapter_title: "Conditions under which data holders make data available to data 
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_10/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2023/2854/art_10/oj/eng"
 effective_date: "20240111"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -22,6 +22,13 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "dispute"
+  - "settlement"
+  - "provider"
+  - "consent"
+  - "data recipient"
+  - "compensation"
+  - "data holder"
 ---
 
 ## Article 10 — Dispute settlement

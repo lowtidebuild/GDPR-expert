@@ -4,7 +4,7 @@ source_id: "b-decision-datatilsynet-grindr-6m-consent-special-categories"
 slug: "datatilsynet-grindr-6m-consent-special-categories"
 title_en: "Datatilsynet v Grindr — EUR 5.7 Million (NOK 65M)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "Datatilsynet (Norway)"
 target_entity: "Grindr LLC"
 fine_amount: "NOK 65,000,000 (approx. EUR 5,700,000)"
@@ -21,6 +21,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "datatilsynet"
+  - "grindr"
+  - "eur"
+  - "million"
+  - "nok"
+  - "privacy"
+  - "consent"
+  - "fine"
   - "special categories"
   - "sexual orientation"
   - "consent"

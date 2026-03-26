@@ -1,20 +1,39 @@
 ---
-source_id: b-precedent-c-300-21-osterreichische-post-damages
-slug: c-300-21-osterreichische-post-damages
+# === Identification ===
+source_id: "a-precedent-c-300-21-osterreichische-post-damages"
+slug: "c-300-21-osterreichische-post-damages"
 title_en: "UI v Osterreichische Post AG (Non-Material Damages)"
 case_number: "C-300/21"
 ecli: "ECLI:EU:C:2023:370"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2023-05-04
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2023-05-04"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 82]
-keywords: [damages, non-material damage, compensation, no threshold, political affinity, inferred data]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 82"
+
+# === Search Metadata ===
+keywords:
+  - "osterreichische"
+  - "post"
+  - "non-material"
+  - "damages"
+  - "consent"
+  - "data subject"
+  - "compensation"
+  - "case"
+  - "damages"
+  - "non-material damage"
+  - "compensation"
+  - "no threshold"
+  - "political affinity"
+  - "inferred data"
 ---
 
 # CJEU C-300/21: Osterreichische Post (Non-Material Damages)

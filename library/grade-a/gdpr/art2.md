@@ -20,8 +20,27 @@ cross_references:
   - "Art. 98"
   - "Directive 2000/31/EC"
 
+related_recitals:
+  - "Recital 13"
+  - "Recital 14"
+  - "Recital 15"
+  - "Recital 16"
+  - "Recital 17"
+  - "Recital 18"
+  - "Recital 19"
+  - "Recital 20"
+  - "Recital 21"
+  - "Recital 27"
+
 # === Search Metadata ===
 keywords:
+  - "material"
+  - "scope"
+  - "penalties"
+  - "provider"
+  - "security"
+  - "liability"
+  - "personal data"
   - "processing"
   - "personal data"
   - "automated"

@@ -25,6 +25,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "data"
+  - "concerning"
+  - "health"
+  - "purpose"
+  - "scientific"
+  - "research"
   - "health data"
   - "scientific research"
   - "COVID-19"

@@ -12,13 +12,16 @@ AI agent for EU data protection law — GDPR, ePrivacy Directive, EU AI Act, Dat
 
 ```
 library/
-  grade-a/                    — Official primary sources (665 files)
-    gdpr/                      99 articles
-    gdpr-recitals/            173 recitals
+  grade-a/                    — Official primary sources (1,027 files)
+    gdpr/                      99 articles (with related_recitals mappings)
+    gdpr-recitals/            173 recitals (with related_articles mappings)
     eprivacy-directive/        21 articles
-    eu-ai-act/                113 articles + recitals
-    data-act/                  50 articles + recitals
-    data-governance-act/       38 articles + recitals
+    eu-ai-act/                113 articles
+    eu-ai-act-recitals/       180 recitals
+    data-act/                  50 articles
+    data-act-recitals/        119 recitals
+    data-governance-act/       38 articles
+    data-governance-act-recitals/ 63 recitals
     edpb-guidelines/           52 guidelines
     edpb-opinions/             31 opinions
     edpb-binding-decisions/    10 Art. 65 binding decisions
@@ -30,7 +33,7 @@ library/
     enforcement-decisions/     35 DPA enforcement decisions
     legislative-proposals/      2 Digital Omnibus Package
   grade-c/                    — Academic/reference
-index/                        — JSON search indexes (5 indexes, 700+ items)
+index/                        — JSON search indexes (7 indexes, 1,062+ items)
 config/                       — Configuration files
 scripts/                      — Data collection/processing scripts
 .claude/agents/               — Agent definitions
@@ -78,8 +81,10 @@ No authentication required.
 
 ## Current Status
 
-- Phase 0-5 complete
-- 702 KB files: 665 Grade A + 37 Grade B
-- 5 legislation (321 articles + 536 recitals), 120 EDPB documents, 51 CJEU cases, 35 enforcement decisions, 2 Digital Omnibus proposals
-- 5 JSON indexes (700+ indexed items)
+- Phase 0-5 complete, Phase 5.5 quality audit complete
+- 1,064 KB files: 1,027 Grade A + 37 Grade B
+- 5 legislation (321 articles + 535 recitals), 120 EDPB documents, 51 CJEU cases, 35 enforcement decisions, 2 Digital Omnibus proposals
+- 7 JSON indexes (1,062+ indexed items)
+- GDPR articles ↔ recitals bidirectional mappings (sourced from gdpr-info.eu)
+- All files have consistent YAML frontmatter schema, keywords, and source grading
 - Phase 6 pending: Agent refinement (ingest skill, legal opinion formatter)

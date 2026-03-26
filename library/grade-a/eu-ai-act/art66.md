@@ -10,7 +10,7 @@ chapter_title: "AI Office"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_66/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2024/1689/art_66/oj/eng"
 effective_date: "20240801"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -27,6 +27,14 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "tasks"
+  - "board"
+  - "fundamental rights"
+  - "codes of conduct"
+  - "security"
+  - "ai system"
+  - "safeguards"
+  - "general-purpose"
 ---
 
 ## Article 66 — Tasks of the Board

@@ -24,8 +24,21 @@ cross_references:
   - "Art. 89(1)"
   - "Art. 9(2)"
 
+related_recitals:
+  - "Recital 60"
+  - "Recital 61"
+  - "Recital 62"
+
 # === Search Metadata ===
 keywords:
+  - "information"
+  - "personal"
+  - "data"
+  - "obtained"
+  - "subject"
+  - "adequacy"
+  - "controller"
+  - "data protection"
   - "processing"
   - "controller"
   - "data subject"

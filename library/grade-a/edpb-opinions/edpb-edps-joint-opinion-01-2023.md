@@ -5,7 +5,7 @@ slug: "edpb-edps-joint-opinion-01-2023"
 title_en: "Joint Opinion on the Proposal for a Regulation laying down additional procedural rules relating to the enforcement of Regulation (EU) 2016/679"
 document_number: "EDPB-EDPS Joint Opinion 01/2023"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2023-09-19"
 source_url: "https://www.edpb.europa.eu/system/files/2023-09/edpb_edps_jointopinion_202301_proceduralrules_ec_en.pdf"
@@ -21,6 +21,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "opinion"
+  - "proposal"
+  - "laying"
+  - "additional"
+  - "procedural"
+  - "rules"
+  - "relating"
   - "procedural rules"
   - "cross-border enforcement"
   - "one-stop-shop"

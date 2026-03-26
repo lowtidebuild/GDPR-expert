@@ -18,8 +18,16 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 65"
+
 # === Search Metadata ===
 keywords:
+  - "right"
+  - "rectification"
+  - "controller"
+  - "data subject"
+  - "personal data"
   - "processing"
   - "controller"
   - "data subject"

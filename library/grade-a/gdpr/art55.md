@@ -20,8 +20,17 @@ cross_references:
   - "Art. 56"
   - "Art. 6(1)"
 
+related_recitals:
+  - "Recital 122"
+
 # === Search Metadata ===
 keywords:
+  - "competence"
+  - "supervisory authority"
+  - "competent"
+  - "processing"
+  - "authorities"
+  - "acting"
   - "processing"
   - "supervisory authority"
 ---

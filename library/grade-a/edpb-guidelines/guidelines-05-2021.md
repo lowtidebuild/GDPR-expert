@@ -29,6 +29,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "interplay"
+  - "provisions"
+  - "international"
+  - "transfers"
+  - "standard contractual clauses"
+  - "transparency"
+  - "adequacy"
   - "territorial scope"
   - "international transfers"
   - "Chapter V"

@@ -5,7 +5,7 @@ slug: "opinion-25-2022"
 title_en: "Opinion regarding the European Privacy Seal (EuroPriSe) certification criteria for the certification of processing operations by processors"
 document_number: "Opinion 25/2022"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2022-09-19"
 source_url: "https://www.edpb.europa.eu/system/files/2022-09/edpb_opinion_2022-25_europrisecertificationcriteria_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "privacy"
+  - "seal"
+  - "europrise"
+  - "certification"
+  - "criteria"
+  - "processing"
   - "certification"
   - "EuroPriSe"
   - "data protection seal"

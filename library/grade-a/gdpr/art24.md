@@ -20,8 +20,21 @@ cross_references:
   - "Art. 40"
   - "Art. 42"
 
+related_recitals:
+  - "Recital 74"
+  - "Recital 75"
+  - "Recital 76"
+  - "Recital 77"
+
 # === Search Metadata ===
 keywords:
+  - "responsibility"
+  - "controller"
+  - "data protection"
+  - "codes of conduct"
+  - "certification"
+  - "processing"
+  - "measures"
   - "processing"
   - "controller"
 ---

@@ -5,7 +5,7 @@ slug: "decision-01-2020"
 title_en: "Decision 01/2020"
 decision_number: "Decision 01/2020"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2020-11-09"
 source_url: "https://www.edpb.europa.eu/our-work-tools/our-documents/binding-decision-board-art-65/decision-012020-dispute-arisen-draft_en"
@@ -24,6 +24,12 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "decision"
+  - "adequacy"
+  - "notification"
+  - "data breach"
+  - "personal data"
+  - "fine"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

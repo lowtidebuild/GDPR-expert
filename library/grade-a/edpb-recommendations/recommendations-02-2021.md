@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "legal"
+  - "basis"
+  - "storage"
+  - "credit"
+  - "card"
+  - "data"
+  - "sole"
   - "credit card"
   - "storage"
   - "online transactions"

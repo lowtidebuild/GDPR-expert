@@ -5,7 +5,7 @@ slug: "opinion-3-2019"
 title_en: "Opinion concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection Regulation (GDPR)"
 document_number: "Opinion 3/2019"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2019-01-23"
 source_url: "https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_opinionctrq_a_final_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "concerning"
+  - "questions"
+  - "answers"
+  - "interplay"
+  - "clinical"
+  - "trials"
+  - "ctr"
   - "clinical trials"
   - "health data"
   - "scientific research"

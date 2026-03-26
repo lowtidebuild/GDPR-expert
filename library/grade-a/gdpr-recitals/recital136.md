@@ -12,6 +12,9 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
+  - "Art. 64"
+  - "Art. 65"
+  - "Art. 70"
 ---
 
 ## Recital 136

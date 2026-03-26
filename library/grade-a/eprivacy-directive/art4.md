@@ -4,13 +4,13 @@ law: "Directive on Privacy and Electronic Communications"
 law_id: "02002L0058-20091219"
 article: 4
 article_sub: 0
-article_title: ""
-chapter: ""
-chapter_title: ""
+article_title: "Security of processing"
+chapter: "II"
+chapter_title: "Confidentiality"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_4/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_4/oj/eng"
 effective_date: "20020731"
 last_amended: null
 retrieved_at: "2026-03-25"
@@ -19,23 +19,26 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 14"
   - "Art. 29"
-  - "Art. 4"
 
 # === Search Metadata ===
 keywords:
+  - "security"
+  - "processing"
+  - "electronic communications"
+  - "data protection"
+  - "provider"
+  - "privacy"
+  - "notification"
   - "processing"
   - "safeguard"
 ---
 
-## Article 4 — 
+## Article 4 —
 
-id="art_4">
-Article 4
-►M2
-Security of processing ◄
+Security of processing
 1.
 The provider of a publicly available electronic communications service must take appropriate technical and organisational measures to safeguard security of its services, if necessary in conjunction with the provider of the public communications network with respect to network security. Having regard to the state of the art and the cost of their implementation, these measures shall ensure a level of security appropriate to the risk presented.
-▼M2
+
 1a.
 Without prejudice to Directive 95/46/EC, the measures referred to in paragraph 1 shall at least:
 —
@@ -45,10 +48,10 @@ protect personal data stored or transmitted against accidental or unlawful destr
 —
 ensure the implementation of a security policy with respect to the processing of personal data,
 Relevant national authorities shall be able to audit the measures taken by providers of publicly available electronic communication services and to issue recommendations about best practices concerning the level of security which those measures should achieve.
-▼B
+
 2.
 In case of a particular risk of a breach of the security of the network, the provider of a publicly available electronic communications service must inform the subscribers concerning such risk and, where the risk lies outside the scope of the measures to be taken by the service provider, of any possible remedies, including an indication of the likely costs involved.
-▼M2
+
 3.
 In the case of a personal data breach, the provider of publicly available electronic communications services shall, without undue delay, notify the personal data breach to the competent national authority.
 When the personal data breach is likely to adversely affect the personal data or privacy of a subscriber or individual, the provider shall also notify the subscriber or individual of the breach without undue delay.
@@ -61,5 +64,3 @@ Providers shall maintain an inventory of personal data breaches comprising the f
 5.
 In order to ensure consistency in implementation of the measures referred to in paragraphs 2, 3 and 4, the Commission may, following consultation with the European Network and Information Security Agency (ENISA), the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC and the European Data Protection Supervisor, adopt technical implementing measures concerning the circumstances, format and procedures applicable to the information and notification requirements referred to in this Article. When adopting such measures, the Commission shall involve all relevant stakeholders particularly in order to be informed of the best available technical and economic means of implementation of this Article.
 Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14a(2).
-▼B
-<div class="eli-subdivision"

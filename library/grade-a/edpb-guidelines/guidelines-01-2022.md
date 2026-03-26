@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "data"
+  - "subject"
+  - "rights"
+  - "right"
+  - "access"
+  - "transparency"
+  - "right of access"
   - "right of access"
   - "data subject rights"
   - "copy of data"

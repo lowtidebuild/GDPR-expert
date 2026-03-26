@@ -19,8 +19,25 @@ retrieved_at: "2026-03-25"
 cross_references:
   - "Art. 89(1)"
 
+related_recitals:
+  - "Recital 46"
+  - "Recital 51"
+  - "Recital 52"
+  - "Recital 53"
+  - "Recital 54"
+  - "Recital 55"
+  - "Recital 56"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "special"
+  - "categories"
+  - "personal"
+  - "data"
+  - "controller"
+  - "data protection"
+  - "genetic data"
   - "consent"
   - "processing"
   - "data subject"

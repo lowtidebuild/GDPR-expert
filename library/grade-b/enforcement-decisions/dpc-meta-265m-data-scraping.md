@@ -4,7 +4,7 @@ source_id: "b-decision-dpc-meta-265m-data-scraping"
 slug: "dpc-meta-265m-data-scraping"
 title_en: "DPC v Meta (Facebook) — EUR 265 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "DPC (Ireland)"
 target_entity: "Meta Platforms Ireland Limited"
 fine_amount: "EUR 265,000,000"
@@ -21,6 +21,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "dpc"
+  - "meta"
+  - "facebook"
+  - "eur"
+  - "million"
+  - "controller"
+  - "data protection"
+  - "ireland"
   - "data scraping"
   - "data breach"
   - "privacy by design"

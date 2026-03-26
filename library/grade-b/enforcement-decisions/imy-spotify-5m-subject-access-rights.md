@@ -4,7 +4,7 @@ source_id: "b-decision-imy-spotify-5m-subject-access-rights"
 slug: "imy-spotify-5m-subject-access-rights"
 title_en: "IMY v Spotify — EUR 5 Million (SEK 58M)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "IMY (Sweden)"
 target_entity: "Spotify AB"
 fine_amount: "SEK 58,000,000 (approx. EUR 5,000,000)"
@@ -22,6 +22,13 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "imy"
+  - "spotify"
+  - "eur"
+  - "million"
+  - "sek"
+  - "data subject"
+  - "personal data"
   - "data subject access"
   - "right of access"
   - "transparency"

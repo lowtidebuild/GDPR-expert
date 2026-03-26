@@ -43,6 +43,14 @@ key_changes:
 
 # === Search Metadata ===
 keywords:
+  - "digital"
+  - "legislation"
+  - "omnibus"
+  - "proposal"
+  - "amending"
+  - "gdpr"
+  - "eprivacy"
+  - "data"
   - "GDPR amendment"
   - "omnibus"
   - "simplification"

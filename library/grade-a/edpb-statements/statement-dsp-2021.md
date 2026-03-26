@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-statement-statement-dsp-2021"
+source_id: "a-statement-statement-dsp-2021"
 slug: "statement-dsp-2021"
 title_en: "Statement on the Digital Services Package and Data Strategy"
 document_number: "Statement DSP 2021"
@@ -23,6 +23,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "statement"
+  - "digital"
+  - "services"
+  - "package"
+  - "data"
+  - "strategy"
+  - "transparency"
+  - "health data"
   - "DSA"
   - "DMA"
   - "data strategy"

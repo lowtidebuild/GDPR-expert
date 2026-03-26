@@ -4,29 +4,31 @@ law: "Directive on Privacy and Electronic Communications"
 law_id: "02002L0058-20091219"
 article: 21
 article_sub: 0
-article_title: ""
-chapter: ""
-chapter_title: ""
+article_title: "Addressees"
+chapter: "IV"
+chapter_title: "Final provisions"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_21/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/dir/2002/58/art_21/oj/eng"
 effective_date: "20020731"
 last_amended: null
 retrieved_at: "2026-03-25"
 
 # === Relationships ===
 cross_references:
-  - "Art. 21"
 
 # === Search Metadata ===
 keywords:
+  - "addressees"
+  - "decision"
+  - "published"
+  - "official"
+  - "journal"
+  - "amended"
 ---
 
-## Article 21 — 
-
-id="art_21">
-Article 21
+## Article 21 —
 Addressees
 This Directive is addressed to the Member States.
 (

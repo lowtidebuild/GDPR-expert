@@ -4,7 +4,7 @@ source_id: "b-decision-cnil-google-150m-cookies-2022"
 slug: "cnil-google-150m-cookies-2022"
 title_en: "CNIL v Google — EUR 150 Million (Cookies 2022)"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "CNIL (France)"
 target_entity: "Google LLC / Google Ireland Limited"
 fine_amount: "EUR 150,000,000"
@@ -20,6 +20,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "cnil"
+  - "google"
+  - "eur"
+  - "million"
+  - "cookies"
+  - "data protection"
+  - "cookie"
+  - "privacy"
   - "cookies"
   - "consent"
   - "dark patterns"

@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "processing"
+  - "personal"
+  - "data"
+  - "based"
+  - "gdpr"
+  - "legitimate"
+  - "interest"
   - "legitimate interest"
   - "balancing test"
   - "legal basis"

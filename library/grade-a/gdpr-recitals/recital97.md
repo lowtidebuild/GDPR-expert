@@ -12,6 +12,9 @@ retrieved_at: "2026-03-25"
 
 # === Relationships ===
 related_articles:
+  - "Art. 37"
+  - "Art. 38"
+  - "Art. 39"
 ---
 
 ## Recital 97

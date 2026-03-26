@@ -26,6 +26,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "recommendations"
+  - "essential"
+  - "guarantees"
+  - "surveillance"
+  - "measures"
+  - "standard contractual clauses"
+  - "right of access"
+  - "electronic communications"
   - "essential guarantees"
   - "surveillance"
   - "transfers"

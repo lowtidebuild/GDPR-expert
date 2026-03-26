@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "derogations"
+  - "standard contractual clauses"
+  - "transparency"
+  - "health data"
+  - "electronic communications"
+  - "adequacy"
+  - "controller"
   - "derogations"
   - "international transfers"
   - "explicit consent"

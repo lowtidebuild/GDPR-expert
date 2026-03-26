@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "guidelines"
+  - "law"
+  - "enforcement"
+  - "transparency"
+  - "data sharing"
+  - "adequacy"
+  - "controller"
+  - "data protection"
   - "law enforcement"
   - "LED"
   - "international transfers"

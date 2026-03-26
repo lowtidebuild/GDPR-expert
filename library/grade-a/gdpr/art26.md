@@ -18,8 +18,18 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 58"
+  - "Recital 79"
+
 # === Search Metadata ===
 keywords:
+  - "joint"
+  - "controllers"
+  - "controller"
+  - "data subject"
+  - "respective"
+  - "arrangement"
   - "processing"
   - "controller"
   - "data subject"

@@ -1,20 +1,40 @@
 ---
-source_id: b-precedent-c-413-23-srb-v-edps
-slug: c-413-23-srb-v-edps
+# === Identification ===
+source_id: "a-precedent-c-413-23-srb-v-edps"
+slug: "c-413-23-srb-v-edps"
 title_en: "EDPS v Single Resolution Board (Pseudonymised Data)"
 case_number: "C-413/23"
 ecli: "ECLI:EU:C:2025:xxx"
 document_type: precedent
-source_grade: A
-publisher: Court of Justice of the European Union (CJEU)
-published_date: 2025-09-01
-source_url: https://gdprhub.eu
-original_format: html
+source_grade: "A"
+publisher: "Court of Justice of the European Union (CJEU)"
+judgment_date: "2025-09-01"
+source_url: "https://gdprhub.eu"
 jurisdiction: EU
-gdpr_articles: [Art. 4(1), Art. 4(5)]
-keywords: [pseudonymisation, personal data, anonymous data, relative approach, re-identification, definition]
-verification_status: VERIFIED
-grade_confidence: high
+significance: "important"
+retrieved_at: "2026-03-25"
+
+# === Related GDPR Articles ===
+gdpr_articles:
+  - "Art. 4(1)"
+  - "Art. 4(5)"
+
+# === Search Metadata ===
+keywords:
+  - "edps"
+  - "single"
+  - "resolution"
+  - "board"
+  - "pseudonymised"
+  - "data"
+  - "transparency"
+  - "data sharing"
+  - "pseudonymisation"
+  - "personal data"
+  - "anonymous data"
+  - "relative approach"
+  - "re-identification"
+  - "definition"
 ---
 
 # CJEU C-413/23: EDPS v SRB (Pseudonymised Data)

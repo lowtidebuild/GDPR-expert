@@ -21,8 +21,21 @@ cross_references:
   - "Art. 60"
   - "Art. 60(3)"
 
+related_recitals:
+  - "Recital 124"
+  - "Recital 127"
+  - "Recital 128"
+
 # === Search Metadata ===
 keywords:
+  - "competence"
+  - "lead"
+  - "supervisory"
+  - "authority"
+  - "controller"
+  - "processor"
+  - "supervisory authority"
+  - "data subject"
   - "processing"
   - "controller"
   - "processor"

@@ -5,7 +5,7 @@ slug: "opinion-04-2024"
 title_en: "Opinion on the notion of main establishment of a controller in the Union under Art. 4.16(a) GDPR"
 document_number: "Opinion 04/2024"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2024-02-13"
 source_url: "https://www.edpb.europa.eu/system/files/2024-02/edpb_opinion_202404_mainestablishment_en.pdf"
@@ -20,6 +20,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "notion"
+  - "main"
+  - "establishment"
+  - "controller"
+  - "art"
+  - "gdpr"
+  - "decisions"
   - "main establishment"
   - "one-stop-shop"
   - "lead supervisory authority"

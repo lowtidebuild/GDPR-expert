@@ -10,7 +10,7 @@ chapter_title: "National arrangements for data altruism"
 
 # === Source ===
 source_grade: "A"
-source_url: "https://eur-lex.europa.eu/eli/reg/2016/679/art_25/oj/eng"
+source_url: "https://eur-lex.europa.eu/eli/reg/2022/868/art_25/oj/eng"
 effective_date: "20220623"
 last_amended: null
 retrieved_at: "2026-03-26"
@@ -22,6 +22,13 @@ cross_references:
 
 # === Search Metadata ===
 keywords:
+  - "data"
+  - "altruism"
+  - "consent"
+  - "form"
+  - "data protection"
+  - "data subject"
+  - "personal data"
   - "consent"
 ---
 

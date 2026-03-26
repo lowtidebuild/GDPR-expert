@@ -5,7 +5,7 @@ slug: "opinion-32-2021"
 title_en: "Opinion regarding the European Commission Draft Implementing Decision on the adequate protection of personal data in the Republic of Korea"
 document_number: "Opinion 32/2021"
 document_type: opinion
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 published_date: "2021-09-28"
 source_url: "https://www.edpb.europa.eu/system/files/2021-09/edpb_opinion322021_republicofkoreaadequacy_en.pdf"
@@ -19,6 +19,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "regarding"
+  - "draft"
+  - "implementing"
+  - "decision"
+  - "adequate"
+  - "protection"
+  - "personal"
   - "adequacy"
   - "South Korea"
   - "Republic of Korea"

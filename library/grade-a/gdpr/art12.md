@@ -21,8 +21,23 @@ cross_references:
   - "Art. 11(2)"
   - "Art. 92"
 
+related_recitals:
+  - "Recital 38"
+  - "Recital 58"
+  - "Recital 59"
+  - "Recital 60"
+  - "Recital 73"
+
 # === Search Metadata ===
 keywords:
+  - "transparent"
+  - "information"
+  - "communication"
+  - "modalities"
+  - "exercise"
+  - "rights"
+  - "data"
+  - "subject"
   - "processing"
   - "controller"
   - "data subject"

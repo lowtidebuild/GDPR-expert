@@ -22,8 +22,20 @@ cross_references:
   - "Art. 49(1)"
   - "Art. 9(1)"
 
+related_recitals:
+  - "Recital 13"
+  - "Recital 82"
+
 # === Search Metadata ===
 keywords:
+  - "records"
+  - "processing"
+  - "activities"
+  - "controller"
+  - "data protection"
+  - "security"
+  - "data protection officer"
+  - "processor"
   - "processing"
   - "controller"
   - "data subject"

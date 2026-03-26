@@ -1,6 +1,6 @@
 ---
 # === Identification ===
-source_id: "b-report-dpf-review-report-2024"
+source_id: "a-report-dpf-review-report-2024"
 slug: "dpf-review-report-2024"
 title_en: "EDPB Report on the first review of the EU-U.S. Data Privacy Framework"
 document_number: "DPF Review Report 2024"
@@ -24,6 +24,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "edpb"
+  - "report"
+  - "first"
+  - "review"
+  - "eu-u"
+  - "data"
+  - "privacy"
+  - "framework"
   - "EU-US Data Privacy Framework"
   - "review"
   - "adequacy"

@@ -5,7 +5,7 @@ slug: "urgent-binding-decision-01-2023"
 title_en: "Urgent Binding Decision 01/2023"
 decision_number: "Urgent Binding Decision 01/2023"
 document_type: binding_decision
-source_grade: A
+source_grade: "A"
 publisher: "European Data Protection Board (EDPB)"
 decision_date: "2023-10-27"
 source_url: "https://www.edpb.europa.eu/system/files/2023-12/edpb_urgentbindingdecision_202301_no_metaplatformsireland_en_0.pdf"
@@ -22,6 +22,12 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "urgent"
+  - "binding"
+  - "decision"
+  - "consent"
+  - "legitimate interest"
+  - "personal data"
   - "binding decision"
   - "Article 65"
   - "dispute resolution"

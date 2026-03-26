@@ -4,7 +4,7 @@ source_id: "b-decision-ap-netflix-5m-transparency"
 slug: "ap-netflix-5m-transparency"
 title_en: "AP Netherlands v Netflix — EUR 4.75 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "AP (Netherlands)"
 target_entity: "Netflix International B.V."
 fine_amount: "EUR 4,750,000"
@@ -24,6 +24,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "netherlands"
+  - "netflix"
+  - "eur"
+  - "million"
+  - "transparency"
+  - "privacy"
+  - "data subject"
+  - "personal data"
   - "transparency"
   - "privacy policy"
   - "data subject access"

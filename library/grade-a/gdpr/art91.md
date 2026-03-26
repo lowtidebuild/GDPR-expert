@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 165"
+
 # === Search Metadata ===
 keywords:
+  - "existing"
+  - "data"
+  - "protection"
+  - "rules"
+  - "churches"
+  - "religious"
+  - "associations"
+  - "data protection"
   - "processing"
 ---
 

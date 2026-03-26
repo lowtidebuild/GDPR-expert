@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 121"
+
 # === Search Metadata ===
 keywords:
+  - "general"
+  - "conditions"
+  - "members"
+  - "supervisory"
+  - "authority"
+  - "supervisory authority"
+  - "personal data"
+  - "duties"
   - "personal data"
   - "supervisory authority"
 ---

@@ -18,8 +18,18 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+
 # === Search Metadata ===
 keywords:
+  - "review"
+  - "legal"
+  - "acts"
+  - "data"
+  - "protection"
+  - "data protection"
+  - "personal data"
+  - "natural"
   - "processing"
   - "personal data"
 ---

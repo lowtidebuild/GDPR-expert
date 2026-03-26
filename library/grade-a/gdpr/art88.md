@@ -18,8 +18,19 @@ retrieved_at: "2026-03-25"
 # === Relationships ===
 cross_references:
 
+related_recitals:
+  - "Recital 155"
+
 # === Search Metadata ===
 keywords:
+  - "processing"
+  - "context"
+  - "employment"
+  - "transparency"
+  - "fundamental rights"
+  - "legitimate interest"
+  - "data subject"
+  - "transfer"
   - "processing"
   - "personal data"
   - "health"

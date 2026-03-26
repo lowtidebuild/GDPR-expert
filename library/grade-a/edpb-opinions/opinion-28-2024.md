@@ -28,6 +28,14 @@ gdpr_articles:
 
 # === Search Metadata ===
 keywords:
+  - "opinion"
+  - "certain"
+  - "data"
+  - "protection"
+  - "aspects"
+  - "related"
+  - "processing"
+  - "personal"
   - "artificial intelligence"
   - "AI models"
   - "machine learning"

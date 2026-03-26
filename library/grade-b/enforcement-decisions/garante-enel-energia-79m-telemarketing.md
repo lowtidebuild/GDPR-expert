@@ -4,7 +4,7 @@ source_id: "b-decision-garante-enel-energia-79m-telemarketing"
 slug: "garante-enel-energia-79m-telemarketing"
 title_en: "Garante v Enel Energia — EUR 79.1 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "Garante per la protezione dei dati personali (Italy)"
 target_entity: "Enel Energia S.p.A."
 fine_amount: "EUR 79,100,000"
@@ -22,6 +22,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "garante"
+  - "enel"
+  - "energia"
+  - "eur"
+  - "million"
+  - "controller"
+  - "fine"
+  - "decision"
   - "telemarketing"
   - "controller liability"
   - "third-party agents"

@@ -20,8 +20,18 @@ cross_references:
   - "Art. 34"
   - "Art. 5"
 
+related_recitals:
+  - "Recital 73"
+
 # === Search Metadata ===
 keywords:
+  - "restrictions"
+  - "controller"
+  - "penalties"
+  - "fundamental rights"
+  - "security"
+  - "processor"
+  - "safeguards"
   - "controller"
   - "processor"
   - "restriction"

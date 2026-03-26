@@ -4,7 +4,7 @@ source_id: "b-decision-lfd-notebooksbilliger-10m-video-surveillance"
 slug: "lfd-notebooksbilliger-10m-video-surveillance"
 title_en: "LfD Lower Saxony v Notebooksbilliger.de — EUR 10.4 Million"
 document_type: decision
-source_grade: B
+source_grade: "B"
 publisher: "LfD Niedersachsen (Lower Saxony, Germany)"
 target_entity: "notebooksbilliger.de AG"
 fine_amount: "EUR 10,400,000"
@@ -23,6 +23,14 @@ violated_articles:
 
 # === Search Metadata ===
 keywords:
+  - "lfd"
+  - "lower"
+  - "saxony"
+  - "notebooksbilliger"
+  - "eur"
+  - "million"
+  - "target"
+  - "fine"
   - "video surveillance"
   - "employee monitoring"
   - "CCTV"
