@@ -401,6 +401,8 @@ library/inbox/    <-- 아무 파일이나 드롭 (PDF, DOCX, HTML 등)
 
 ## 시작하기
 
+> **처음이신가요?** **[사용 가이드](docs/ko/HOW-TO-USE.md)** — 비개발자를 위한 단계별 안내서를 읽어보세요.
+
 ### 사전 요구사항
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) CLI
