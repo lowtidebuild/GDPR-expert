@@ -10,7 +10,7 @@
 
 | 항목 | 이유 | 설치 방법 |
 |------|------|---------|
-| **Claude Code** | 에이전트를 실행하는 앱 | [다운로드](https://claude.ai/claude-code) — CLI, 데스크톱 앱, VS Code 확장 |
+| **Claude Code** | 에이전트를 실행하는 앱 | [시작하기](https://docs.anthropic.com/en/docs/claude-code/overview) — CLI, 데스크톱 앱, VS Code 확장 |
 | **이 저장소** | 법령 Knowledge Base + 에이전트 포함 | 팀 리드 또는 IT에서 제공 |
 
 이게 전부입니다. 데이터베이스, 서버, API 키 설정이 필요 없습니다 (법령 데이터를 직접 갱신하려는 경우 제외).

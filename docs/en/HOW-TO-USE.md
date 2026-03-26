@@ -10,7 +10,7 @@
 
 | What | Why | How to Get It |
 |------|-----|---------------|
-| **Claude Code** | This is the app that runs the agent | [Download here](https://claude.ai/claude-code) — available as CLI, desktop app, or VS Code extension |
+| **Claude Code** | This is the app that runs the agent | [Get started here](https://docs.anthropic.com/en/docs/claude-code/overview) — available as CLI, desktop app, or VS Code extension |
 | **This repository** | Contains the legal knowledge base + agent | Your team lead or IT will provide access |
 
 That's it. No databases, no servers, no API keys to configure (unless you want to refresh the legal data yourself).

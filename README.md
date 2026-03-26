@@ -8,7 +8,7 @@
 
 **5 EU laws** · **321 articles + 536 recitals** · **120 EDPB documents** · **51 CJEU cases** · **700+ indexed items**
 
-Built for [Claude Code](https://claude.ai/claude-code) · Powered by structured RAG
+Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) · Powered by structured RAG
 
 [![Laws](https://img.shields.io/badge/Legislation-5_EU_Laws-blue)](#-knowledge-base)
 [![Articles](https://img.shields.io/badge/Articles-321-blue)](#-knowledge-base)
@@ -436,7 +436,7 @@ GDPR-expert/
 
 ### Prerequisites
 
-- [Claude Code](https://claude.ai/claude-code) CLI
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) CLI
 - Python 3.10+
 - `python-docx` (`pip install python-docx`)
 - `markitdown` (for PDF ingestion: `pip install markitdown`)

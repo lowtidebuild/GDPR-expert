@@ -8,7 +8,7 @@
 
 **5개 EU 법령** · **321개 조문 + 536개 전문(Recital)** · **120건 EDPB 문서** · **51건 CJEU 판례** · **700+ 인덱싱 항목**
 
-[Claude Code](https://claude.ai/claude-code) 전용 · 구조화된 RAG 기반
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) 전용 · 구조화된 RAG 기반
 
 [![Laws](https://img.shields.io/badge/법령-5개_EU_법률-blue)](#-knowledge-base-법령-라이브러리)
 [![Articles](https://img.shields.io/badge/조문-321개-blue)](#-knowledge-base-법령-라이브러리)
@@ -403,7 +403,7 @@ library/inbox/    <-- 아무 파일이나 드롭 (PDF, DOCX, HTML 등)
 
 ### 사전 요구사항
 
-- [Claude Code](https://claude.ai/claude-code) CLI
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) CLI
 - Python 3.10+
 - `python-docx` (`pip install python-docx`)
 - `markitdown` (PDF ingest용: `pip install markitdown`)
