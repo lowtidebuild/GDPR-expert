@@ -6,7 +6,7 @@
 
 ### AI-Powered EU Data Protection Law Advisor
 
-**5 EU laws** · **321 articles + 536 recitals** · **120 EDPB documents** · **51 CJEU cases** · **700+ indexed items**
+**5 EU laws** · **321 articles + 535 recitals** · **120 EDPB documents** · **51 CJEU cases** · **1,060+ indexed items**
 
 Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) · Powered by structured RAG
 
@@ -37,7 +37,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
 Existing AI legal assistants (ChatGPT Custom GPTs, Gemini Gems, etc.) treat EU legislation as flat text documents. They upload PDFs, run semantic search, and hope for the best. This approach **fundamentally fails** for EU data protection work because it ignores:
 
 - **Recitals as interpretive authority** — GDPR has 173 Recitals that courts and DPAs rely on to interpret the 99 Articles. Flat-text RAG treats them as disconnected paragraphs
-- **Cross-legislation references** — GDPR Article 95 governs the relationship with the ePrivacy Directive; the AI Act cross-references GDPR Art. 22. Five laws form an interconnected web
+- **Cross-legislation references** — GDPR Article 95 governs the relationship with the ePrivacy Directive; the AI Act (Art. 86, Recital 140) interacts with GDPR Art. 22 on automated decision-making. Five laws form an interconnected web
 - **Source authority hierarchy** — an EDPB binding decision (Art. 65) carries legal force; a law firm newsletter does not. Generic RAG treats them identically
 - **Citation verifiability** — every legal citation must trace back to an exact provision. "Somewhere in the GDPR" is not a citation
 
@@ -58,7 +58,7 @@ graph TB
 
         subgraph core["Core Capabilities"]
             direction LR
-            KB["<b>Structured Knowledge Base</b><br/>702 files · 5 laws · 120 EDPB docs<br/>51 CJEU cases · 700+ indexed"]
+            KB["<b>Structured Knowledge Base</b><br/>1,060+ files · 5 laws · 120 EDPB docs<br/>51 CJEU cases · 1,060+ indexed"]
             WS["<b>Multi-Layer Web Search</b><br/>EUR-Lex · EDPB · CURIA<br/>Law Firms · Academic"]
             DX["<b>DOCX Opinion Generator</b><br/>Professional Documents<br/>Multilingual (EN · KR · EU languages)"]
         end
@@ -168,11 +168,11 @@ flowchart TD
 | Law | CELEX | Articles | Recitals | Directory |
 |-----|-------|----------|----------|-----------|
 | **GDPR** (Regulation 2016/679) | 32016R0679 | 99 | 173 | `library/grade-a/gdpr/` |
-| **ePrivacy Directive** (2002/58/EC) | 02002L0058-20091219 | 21 | — | `library/grade-a/eprivacy-directive/` |
+| **ePrivacy Directive** (2002/58/EC) | 02002L0058-20091219 | 21 | *not split* | `library/grade-a/eprivacy-directive/` |
 | **EU AI Act** (Regulation 2024/1689) | 32024R1689 | 113 | 180 | `library/grade-a/eu-ai-act/` |
-| **Data Act** (Regulation 2023/2854) | 32023R2854 | 50 | 120 | `library/grade-a/data-act/` |
+| **Data Act** (Regulation 2023/2854) | 32023R2854 | 50 | 119 | `library/grade-a/data-act/` |
 | **Data Governance Act** (Regulation 2022/868) | 32022R0868 | 38 | 63 | `library/grade-a/data-governance-act/` |
-| **Total** | | **321** | **536** | |
+| **Total** | | **321** | **535** | |
 
 > **Note on the ePrivacy Directive:** Unlike Regulations (which apply directly across the EU), Directives must be transposed into national law by each Member State. The ePrivacy Directive's cookie consent rules, for example, are implemented differently across the EU-27. This KB contains the EU-level Directive text. For Member State-specific implementations, use the [ingest system](#-source-ingest-system) to add national transposition laws to your knowledge base.
 
@@ -203,7 +203,7 @@ In EU law, CJEU judgments are **binding interpretations** of legislation — not
 | C-252/21 **Meta v Bundeskartellamt** | Legitimate interest | Competition authority can assess GDPR compliance |
 | C-807/21 **Deutsche Wohnen** | Corporate fines | Clarified corporate fault requirement for Art. 83 fines |
 | C-634/21 **SCHUFA Scoring** | Automated decisions | Credit scoring = automated decision-making under Art. 22 |
-| C-604/22 **IAB Europe TCF** | Adtech / consent | TC string is personal data; joint controllership in adtech |
+| C-604/22 **IAB Europe TCF** | Adtech / consent | TC string is personal data; IAB Europe may be joint controller for the TCF layer |
 | C-673/17 **Planet49** | Cookie consent | Pre-ticked boxes are not valid consent |
 | C-40/17 **Fashion ID** | Joint controllership | Website operator + Facebook = joint controllers for Like button |
 | C-300/21 **Osterreichische Post** | Damages | Mere GDPR infringement does not equal automatic right to compensation |
@@ -262,7 +262,7 @@ that at least one of the following applies...
 
 This structure enables the AI agent to:
 
-- **Search by keyword** using JSON index files — not brute-force grep across 700+ files
+- **Search by keyword** using JSON index files — not brute-force grep across 1,000+ files
 - **Follow cross-references** — Art. 6 leads to Recital 47, which leads to Art. 5(1)(b), which leads to Recital 39
 - **Verify source authority** — Grade A citations carry more weight than Grade B
 - **Read exact provisions** — no hallucination, because the text is right there in the file
@@ -405,13 +405,16 @@ library/inbox/    <-- drop any file here (PDF, DOCX, HTML, etc.)
 GDPR-expert/
 ├── library/
 │   ├── inbox/                          # Drop zone for new sources
-│   ├── grade-a/                        # Authoritative sources (665 files)
+│   ├── grade-a/                        # Authoritative sources
 │   │   ├── gdpr/                       #   GDPR articles (99)
 │   │   ├── gdpr-recitals/             #   GDPR Recitals (173)
 │   │   ├── eprivacy-directive/        #   ePrivacy articles (21)
 │   │   ├── eu-ai-act/                 #   AI Act articles (113)
+│   │   ├── eu-ai-act-recitals/       #   AI Act Recitals (180)
 │   │   ├── data-act/                  #   Data Act articles (50)
+│   │   ├── data-act-recitals/        #   Data Act Recitals (119)
 │   │   ├── data-governance-act/       #   DGA articles (38)
+│   │   ├── data-governance-act-recitals/ # DGA Recitals (63)
 │   │   ├── edpb-guidelines/           #   EDPB Guidelines (52)
 │   │   ├── edpb-opinions/            #   EDPB Opinions (31)
 │   │   ├── edpb-binding-decisions/   #   Art. 65 Binding Decisions (10)
@@ -419,11 +422,11 @@ GDPR-expert/
 │   │   ├── edpb-statements/          #   EDPB Statements (19)
 │   │   ├── edpb-reports/             #   EDPB Reports (1)
 │   │   └── cjeu-cases/              #   CJEU Judgments (51)
-│   ├── grade-b/                        # Verified secondary (37 files)
+│   ├── grade-b/                        # Verified secondary
 │   │   ├── enforcement-decisions/     #   DPA fines & decisions (35)
 │   │   └── legislative-proposals/    #   Digital Omnibus Package (2)
 │   └── grade-c/                        # Academic papers
-├── index/                              # 5 JSON indexes (700+ items)
+├── index/                              # 5 JSON indexes (1,060+ items)
 ├── config/                             # Grade definitions + RAG config
 ├── scripts/                            # Collection & processing scripts
 ├── .claude/agents/                     # Agent + fact-checker definitions

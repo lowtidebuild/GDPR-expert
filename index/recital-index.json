@@ -1,7 +1,7 @@
 {
   "type": "recital_index",
-  "count": 536,
-  "generated_at": "2026-03-26T02:49:30.502800+00:00",
+  "count": 535,
+  "generated_at": "2026-03-26T04:18:11.150843+00:00",
   "recitals": [
     {
       "id": "gdpr-recitals-recital1",
@@ -3133,16 +3133,6 @@
       "recital": "12",
       "path": "library/grade-a/data-act-recitals/recital12.md",
       "related_articles": []
-    },
-    {
-      "id": "data-act-recitals-recital120",
-      "law": "Data Act",
-      "law_id": "32023R2854",
-      "recital": "120",
-      "path": "library/grade-a/data-act-recitals/recital120.md",
-      "related_articles": [
-        "Art. 5"
-      ]
     },
     {
       "id": "data-act-recitals-recital13",

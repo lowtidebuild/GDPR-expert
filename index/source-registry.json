@@ -1,6 +1,6 @@
 {
   "type": "source_registry",
-  "generated_at": "2026-03-26T02:49:30.533689+00:00",
+  "generated_at": "2026-03-26T04:18:11.184197+00:00",
   "sources": {
     "grade-a": {
       "gdpr": {
@@ -76,7 +76,7 @@
       },
       "data-act-recitals": {
         "status": "complete",
-        "count": 120,
+        "count": 119,
         "target": 120
       },
       "data-governance-act-recitals": {
