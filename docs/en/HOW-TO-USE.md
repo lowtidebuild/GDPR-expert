@@ -36,7 +36,7 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ## Asking Questions
 
-Just type your question in natural language. The agent understands both **English** and **Korean**, and can also respond in major EU languages upon request.
+Just type your question in natural language. The agent is **multilingual** — it understands and responds in English, Korean, German, French, Dutch, and other major EU languages. Ask in whatever language you're comfortable with.
 
 ### Simple Lookups
 
@@ -76,7 +76,7 @@ When you need a formal document — not just a chat answer — ask for a legal o
 
 > "Draft a legal opinion on whether our company can transfer employee data to the US after Schrems II. DOCX format."
 
-> "Write a compliance assessment for our AI-powered recruitment tool under GDPR and the AI Act. English and Korean versions."
+> "Write a compliance assessment for our AI-powered recruitment tool under GDPR and the AI Act. English and German versions."
 
 > "Prepare a DPIA analysis for our new customer profiling feature. DOCX."
 
@@ -86,13 +86,15 @@ The agent will:
 3. Run the fact-checker to verify every legal reference
 4. Generate a professional DOCX file saved to `output/opinions/`
 
-### Bilingual Opinions
+### Multilingual Opinions
 
-Add "English and Korean" to your request:
+Specify which languages you need:
 
-> "Legal opinion on international data transfers — DOCX, English and Korean versions"
+> "Legal opinion on international data transfers — DOCX, English and German versions"
 
-The agent will produce two separate DOCX files. In the Korean version, **legal citations remain in the original English** (EU law is authoritative in English) while the analysis and commentary are in Korean.
+> "Draft this opinion in French and Korean as well"
+
+The agent will produce separate DOCX files for each language. In non-English versions, **legal citations remain in the original English** (EU legislation is authoritative in its original language) while the analysis and commentary are translated.
 
 ---
 
