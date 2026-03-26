@@ -473,7 +473,7 @@ def update_source_registry(law_key: str, count: int, recital_count: int = 0):
     if reg_path.exists():
         registry = json.loads(reg_path.read_text())
     else:
-        registry = {"type": "source_registry", "sources": {"grade-a": {}, "grade-b": {}}}
+        registry = {"type": "source_registry", "sources": {"grade-a": {}, "grade-b": {}, "grade-c": {}}}
 
     law_config = LAWS[law_key]
     dir_name = law_config["dir"]

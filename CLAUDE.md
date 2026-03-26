@@ -40,8 +40,8 @@ scripts/                      — Data collection/processing scripts
 ## Source Grade System
 
 - **Grade A**: Legislation text, EDPB guidelines, CJEU judgments — authoritative, can be sole basis
-- **Grade B**: DPA enforcement decisions, law firm analyses — verified, cross-verification recommended
-- **Grade C**: Academic papers — reference only, [EDITORIAL] tag required
+- **Grade B**: DPA enforcement decisions, court decisions — verified, cross-verification recommended
+- **Grade C**: Law firm analyses, academic papers — reference only, [EDITORIAL] tag required
 - **Grade D**: News, AI summaries — excluded from RAG
 
 ## Key Files

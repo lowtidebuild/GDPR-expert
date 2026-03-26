@@ -8,14 +8,14 @@
     },
     "B": {
       "label": "Verified Secondary Sources",
-      "description": "DPA enforcement decisions, national court rulings, major law firm analyses",
+      "description": "DPA enforcement decisions, national court rulings, legislative proposals",
       "trust_level": "verified",
       "can_be_sole_basis": true,
       "requires_note": "Grade A cross-verification recommended"
     },
     "C": {
       "label": "Single Source / Reference",
-      "description": "Academic papers, individual expert commentary, conference proceedings",
+      "description": "Law firm analyses, academic papers, individual expert commentary, conference proceedings",
       "trust_level": "reference",
       "can_be_sole_basis": false,
       "requires_note": "[EDITORIAL: Single-source, Grade C] tag required"

@@ -79,6 +79,12 @@
         "status": "complete",
         "count": 2
       }
+    },
+    "grade-c": {
+      "law-firm-analyses": {
+        "status": "pending",
+        "count": 0
+      }
     }
   }
 }

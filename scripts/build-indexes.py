@@ -270,7 +270,7 @@ def update_source_registry():
     """Update source-registry.json with current counts."""
     reg_path = INDEX_DIR / "source-registry.json"
     registry = json.loads(reg_path.read_text()) if reg_path.exists() else {
-        "type": "source_registry", "sources": {"grade-a": {}, "grade-b": {}}
+        "type": "source_registry", "sources": {"grade-a": {}, "grade-b": {}, "grade-c": {}}
     }
     registry["generated_at"] = datetime.now(timezone.utc).isoformat()
 

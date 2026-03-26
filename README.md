@@ -57,7 +57,7 @@ graph TB
             direction LR
             KB["<b>Structured Knowledge Base</b><br/>702 files · 5 laws · 120 EDPB docs<br/>51 CJEU cases · 700+ indexed"]
             WS["<b>Multi-Layer Web Search</b><br/>EUR-Lex · EDPB · CURIA<br/>Law Firms · Academic"]
-            DX["<b>DOCX Opinion Generator</b><br/>Professional Documents<br/>EN + KR Bilingual"]
+            DX["<b>DOCX Opinion Generator</b><br/>Professional Documents<br/>Multilingual (EN · KR · EU languages)"]
         end
 
         subgraph pipeline["Research Pipeline"]
@@ -72,8 +72,8 @@ graph TB
         subgraph grades["Source Grade System"]
             direction LR
             GA["<b>Grade A</b><br/>Legislation · EDPB · CJEU<br/><i>Sole authority</i>"]
-            GB["<b>Grade B</b><br/>DPA Decisions · Law Firms<br/><i>Cross-verify with A</i>"]
-            GC["<b>Grade C</b><br/>Academic Papers<br/><i>Editorial only</i>"]
+            GB["<b>Grade B</b><br/>DPA Decisions · Court Rulings<br/><i>Cross-verify with A</i>"]
+            GC["<b>Grade C</b><br/>Law Firms · Academic<br/><i>Editorial only</i>"]
             GD["<b>Grade D</b><br/>News · AI Summaries<br/><i>Excluded from RAG</i>"]
         end
     end
@@ -299,7 +299,7 @@ flowchart TD
         FC["<b>Fact-Check Sub-Agent</b><br/>Verify every citation<br/>against KB originals"]
     end
 
-    O["<b>Verified Legal Opinion</b><br/>DOCX with citations & risk matrix<br/>EN + KR bilingual"]
+    O["<b>Verified Legal Opinion</b><br/>DOCX with citations & risk matrix<br/>Multilingual"]
 
     Q --> kb
     kb --> web
@@ -369,8 +369,8 @@ library/inbox/    <-- drop any file here (PDF, DOCX, HTML, etc.)
      |
      |-- 2. AUTO-CLASSIFY Grade (based on content signals)
      |       Grade A: Official sources (eur-lex.europa.eu, edpb.europa.eu, national DPA domains)
-     |       Grade B: Law firm analysis, court decisions, DPA websites
-     |       Grade C: Academic papers (SSRN, journals)
+     |       Grade B: Court decisions, DPA enforcement decisions
+     |       Grade C: Law firm analyses, academic papers (SSRN, journals)
      |       Grade D: News, AI summaries -> REJECTED with warning
      |
      |-- 3. AUTO-GENERATE frontmatter

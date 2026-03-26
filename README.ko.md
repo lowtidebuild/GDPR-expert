@@ -57,7 +57,7 @@ graph TB
             direction LR
             KB["<b>구조화된 Knowledge Base</b><br/>702 파일 · 5개 법령 · 120 EDPB 문서<br/>51 CJEU 판례 · 700+ 인덱싱"]
             WS["<b>Multi-Layer 웹서치</b><br/>EUR-Lex · EDPB · CURIA<br/>로펌 · 학술"]
-            DX["<b>DOCX 의견서 생성</b><br/>전문 법률 문서<br/>EN + KR 이중언어"]
+            DX["<b>DOCX 의견서 생성</b><br/>전문 법률 문서<br/>다국어 (EN · KR · EU 언어)"]
         end
 
         subgraph pipeline["리서치 파이프라인"]
@@ -72,8 +72,8 @@ graph TB
         subgraph grades["Source Grade 체계"]
             direction LR
             GA["<b>Grade A</b><br/>법령 · EDPB · CJEU<br/><i>단독 근거 가능</i>"]
-            GB["<b>Grade B</b><br/>DPA 결정 · 로펌<br/><i>A 교차검증 권장</i>"]
-            GC["<b>Grade C</b><br/>학술 논문<br/><i>단독 근거 불가</i>"]
+            GB["<b>Grade B</b><br/>DPA 결정 · 법원 판결<br/><i>A 교차검증 권장</i>"]
+            GC["<b>Grade C</b><br/>로펌 해설 · 학술 논문<br/><i>단독 근거 불가</i>"]
             GD["<b>Grade D</b><br/>뉴스 · AI 요약<br/><i>RAG 미포함</i>"]
         end
     end
@@ -299,7 +299,7 @@ flowchart TD
         FC["<b>Fact-Check 서브에이전트</b><br/>모든 인용을 KB 원본과 대조"]
     end
 
-    O["<b>검증된 법률 의견서</b><br/>DOCX · 인용 체계 · 리스크 매트릭스<br/>EN + KR 이중언어"]
+    O["<b>검증된 법률 의견서</b><br/>DOCX · 인용 체계 · 리스크 매트릭스<br/>다국어 (EN · KR · EU 언어)"]
 
     Q --> kb
     kb --> web
@@ -369,8 +369,8 @@ library/inbox/    <-- 아무 파일이나 드롭 (PDF, DOCX, HTML 등)
      |
      |-- 2. Grade 자동 판별 (내용 분석 기반)
      |       Grade A: 공식 소스 (eur-lex.europa.eu, edpb.europa.eu, 각국 DPA 도메인)
-     |       Grade B: 로펌 분석, 법원 결정, DPA 웹사이트
-     |       Grade C: 학술 논문 (SSRN, 저널)
+     |       Grade B: 법원 결정, DPA 집행결정
+     |       Grade C: 로펌 해설, 학술 논문 (SSRN, 저널)
      |       Grade D: 뉴스, AI 요약 -> 경고와 함께 거부
      |
      |-- 3. Frontmatter 자동 생성
