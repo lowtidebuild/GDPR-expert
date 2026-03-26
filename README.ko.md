@@ -36,7 +36,7 @@
 >
 > **검토 범위:** 목적 제한 원칙 및 컨트롤러/프로세서 지위 · 3단계 이익형량 테스트 · AI 학습 관련 EDPB 입장 · Digital Omnibus Package 영향
 
-[의견서 전문 보기](https://docs.google.com/document/d/1ImyHxEwdy30mw0N3BFnn9z8qxiK0JK0n/edit?usp=sharing) · *AI 생성 결과물이며, 법률 자문이 아닙니다.*
+[의견서 전문 보기](https://docs.google.com/document/d/1uQQQ3ih3_p5fF96AEOzDnaC8FRmPOugB/edit?usp=sharing&ouid=105178834220477378953&rtpof=true&sd=true) · *AI 생성 결과물이며, 법률 자문이 아닙니다.*
 
 ---
 
