@@ -50,7 +50,7 @@ Every EU legal source is fetched from **official APIs**, parsed into **article-l
 
 ```mermaid
 graph TB
-    subgraph agent["<b>GDPR Expert Agent</b><br/>Kim De Bruyne (김덕배) · Senior Associate · Brussels"]
+    subgraph agent["<b>GDPR Expert Agent</b>"]
         direction TB
 
         subgraph core["Core Capabilities"]
@@ -108,33 +108,54 @@ graph TB
 
 Most legal AI tools ask you to "upload a PDF." We built an **automated pipeline** that fetches legislation directly from official EU sources, parses the HTML/XML structure, and generates per-article Markdown files with rich metadata.
 
-```
-                    LEGISLATION                              EDPB DOCUMENTS
-                        |                                         |
-          Publications Office                            edpb.europa.eu
-          CELLAR REST API                                  PDF Download
-      (no auth required)                                       |
-                |                                              v
-                v                                     markitdown CLI
-    XHTML with structured                             (PDF -> Markdown)
-    article IDs (art_1...art_99)                           |
-                |                                          v
-                v                                  Frontmatter Generation
-    Python: fetch-eu-legislation.py                (keywords, GDPR articles,
-    - Parse XHTML -> extract articles               topics, char_count)
-    - Extract Recitals (rct_1...rct_173)                   |
-    - Build cross-reference maps                           v
-    - Generate YAML frontmatter               library/grade-a/edpb-guidelines/
-    - Write art{N}.md per article              library/grade-a/edpb-opinions/
-                |                              library/grade-a/edpb-binding-decisions/
-                v
-    library/grade-a/gdpr/art1.md                      JSON INDEXES
-    library/grade-a/gdpr/art2.md          build-indexes.py --type all
-    ...                                   - article-index.json (321 articles)
-    library/grade-a/gdpr/art99.md         - recital-index.json (173 recitals)
-    library/grade-a/gdpr-recitals/        - edpb-document-index.json (120 docs)
-        recital1.md ... recital173.md     - case-index.json (51 cases)
-                                          - enforcement-index.json (35 decisions)
+```mermaid
+flowchart TD
+    subgraph leg["Legislation"]
+        direction TB
+        PO["<b>Publications Office</b><br/>CELLAR REST API<br/><i>no auth required</i>"]
+        XHTML["XHTML with structured<br/>article IDs (art_1 … art_99)"]
+        FETCH["<b>fetch-eu-legislation.py</b><br/>Parse XHTML → extract articles<br/>Extract Recitals (rct_1 … rct_173)<br/>Build cross-reference maps<br/>Generate YAML frontmatter"]
+        ARTS["<code>library/grade-a/gdpr/</code><br/>art1.md … art99.md"]
+        RECS["<code>library/grade-a/gdpr-recitals/</code><br/>recital1.md … recital173.md"]
+        PO --> XHTML --> FETCH
+        FETCH --> ARTS
+        FETCH --> RECS
+    end
+
+    subgraph edpb["EDPB Documents"]
+        direction TB
+        EDPB_SRC["<b>edpb.europa.eu</b><br/>PDF download"]
+        MARK["<b>markitdown CLI</b><br/>PDF → Markdown"]
+        FRONT["<b>Frontmatter Generation</b><br/>keywords · GDPR articles<br/>topics · char_count"]
+        EDPB_OUT["<code>library/grade-a/edpb-guidelines/</code><br/><code>library/grade-a/edpb-opinions/</code><br/><code>library/grade-a/edpb-binding-decisions/</code>"]
+        EDPB_SRC --> MARK --> FRONT --> EDPB_OUT
+    end
+
+    subgraph idx["JSON Indexes"]
+        direction TB
+        BUILD["<b>build-indexes.py --type all</b>"]
+        IDXOUT["article-index.json · 321 articles<br/>recital-index.json · 173 recitals<br/>edpb-document-index.json · 120 docs<br/>case-index.json · 51 cases<br/>enforcement-index.json · 35 decisions"]
+        BUILD --> IDXOUT
+    end
+
+    ARTS --> BUILD
+    RECS --> BUILD
+    EDPB_OUT --> BUILD
+
+    style leg fill:#eff6ff,stroke:#2563eb,stroke-width:2px
+    style edpb fill:#eff6ff,stroke:#2563eb,stroke-width:2px
+    style idx fill:#f0fdf4,stroke:#16a34a,stroke-width:2px
+    style PO fill:#dbeafe,stroke:#3b82f6,color:#1e40af
+    style EDPB_SRC fill:#dbeafe,stroke:#3b82f6,color:#1e40af
+    style XHTML fill:#e0e7ff,stroke:#6366f1,color:#3730a3
+    style FETCH fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    style MARK fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    style FRONT fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    style BUILD fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    style ARTS fill:#d1fae5,stroke:#059669,color:#065f46
+    style RECS fill:#d1fae5,stroke:#059669,color:#065f46
+    style EDPB_OUT fill:#d1fae5,stroke:#059669,color:#065f46
+    style IDXOUT fill:#d1fae5,stroke:#059669,color:#065f46
 ```
 
 **Key design choice:** We use the EU Publications Office **CELLAR REST API** — not web scraping. A single HTTP request with `Accept: application/xhtml+xml` returns the full legislation text in structured XHTML with article-level IDs (`art_1`, `art_2`, ... `art_99`). No authentication required. No rate limiting issues for our scale. This is the same infrastructure that powers EUR-Lex itself.
@@ -262,7 +283,7 @@ flowchart TD
     subgraph web["Step 4: Multi-Layer Web Search <i>(if KB insufficient)</i>"]
         direction TB
         L1["<b>Layer 1 Official</b><br/>EUR-Lex · EDPB · CURIA · GDPRhub"]
-        L2["<b>Layer 2 Law Firms</b><br/>Freshfields · DLA Piper · Bird & Bird"]
+        L2["<b>Layer 2 Law Firms</b><br/>Major international firms"]
         L3["<b>Layer 3 Academic</b><br/>SSRN · EDPL · IDPL"]
         L1 --> L2 --> L3
     end
@@ -274,21 +295,24 @@ flowchart TD
         PA <--> PB
     end
 
-    FC["<b>Fact-Check Sub-Agent</b><br/>Verify every citation<br/>against KB originals"]
+    subgraph fc["Step 6: Fact-Check"]
+        FC["<b>Fact-Check Sub-Agent</b><br/>Verify every citation<br/>against KB originals"]
+    end
 
     O["<b>Verified Legal Opinion</b><br/>DOCX with citations & risk matrix<br/>EN + KR bilingual"]
 
     Q --> kb
     kb --> web
     web --> verify
-    verify --> FC
-    FC --> O
+    verify --> fc
+    fc --> O
 
     style Q fill:#ede9fe,stroke:#7c3aed,stroke-width:2px,color:#5b21b6
     style kb fill:#eff6ff,stroke:#2563eb,stroke-width:1px
     style web fill:#fefce8,stroke:#ca8a04,stroke-width:1px
     style verify fill:#fef2f2,stroke:#dc2626,stroke-width:1px
-    style FC fill:#fef2f2,stroke:#dc2626,stroke-width:1px
+    style fc fill:#fff7ed,stroke:#ea580c,stroke-width:1px
+    style FC fill:#fed7aa,stroke:#ea580c,color:#9a3412
     style O fill:#d1fae5,stroke:#059669,stroke-width:2px,color:#065f46
     style S1 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
     style S2 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
@@ -345,7 +369,7 @@ library/inbox/    <-- drop any file here (PDF, DOCX, HTML, etc.)
      |
      |-- 2. AUTO-CLASSIFY Grade (based on content signals)
      |       Grade A: Official sources (eur-lex.europa.eu, edpb.europa.eu, national DPA domains)
-     |       Grade B: Law firm analysis, court decisions (freshfields.com, linklaters.com)
+     |       Grade B: Law firm analysis, court decisions, DPA websites
      |       Grade C: Academic papers (SSRN, journals)
      |       Grade D: News, AI summaries -> REJECTED with warning
      |
@@ -454,16 +478,20 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ---
 
-## Part of the Legal AI Agent Family
+## Part of Project Pearl
 
-| Agent | Specialty | Status |
-|-------|-----------|--------|
-| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | Korean data privacy law (PIPA) | Live |
-| **GDPR-expert** | **EU data protection law (GDPR)** | **Live** |
-| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | Contract review | Live |
-| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | Game industry law | Live |
-| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | Legal research | Live |
-| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | Legal writing | Live |
+This agent is part of the **법무법인 진주 (Project Pearl)** series of specialized legal AI agents:
+
+| Agent | Attorney | Specialty |
+|-------|----------|-----------|
+| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 (Sim Jinju) | Game industry law |
+| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 (Byeon Hyeok-gi) | Legal translation |
+| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 (Kim Jaesik) | Legal research |
+| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 (Jeong Bo-ho) | Data privacy law (PIPA) |
+| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배 (Kim De Bruyne)** | **Data protection law (GDPR)** |
+| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 (Ko Duksoo) | Contract review |
+| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 (Han Seokbong) | Legal writing |
+| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 (Ban Seong-mun) | Quality review (Partner) |
 
 ---
 
