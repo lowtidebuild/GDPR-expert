@@ -88,3 +88,9 @@ No authentication required.
 - GDPR articles ↔ recitals bidirectional mappings (sourced from gdpr-info.eu)
 - All files have consistent YAML frontmatter schema, keywords, and source grading
 - Phase 6 pending: Agent refinement (ingest skill, legal opinion formatter)
+
+## Security
+
+- **NEVER** read, cat, print, or access `.env` files directly
+- **NEVER** output API keys, secrets, or credentials in responses
+- When debugging environment issues, ask the user to verify env vars are set — do not read them yourself
