@@ -1,6 +1,6 @@
 # GDPR Expert v1.0.0
 
-An AI agent that reads EU data protection law the way a lawyer would — article by article, cross-referencing Recitals, EDPB guidance, and CJEU case law — instead of dumping PDFs into a vector database.
+An AI agent that reads EU data protection law with article-by-article precision — cross-referencing Recitals, EDPB guidance, and CJEU case law — instead of dumping PDFs into a vector database.
 
 ## How It Works
 
@@ -23,7 +23,7 @@ All legal sources are collected from **official EU APIs** (not scraped), parsed 
 
 - **Structured data, not flat text** — each article is a file with YAML frontmatter (cross-references, keywords, source grade, effective date)
 - **Source authority grades** — Grade A (legislation, EDPB, CJEU) through D (excluded). Every citation is tagged
-- **9-source mandatory search** — the agent must search all source categories before writing an opinion. No cherry-picking
+- **9-source mandatory search** — the agent must search all source categories before drafting an analysis memo. No cherry-picking
 - **Built-in fact-checker** — a sub-agent verifies every legal citation against the knowledge base before output
 - **Multilingual** — English, Korean, German, French, Dutch, and other EU languages
 - **Expandable** — drop a PDF in `library/inbox/`, run `/ingest`, and it's classified, tagged, and indexed automatically
@@ -32,7 +32,7 @@ All legal sources are collected from **official EU APIs** (not scraped), parsed 
 
 A B2B SaaS processor wants to fine-tune an LLM on client data — can they rely on legitimate interest?
 
-→ [English opinion](https://docs.google.com/document/d/1D3jVVQLLaSgXXqvUGWEpoqeMYjOFwBe-/edit?usp=sharing) · [한국어 의견서](https://docs.google.com/document/d/1ImyHxEwdy30mw0N3BFnn9z8qxiK0JK0n/edit?usp=sharing)
+→ [English analysis memo](https://docs.google.com/document/d/1D3jVVQLLaSgXXqvUGWEpoqeMYjOFwBe-/edit?usp=sharing) · [한국어 분석 메모](https://docs.google.com/document/d/1ImyHxEwdy30mw0N3BFnn9z8qxiK0JK0n/edit?usp=sharing)
 
 ## Quick Start
 

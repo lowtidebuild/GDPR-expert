@@ -4,7 +4,7 @@
 
 # GDPR Expert
 
-### AI-Powered EU Data Protection Law Advisor
+### Jinju Legal Orchestrator · AI-Based EU Data Protection Workflow System
 
 **5 EU laws** · **321 articles + 535 recitals** · **120 EDPB documents** · **51 CJEU cases** · **1,060+ indexed items**
 
@@ -36,7 +36,7 @@ Powered by structured RAG · Built with [Claude Code](https://docs.anthropic.com
 >
 > **Covers:** Purpose limitation & controller/processor status · Three-part balancing test · EDPB position on AI training · Digital Omnibus Package impact
 
-[Read the full opinion](https://docs.google.com/document/d/1D3jVVQLLaSgXXqvUGWEpoqeMYjOFwBe-/edit?usp=sharing) · *AI-generated, not legal advice.*
+[Read the full analysis memo](https://docs.google.com/document/d/1D3jVVQLLaSgXXqvUGWEpoqeMYjOFwBe-/edit?usp=sharing) · *AI-generated, not legal advice.*
 
 ---
 
@@ -49,7 +49,7 @@ Existing AI legal assistants (ChatGPT Custom GPTs, Gemini Gems, etc.) treat EU l
 - **Source authority hierarchy** — an EDPB binding decision (Art. 65) carries legal force; a law firm newsletter does not. Generic RAG treats them identically
 - **Citation verifiability** — every legal citation must trace back to an exact provision. "Somewhere in the GDPR" is not a citation
 
-The result? Hallucinated article numbers, fabricated CJEU case holdings, and opinions that no privacy professional would rely on.
+The result? Hallucinated article numbers, fabricated CJEU case holdings, and analysis memos that no privacy professional would rely on.
 
 ---
 
@@ -68,7 +68,7 @@ graph TB
             direction LR
             KB["<b>Structured Knowledge Base</b><br/>1,060+ files · 5 laws · 120 EDPB docs<br/>51 CJEU cases · 1,060+ indexed"]
             WS["<b>Multi-Layer Web Search</b><br/>EUR-Lex · EDPB · CURIA<br/>Law Firms · Academic"]
-            DX["<b>DOCX Opinion Generator</b><br/>Professional Documents<br/>Multilingual (EN · KR · EU languages)"]
+            DX["<b>DOCX Analysis Memo Generator</b><br/>Professional Documents<br/>Multilingual (EN · KR · EU languages)"]
         end
 
         subgraph pipeline["Research Pipeline"]
@@ -90,7 +90,7 @@ graph TB
     end
 
     Q["User Question"] --> S1
-    S4 --> O["Verified Legal Opinion"]
+    S4 --> O["Verified Legal Analysis Memo"]
 
     style agent fill:#f8fafc,stroke:#1B2A4A,stroke-width:2px,color:#1B2A4A
     style core fill:#eef2ff,stroke:#4f46e5,stroke-width:1px
@@ -310,7 +310,7 @@ flowchart TD
         FC["<b>Fact-Check Sub-Agent</b><br/>Verify every citation<br/>against KB originals"]
     end
 
-    O["<b>Verified Legal Opinion</b><br/>DOCX with citations & risk matrix<br/>Multilingual"]
+    O["<b>Verified Legal Analysis Memo</b><br/>DOCX with citations & risk matrix<br/>Multilingual"]
 
     Q --> kb
     kb --> web
@@ -438,7 +438,7 @@ GDPR-expert/
 ├── config/                             # Grade definitions + RAG config
 ├── scripts/                            # Collection & processing scripts
 ├── .claude/agents/                     # Agent + fact-checker definitions
-└── output/opinions/                    # Generated DOCX opinions
+└── output/opinions/                    # Generated DOCX analysis memos
 ```
 
 ---
@@ -488,26 +488,26 @@ claude --agent .claude/agents/gdpr-agent.md
 "Analyze whether we can rely on legitimate interest for AI model training under Art. 6(1)(f)"
 "What did the CJEU say about automated decision-making in the SCHUFA case?"
 "Compare the breach notification requirements under GDPR vs. the Digital Omnibus proposal"
-"Draft a legal opinion on cross-border data transfers to the US — DOCX format, English and Korean"
+"Draft a legal analysis memo on cross-border data transfers to the US — DOCX format, English and Korean"
 "What are the EDPB's binding decisions on Meta and what fines were imposed?"
 ```
 
 ---
 
-## Part of Jinju Project
+## Part of Jinju Legal Orchestrator
 
-This agent is part of the **법무법인 진주 (Jinju Project)** series of specialized legal AI agents:
+This agent is part of the **Jinju Legal Orchestrator** series of specialized legal workflow agents:
 
-| Agent | Attorney | Specialty |
-|-------|----------|-----------|
-| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 (Sim Jinju) | Game industry law |
-| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 (Byeon Hyeok-gi) | Legal translation |
-| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 (Kim Jaesik) | Legal research |
-| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 (Jeong Bo-ho) | Data privacy law (PIPA) |
-| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배 (Kim De Bruyne)** | **Data protection law (GDPR)** |
-| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 (Ko Duksoo) | Contract review |
-| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 (Han Seokbong) | Legal writing |
-| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 (Ban Seong-mun) | Quality review (Partner) |
+| Agent | Name | Role |
+|-------|------|------|
+| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 (Sim Jinju) | Game industry specialist |
+| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 (Byeon Hyeok-gi) | Legal translation specialist |
+| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 (Kim Jaesik) | Research specialist |
+| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 (Jeong Bo-ho) | Privacy specialist |
+| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배 (Kim De Bruyne)** | **EU data protection specialist** |
+| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 (Ko Duksoo) | Contract specialist |
+| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 (Han Seokbong) | Legal drafting specialist |
+| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 (Ban Seong-mun) | Senior review specialist |
 
 ---
 

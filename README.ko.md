@@ -4,7 +4,7 @@
 
 # GDPR Expert
 
-### AI 기반 EU 데이터 보호법 전문 자문 시스템
+### Jinju Legal Orchestrator · AI 기반 EU 데이터 보호 워크플로우 시스템
 
 **5개 EU 법령** · **321개 조문 + 535개 전문(Recital)** · **120건 EDPB 문서** · **51건 CJEU 판례** · **1,060+ 인덱싱 항목**
 
@@ -36,7 +36,7 @@
 >
 > **검토 범위:** 목적 제한 원칙 및 컨트롤러/프로세서 지위 · 3단계 이익형량 테스트 · AI 학습 관련 EDPB 입장 · Digital Omnibus Package 영향
 
-[의견서 전문 보기](https://docs.google.com/document/d/1uQQQ3ih3_p5fF96AEOzDnaC8FRmPOugB/edit?usp=sharing&ouid=105178834220477378953&rtpof=true&sd=true) · *AI 생성 결과물이며, 법률 자문이 아닙니다.*
+[분석 메모 전문 보기](https://docs.google.com/document/d/1uQQQ3ih3_p5fF96AEOzDnaC8FRmPOugB/edit?usp=sharing&ouid=105178834220477378953&rtpof=true&sd=true) · *AI 생성 결과물이며, 법률 자문이 아닙니다.*
 
 ---
 
@@ -49,7 +49,7 @@
 - **소스 권위 계층** — EDPB 구속적 결정(Art. 65)은 법적 효력이 있고, 로펌 뉴스레터는 없음. 일반 RAG는 이를 동일하게 취급
 - **인용 검증 가능성** — 모든 법적 인용은 정확한 조항으로 추적 가능해야 함. "GDPR 어딘가에 있음"은 인용이 아님
 
-결과? 환각된 조문 번호, 조작된 CJEU 판결 요지, 어떤 프라이버시 전문가도 신뢰하지 않을 의견서.
+결과? 환각된 조문 번호, 조작된 CJEU 판결 요지, 어떤 프라이버시 전문가도 신뢰하지 않을 분석 메모.
 
 ---
 
@@ -68,7 +68,7 @@ graph TB
             direction LR
             KB["<b>구조화된 Knowledge Base</b><br/>1,060+ 파일 · 5개 법령 · 120 EDPB 문서<br/>51 CJEU 판례 · 1,060+ 인덱싱"]
             WS["<b>Multi-Layer 웹서치</b><br/>EUR-Lex · EDPB · CURIA<br/>로펌 · 학술"]
-            DX["<b>DOCX 의견서 생성</b><br/>전문 법률 문서<br/>다국어 (EN · KR · EU 언어)"]
+            DX["<b>DOCX 분석 메모 생성</b><br/>전문 법률 문서<br/>다국어 (EN · KR · EU 언어)"]
         end
 
         subgraph pipeline["리서치 파이프라인"]
@@ -90,7 +90,7 @@ graph TB
     end
 
     Q["사용자 질문"] --> S1
-    S4 --> O["검증된 법률 의견서"]
+    S4 --> O["검증된 법률 분석 메모"]
 
     style agent fill:#f8fafc,stroke:#1B2A4A,stroke-width:2px,color:#1B2A4A
     style core fill:#eef2ff,stroke:#4f46e5,stroke-width:1px
@@ -310,7 +310,7 @@ flowchart TD
         FC["<b>Fact-Check 서브에이전트</b><br/>모든 인용을 KB 원본과 대조"]
     end
 
-    O["<b>검증된 법률 의견서</b><br/>DOCX · 인용 체계 · 리스크 매트릭스<br/>다국어 (EN · KR · EU 언어)"]
+    O["<b>검증된 법률 분석 메모</b><br/>DOCX · 인용 체계 · 리스크 매트릭스<br/>다국어 (EN · KR · EU 언어)"]
 
     Q --> kb
     kb --> web
@@ -452,26 +452,26 @@ claude --agent .claude/agents/gdpr-agent.md
 "AI 모델 학습에 Art. 6(1)(f) legitimate interest를 적용할 수 있는지 분석해 줘"
 "SCHUFA 사건에서 CJEU가 자동화된 의사결정에 대해 뭐라고 했어?"
 "GDPR vs Digital Omnibus 제안의 위반 통지 요건 비교해 줘"
-"미국으로의 국제 데이터 이전에 대한 법률의견서 작성해 줘 — DOCX, 영어+한국어"
+"미국으로의 국제 데이터 이전에 대한 법률 분석 메모 작성해 줘 — DOCX, 영어+한국어"
 "Meta에 대한 EDPB 구속적 결정들과 부과된 과징금은?"
 ```
 
 ---
 
-## 법무법인 진주 (Jinju Project)
+## 진주 리걸 오케스트레이터 (Jinju Legal Orchestrator)
 
-**법무법인 진주** 소속 전문 법률 AI 에이전트 시리즈:
+**진주 리걸 오케스트레이터** 소속 전문 법률 워크플로우 에이전트 시리즈:
 
-| 에이전트 | 변호사 | 전문 분야 |
-|---------|--------|----------|
-| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 | 게임 산업법 |
-| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 | 법률 번역 |
-| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 | 법률 리서치 |
-| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 | 개인정보보호법 (PIPA) |
-| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배** | **데이터 보호법 (GDPR)** |
-| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 | 계약서 검토 |
-| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 | 법률 문서 작성 |
-| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 | 품질 리뷰 (파트너) |
+| 에이전트 | 이름 | 역할 |
+|---------|------|------|
+| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 | 게임 산업법 스페셜리스트 |
+| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 | 법률 번역 스페셜리스트 |
+| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 | 리서치 스페셜리스트 |
+| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 | 개인정보 스페셜리스트 |
+| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배** | **EU 데이터 보호 스페셜리스트** |
+| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 | 계약 스페셜리스트 |
+| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 | 법률 드래프팅 스페셜리스트 |
+| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 | 시니어 리뷰 스페셜리스트 |
 
 ---
 

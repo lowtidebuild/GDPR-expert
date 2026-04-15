@@ -10,3 +10,4 @@ output/opinions/*
 !output/opinions/.gitkeep
 BUILD-LOG.md
 DESIGN.md
+docs/notes/naming-transition-guide.md

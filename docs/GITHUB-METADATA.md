@@ -1,1 +1,1 @@
-AI-powered EU data protection law advisor. 5 EU laws (GDPR, ePrivacy, AI Act, Data Act, DGA) · 1,060 indexed legal sources · 120 EDPB documents · 51 CJEU cases. Structured RAG with fact-checking. Built for Claude Code.
+Jinju Legal Orchestrator specialist for EU data protection workflows. 5 EU laws (GDPR, ePrivacy, AI Act, Data Act, DGA) · 1,060 indexed legal sources · 120 EDPB documents · 51 CJEU cases. Structured RAG with fact-checking. Built for Claude Code.
