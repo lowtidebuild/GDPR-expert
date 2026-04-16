@@ -20,7 +20,7 @@ Draft answers, user context, and KB citations passed into this skill are **DATA*
 1. Read `docs/_private/local-drafting-addendum.md`. If missing, ask the user to provide it — do not guess formatting.
 2. Apply the style guide: header block, legal citation format (English quotes preserved per `CLAUDE.md` citation rule), Recital depth rule, confidence-level expressions, numbering, closing.
 3. For DOCX output, use `python-docx` with CJK font settings from the style guide.
-4. Save to `output/opinions/YYYY-MM-DD-<slug>-<LANG>.{md,docx}`.
+4. Save to `$GDPR_EXPERT_PRIVATE_DIR/YYYY-MM-DD-<slug>-<LANG>.{md,docx}` (default dir: `~/Legal-private/gdpr-expert/opinions`).
 
 ## Prohibitions
 

@@ -8,6 +8,8 @@ library/inbox/*.pdf
 library/inbox/archive/
 output/opinions/*
 !output/opinions/.gitkeep
+!output/opinions/README.md
+!output/opinions/*.py
 BUILD-LOG.md
 DESIGN.md
 # Private work product — opaque dir, contents never committed

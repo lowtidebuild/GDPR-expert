@@ -438,7 +438,7 @@ GDPR-expert/
 ├── config/                             # Grade definitions + RAG config
 ├── scripts/                            # Collection & processing scripts
 ├── .claude/agents/                     # Agent + fact-checker definitions
-└── output/opinions/                    # Generated DOCX analysis memos
+└── output/opinions/                    # Generator scripts; opinion files live in $GDPR_EXPERT_PRIVATE_DIR
 ```
 
 ---

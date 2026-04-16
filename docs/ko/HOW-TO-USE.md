@@ -107,7 +107,7 @@ claude --agent .claude/agents/gdpr-agent.md
 1. 전체 Knowledge Base 검색 (법령, 가이드라인, 판례)
 2. 검증된 인용이 포함된 구조화된 의견서 초안 작성
 3. 팩트체커로 모든 법적 인용 검증
-4. 전문적인 DOCX 파일을 `output/opinions/`에 저장
+4. 전문적인 DOCX 파일을 `$GDPR_EXPERT_PRIVATE_DIR`(기본값: `~/Legal-private/gdpr-expert/opinions`)에 저장
 
 ### 다국어 의견서
 

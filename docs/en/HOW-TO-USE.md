@@ -107,7 +107,7 @@ The agent will:
 1. Research across the full knowledge base (legislation, guidelines, case law)
 2. Draft a structured opinion with verified citations
 3. Run the fact-checker to verify every legal reference
-4. Generate a professional DOCX file saved to `output/opinions/`
+4. Generate a professional DOCX file saved to `$GDPR_EXPERT_PRIVATE_DIR` (default: `~/Legal-private/gdpr-expert/opinions`)
 
 ### Multilingual Opinions
 
