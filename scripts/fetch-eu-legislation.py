@@ -24,6 +24,10 @@ from html.parser import HTMLParser
 from pathlib import Path
 from textwrap import dedent
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from sanitize import sanitize_text
+
 # ─── Configuration ───────────────────────────────────────────────────────────
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -306,6 +310,7 @@ def write_article_md(article: dict, law_config: dict, output_dir: Path) -> Path:
     """Write a single article as markdown with YAML frontmatter."""
     num = article["num"]
     filepath = output_dir / f"art{num}.md"
+    body_text, audit = sanitize_text(article["body"])
 
     frontmatter = {
         "law": law_config["name"],
@@ -355,9 +360,19 @@ def write_article_md(article: dict, law_config: dict, output_dir: Path) -> Path:
 
     content = "\n".join(yaml_lines)
     content += f"\n\n## Article {num} — {article['title']}\n\n"
-    content += article["body"] + "\n"
+    content += body_text + "\n"
 
     filepath.write_text(content, encoding="utf-8")
+    if audit:
+        audit_path = filepath.with_suffix(filepath.suffix + ".audit.json")
+        audit_path.write_text(
+            json.dumps(
+                {"source": law_config["celex"], "matches": audit},
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
     return filepath
 
 
@@ -365,6 +380,7 @@ def write_recital_md(recital: dict, law_config: dict, output_dir: Path) -> Path:
     """Write a single recital as markdown with YAML frontmatter."""
     num = recital["num"]
     filepath = output_dir / f"recital{num}.md"
+    body_text, audit = sanitize_text(recital["body"])
 
     yaml_lines = ["---"]
     yaml_lines.append(f'# === Identification ===')
@@ -386,9 +402,19 @@ def write_recital_md(recital: dict, law_config: dict, output_dir: Path) -> Path:
 
     content = "\n".join(yaml_lines)
     content += f"\n\n## Recital {num}\n\n"
-    content += recital["body"] + "\n"
+    content += body_text + "\n"
 
     filepath.write_text(content, encoding="utf-8")
+    if audit:
+        audit_path = filepath.with_suffix(filepath.suffix + ".audit.json")
+        audit_path.write_text(
+            json.dumps(
+                {"source": law_config["celex"], "matches": audit},
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
     return filepath
 
 

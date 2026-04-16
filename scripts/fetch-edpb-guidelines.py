@@ -18,6 +18,10 @@ import urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from sanitize import sanitize_text
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 CATALOG_PATH = BASE_DIR / "library" / "edpb_documents_catalog.json"
 PDF_DIR = BASE_DIR / "library" / "inbox" / "edpb-pdfs"
@@ -201,10 +205,21 @@ def process_document(doc: dict, stats: dict):
     # Assess quality
     quality = assess_quality(md_content)
 
+    # Sanitize markitdown output before it touches the KB.
+    md_content, audit = sanitize_text(md_content)
+
     # Generate frontmatter + write
     frontmatter = generate_frontmatter(doc, md_content, quality)
     full_content = frontmatter + "\n\n" + md_content
     md_path.write_text(full_content, encoding="utf-8")
+
+    if audit:
+        audit_path = md_path.with_suffix(md_path.suffix + ".audit.json")
+        audit_path.write_text(
+            json.dumps({"source": str(pdf_path), "matches": audit}, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        logging.warning(f"[{doc_id}] Injection patterns sanitized: {len(audit)} match(es) -> {audit_path.name}")
 
     stats["success"] += 1
     stats["by_quality"][quality] = stats["by_quality"].get(quality, 0) + 1
