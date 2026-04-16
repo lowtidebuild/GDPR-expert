@@ -30,14 +30,6 @@
 > [!TIP]
 > **처음이신가요?** **[사용 가이드](docs/ko/HOW-TO-USE.md)**를 읽어보세요 — 기술 배경 지식이 필요 없습니다. **[How to Use (English)](docs/en/HOW-TO-USE.md)**
 
-### 결과물 예시
-
-> **시나리오:** B2B SaaS 기업(Art. 28 데이터 처리자)이 고객 조달 데이터로 LLM을 파인튜닝하려 합니다. 정당한 이익(Art. 6(1)(f))을 적법 근거로 삼을 수 있을까요?
->
-> **검토 범위:** 목적 제한 원칙 및 컨트롤러/프로세서 지위 · 3단계 이익형량 테스트 · AI 학습 관련 EDPB 입장 · Digital Omnibus Package 영향
-
-[분석 메모 전문 보기](https://docs.google.com/document/d/1uQQQ3ih3_p5fF96AEOzDnaC8FRmPOugB/edit?usp=sharing&ouid=105178834220477378953&rtpof=true&sd=true) · *AI 생성 결과물이며, 법률 자문이 아닙니다.*
-
 ---
 
 ## 문제 인식

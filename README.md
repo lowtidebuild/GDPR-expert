@@ -30,14 +30,6 @@ Powered by structured RAG · Built with [Claude Code](https://docs.anthropic.com
 > [!TIP]
 > **New here?** Read the **[How to Use Guide](docs/en/HOW-TO-USE.md)** — no technical background required. **[사용 가이드 (한국어)](docs/ko/HOW-TO-USE.md)**
 
-### Sample Output
-
-> **Scenario:** A B2B SaaS processor (Art. 28) wants to fine-tune an LLM on client procurement data. Can they rely on legitimate interest (Art. 6(1)(f))?
->
-> **Covers:** Purpose limitation & controller/processor status · Three-part balancing test · EDPB position on AI training · Digital Omnibus Package impact
-
-[Read the full analysis memo](https://docs.google.com/document/d/1D3jVVQLLaSgXXqvUGWEpoqeMYjOFwBe-/edit?usp=sharing) · *AI-generated, not legal advice.*
-
 ---
 
 ## The Problem
