@@ -50,7 +50,7 @@ Example: query Article 6 and you automatically get Recitals 39-50, 171 — the f
 
 ### Documentation
 
-- New: [Quality Audit Playbook](docs/quality-audit-playbook.md) — reusable 4-phase audit process
+- New: internal quality audit playbook (private, local-only) — reusable 4-phase audit process
 - README (EN/KO): Claude Code & Codex attribution, updated counts
 - All file counts synchronized across README, CLAUDE.md, agent definition, release notes
 
@@ -73,7 +73,7 @@ This release was produced by a three-layer review:
 2. **Claude Opus** — 3 batches of parallel agents + scripts fixed all 17 issues (713 files changed)
 3. **OpenAI Codex 5.4** — independent blind audit found 7 additional issues, then remediated them
 
-The [Quality Audit Playbook](docs/quality-audit-playbook.md) documents this process for reuse.
+An internal quality audit playbook documents this process for reuse.
 
 ## Quick Start
 

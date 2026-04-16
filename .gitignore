@@ -10,9 +10,5 @@ output/opinions/*
 !output/opinions/.gitkeep
 BUILD-LOG.md
 DESIGN.md
-docs/*style-guide*.md
-docs/GITHUB-METADATA.md
-docs/next-session-remediation-handoff.md
-docs/quality-audit-playbook.md
-docs/quality-remediation-checklist.md
-docs/notes/naming-transition-guide.md
+# Private work product — opaque dir, contents never committed
+docs/_private/

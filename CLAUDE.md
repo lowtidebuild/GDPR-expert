@@ -73,7 +73,7 @@ No authentication required.
 
 ## Local Drafting Addendum
 
-한국어 법률 분석 메모(Memorandum) 생성 시 반드시 `docs/_private/local-drafting-addendum.md`를 읽고 따를 것.
+한국어 법률 분석 메모(Memorandum) 생성 시 반드시 `docs/_private/local-drafting-addendum.md` (로컬 전용, repo에 커밋되지 않음)를 읽고 따를 것. 파일이 없으면 사용자에게 제공 요청.
 
 - 문서 구조, 헤더/정보 블록, 법령 인용 형식, 판례 인용 형식, 정의 용어 관례, 문체/어조, 확신도 표현, 번호 매김, 종결부, 타이포그래피 등 전체 규칙 포함
 - 전문 문서 작성 품질 기준
