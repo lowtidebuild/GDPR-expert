@@ -4,7 +4,7 @@
 
 # GDPR Expert
 
-### Jinju Legal Orchestrator · AI-Based EU Data Protection Workflow System
+### KP Legal Orchestrator · AI-Based EU Data Protection Workflow System
 
 **5 EU laws** · **321 articles + 535 recitals** · **120 EDPB documents** · **51 CJEU cases** · **1,060+ indexed items**
 
@@ -486,20 +486,20 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ---
 
-## Part of Jinju Legal Orchestrator
+## Part of KP Legal Orchestrator
 
-This agent is part of the **Jinju Legal Orchestrator** series of specialized legal workflow agents:
+This agent is part of the **KP Legal Orchestrator** series of specialized legal workflow agents:
 
-| Agent | Name | Role |
-|-------|------|------|
-| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 (Sim Jinju) | Game industry specialist |
-| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 (Byeon Hyeok-gi) | Legal translation specialist |
-| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 (Kim Jaesik) | Research specialist |
-| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 (Jeong Bo-ho) | Privacy specialist |
-| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배 (Kim De Bruyne)** | **EU data protection specialist** |
-| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 (Ko Duksoo) | Contract specialist |
-| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 (Han Seokbong) | Legal drafting specialist |
-| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 (Ban Seong-mun) | Senior review specialist |
+| Agent | Public Role | Focus |
+|-------|-------------|-------|
+| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | Game Industry Specialist | Game industry law research |
+| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | Legal Translation Specialist | Legal translation workflows |
+| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | General Legal Research Specialist | Broad legal research |
+| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | Privacy Law Specialist | Korean privacy law |
+| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **EU Data Protection Specialist** | **GDPR, ePrivacy, AI Act, and DGA analysis** |
+| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | Contract Review Specialist | Contract analysis |
+| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | Legal Drafting Specialist | Drafting and redline workflows |
+| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | Senior Review Specialist | Second-pass review and QA |
 
 ---
 
@@ -512,5 +512,5 @@ Apache 2.0
 <div align="center">
 <sub>Built with structured data, not blind faith in embeddings.</sub>
 <br/>
-<sub>See more projects at <a href="https://lowtidebuild.github.io/github-folio/">lowtidebuild.github.io/github-folio</a></sub>
+<sub>Explore the companion repositories above for adjacent legal workflow coverage.</sub>
 </div>

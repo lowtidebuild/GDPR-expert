@@ -33,7 +33,7 @@ This creates a `GDPR-expert` folder with all the legal data and agent files.
 
 ### If you don't have Git
 
-1. Go to [github.com/lowtidebuild/GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)
+1. Go to [the GDPR-expert repository page](https://github.com/lowtidebuild/GDPR-expert)
 2. Click the green **"Code"** button
 3. Click **"Download ZIP"**
 4. Unzip the downloaded file to a folder of your choice (e.g., `Documents/GDPR-expert`)

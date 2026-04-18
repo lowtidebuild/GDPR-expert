@@ -33,7 +33,7 @@ git clone https://github.com/lowtidebuild/GDPR-expert.git
 
 ### Git이 없는 경우
 
-1. [github.com/lowtidebuild/GDPR-expert](https://github.com/lowtidebuild/GDPR-expert) 접속
+1. [GDPR-expert 저장소 페이지](https://github.com/lowtidebuild/GDPR-expert) 접속
 2. 초록색 **"Code"** 버튼 클릭
 3. **"Download ZIP"** 클릭
 4. 다운로드한 파일을 원하는 폴더에 압축 해제 (예: `Documents/GDPR-expert`)

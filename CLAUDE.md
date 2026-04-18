@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-based EU data protection workflow agent — GDPR, ePrivacy Directive, EU AI Act, Data Act, and Data Governance Act. Part of Jinju Legal Orchestrator and built on the same architecture as PIPA-expert (Korean privacy law agent).
+AI-based EU data protection workflow agent — GDPR, ePrivacy Directive, EU AI Act, Data Act, and Data Governance Act. Part of KP Legal Orchestrator and built on the same architecture as PIPA-expert (Korean privacy law agent).
 
 ## Architecture
 

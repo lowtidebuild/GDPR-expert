@@ -4,7 +4,7 @@
 
 # GDPR Expert
 
-### Jinju Legal Orchestrator · AI 기반 EU 데이터 보호 워크플로우 시스템
+### KP Legal Orchestrator · AI 기반 EU 데이터 보호 워크플로우 시스템
 
 **5개 EU 법령** · **321개 조문 + 535개 전문(Recital)** · **120건 EDPB 문서** · **51건 CJEU 판례** · **1,060+ 인덱싱 항목**
 
@@ -450,20 +450,20 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ---
 
-## 진주 리걸 오케스트레이터 (Jinju Legal Orchestrator)
+## KP Legal Orchestrator
 
-**진주 리걸 오케스트레이터** 소속 전문 법률 워크플로우 에이전트 시리즈:
+**KP Legal Orchestrator** 소속 전문 법률 워크플로우 에이전트 시리즈:
 
-| 에이전트 | 이름 | 역할 |
-|---------|------|------|
-| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 심진주 | 게임 산업법 스페셜리스트 |
-| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 변혁기 | 법률 번역 스페셜리스트 |
-| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 김재식 | 리서치 스페셜리스트 |
-| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 정보호 | 개인정보 스페셜리스트 |
-| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **김덕배** | **EU 데이터 보호 스페셜리스트** |
-| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 고덕수 | 계약 스페셜리스트 |
-| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 한석봉 | 법률 드래프팅 스페셜리스트 |
-| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 반성문 | 시니어 리뷰 스페셜리스트 |
+| 에이전트 | 공개 역할 | 담당 영역 |
+|---------|-----------|-----------|
+| [game-legal-research](https://github.com/lowtidebuild/game-legal-research) | 게임 산업법 스페셜리스트 | 게임 산업법 리서치 |
+| [legal-translation-agent](https://github.com/lowtidebuild/legal-translation-agent) | 법률 번역 스페셜리스트 | 법률 번역 워크플로우 |
+| [general-legal-research](https://github.com/lowtidebuild/general-legal-research) | 일반 법률 리서치 스페셜리스트 | 범용 법률 조사 |
+| [PIPA-expert](https://github.com/lowtidebuild/PIPA-expert) | 개인정보 스페셜리스트 | 국내 개인정보보호법 분석 |
+| **[GDPR-expert](https://github.com/lowtidebuild/GDPR-expert)** | **EU 데이터 보호 스페셜리스트** | **GDPR, ePrivacy, AI Act, DGA 분석** |
+| [contract-review-agent](https://github.com/lowtidebuild/contract-review-agent) | 계약 검토 스페셜리스트 | 계약 분석 |
+| [legal-writing-agent](https://github.com/lowtidebuild/legal-writing-agent) | 법률 작성 스페셜리스트 | 드래프팅 및 레드라인 워크플로우 |
+| [second-review-agent](https://github.com/lowtidebuild/second-review-agent) | 시니어 리뷰 스페셜리스트 | 2차 검토 및 QA |
 
 ---
 
@@ -476,5 +476,5 @@ Apache 2.0
 <div align="center">
 <sub>임베딩에 대한 맹신이 아니라, 구조화된 데이터 위에 세워졌습니다.</sub>
 <br/>
-<sub>다른 프로젝트 보기: <a href="https://lowtidebuild.github.io/github-folio/">lowtidebuild.github.io/github-folio</a></sub>
+<sub>인접한 법률 워크플로우는 위의 연계 저장소에서 확인할 수 있습니다.</sub>
 </div>
