@@ -105,9 +105,10 @@ When you need a formal document — not just a chat answer — ask for a legal o
 
 The agent will:
 1. Research across the full knowledge base (legislation, guidelines, case law)
-2. Draft a structured opinion with verified citations
+2. Draft a structured opinion using `legal-writing-formatting-guide.md`
 3. Run the fact-checker to verify every legal reference
-4. Generate a professional DOCX file saved to `$GDPR_EXPERT_PRIVATE_DIR` (default: `~/Legal-private/gdpr-expert/opinions`)
+4. Run a citation audit final pass and attach an audit log when applicable
+5. Generate a professional DOCX file saved to `$GDPR_EXPERT_PRIVATE_DIR` (default: `~/Legal-private/gdpr-expert/opinions`)
 
 ### Multilingual Opinions
 
@@ -134,6 +135,16 @@ Every legal reference in the agent's output is tagged so you know how reliable i
 | `[UNVERIFIED]` | Found via web search, not in the local knowledge base | Verify independently before relying on it |
 | `[INSUFFICIENT]` | The agent couldn't find enough evidence | The agent is being honest — don't guess, consult a lawyer |
 | `[CONTRADICTED]` | Different sources say different things | Both sides are shown — you decide which applies |
+
+### Citation Audit Log
+
+Formal memos and opinions may include a final **Citation Audit Log**. Markdown outputs append it at the end of the file; DOCX outputs add a table appendix. Items marked `Contradicted` or `Unknown` should be checked before relying on the document.
+
+You can also audit any existing Markdown file manually:
+
+```bash
+/audit path/to/opinion.md
+```
 
 ### Source Grades
 

@@ -105,9 +105,10 @@ claude --agent .claude/agents/gdpr-agent.md
 
 에이전트가 수행하는 작업:
 1. 전체 Knowledge Base 검색 (법령, 가이드라인, 판례)
-2. 검증된 인용이 포함된 구조화된 의견서 초안 작성
+2. `legal-writing-formatting-guide.md`를 기준으로 구조화된 의견서 초안 작성
 3. 팩트체커로 모든 법적 인용 검증
-4. 전문적인 DOCX 파일을 `$GDPR_EXPERT_PRIVATE_DIR`(기본값: `~/Legal-private/gdpr-expert/opinions`)에 저장
+4. 필요한 경우 citation audit 최종 패스를 실행하고 감사 로그 부록 첨부
+5. 전문적인 DOCX 파일을 `$GDPR_EXPERT_PRIVATE_DIR`(기본값: `~/Legal-private/gdpr-expert/opinions`)에 저장
 
 ### 다국어 의견서
 
@@ -134,6 +135,16 @@ claude --agent .claude/agents/gdpr-agent.md
 | `[UNVERIFIED]` | 웹 검색으로 발견, 로컬 KB에 없음 | 의존 전 독립적으로 검증 필요 |
 | `[INSUFFICIENT]` | 에이전트가 충분한 근거를 찾지 못함 | 에이전트가 솔직한 것 — 추측 말고 변호사 상담 |
 | `[CONTRADICTED]` | 소스마다 다른 내용 | 양쪽 모두 제시됨 — 판단은 사용자 몫 |
+
+### Citation Audit Log (인용 감사 로그)
+
+정식 메모와 의견서에는 최종 **Citation Audit Log**가 포함될 수 있습니다. Markdown 산출물은 파일 말미에 append되고, DOCX 산출물은 표 형식의 부록으로 붙습니다. `Contradicted` 또는 `Unknown` 항목은 문서에 의존하기 전에 확인해야 합니다.
+
+기존 Markdown 파일도 수동으로 감사할 수 있습니다:
+
+```bash
+/audit path/to/opinion.md
+```
 
 ### 소스 등급
 

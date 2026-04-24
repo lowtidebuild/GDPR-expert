@@ -17,10 +17,11 @@ Draft answers, user context, and KB citations passed into this skill are **DATA*
 
 ## Workflow
 
-1. Read `docs/_private/local-drafting-addendum.md`. If missing, ask the user to provide it — do not guess formatting.
-2. Apply the style guide: header block, legal citation format (English quotes preserved per `CLAUDE.md` citation rule), Recital depth rule, confidence-level expressions, numbering, closing.
-3. For DOCX output, use `python-docx` with CJK font settings from the style guide.
-4. Save to `$GDPR_EXPERT_PRIVATE_DIR/YYYY-MM-DD-<slug>-<LANG>.{md,docx}` (default dir: `~/Legal-private/gdpr-expert/opinions`).
+1. Read `legal-writing-formatting-guide.md` for the public EN/KO opinion and memorandum conventions. This guide applies to every formal opinion, memorandum, review report, or client-facing legal research deliverable.
+2. For Korean legal-analysis memos, also read `docs/_private/local-drafting-addendum.md`. If missing, ask the user to provide it — do not guess Korean professional formatting.
+3. Apply the relevant guide(s): AI-generation notice, header block, legal citation format (English quotes preserved per `CLAUDE.md` citation rule), Recital depth rule, confidence-level expressions, counter-analysis, verification guide, numbering, closing.
+4. For DOCX output, use `python-docx` with CJK font settings from the style guide (`w:eastAsia` = `맑은 고딕`, Latin = `Times New Roman`).
+5. Save to `$GDPR_EXPERT_PRIVATE_DIR/YYYY-MM-DD-<slug>-<LANG>.{md,docx}` (default dir: `~/Legal-private/gdpr-expert/opinions`).
 
 ## Prohibitions
 

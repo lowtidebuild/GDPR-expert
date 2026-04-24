@@ -2,6 +2,8 @@
 
 **[English](README.md)** · **[한국어](#gdpr-expert)**
 
+> Latest release: **[v1.3.0 — Citation Audit + DOCX Appendix](docs/RELEASE-v1.3.0.md)**
+
 # GDPR Expert
 
 ### KP Legal Orchestrator · AI 기반 EU 데이터 보호 워크플로우 시스템
@@ -275,7 +277,7 @@ that at least one of the following applies...
 flowchart TD
     Q["<b>사용자 질문</b>"]
 
-    subgraph kb["Step 1-3: 필수 검색 범위"]
+    subgraph kb["KB 검색: 필수 소스 범위"]
         direction TB
         S1["<b>조문 검색</b><br/>5개 법령 디렉토리 grep<br/>+ cross_references 추적"]
         S2["<b>Recital 탐색</b><br/>인용된 각 조문에 대해<br/>관련 Recital grep"]
@@ -283,7 +285,7 @@ flowchart TD
         S1 --> S2 --> S3
     end
 
-    subgraph web["Step 4: Multi-Layer 웹서치 <i>(KB 부족 시)</i>"]
+    subgraph web["Multi-Layer 웹서치 <i>(KB 부족 시)</i>"]
         direction TB
         L1["<b>Layer 1 공식</b><br/>EUR-Lex · EDPB · CURIA · GDPRhub"]
         L2["<b>Layer 2 로펌</b><br/>주요 국제 로펌"]
@@ -298,11 +300,13 @@ flowchart TD
         PA <--> PB
     end
 
-    subgraph fc["Step 6: Fact-Check"]
+    subgraph fc["검증 레이어"]
         FC["<b>Fact-Check 서브에이전트</b><br/>모든 인용을 KB 원본과 대조"]
+        CA["<b>Citation Audit</b><br/>Markdown append-mode<br/>DOCX 감사 부록"]
+        FC --> CA
     end
 
-    O["<b>검증된 법률 분석 메모</b><br/>DOCX · 인용 체계 · 리스크 매트릭스<br/>다국어 (EN · KR · EU 언어)"]
+    O["<b>검증된 법률 분석 메모</b><br/>DOCX/Markdown · 인용 체계<br/>리스크 매트릭스 · 감사 부록"]
 
     Q --> kb
     kb --> web
@@ -316,6 +320,7 @@ flowchart TD
     style verify fill:#fef2f2,stroke:#dc2626,stroke-width:1px
     style fc fill:#fff7ed,stroke:#ea580c,stroke-width:1px
     style FC fill:#fed7aa,stroke:#ea580c,color:#9a3412
+    style CA fill:#fed7aa,stroke:#ea580c,color:#9a3412
     style O fill:#d1fae5,stroke:#059669,stroke-width:2px,color:#065f46
     style S1 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
     style S2 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
@@ -336,6 +341,10 @@ flowchart TD
 | `[INSUFFICIENT]` | 근거 부족 — 추측하지 않고 빈칸 |
 | `[CONTRADICTED]` | 소스 간 모순 — 양쪽 모두 제시 |
 
+### Legal Writing Style Guide
+
+정식 의견서와 메모는 [`legal-writing-formatting-guide.md`](legal-writing-formatting-guide.md)를 따릅니다. 이 가이드는 EN/KO 의견서 구조, 문체, 확신도 표현, 인용 밀도, AI 생성 고지, 검증 가이드, 출력 모드별 형식 규칙을 정의합니다.
+
 ---
 
 ## Fact-Check 레이어 (환각 방지)
@@ -353,6 +362,23 @@ flowchart TD
 | 웹소스 신뢰도 | 신뢰 도메인 목록 대조 | Grade 다운그레이드 |
 
 **신뢰도 임계값:** 70% 미만이면 FAIL 항목을 수정하고 재검증 후 출력합니다. 핵심 결론에 영향을 주는 인용은 검증 없이 출력하지 않습니다.
+
+---
+
+## Citation Audit (인용 감사)
+
+이 저장소에는 사실·인용 기반 클레임을 사후 검증하는 `citation-auditor`가 포함되어 있습니다.
+
+두 가지 방식으로 사용할 수 있습니다:
+
+- **자동 memo/opinion 최종 패스** — 법률의견서, 메모, DOCX 문서, 종합 분석 산출물에는 fact-check 이후 추가 최종 감사가 실행됩니다. Markdown 산출물에는 `Citation Audit Log`가 append되고, DOCX 산출물은 동일한 aggregated audit JSON을 `scripts/docx_citation_appendix.py`로 소비하여 스타일된 감사 표를 부록으로 붙입니다.
+- **스탠드얼론 `/audit` 명령** — 기존 Markdown 파일에 바로 감사 실행:
+
+```bash
+/audit path/to/opinion.md
+```
+
+auditor는 Markdown을 청크로 나누고, 검증 가능한 사실·인용 클레임을 추출한 뒤 verifier skill(`eu-law`, `korean-law`, `us-law`, `uk-law`, `scholarly`, `wikipedia`, `general-web`)로 라우팅하여 `verified`, `contradicted`, `unknown` 판정을 렌더링합니다.
 
 ---
 
@@ -409,13 +435,14 @@ library/inbox/    <-- 아무 파일이나 드롭 (PDF, DOCX, HTML 등)
 - Python 3.10+
 - `python-docx` (`pip install python-docx`)
 - `markitdown` (PDF ingest용: `pip install markitdown`)
+- citation-auditor 의존성 (`pip install -r requirements.txt`)
 
 ### 설치
 
 ```bash
 git clone https://github.com/lowtidebuild/GDPR-expert.git
 cd GDPR-expert
-pip install python-docx markitdown
+pip install -r requirements.txt python-docx markitdown
 ```
 
 ### 법령 데이터 갱신

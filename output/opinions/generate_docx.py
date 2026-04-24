@@ -3,6 +3,7 @@
 
 import re
 import os
+import sys
 from pathlib import Path
 from docx import Document
 from docx.shared import Pt, Inches, Cm, RGBColor
@@ -11,6 +12,9 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 
 DEFAULT_OUTPUT_DIR = Path.home() / "Legal-private" / "gdpr-expert" / "opinions"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 
 
 def get_output_dir() -> Path:
@@ -112,13 +116,20 @@ def add_title_page(doc, title, subtitle, date, author, recipient, lang='en'):
     doc.add_page_break()
 
 
-def parse_md_to_docx(md_path, docx_path, lang='en'):
+def parse_md_to_docx(md_path, docx_path, lang='en', audit_json_path=None):
     """Parse markdown and create a styled DOCX document."""
     doc = Document()
     style_document(doc)
 
-    with open(md_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    md_path = Path(md_path)
+    audit_data = load_optional_citation_audit(md_path, audit_json_path)
+
+    body_markdown = md_path.read_text(encoding='utf-8')
+    if audit_data is not None:
+        from scripts.docx_citation_appendix import inject_unverified_tags
+        body_markdown = inject_unverified_tags(body_markdown, audit_data)
+
+    lines = body_markdown.splitlines(keepends=True)
 
     # Title page
     if lang == 'en':
@@ -321,8 +332,25 @@ def parse_md_to_docx(md_path, docx_path, lang='en'):
                         run = p.add_run(cell_text)
                         run.font.size = Pt(10)
 
+    if audit_data is not None:
+        from scripts.docx_citation_appendix import append_citation_audit_log
+        append_citation_audit_log(doc, audit_data)
+
     doc.save(str(docx_path))
     print(f'Generated: {docx_path}')
+
+
+def load_optional_citation_audit(md_path, audit_json_path=None):
+    """Load citation-auditor aggregate JSON when present; otherwise no-op."""
+    if audit_json_path is None:
+        candidate = Path(md_path).with_suffix('.aggregated.json')
+    else:
+        candidate = Path(audit_json_path)
+    if not candidate.exists():
+        return None
+
+    from scripts.docx_citation_appendix import load_aggregated
+    return load_aggregated(candidate)
 
 
 def add_formatted_text(paragraph, text):

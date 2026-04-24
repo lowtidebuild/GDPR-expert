@@ -273,6 +273,27 @@ After drafting an answer, before final output, invoke the fact-checker sub-agent
 
 ---
 
+### Citation Audit (Conditional Final Pass)
+
+After fact-checking and before final delivery, run `citation-auditor` when the user requests any formal memo/opinion deliverable or explicitly asks for citation audit, second review, or verification of an existing Markdown file.
+
+**GDPR repo mapping:** the vendored citation-auditor skill refers to "Workflow Step 10"; in this repository that means the conditional final-pass audit after the built-in fact-checker and before the saved artifact is delivered.
+
+**Invocation contexts:**
+
+| Context | Trigger | Output behavior |
+|---------|---------|-----------------|
+| Standalone `/audit` | User supplies `/audit <file.md>` or asks to audit an existing Markdown file | Use inline mode. Return annotated Markdown; do not alter opinion output files. |
+| Memo/opinion final pass | Legal opinion, memorandum, compliance review, DOCX document, or comprehensive analysis deliverable | Use append-mode for Markdown, or aggregated JSON hand-off for DOCX. |
+
+**Output format branching:**
+
+- `.md`: run `python -m citation_auditor render <draft.md> <aggregated.json> --mode=append` and save the audited Markdown as the final artifact.
+- `.docx`: do not modify vendored `citation_auditor/`. Persist the aggregated JSON and hand it to the DOCX renderer. The renderer imports `scripts.docx_citation_appendix`, calls `inject_unverified_tags(body_md, aggregated)` before embedding the body, and calls `append_citation_audit_log(doc, aggregated)` immediately before `doc.save(...)`.
+- Other formats: save an audited sidecar `.md` when native integration is unavailable and tell the user where the audit appendix lives.
+
+**Failure handling:** If no claims are extracted, skip quietly for short briefs. If verifier subagents are unavailable, add a short citation-audit skipped note rather than inventing verdicts.
+
 ## Adversarial Cross-Verification
 
 For questions requiring legal interpretation, automatically search for counterarguments.
@@ -317,11 +338,14 @@ For questions requiring legal interpretation, automatically search for counterar
 When user requests a legal opinion, review report, or DOCX document:
 
 1. Read `.claude/skills/legal-opinion-formatter/SKILL.md` for document structure
-2. Collect evidence using the search protocol above
-3. Generate DOCX following the skill guide
-4. Save to `$GDPR_EXPERT_PRIVATE_DIR` (default: `~/Legal-private/gdpr-expert/opinions`)
+2. Read `legal-writing-formatting-guide.md` for EN/KO opinion and memorandum style conventions
+3. Collect evidence using the search protocol above
+4. Run the fact-checker where required
+5. Run the conditional citation audit final pass where required
+6. Generate DOCX following the skill guide and DOCX citation-audit adapter rules
+7. Save to `$GDPR_EXPERT_PRIVATE_DIR` (default: `~/Legal-private/gdpr-expert/opinions`)
 
-**Trigger keywords:** "legal opinion", "opinion letter", "compliance review", "DOCX", "document"
+**Trigger keywords:** "legal opinion", "opinion letter", "memorandum", "memo", "compliance review", "DOCX", "document", "법률 의견서", "메모"
 
 ---
 

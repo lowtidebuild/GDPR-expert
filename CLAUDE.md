@@ -51,6 +51,7 @@ scripts/                      — Data collection/processing scripts
 
 - **Agent**: `.claude/agents/gdpr-agent.md` — Main GDPR expert agent
 - **Fact-Checker**: `.claude/agents/fact-checker/AGENT.md` — Citation verification sub-agent
+- **Citation Auditor**: `.claude/skills/citation-auditor/SKILL.md` and `/audit` — Post-hoc citation audit for Markdown deliverables and conditional memo/opinion final-pass verification
 - **Source Registry**: `index/source-registry.json` — Collection status for all sources
 - **Fetch Script**: `scripts/fetch-eu-legislation.py` — CELLAR REST API collector
 
@@ -68,16 +69,41 @@ No authentication required.
 ## Dependencies
 
 - Python 3.10+ (lxml, requests for future scripts)
+- citation-auditor runtime: `pydantic>=2.0`, `marko>=2.0`
 - markitdown CLI (EDPB PDF conversion)
 - Claude Code (agent execution)
 
 ## Local Drafting Addendum
 
-한국어 법률 분석 메모(Memorandum) 생성 시 반드시 `docs/_private/local-drafting-addendum.md` (로컬 전용, repo에 커밋되지 않음)를 읽고 따를 것. 파일이 없으면 사용자에게 제공 요청.
+문서·메모 작성 시 반드시 공개 가이드 `legal-writing-formatting-guide.md`를 읽고 따를 것. 이 파일은 English/Korean formal drafting conventions, citation density, output-mode conventions, AI-generation notices, and verification-guide requirements를 정의한다.
+
+한국어 문서 작성 시에는 추가로 `docs/_private/local-drafting-addendum.md` (로컬 전용, repo에 커밋되지 않음)를 읽고 따른다. 파일이 없으면 사용자에게 제공 요청.
 
 - 문서 구조, 헤더/정보 블록, 법령 인용 형식, 판례 인용 형식, 정의 용어 관례, 문체/어조, 확신도 표현, 번호 매김, 종결부, 타이포그래피 등 전체 규칙 포함
 - 전문 문서 작성 품질 기준
 - DOCX 생성 시 python-docx CJK 폰트 설정 규칙 포함
+
+## 5) Citation Audit Workflow (GDPR Mapping)
+
+The vendored `citation-auditor` skill refers to "Workflow Step 10." In this GDPR repository, Step 10 means the conditional final-pass citation audit after the built-in fact-checker and before final delivery of any formal opinion, memorandum, DOCX document, or comprehensive analysis.
+
+`citation-auditor` is markdown-native. For `.md` deliverables, use append-mode rendering. For DOCX opinions or memoranda, Step-level audit results must be handed off as aggregated JSON to `scripts/docx_citation_appendix.py`; DOCX generators inject `[Unverified]` / `[Partially Unverified]` tags before embedding body markdown and append the audit-log table immediately before `doc.save(...)`. For other formats, save an audited sidecar `.md` if native integration is unavailable.
+
+### Output Generation Integration
+
+When generating a DOCX opinion or memorandum from Markdown:
+
+1. Import `scripts.docx_citation_appendix` only if an aggregated citation-audit JSON exists for the draft/session.
+2. Before embedding body Markdown into the DOCX, call `inject_unverified_tags(body_md, aggregated)`.
+3. Render the tagged Markdown through the existing DOCX body path.
+4. Immediately before `doc.save(...)`, call `append_citation_audit_log(doc, aggregated)`.
+5. If no aggregated JSON exists, keep the existing DOCX behavior unchanged.
+
+### Output Format Branching
+
+- `.md`: render audited Markdown in append mode.
+- `.docx`: hand off aggregated JSON to the DOCX generator and use `scripts/docx_citation_appendix`.
+- Other formats: write the requested format as usual and save an audited sidecar `.md` when native appendix integration is unavailable.
 
 ## Current Status
 

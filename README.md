@@ -2,6 +2,8 @@
 
 **[English](#gdpr-expert)** · **[한국어](README.ko.md)**
 
+> Latest release: **[v1.3.0 — Citation Audit + DOCX Appendix](docs/RELEASE-v1.3.0.md)**
+
 # GDPR Expert
 
 ### KP Legal Orchestrator · AI-Based EU Data Protection Workflow System
@@ -275,7 +277,7 @@ This structure enables the AI agent to:
 flowchart TD
     Q["<b>User Question</b>"]
 
-    subgraph kb["Step 1-3: Mandatory Search Scope"]
+    subgraph kb["KB Search: Mandatory Source Scope"]
         direction TB
         S1["<b>Article Search</b><br/>Grep 5 legislation directories<br/>+ follow cross_references"]
         S2["<b>Recital Mining</b><br/>For each cited Article,<br/>grep Recitals for that Article number"]
@@ -283,7 +285,7 @@ flowchart TD
         S1 --> S2 --> S3
     end
 
-    subgraph web["Step 4: Multi-Layer Web Search <i>(if KB insufficient)</i>"]
+    subgraph web["Multi-Layer Web Search <i>(if KB insufficient)</i>"]
         direction TB
         L1["<b>Layer 1 Official</b><br/>EUR-Lex · EDPB · CURIA · GDPRhub"]
         L2["<b>Layer 2 Law Firms</b><br/>Major international firms"]
@@ -298,11 +300,13 @@ flowchart TD
         PA <--> PB
     end
 
-    subgraph fc["Step 6: Fact-Check"]
+    subgraph fc["Verification Layer"]
         FC["<b>Fact-Check Sub-Agent</b><br/>Verify every citation<br/>against KB originals"]
+        CA["<b>Citation Audit</b><br/>Append-mode Markdown<br/>DOCX audit appendix"]
+        FC --> CA
     end
 
-    O["<b>Verified Legal Analysis Memo</b><br/>DOCX with citations & risk matrix<br/>Multilingual"]
+    O["<b>Verified Legal Analysis Memo</b><br/>DOCX/Markdown with citations,<br/>risk matrix & audit appendix"]
 
     Q --> kb
     kb --> web
@@ -316,6 +320,7 @@ flowchart TD
     style verify fill:#fef2f2,stroke:#dc2626,stroke-width:1px
     style fc fill:#fff7ed,stroke:#ea580c,stroke-width:1px
     style FC fill:#fed7aa,stroke:#ea580c,color:#9a3412
+    style CA fill:#fed7aa,stroke:#ea580c,color:#9a3412
     style O fill:#d1fae5,stroke:#059669,stroke-width:2px,color:#065f46
     style S1 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
     style S2 fill:#dbeafe,stroke:#3b82f6,color:#1e40af
@@ -336,6 +341,10 @@ flowchart TD
 | `[INSUFFICIENT]` | Not enough evidence — left blank rather than guessed |
 | `[CONTRADICTED]` | Sources conflict — both sides presented |
 
+### Legal Writing Style Guide
+
+Formal opinions and memoranda should follow [`legal-writing-formatting-guide.md`](legal-writing-formatting-guide.md). The guide defines EN/KO opinion architecture, tone, certainty language, citation density, AI-generation notices, verification guides, and output-mode formatting rules.
+
 ---
 
 ## Fact-Check Layer (Hallucination Prevention)
@@ -353,6 +362,23 @@ Before any output is finalized, a **dedicated fact-checker sub-agent** verifies 
 | Web source is trusted | Match against trusted domain list | Downgrade Grade |
 
 **Confidence threshold:** If below 70%, FAIL items are corrected and re-verified before output. Citations affecting core conclusions are withdrawn rather than left unverified.
+
+---
+
+## Citation Audit
+
+The repository includes `citation-auditor`, a post-hoc audit layer for citation-bearing factual claims.
+
+There are two ways to use it:
+
+- **Automatic memo/opinion pass** — for legal opinions, memoranda, DOCX documents, and comprehensive analyses, the agent runs an additional final-pass audit after fact-checking. Markdown outputs receive an appended `Citation Audit Log`; DOCX outputs consume the same aggregated audit JSON through `scripts/docx_citation_appendix.py` and append a styled audit table.
+- **Standalone `/audit` command** — run an audit on any existing Markdown file:
+
+```bash
+/audit path/to/opinion.md
+```
+
+The auditor chunks Markdown, extracts verifiable factual/citation claims, routes them to verifier skills (`eu-law`, `korean-law`, `us-law`, `uk-law`, `scholarly`, `wikipedia`, `general-web`), and renders verdicts as `verified`, `contradicted`, or `unknown`.
 
 ---
 
@@ -445,13 +471,14 @@ GDPR-expert/
 - Python 3.10+
 - `python-docx` (`pip install python-docx`)
 - `markitdown` (for PDF ingestion: `pip install markitdown`)
+- citation-auditor dependencies (`pip install -r requirements.txt`)
 
 ### Setup
 
 ```bash
 git clone https://github.com/lowtidebuild/GDPR-expert.git
 cd GDPR-expert
-pip install python-docx markitdown
+pip install -r requirements.txt python-docx markitdown
 ```
 
 ### Refresh Legislation Data
