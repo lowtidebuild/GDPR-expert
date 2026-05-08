@@ -527,18 +527,25 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ## Part of KP Legal Orchestrator
 
-This agent is part of the **KP Legal Orchestrator** series of specialized legal workflow agents:
+This agent is part of the **KP Legal Orchestrator** series of specialized legal workflow agents.
+
+> [!NOTE]
+> Two consolidations as of 2026-05-08:
+> - GDPR-expert + PIPA-expert + California → **`data-protection-agent`** (this repo is now superseded)
+> - general-legal-research + game-legal-research → **`legal-research-agent`**
 
 | Agent | Public Role | Focus |
 |-------|-------------|-------|
-| [game-legal-research](https://github.com/kipeum86/game-legal-research) | Game Industry Specialist | Game industry law research |
+| **[data-protection-agent](https://github.com/kipeum86/data-protection-agent)** | **Unified Privacy Specialist** *(supersedes this repo)* | **EU GDPR · Korea PIPA · California CCPA** |
+| [legal-research-agent](https://github.com/kipeum86/legal-research-agent) | General + Game Legal Research Specialist | Broad legal research and game-industry regulation |
 | [legal-translation-agent](https://github.com/kipeum86/legal-translation-agent) | Legal Translation Specialist | Legal translation workflows |
-| [general-legal-research](https://github.com/kipeum86/general-legal-research) | General Legal Research Specialist | Broad legal research |
-| [PIPA-expert](https://github.com/kipeum86/PIPA-expert) | Privacy Law Specialist | Korean privacy law |
-| **[GDPR-expert](https://github.com/kipeum86/GDPR-expert)** | **EU Data Protection Specialist** | **GDPR, ePrivacy, AI Act, and DGA analysis** |
 | [contract-review-agent](https://github.com/kipeum86/contract-review-agent) | Contract Review Specialist | Contract analysis |
 | [legal-writing-agent](https://github.com/kipeum86/legal-writing-agent) | Legal Drafting Specialist | Drafting and redline workflows |
 | [second-review-agent](https://github.com/kipeum86/second-review-agent) | Senior Review Specialist | Second-pass review and QA |
+| ~~GDPR-expert~~ | ~~EU Data Protection Specialist~~ | *Superseded by `data-protection-agent` (this repo)* |
+| ~~PIPA-expert~~ | ~~Korean Privacy Specialist~~ | *Superseded by `data-protection-agent`* |
+| ~~general-legal-research~~ | ~~General Legal Research Specialist~~ | *Superseded by `legal-research-agent`* |
+| ~~game-legal-research~~ | ~~Game Industry Specialist~~ | *Superseded by `legal-research-agent`* |
 
 ---
 

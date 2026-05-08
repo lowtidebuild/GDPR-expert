@@ -491,18 +491,25 @@ claude --agent .claude/agents/gdpr-agent.md
 
 ## KP Legal Orchestrator
 
-**KP Legal Orchestrator** 소속 전문 법률 워크플로우 에이전트 시리즈:
+**KP Legal Orchestrator** 소속 전문 법률 워크플로우 에이전트 시리즈.
+
+> [!NOTE]
+> 2026년 5월 8일자로 두 차례 통합:
+> - GDPR-expert + PIPA-expert + California → **`data-protection-agent`** (이 레포는 superseded)
+> - general-legal-research + game-legal-research → **`legal-research-agent`**
 
 | 에이전트 | 공개 역할 | 담당 영역 |
 |---------|-----------|-----------|
-| [game-legal-research](https://github.com/kipeum86/game-legal-research) | 게임 산업법 스페셜리스트 | 게임 산업법 리서치 |
+| **[data-protection-agent](https://github.com/kipeum86/data-protection-agent)** | **통합 개인정보 스페셜리스트** *(이 레포의 후신)* | **EU GDPR · 한국 PIPA · 캘리포니아 CCPA** |
+| [legal-research-agent](https://github.com/kipeum86/legal-research-agent) | 일반 + 게임 법률 리서치 스페셜리스트 | 범용 법률 조사 및 게임 산업 규제 |
 | [legal-translation-agent](https://github.com/kipeum86/legal-translation-agent) | 법률 번역 스페셜리스트 | 법률 번역 워크플로우 |
-| [general-legal-research](https://github.com/kipeum86/general-legal-research) | 일반 법률 리서치 스페셜리스트 | 범용 법률 조사 |
-| [PIPA-expert](https://github.com/kipeum86/PIPA-expert) | 개인정보 스페셜리스트 | 국내 개인정보보호법 분석 |
-| **[GDPR-expert](https://github.com/kipeum86/GDPR-expert)** | **EU 데이터 보호 스페셜리스트** | **GDPR, ePrivacy, AI Act, DGA 분석** |
 | [contract-review-agent](https://github.com/kipeum86/contract-review-agent) | 계약 검토 스페셜리스트 | 계약 분석 |
 | [legal-writing-agent](https://github.com/kipeum86/legal-writing-agent) | 법률 작성 스페셜리스트 | 드래프팅 및 레드라인 워크플로우 |
 | [second-review-agent](https://github.com/kipeum86/second-review-agent) | 시니어 리뷰 스페셜리스트 | 2차 검토 및 QA |
+| ~~GDPR-expert~~ | ~~EU 데이터 보호 스페셜리스트~~ | *`data-protection-agent` 로 통합 (이 레포)* |
+| ~~PIPA-expert~~ | ~~개인정보 스페셜리스트~~ | *`data-protection-agent` 로 통합* |
+| ~~general-legal-research~~ | ~~일반 법률 리서치 스페셜리스트~~ | *`legal-research-agent` 로 통합* |
+| ~~game-legal-research~~ | ~~게임 산업법 스페셜리스트~~ | *`legal-research-agent` 로 통합* |
 
 ---
 
