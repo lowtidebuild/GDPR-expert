@@ -4,6 +4,15 @@
 
 > Latest release: **[v1.3.0 — Citation Audit + DOCX Appendix](docs/RELEASE-v1.3.0.md)**
 
+</div>
+
+> [!IMPORTANT]
+> **공지 — 2026년 5월 8일자로**, EU GDPR (`GDPR-expert`) 및 한국 PIPA (`PIPA-expert`) specialist 에이전트가 통합 cross-jurisdictional 개인정보 리서치 에이전트인 **[`data-protection-agent`](https://github.com/kipeum86/data-protection-agent)** 로 합쳐졌습니다 (캘리포니아 CCPA-as-amended-by-CPRA sub-KB 신규 추가 포함). 다중 법역 개인정보 질문을 두 단일 법역 specialist 에 dispatch 하면 토큰이 두 번 청구되고 두 개 메모를 손으로 reconcile 해야 했고, 캘리포니아 specialist 는 아예 없었습니다. 통합 에이전트는 이를 한 번의 dispatch 로 처리하며, 국경 너머 권위 혼용을 잡는 cross-jurisdictional 인용 감사기를 추가합니다.
+>
+> **이 레포 (`GDPR-expert`) 는 EU GDPR 지식베이스의 source-of-truth 로 유지됩니다** — 통합 에이전트가 매 refresh 마다 re-import — 그리고 EU 개인정보법 변화에 따른 KB-level 업데이트는 계속 받습니다. **사용자-facing 응답 파이프라인, 출력 렌더러 (DOCX / HTML 법률 의견서), cross-jurisdictional 기능의 active 개발은 이제 `data-protection-agent` 에서 이루어집니다.** 전체 launch narrative 는 [v1.0.0 release notes](https://github.com/kipeum86/data-protection-agent/releases/tag/v1.0.0) 참조.
+
+<div align="center">
+
 # GDPR Expert
 
 ### KP Legal Orchestrator · AI 기반 EU 데이터 보호 워크플로우 시스템
@@ -433,16 +442,17 @@ library/inbox/    <-- 아무 파일이나 드롭 (PDF, DOCX, HTML 등)
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) CLI
 - Python 3.10+
-- `python-docx` (`pip install python-docx`)
-- `markitdown` (PDF ingest용: `pip install markitdown`)
-- citation-auditor 의존성 (`pip install -r requirements.txt`)
+- 런타임 의존성 (`pip install -r requirements.txt`)
+- `markitdown` (선택, PDF ingest용: `pip install markitdown`)
 
 ### 설치
 
 ```bash
 git clone https://github.com/kipeum86/GDPR-expert.git
 cd GDPR-expert
-pip install -r requirements.txt python-docx markitdown
+pip install -r requirements.txt -r requirements-dev.txt
+# 선택 사항, PDF ingest가 필요할 때만:
+pip install markitdown
 ```
 
 ### 법령 데이터 갱신

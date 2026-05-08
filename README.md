@@ -4,6 +4,15 @@
 
 > Latest release: **[v1.3.0 — Citation Audit + DOCX Appendix](docs/RELEASE-v1.3.0.md)**
 
+</div>
+
+> [!IMPORTANT]
+> **Heads up — as of 2026-05-08**, the EU GDPR (`GDPR-expert`) and Korea PIPA (`PIPA-expert`) specialist agents have been folded into a unified cross-jurisdictional privacy research agent at **[`data-protection-agent`](https://github.com/kipeum86/data-protection-agent)**, together with a newly added California (CCPA-as-amended-by-CPRA) sub-KB. Routing a multi-jurisdiction privacy question to two single-jurisdiction specialists meant two token-billed runs producing two memos to reconcile by hand — and California had no specialist at all. The unified agent collapses that into a single dispatch and adds a cross-jurisdictional citation auditor that catches authority-blending across borders.
+>
+> **This repo (`GDPR-expert`) remains the source-of-truth for the EU GDPR knowledge base** — the unified agent re-imports it on every refresh — and continues to receive KB-level updates as EU privacy law evolves. **Active development of the user-facing answering pipeline, output renderers (DOCX / HTML legal opinion), and cross-jurisdictional features now happens on `data-protection-agent`.** See the [v1.0.0 release notes](https://github.com/kipeum86/data-protection-agent/releases/tag/v1.0.0) for the full launch narrative.
+
+<div align="center">
+
 # GDPR Expert
 
 ### KP Legal Orchestrator · AI-Based EU Data Protection Workflow System
@@ -469,16 +478,17 @@ GDPR-expert/
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) CLI
 - Python 3.10+
-- `python-docx` (`pip install python-docx`)
-- `markitdown` (for PDF ingestion: `pip install markitdown`)
-- citation-auditor dependencies (`pip install -r requirements.txt`)
+- Runtime dependencies (`pip install -r requirements.txt`)
+- `markitdown` (optional, for PDF ingestion: `pip install markitdown`)
 
 ### Setup
 
 ```bash
 git clone https://github.com/kipeum86/GDPR-expert.git
 cd GDPR-expert
-pip install -r requirements.txt python-docx markitdown
+pip install -r requirements.txt -r requirements-dev.txt
+# Optional, only when ingesting PDFs:
+pip install markitdown
 ```
 
 ### Refresh Legislation Data
