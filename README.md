@@ -7,9 +7,11 @@
 </div>
 
 > [!IMPORTANT]
-> **Heads up — as of 2026-05-08**, the EU GDPR (`GDPR-expert`) and Korea PIPA (`PIPA-expert`) specialist agents have been folded into a unified cross-jurisdictional privacy research agent at **[`data-protection-agent`](https://github.com/kipeum86/data-protection-agent)**, together with a newly added California (CCPA-as-amended-by-CPRA) sub-KB. Routing a multi-jurisdiction privacy question to two single-jurisdiction specialists meant two token-billed runs producing two memos to reconcile by hand — and California had no specialist at all. The unified agent collapses that into a single dispatch and adds a cross-jurisdictional citation auditor that catches authority-blending across borders.
+> **As of 2026-05-08, this repo has been superseded by [`data-protection-agent`](https://github.com/kipeum86/data-protection-agent) — please use that going forward.**
 >
-> **This repo (`GDPR-expert`) remains the source-of-truth for the EU GDPR knowledge base** — the unified agent re-imports it on every refresh — and continues to receive KB-level updates as EU privacy law evolves. **Active development of the user-facing answering pipeline, output renderers (DOCX / HTML legal opinion), and cross-jurisdictional features now happens on `data-protection-agent`.** See the [v1.0.0 release notes](https://github.com/kipeum86/data-protection-agent/releases/tag/v1.0.0) for the full launch narrative.
+> The EU GDPR (`GDPR-expert`) and Korea PIPA (`PIPA-expert`) specialist agents have been folded into one unified cross-jurisdictional privacy research agent, together with a newly added California (CCPA-as-amended-by-CPRA) sub-KB. The unified repo collapses cross-jurisdiction questions into a single dispatch (instead of two parallel single-jurisdiction runs), adds a cross-jurisdictional citation auditor that catches authority-blending across borders, and ships polished DOCX / HTML legal-opinion deliverables.
+>
+> This repo is preserved for historical reference and continuity of any external links; **all future development — KB updates, auditor checks, output renderers, the answering pipeline — happens on [`data-protection-agent`](https://github.com/kipeum86/data-protection-agent)**. See the [v1.0.0 release notes](https://github.com/kipeum86/data-protection-agent/releases/tag/v1.0.0) for the full launch narrative.
 
 <div align="center">
 
