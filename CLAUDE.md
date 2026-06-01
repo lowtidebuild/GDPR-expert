@@ -73,14 +73,14 @@ No authentication required.
 - markitdown CLI (EDPB PDF conversion)
 - Claude Code (agent execution)
 
-## Korean Legal Opinion Style Guide
+## Local Drafting Addendum
 
-의견서·메모(Memorandum) 생성 시 반드시 공개 가이드 `legal-writing-formatting-guide.md`를 읽고 따를 것. 이 파일은 English/Korean formal legal opinion and memorandum style, citation density, output-mode conventions, AI-generation notices, and verification-guide requirements를 정의한다.
+문서·메모 작성 시 반드시 공개 가이드 `legal-writing-formatting-guide.md`를 읽고 따를 것. 이 파일은 English/Korean formal drafting conventions, citation density, output-mode conventions, AI-generation notices, and verification-guide requirements를 정의한다.
 
-한국어 법률 분석 메모 생성 시에는 추가로 `docs/_private/ko-legal-opinion-style-guide.md` (로컬 전용, repo에 커밋되지 않음)를 읽고 따른다. 파일이 없으면 사용자에게 제공 요청.
+한국어 문서 작성 시에는 추가로 `docs/_private/local-drafting-addendum.md` (로컬 전용, repo에 커밋되지 않음)를 읽고 따른다. 파일이 없으면 사용자에게 제공 요청.
 
 - 문서 구조, 헤더/정보 블록, 법령 인용 형식, 판례 인용 형식, 정의 용어 관례, 문체/어조, 확신도 표현, 번호 매김, 종결부, 타이포그래피 등 전체 규칙 포함
-- 한국 법률 업무에 맞춘 전문 형식 메모 품질 기준
+- 전문 문서 작성 품질 기준
 - DOCX 생성 시 python-docx CJK 폰트 설정 규칙 포함
 
 ## 5) Citation Audit Workflow (GDPR Mapping)

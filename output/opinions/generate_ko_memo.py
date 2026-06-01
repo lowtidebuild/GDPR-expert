@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate Korean legal analysis memo DOCX following ko-legal-opinion-style-guide.md.
+Generate Korean legal analysis memo DOCX following local-drafting-addendum.md.
 
 Style: Korean professional-format legal analysis memo.
 Font: 맑은 고딕 (CJK) + Times New Roman (Latin), 11pt.
