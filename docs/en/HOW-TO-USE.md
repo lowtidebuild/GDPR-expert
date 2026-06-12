@@ -26,14 +26,14 @@ You need a local copy of this project on your computer.
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/kipeum86/GDPR-expert.git
+git clone https://github.com/lowtidebuild/GDPR-expert.git
 ```
 
 This creates a `GDPR-expert` folder with all the legal data and agent files.
 
 ### If you don't have Git
 
-1. Go to [the GDPR-expert repository page](https://github.com/kipeum86/GDPR-expert)
+1. Go to [the GDPR-expert repository page](https://github.com/lowtidebuild/GDPR-expert)
 2. Click the green **"Code"** button
 3. Click **"Download ZIP"**
 4. Unzip the downloaded file to a folder of your choice (e.g., `Documents/GDPR-expert`)

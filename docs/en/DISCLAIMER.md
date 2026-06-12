@@ -4,7 +4,7 @@
 
 ## Personal Project
 
-This is an **independent, personal project** by Kipeum Lee. It is not sponsored, endorsed, or affiliated with any law firm, employer, organization, or EU institution. All opinions, design decisions, and content are solely my own.
+This is an **independent, personal project** by lowtidebuild. It is not sponsored, endorsed, or affiliated with any law firm, employer, organization, or EU institution. All opinions, design decisions, and content are solely my own.
 
 ## Not Legal Advice
 

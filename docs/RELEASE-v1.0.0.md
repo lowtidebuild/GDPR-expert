@@ -37,7 +37,7 @@ A B2B SaaS processor wants to fine-tune an LLM on client data — can they rely 
 ## Quick Start
 
 ```bash
-git clone https://github.com/kipeum86/GDPR-expert.git
+git clone https://github.com/lowtidebuild/GDPR-expert.git
 cd GDPR-expert
 pip install python-docx markitdown
 claude --agent .claude/agents/gdpr-agent.md

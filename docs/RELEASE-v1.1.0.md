@@ -78,7 +78,7 @@ An internal quality audit playbook documents this process for reuse.
 ## Quick Start
 
 ```bash
-git clone https://github.com/kipeum86/GDPR-expert.git
+git clone https://github.com/lowtidebuild/GDPR-expert.git
 cd GDPR-expert
 pip install python-docx markitdown
 claude --agent .claude/agents/gdpr-agent.md
